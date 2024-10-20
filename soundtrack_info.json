@@ -2098,13 +2098,13 @@
         "uniqueId": "rN0fIoR0ggXJRzhxaXZbBGQYqYuIrnsm8ruys29zdtb2bPXBZv40b15QxGpqpd0t",
         "tjaFolderPath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams",
         "tjaFilesPath": [
-            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\uniqueID.json",
-            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~.ogg",
-            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~.tja"
+            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.ogg",
+            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.tja",
+            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "c86cdc964aab1bea044a1641459493e6",
-        "chartSize": 0.01,
+        "tjaMD5": "a86fa3a9c2569a9c09f454c7c4cc039b",
+        "chartSize": 6.18,
         "chartTitle": "Resentment ~The Whittling of Fragmented Dreams~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
@@ -2121,7 +2121,7 @@
             "Easy": "Komi",
             "Oni": "Taichenko"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~.ogg",
+        "chartAudioFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Edit": 7
@@ -4437,7 +4437,7 @@
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
         "tjaMD5": "7776ef1d8bf1a60113f99182d1e314bf",
-        "chartSize": 0.22,
+        "chartSize": 8.59,
         "chartTitle": "Rainy Night ~Dispelled~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
@@ -4467,7 +4467,7 @@
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
         "tjaMD5": "dc773101b4bac2ddf03131498ba61ca0",
-        "chartSize": 0.22,
+        "chartSize": 8.9,
         "chartTitle": "Rainy Night ~Dream Fantasy~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
@@ -4527,7 +4527,7 @@
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
         "tjaMD5": "925d3df77ba0cb2c5966099e75f06b89",
-        "chartSize": 0.29,
+        "chartSize": 10.91,
         "chartTitle": "Rainy Night II ~Forest of Lost Trust~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {

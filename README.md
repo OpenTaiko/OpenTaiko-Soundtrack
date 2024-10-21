@@ -154,8 +154,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 147 - Starlight Traveler (Game Edit) : Sukima Altera - https://yokaicore.bandcamp.com/album/starlight-traveler (Chart by sadkay)
 148 - tiny windows : Frizk x Tanger - https://linktr.ee/Tangermusic https://linktr.ee/frizkfur (Chart by sadkay)
 149 - ∀NARCHIC LIGHT : roər - SC ➜ https://soundcloud.com/rroer TW ➜ https://twitter.com/roerdtm YT ➜ https://www.youtube.com/@roer-music (Chart by DiamondN1nja)
-150 - Miracle☆Castle : ぴれんどらー & roər (Chart by bol, Komi)
-151 - 
+150 - Miracle☆Castle : ぴれんどらー & roər https://soundcloud.com/rroer https://soundcloud.com/pirendora (Chart by bol, Komi)
+151 - ジュウゴヤライダー : FALL (エレラビッツ) https://www.likeside.net/ (Chart by Colin)
 152 - nante kotta?! : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)
 ```
 

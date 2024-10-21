@@ -3720,6 +3720,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "15NIGhtriderfaLLELERAbBITs",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.ogg",
+            "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.tja",
+            "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.vtt",
+            "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "1c5a3546030c9874b5cd0a45a06146e9",
+        "chartSize": 3.51,
+        "chartTitle": "15 NIGHT RIDER",
+        "chartSubtitle": "FALL (ELE-RabBits)",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 4,
+            "Hard": 5,
+            "Oni": 8
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "nanTekotTaMAkotoRa",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\152 - nante kotta",
         "tjaFilesPath": [

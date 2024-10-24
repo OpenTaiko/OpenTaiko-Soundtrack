@@ -3518,12 +3518,12 @@
             "04 OpenTaiko Chapter IV\\144 - i'll be there\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "ed31b34a752fc45b6efecae67bcab96b",
+        "tjaMD5": "5ce3bc8b66f9ad4c3e3b2379c913c250",
         "chartSize": 5.94,
         "chartTitle": "i'll be there",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
-            "Oni": 10.5,
+            "Oni": 10.6,
             "Hard": 7,
             "Normal": 7,
             "Easy": 5
@@ -3759,12 +3759,12 @@
             "04 OpenTaiko Chapter IV\\152 - nante kotta\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "76c3f49b8f3ae378b24e786cba675460",
+        "tjaMD5": "9eecaadfed2eed2d654bbae8fef3e5a1",
         "chartSize": 3.56,
         "chartTitle": "nante kotta?!",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 10,
+            "Edit": 10.4,
             "Oni": 9,
             "Hard": 7,
             "Normal": 5,
@@ -3779,6 +3779,37 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "toKyOrhyTHmNO524fALl",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.ogg",
+            "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.tja",
+            "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "9277f48610fb13f92110eb74ee09b716",
+        "chartSize": 1.52,
+        "chartTitle": "TOKYO-RHYTHM No.524",
+        "chartSubtitle": "FALL",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 4,
+            "Edit": 8
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja",
+            "Edit": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

@@ -158,6 +158,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 151 - ジュウゴヤライダー : FALL (エレラビッツ) https://www.likeside.net/ (Chart by Colin)
 152 - nante kotta?! : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)
 153 - TOKYO-RHYTHM No.524 : フォ㍊ a.k.a FALL https://www.likeside.net/ (Chart by DiamondN1nja, DragonRatTiger)
+154 - Stormrider's Bolt : H5 - https://linktr.ee/H5Music (Chart by H5, Komi)
 ```
 
 ### Visuals

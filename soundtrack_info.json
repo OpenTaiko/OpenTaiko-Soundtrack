@@ -3813,6 +3813,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "StoRmridErSBolTH5",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\154 - Stormrider's Bolt",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\154 - Stormrider's Bolt\\Stormrider's Bolt.ogg",
+            "04 OpenTaiko Chapter IV\\154 - Stormrider's Bolt\\Stormrider's Bolt.tja",
+            "04 OpenTaiko Chapter IV\\154 - Stormrider's Bolt\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "d86aaa376525d9d2d8f0b88baf554705",
+        "chartSize": 1.7,
+        "chartTitle": "Stormrider's Bolt",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "H5",
+            "Hard": "Komi,H5",
+            "Normal": "Komi,H5",
+            "Easy": "Komi,H5"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\154 - Stormrider's Bolt\\Stormrider's Bolt.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

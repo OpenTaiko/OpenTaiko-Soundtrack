@@ -2865,21 +2865,23 @@
             "03 OpenTaiko Chapter III\\119 - Fractured Eternity\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "44cc85580f393388e106b6087942ac09",
-        "chartSize": 26.09,
+        "tjaMD5": "ba34a805bf3032731c1d0cce649b192f",
+        "chartSize": 26.11,
         "chartTitle": "Fractured Eternity",
         "chartSubtitle": "ro\u0259r & Toneix",
         "chartDifficulties": {
             "Easy": 6,
             "Hard": 9,
             "Normal": 8,
-            "Oni": 12.9
+            "Oni": 11.5,
+            "Edit": 12.9
         },
         "chartMakers": {
             "Easy": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",
-            "Oni": "bol"
+            "Oni": "bol",
+            "Edit": "bol"
         },
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\119 - Fractured Eternity\\Fractured Eternity.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\119 - Fractured Eternity\\Fractured Eternity.png",

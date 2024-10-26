@@ -1070,6 +1070,36 @@
         }
     },
     {
+        "uniqueId": "weAREOptkdashYdeSu2022suBMiSSIoNMEMORialMedLEy",
+        "tjaFolderPath": "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\OpTkMedley.ogg",
+            "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\OpTkMedleyAD.tja",
+            "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\preimage.png",
+            "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "8d315fb1565f9cb29de195e335d83bfe",
+        "chartSize": 5.76,
+        "chartTitle": "WE ARE OPTK!!",
+        "chartSubtitle": "DashyDesu / 2022 Submission Memorial Medley",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Chapter I Megamix",
+            "Hard": "Chapter I Megamix",
+            "Normal": "Chapter I Megamix",
+            "Easy": "Chapter I Megamix"
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\OpTkMedley.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\preimage.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "4XnCmly8kpwE6X2GQYD47356lDCexuTzEJXdouwiNCIo4dVYlq5dm4TIySWm2IVD",
         "tjaFolderPath": "02 OpenTaiko Chapter II\\045 - Nanja Korya",
         "tjaFilesPath": [

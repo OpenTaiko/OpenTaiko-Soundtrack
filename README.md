@@ -157,8 +157,10 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 150 - Miracle☆Castle : ぴれんどらー & roər https://soundcloud.com/rroer https://soundcloud.com/pirendora (Chart by bol, Komi)
 151 - ジュウゴヤライダー : FALL (エレラビッツ) https://www.likeside.net/ (Chart by Colin)
 152 - nante kotta?! : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)
-153 - TOKYO-RHYTHM No.524 : フォ㍊ a.k.a FALL https://www.likeside.net/ (Chart by DiamondN1nja, DragonRatTiger)
+153 - TOKYO-RHYTHM No.524 : フォ㍊ a.k.a FALL - https://www.likeside.net/ (Chart by DiamondN1nja, DragonRatTiger)
 154 - Stormrider's Bolt : H5 - https://linktr.ee/H5Music (Chart by H5, Komi)
+155 - Music for Life : FALL feat. elu_amaga - https://www.likeside.net/ (Chart by Komi)
+156 - Wild Water : Ardolf - https://soundcloud.com/ardolf_music (Chart by berdstep, DiamondN1nja)
 ```
 
 ### Visuals

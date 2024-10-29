@@ -3756,13 +3756,14 @@
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER",
         "tjaFilesPath": [
             "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.ogg",
+            "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.png",
             "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.tja",
             "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.vtt",
             "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "1c5a3546030c9874b5cd0a45a06146e9",
-        "chartSize": 3.51,
+        "tjaMD5": "ec6d7f6afec89643d0de3e798a732a43",
+        "chartSize": 3.63,
         "chartTitle": "15 NIGHT RIDER",
         "chartSubtitle": "FALL (ELE-RabBits)",
         "chartDifficulties": {
@@ -3778,7 +3779,7 @@
             "Oni": "Colin"
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.png",
         "chartHoFRanks": {}
     },
     {
@@ -3818,12 +3819,13 @@
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524",
         "tjaFilesPath": [
             "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.ogg",
+            "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.png",
             "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.tja",
             "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "9277f48610fb13f92110eb74ee09b716",
-        "chartSize": 1.52,
+        "tjaMD5": "6e31e6521f7aee7c311a3433c390baad",
+        "chartSize": 1.53,
         "chartTitle": "TOKYO-RHYTHM No.524",
         "chartSubtitle": "FALL",
         "chartDifficulties": {
@@ -3841,7 +3843,7 @@
             "Edit": "DragonRatTiger"
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.png",
         "chartHoFRanks": {}
     },
     {
@@ -3871,6 +3873,68 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\154 - Stormrider's Bolt\\Stormrider's Bolt.ogg",
         "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "mUSicfORLIFefaLLfEaTELUaMAGa",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\155 - Music for Life",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\155 - Music for Life\\Music for Life.ogg",
+            "04 OpenTaiko Chapter IV\\155 - Music for Life\\Music for Life.png",
+            "04 OpenTaiko Chapter IV\\155 - Music for Life\\Music for Life.tja",
+            "04 OpenTaiko Chapter IV\\155 - Music for Life\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "bdbac0ff209536422cda3de91059160c",
+        "chartSize": 2.88,
+        "chartTitle": "Music for Life",
+        "chartSubtitle": "FALL feat. elu_amaga",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Edit": 7,
+            "Hard": 3,
+            "Normal": 2,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Edit": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\155 - Music for Life\\Music for Life.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\155 - Music for Life\\Music for Life.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "wILDWAtERarDoLf",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\156 - Wild water",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\156 - Wild water\\uniqueId.json",
+            "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.jpg",
+            "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.ogg",
+            "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.tja"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "c7053fbfac7f5d949050d8fd35e5d3c2",
+        "chartSize": 3.78,
+        "chartTitle": "Wild Water",
+        "chartSubtitle": "Ardolf",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "berdstep",
+            "Hard": "DiamondN1nja",
+            "Normal": "berdstep",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.jpg",
         "chartHoFRanks": {}
     },
     {

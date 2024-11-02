@@ -4861,6 +4861,36 @@
         }
     },
     {
+        "uniqueId": "rainYtEARTAichENkO",
+        "tjaFolderPath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear",
+        "tjaFilesPath": [
+            "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
+            "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.ogg",
+            "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.tja",
+            "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "c477de79072a86a599bb92fecd42091b",
+        "chartSize": 9.53,
+        "chartTitle": "Rainy Tear",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "optkhq01matsuri",
         "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ01 - 135 - Matsuri Jiken",
         "tjaFilesPath": [

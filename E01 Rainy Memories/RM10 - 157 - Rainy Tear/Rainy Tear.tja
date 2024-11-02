@@ -1,0 +1,4705 @@
+﻿TITLE:Rainy Tear
+TITLEZH:雨泪
+SUBTITLE:--Taichenko
+BPM:87
+WAVE:Rainy Tear.ogg
+PREIMAGE:Rainy Tear.jpg
+OFFSET:0
+DEMOSTART:44.1379
+MAKER:Taichenko
+
+COURSE:Oni
+LEVEL:10.7
+SCOREINIT:
+SCOREDIFF:
+
+#HBSCROLL
+#START
+3,
+20020202,
+1,
+1020,
+3,
+2000200200212212,
+1,
+200000000000000000000000
+#LYRIC SPEED UP↑
+000
+#LYRIC
+000
+#LYRIC SPEED UP↑
+000
+#LYRIC
+000
+#LYRIC SPEED UP↑
+220
+#LYRIC
+000
+#LYRIC SPEED UP↑
+000
+#LYRIC
+000,
+#BPMCHANGE 174
+3011101020002222,
+12102010,
+1011101020001020,
+1011101040004010,
+1011101020000022,
+12102010,
+1011101020000020,
+1022101040000000,
+3011101020002222,
+12102010,
+1011101020001020,
+1011101040004010,
+1011102010201022,
+1011102010221020,
+1111201012112010,
+#MEASURE 2/4
+11112211,
+#MEASURE 1/24
+#SCROLL 2
+4,
+#SCROLL 1.91667
+0,
+#SCROLL 1.83333
+0,
+#SCROLL 1.75
+0,
+#SCROLL 1.66667
+0,
+#SCROLL 1.58333
+0,
+#SCROLL 1.5
+0,
+#SCROLL 1.41667
+0,
+#SCROLL 1.33333
+0,
+#SCROLL 1.25
+0,
+#BARLINEOFF
+#SCROLL 1.16667
+0,
+#SCROLL 1.08333
+0,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+1011201020102011,
+1010201020102210,
+1011201020102011,
+1010201020112210,
+1011201020102011,
+1010201020102210,
+1011201020102011,
+1121
+#JPOSSCROLL 0.2 750 1
+4000,
+#SCROLL -1
+1011201020102011,
+1010201020102210,
+1011201020102011,
+1010201020112210,
+1011201020102011,
+1010201020102210,
+1201221012012210,
+#LYRIC SLOW DOWN↓
+11
+#LYRIC
+11
+#LYRIC SLOW DOWN↓
+22
+#LYRIC
+22
+#JPOSSCROLL 0.5 -750 1
+#LYRIC SLOW DOWN↓
+00
+#LYRIC
+00
+#LYRIC SLOW DOWN↓
+00
+#LYRIC
+00,
+#BPMCHANGE 87
+#SCROLL 1
+30000010200010000010100020020000,
+10000010200200200010100020001000,
+10000010200200200010100020020000,
+10000010200200201020100040000000,
+30000010201000201011201020010210,
+10201022102000201020100040004030,
+#SCROLL 1
+3022
+#SCROLL 1.42857
+3020
+#SCROLL 1.85714
+3022
+#SCROLL 2.28571
+3220,
+#SCROLL 2.71429
+3020
+#SCROLL 2.92857
+3020
+#SCROLL 3.14286
+3020
+#SCROLL 3.35714
+3020
+#SCROLL 3.57143
+#LYRIC SPEED UP↑
+30
+#LYRIC
+30
+#LYRIC SPEED UP↑
+30
+#LYRIC
+30
+#SCROLL 4
+#LYRIC SPEED UP↑
+33
+#LYRIC
+33
+#LYRIC SPEED UP↑
+40
+#LYRIC
+00,
+#GOGOSTART
+#BPMCHANGE 174
+#SCROLL 1.2
+10
+#SCROLL 1.2
+1
+#SCROLL 1.15
+1
+#SCROLL 1.1
+20
+#SCROLL 1.2
+1
+#SCROLL 1.2-0.1i
+20
+#SCROLL 1.2+0.1i
+2
+#SCROLL 1.2
+1020
+#SCROLL 1.2
+2
+#SCROLL 1.15
+2,
+#SCROLL 1.1
+10
+#SCROLL 1.2
+1
+#SCROLL 1.2+0.1i
+20
+#SCROLL 1.2
+10
+#SCROLL 1.2-0.1i
+2
+#SCROLL 1.2
+10
+#SCROLL 1.2
+2
+#SCROLL 1.15
+2
+#SCROLL 1.1
+1
+#SCROLL 1.05
+2
+#SCROLL 1
+10,
+#SCROLL 1.2
+102
+#SCROLL 1.15
+1
+#SCROLL 1.1
+20
+#SCROLL 1.2
+12
+#SCROLL 1.1
+1
+#SCROLL 1.2
+1
+#SCROLL 1.3
+1
+#SCROLL 1.2
+21020,
+102020100100200100200200100200100100202020202020,
+#SCROLL 1.2
+10
+#SCROLL 1.2
+1
+#SCROLL 1.15
+1
+#SCROLL 1.1
+20
+#SCROLL 1.2
+1
+#SCROLL 1.2-0.1i
+20
+#SCROLL 1.2+0.1i
+2
+#SCROLL 1.2
+1020
+#SCROLL 1.2
+2
+#SCROLL 1.15
+2,
+#SCROLL 1.1
+1
+#SCROLL 1.10833+0.05i
+1
+#SCROLL 1.14394+0.1i
+2
+#SCROLL 1.17955+0.05i
+1
+#SCROLL 1.21515
+1
+#SCROLL 1.25076-0.06i
+2
+#SCROLL 1.28636-0.12i
+1
+#SCROLL 1.32197-0.06i
+1
+#SCROLL 1.35758
+2
+#SCROLL 1.39318+0.065i
+1
+#SCROLL 1.42879+0.13i
+1
+#SCROLL 1.46439+0.065i
+2
+#SCROLL 1.5
+10
+#SCROLL 1.4
+2
+#SCROLL 1.3
+2,
+#SCROLL 1.2
+1
+#SCROLL 2+0.5i
+100
+#SCROLL 1.2
+10102
+#SCROLL 2-0.5i
+100
+#SCROLL 1.2
+10201
+#SCROLL 2+0.5i
+100
+#SCROLL 1.2
+10102
+#SCROLL 2-0.5i
+100
+#SCROLL 1.2
+2020,
+#MEASURE 2/4
+102020100100200100200200,
+#GOGOEND
+#BPMCHANGE -348
+#MEASURE -2/4
+100000000000,
+#BPMCHANGE 348
+#MEASURE 2/4
+000000000000,
+#GOGOSTART
+#MEASURE 4/4
+#BPMCHANGE 174
+#SCROLL 1.2
+10
+#SCROLL 1.2
+1
+#SCROLL 1.15
+1
+#SCROLL 1.1
+20
+#SCROLL 1.2
+1
+#SCROLL 1.2-0.1i
+20
+#SCROLL 1.2+0.1i
+2
+#SCROLL 1.2
+1020
+#SCROLL 1.2
+2
+#SCROLL 1.15
+2,
+#SCROLL 1.1
+10
+#SCROLL 1.2
+1
+#SCROLL 1.2+0.1i
+20
+#SCROLL 1.2
+10
+#SCROLL 1.2-0.1i
+2
+#SCROLL 1.2
+10
+#SCROLL 1.2
+2
+#SCROLL 1.15
+2
+#SCROLL 1.1
+1
+#SCROLL 1.05
+2
+#SCROLL 1
+10,
+#SCROLL 1.2
+102
+#SCROLL 1.15
+1
+#SCROLL 1.1
+20
+#SCROLL 1.2
+12
+#SCROLL 1.1
+1
+#SCROLL 1.2
+1
+#SCROLL 1.3
+1
+#SCROLL 1.2
+21020,
+102020100100200100200200100200100100202020202020,
+#SCROLL 1.2
+10
+#SCROLL 1.2
+1
+#SCROLL 1.15
+1
+#SCROLL 1.1
+20
+#SCROLL 1.2
+1
+#SCROLL 1.2-0.1i
+20
+#SCROLL 1.2+0.1i
+2
+#SCROLL 1.2
+1020
+#SCROLL 1.2
+2
+#SCROLL 1.15
+2,
+#SCROLL 1.1
+1
+#SCROLL 1.10833+0.05i
+1
+#SCROLL 1.14394+0.1i
+2
+#SCROLL 1.17955+0.05i
+1
+#SCROLL 1.21515
+1
+#SCROLL 1.25076-0.06i
+2
+#SCROLL 1.28636-0.12i
+1
+#SCROLL 1.32197-0.06i
+1
+#SCROLL 1.35758
+2
+#SCROLL 1.39318+0.065i
+1
+#SCROLL 1.42879+0.13i
+1
+#SCROLL 1.46439+0.065i
+2
+#SCROLL 1.5
+10
+#SCROLL 1.4
+2
+#SCROLL 1.3
+2,
+#SCROLL 1.2
+1
+#SCROLL 2+0.5i
+100
+#SCROLL 1.2
+10102
+#SCROLL 2-0.5i
+100
+#SCROLL 1.2
+10201
+#SCROLL 2+0.5i
+100
+#SCROLL 1.2
+10102
+#SCROLL 2-0.5i
+100
+#SCROLL 1.2
+2020,
+#LYRIC SLOW DOWN↓
+102020
+#LYRIC
+100100
+#LYRIC SLOW DOWN↓
+200100
+#LYRIC
+200200
+#LYRIC SLOW DOWN↓
+100000
+#LYRIC
+000000
+#LYRIC SLOW DOWN↓
+000000
+#LYRIC
+000000,
+#MEASURE 1/8
+#GOGOEND
+#BPMCHANGE 87
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+2,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+2,
+#SCROLL 1
+1,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1
+0,
+#SCROLL 1
+2,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+3,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+#LYRIC SPEED UP↑
+1
+#LYRIC
+0,
+#SCROLL 0.933333
+#LYRIC SPEED UP↑
+2
+#LYRIC
+0,
+#SCROLL 0.866667
+#LYRIC SPEED UP↑
+2
+#LYRIC
+0,
+#SCROLL 0.8
+#LYRIC SPEED UP↑
+2
+#LYRIC
+0,
+#MEASURE 4/4
+#BPMCHANGE 174
+#SCROLL 1
+1011201020111120,
+1022201020201000,
+1021201020121120,
+1011201020112210,
+1011201020111120,
+1022201020201000,
+1021201020121120,
+1011201122112000,
+1011201020111120,
+1022201020201000,
+1021201020121120,
+1011201020112210,
+3000102010201022,
+1020102210221120,
+1212112212121122,
+100100100100200200200200101010101010202020202020,
+#MEASURE 1/24
+#SCROLL 1
+1,
+#SCROLL 1.51579
+0,
+#SCROLL 2.03158
+0,
+#SCROLL 2.54737
+0,
+#SCROLL 3.06316
+0,
+#SCROLL 3.57895
+0,
+#SCROLL 4.09474
+0,
+#SCROLL 4.61053
+0,
+#SCROLL 5.12632
+0,
+#SCROLL 5.64211
+0,
+#SCROLL 6.15789
+0,
+#SCROLL 6.67368
+0,
+#SCROLL 7.18947
+0,
+#SCROLL 7.70526
+0,
+#SCROLL 8.22105
+0,
+#SCROLL 8.73684
+0,
+#SCROLL 9.25263
+0,
+#SCROLL 9.76842
+0,
+#SCROLL 10.2842
+0,
+#SCROLL 10.8
+0,
+#SCROLL 11.3158
+0,
+#SCROLL 11.8316
+0,
+#SCROLL 12.3474
+0,
+#SCROLL 12.8632
+0,
+#SCROLL 13.3789
+0,
+#SCROLL 13.8947
+0,
+#SCROLL 14.4105
+0,
+#SCROLL 14.9263
+0,
+#SCROLL 15.4421
+0,
+#SCROLL 15.9579
+0,
+#SCROLL 16.4737
+0,
+#SCROLL 16.9895
+0,
+#SCROLL 17.5053
+0,
+#SCROLL 18.0211
+0,
+#SCROLL 18.5368
+0,
+#SCROLL 19.0526
+0,
+#SCROLL 19.5684
+0,
+#SCROLL 20.0842
+0,
+#SCROLL 20.6
+0,
+#SCROLL 21.1158
+0,
+#SCROLL 21.6316
+0,
+#SCROLL 22.1474
+0,
+#SCROLL 22.6632
+0,
+#SCROLL 23.1789
+0,
+#SCROLL 23.6947
+0,
+#SCROLL 24.2105
+0,
+#SCROLL 24.7263
+0,
+#SCROLL 25.2421
+0,
+#SCROLL 25.7579
+0,
+#SCROLL 26.2737
+0,
+#SCROLL 26.7895
+0,
+#SCROLL 27.3053
+0,
+#SCROLL 27.8211
+0,
+#SCROLL 28.3368
+0,
+#SCROLL 28.8526
+0,
+#SCROLL 29.3684
+0,
+#SCROLL 29.8842
+0,
+#SCROLL 30.4
+0,
+#SCROLL 30.9158
+0,
+#SCROLL 31.4316
+0,
+#SCROLL 31.9474
+0,
+#SCROLL 32.4632
+0,
+#SCROLL 32.9789
+0,
+#SCROLL 33.4947
+0,
+#SCROLL 34.0105
+0,
+#SCROLL 34.5263
+0,
+#SCROLL 35.0421
+0,
+#SCROLL 35.5579
+0,
+#SCROLL 36.0737
+0,
+#SCROLL 36.5895
+0,
+#SCROLL 37.1053
+0,
+#SCROLL 37.6211
+0,
+#SCROLL 38.1368
+0,
+#SCROLL 38.6526
+0,
+#SCROLL 39.1684
+0,
+#SCROLL 39.6842
+0,
+#SCROLL 40.2
+0,
+#SCROLL 40.7158
+0,
+#SCROLL 41.2316
+0,
+#SCROLL 41.7474
+0,
+#SCROLL 42.2632
+0,
+#SCROLL 42.7789
+0,
+#SCROLL 43.2947
+0,
+#SCROLL 43.8105
+0,
+#SCROLL 44.3263
+0,
+#SCROLL 44.8421
+0,
+#SCROLL 45.3579
+0,
+#SCROLL 45.8737
+0,
+#SCROLL 46.3895
+0,
+#SCROLL 46.9053
+0,
+#SCROLL 47.4211
+0,
+#SCROLL 47.9368
+0,
+#SCROLL 48.4526
+0,
+#SCROLL 48.9684
+0,
+#SCROLL 49.4842
+0,
+#SCROLL 50
+0,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 1.2
+1011201122112122,
+1022221022221212,
+1021201120121120,
+1011201112221212,
+1011201122212211,
+1022211022211212,
+1021221211121121,
+211211212221
+#GOGOEND
+2212,
+#GOGOSTART
+1011201222101122,
+1021221021221212,
+1021201120121120,
+1011201112221212,
+1011201121102021,
+1011201221102022,
+1011201122102022,
+111212212112
+#GOGOEND
+1111,
+#GOGOSTART
+#SCROLL 1.2
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night ~夢幻想~
+1
+#SCROLL 1.15
+#LYRIC Rainy Night II
+1
+#SCROLL 1.1
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night III
+1
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+0
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night
+2
+#SCROLL 1.2
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II
+2
+#SCROLL 1.175
+#LYRIC Rainy Night II ~無信の森~
+2
+#SCROLL 1.15
+#LYRIC Rainy Night II ~水凝結~
+2
+#SCROLL 1.125
+#LYRIC Rainy Night III
+2,
+#SCROLL 1.1
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night
+2
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night II ~水凝結~
+1
+#SCROLL 1.2
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night III ~輪回~
+2
+#SCROLL 1.15
+#LYRIC Rainy Night
+2
+#SCROLL 1.1
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II
+1
+#SCROLL 1.15
+#LYRIC Rainy Night II ~無信の森~
+1,
+#SCROLL 1.1
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+2
+#SCROLL 1.15
+#LYRIC Rainy Night III ~輪回~
+1
+#SCROLL 1.1
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night ~夢幻想~
+1
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night II
+2
+#SCROLL 1.2
+#LYRIC Rainy Night II ~無信の森~
+1
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night II ~水凝結~
+2
+#SCROLL 1.2
+#LYRIC Rainy Night III
+1
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night III ~幻虹~
+2
+#SCROLL 1.2
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#SCROLL 1.1
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#SCROLL 1.15
+#LYRIC Rainy Night ~夢幻想~
+2,
+#SCROLL 1.2
+#LYRIC Rainy Night II
+102
+#LYRIC Rainy Night II ~無信の森~
+020
+#LYRIC Rainy Night II ~水凝結~
+100
+#LYRIC Rainy Night III
+100
+#LYRIC Rainy Night III ~幻虹~
+200
+#LYRIC Rainy Night III ~輪回~
+200
+#LYRIC Rainy Night
+100
+#LYRIC Rainy Night ~雲飛霧散~
+200
+#LYRIC Rainy Night ~夢幻想~
+100
+#LYRIC Rainy Night II
+200
+#LYRIC Rainy Night II ~無信の森~
+100
+#LYRIC Rainy Night II ~水凝結~
+100
+#LYRIC Rainy Night III
+202
+#LYRIC Rainy Night III ~幻虹~
+020
+#LYRIC Rainy Night III ~輪回~
+202
+#LYRIC Rainy Night
+020,
+#SCROLL 1.2
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II
+1
+#SCROLL 1.15
+#LYRIC Rainy Night II ~無信の森~
+1
+#SCROLL 1.1
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#SCROLL 1.2
+#LYRIC Rainy Night III ~幻虹~
+1
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#SCROLL 1.2
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night III
+2
+#SCROLL 1.15
+#LYRIC Rainy Night III ~幻虹~
+2,
+#SCROLL 1.1
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#SCROLL 1.2
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night III
+1
+#SCROLL 1.2
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night
+2
+#SCROLL 1.15
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#SCROLL 1.1
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II ~無信の森~
+1
+#SCROLL 1.15
+#LYRIC Rainy Night II ~水凝結~
+2,
+#SCROLL 1.1
+#LYRIC Rainy Night III
+1
+#SCROLL 1.10833+0.05i
+#LYRIC Rainy Night III ~幻虹~
+1
+#SCROLL 1.14394+0.1i
+#LYRIC Rainy Night III ~輪回~
+1
+#SCROLL 1.17955+0.05i
+#LYRIC Rainy Night
+2
+#SCROLL 1.21515
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#SCROLL 1.25076-0.06i
+#LYRIC Rainy Night ~夢幻想~
+2
+#SCROLL 1.28636-0.12i
+#LYRIC Rainy Night II
+1
+#SCROLL 1.32197-0.06i
+#LYRIC Rainy Night II ~無信の森~
+2
+#SCROLL 1.35758
+#LYRIC Rainy Night II ~水凝結~
+1
+#SCROLL 1.39318+0.065i
+#LYRIC Rainy Night III
+2
+#SCROLL 1.42879+0.13i
+#LYRIC Rainy Night III ~幻虹~
+2
+#SCROLL 1.46439+0.065i
+#LYRIC Rainy Night III ~輪回~
+2
+#SCROLL 1.5
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#SCROLL 1.4
+#LYRIC Rainy Night ~夢幻想~
+2
+#SCROLL 1.3
+#LYRIC Rainy Night II
+2,
+#SCROLL 1.2
+#LYRIC Rainy Night II ~無信の森~
+102
+#LYRIC Rainy Night II ~水凝結~
+020
+#LYRIC Rainy Night III
+100
+#LYRIC Rainy Night III ~幻虹~
+100
+#LYRIC Rainy Night III ~輪回~
+200
+#LYRIC Rainy Night
+200
+#LYRIC Rainy Night ~雲飛霧散~
+100
+#LYRIC Rainy Night ~夢幻想~
+200
+#SCROLL 1.2
+#LYRIC Rainy Night II
+100
+#SCROLL 1.1875+0.05i
+#LYRIC Rainy Night II ~無信の森~
+100
+#SCROLL 1.175-0.1i
+#LYRIC Rainy Night II ~水凝結~
+100
+#SCROLL 1.1625+0.15i
+#LYRIC Rainy Night III
+100
+#SCROLL 1.15-0.2i
+#LYRIC Rainy Night III ~幻虹~
+200
+#SCROLL 1.1375+0.25i
+#LYRIC Rainy Night III ~輪回~
+200
+#SCROLL 1.125-0.3i
+#LYRIC Rainy Night
+200
+#SCROLL 1.1125+0.35i
+#LYRIC Rainy Night ~雲飛霧散~
+200,
+#SCROLL 1.1
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II ~無信の森~
+1
+#SCROLL 1.15
+#LYRIC Rainy Night II ~水凝結~
+1
+#SCROLL 1.1
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night III ~輪回~
+1
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night ~夢幻想~
+2
+#SCROLL 1.2
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II ~水凝結~
+2
+#SCROLL 1.175
+#LYRIC Rainy Night III
+2
+#SCROLL 1.15
+#LYRIC Rainy Night III ~幻虹~
+2
+#SCROLL 1.125
+#LYRIC Rainy Night III ~輪回~
+2,
+#SCROLL 1.1
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night ~夢幻想~
+2
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night III ~幻虹~
+1
+#SCROLL 1.2
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#SCROLL 1.2
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#SCROLL 1.15
+#LYRIC Rainy Night ~夢幻想~
+2
+#SCROLL 1.1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II ~水凝結~
+1
+#SCROLL 1.15
+#LYRIC Rainy Night III
+1,
+#SCROLL 1.1
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#SCROLL 1.15
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#SCROLL 1.1
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#SCROLL 1.2
+#LYRIC Rainy Night II ~無信の森~
+1
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night II ~水凝結~
+2
+#SCROLL 1.2
+#LYRIC Rainy Night III
+1
+#SCROLL 1.2+0.1i
+#LYRIC Rainy Night III ~幻虹~
+2
+#SCROLL 1.2
+#LYRIC Rainy Night III ~輪回~
+1
+#SCROLL 1.2-0.1i
+#LYRIC Rainy Night
+2
+#SCROLL 1.2
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#SCROLL 1.1
+#LYRIC Rainy Night II
+2
+#SCROLL 1.15
+#LYRIC Rainy Night II ~無信の森~
+2,
+#SCROLL 1.2
+#LYRIC Rainy Night II ~水凝結~
+102
+#LYRIC Rainy Night III
+020
+#LYRIC Rainy Night III ~幻虹~
+100
+#LYRIC Rainy Night III ~輪回~
+100
+#LYRIC Rainy Night
+200
+#LYRIC Rainy Night ~雲飛霧散~
+200
+#LYRIC Rainy Night ~夢幻想~
+100
+#LYRIC Rainy Night II
+200
+#LYRIC Rainy Night II ~無信の森~
+100
+#LYRIC Rainy Night II ~水凝結~
+200
+#LYRIC Rainy Night III
+100
+#LYRIC Rainy Night III ~幻虹~
+100
+#LYRIC Rainy Night III ~輪回~
+202
+#LYRIC Rainy Night
+020
+#LYRIC Rainy Night ~雲飛霧散~
+202
+#LYRIC Rainy Night ~夢幻想~
+020,
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#SCROLL 1
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+2,
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#SCROLL 1.25
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+2,
+#SCROLL 1.5
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+1,
+#SCROLL 1.75
+#LYRIC Rainy Night III
+102
+#LYRIC Rainy Night III ~幻虹~
+010
+#LYRIC Rainy Night III ~輪回~
+201
+#LYRIC Rainy Night
+020
+#LYRIC Rainy Night ~雲飛霧散~
+100
+#LYRIC Rainy Night ~夢幻想~
+200
+#LYRIC Rainy Night II
+200
+#LYRIC Rainy Night II ~無信の森~
+200
+#LYRIC Rainy Night II ~水凝結~
+101
+#LYRIC Rainy Night III
+010
+#LYRIC Rainy Night III ~幻虹~
+200
+#LYRIC Rainy Night III ~輪回~
+200
+#LYRIC Rainy Night
+101
+#LYRIC Rainy Night II
+010
+#LYRIC Rainy Night III
+202
+#LYRIC Rainy Tear:
+020,
+#GOGOEND
+#LYRIC Rainy Tear:
+0
+#LYRIC Rainy Tear
+0
+#LYRIC Rainy Tear:
+0
+#LYRIC Rainy Tear
+0,
+#BPMCHANGE 87
+#MEASURE 2/4
+#SCROLL 0.5
+#LYRIC Rainy Tear: T
+3
+#LYRIC Rainy Tear: Th
+000
+#LYRIC Rainy Tear: The
+20
+#LYRIC Rainy Tear: The E
+2
+#LYRIC Rainy Tear: The En
+0,
+#BARLINEOFF
+1
+#LYRIC Rainy Tear: The End
+0000000
+#LYRIC Rainy Tear: The End a
+2000
+#LYRIC Rainy Tear: The End an
+2000,
+#BARLINEON
+#LYRIC Rainy Tear: The End and
+1000200
+#LYRIC Rainy Tear: The End and a
+01000
+#LYRIC Rainy Tear: The End and a N
+0000,
+#BARLINEOFF
+#GOGOSTART
+#LYRIC Rainy Tear: The End and a Ne
+400
+#LYRIC Rainy Tear: The End and a New
+0000000
+#LYRIC Rainy Tear: The End and a New B
+000000,
+#BARLINEOFF
+0
+#LYRIC Rainy Tear: The End and a New Be
+00
+#LYRIC Rainy Tear: The End and a New Beg
+0000000
+#LYRIC Rainy Tear: The End and a New Begi
+0000
+#LYRIC Rainy Tear: The End and a New Begin
+00000
+#LYRIC Rainy Tear: The End and a New Beginn
+0,
+0000
+#LYRIC Rainy Tear: The End and a New Beginni
+0000
+#LYRIC Rainy Tear: The End and a New Beginnin
+00000
+#LYRIC Rainy Tear: The End and a New Beginning
+0000000,
+00
+#LYRIC
+00,
+0,
+#END
+
+
+COURSE:Hard
+LEVEL:8
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#BPMCHANGE 87
+3,
+20020202,
+1,
+1020,
+3,
+2000200200222020,
+1,
+1002,
+#BPMCHANGE 174
+30012010,
+21102000,
+10012010,
+21104040,
+30012010,
+21102000,
+10012010,
+21104000,
+30012010,
+21102000,
+10012010,
+21104040,
+30112011,
+20112110,
+1010201110102010,
+#MEASURE 2/4
+11102010,
+#MEASURE 1/24
+#SCROLL 2
+4,
+#SCROLL 1.91667
+0,
+#SCROLL 1.83333
+0,
+#SCROLL 1.75
+0,
+#SCROLL 1.66667
+0,
+#SCROLL 1.58333
+0,
+#SCROLL 1.5
+0,
+#SCROLL 1.41667
+0,
+#SCROLL 1.33333
+0,
+#SCROLL 1.25
+0,
+#BARLINEOFF
+#SCROLL 1.16667
+0,
+#SCROLL 1.08333
+0,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+11212120,
+11202120,
+11212120,
+1110200020201000,
+11212120,
+11202120,
+11212120,
+1110200030000000,
+12212120,
+12202120,
+12212120,
+1022200020201000,
+12212120,
+12202120,
+12212120,
+1022200050000080,
+#BPMCHANGE 87
+#SCROLL 1
+3000201001102000,
+1001200001102010,
+1001200001102000,
+1001201011104000,
+3000201001102000,
+1001200001102020,
+#SCROLL 1
+1
+#SCROLL 1.42857
+1
+#SCROLL 1.85714
+1
+#SCROLL 2.28571
+1,
+#SCROLL 2.71429
+3000
+#SCROLL 2.92857
+3000
+#SCROLL 3.14286
+3000
+#SCROLL 3.35714
+3000
+#SCROLL 3.57143
+33303330
+#SCROLL 4
+33304000,
+#GOGOSTART
+#BPMCHANGE 174
+#SCROLL 2
+6,
+00000008,
+#SCROLL 1.2
+1010201110102010,
+1010201110102000,
+1010201110102010,
+1022201020201000,
+1011200020221000,
+3340
+#GOGOEND
+5008,
+#GOGOSTART
+1010201110102010,
+1010201110102000,
+1010201110102010,
+1010201110102000,
+1010201110102010,
+1022201020201000,
+1011200020221000,
+33401000,
+#MEASURE 1/8
+#GOGOEND
+#BPMCHANGE 87
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+2,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+1,
+#SCROLL 1
+1,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1
+0,
+#SCROLL 1
+2,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+3,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+2,
+#SCROLL 0.933333
+2,
+#SCROLL 0.866667
+2,
+#SCROLL 0.8
+2,
+#MEASURE 4/4
+#BPMCHANGE 174
+#SCROLL 1
+11202121,
+1011102020102000,
+11202120,
+1022201020102000,
+11202121,
+1011102020102000,
+11202120,
+1022201020102000,
+11202121,
+1011102020102000,
+11202120,
+1022201020102000,
+3333,
+3333,
+33433343,
+6,
+#MEASURE 1/24
+#SCROLL 1
+8,
+#SCROLL 1.51579
+0,
+#SCROLL 2.03158
+0,
+#SCROLL 2.54737
+0,
+#SCROLL 3.06316
+0,
+#SCROLL 3.57895
+0,
+#SCROLL 4.09474
+0,
+#SCROLL 4.61053
+0,
+#SCROLL 5.12632
+0,
+#SCROLL 5.64211
+0,
+#SCROLL 6.15789
+0,
+#SCROLL 6.67368
+0,
+#SCROLL 7.18947
+0,
+#SCROLL 7.70526
+0,
+#SCROLL 8.22105
+0,
+#SCROLL 8.73684
+0,
+#SCROLL 9.25263
+0,
+#SCROLL 9.76842
+0,
+#SCROLL 10.2842
+0,
+#SCROLL 10.8
+0,
+#SCROLL 11.3158
+0,
+#SCROLL 11.8316
+0,
+#SCROLL 12.3474
+0,
+#SCROLL 12.8632
+0,
+#SCROLL 13.3789
+0,
+#SCROLL 13.8947
+0,
+#SCROLL 14.4105
+0,
+#SCROLL 14.9263
+0,
+#SCROLL 15.4421
+0,
+#SCROLL 15.9579
+0,
+#SCROLL 16.4737
+0,
+#SCROLL 16.9895
+0,
+#SCROLL 17.5053
+0,
+#SCROLL 18.0211
+0,
+#SCROLL 18.5368
+0,
+#SCROLL 19.0526
+0,
+#SCROLL 19.5684
+0,
+#SCROLL 20.0842
+0,
+#SCROLL 20.6
+0,
+#SCROLL 21.1158
+0,
+#SCROLL 21.6316
+0,
+#SCROLL 22.1474
+0,
+#SCROLL 22.6632
+0,
+#SCROLL 23.1789
+0,
+#SCROLL 23.6947
+0,
+#SCROLL 24.2105
+0,
+#SCROLL 24.7263
+0,
+#SCROLL 25.2421
+0,
+#SCROLL 25.7579
+0,
+#SCROLL 26.2737
+0,
+#SCROLL 26.7895
+0,
+#SCROLL 27.3053
+0,
+#SCROLL 27.8211
+0,
+#SCROLL 28.3368
+0,
+#SCROLL 28.8526
+0,
+#SCROLL 29.3684
+0,
+#SCROLL 29.8842
+0,
+#SCROLL 30.4
+0,
+#SCROLL 30.9158
+0,
+#SCROLL 31.4316
+0,
+#SCROLL 31.9474
+0,
+#SCROLL 32.4632
+0,
+#SCROLL 32.9789
+0,
+#SCROLL 33.4947
+0,
+#SCROLL 34.0105
+0,
+#SCROLL 34.5263
+0,
+#SCROLL 35.0421
+0,
+#SCROLL 35.5579
+0,
+#SCROLL 36.0737
+0,
+#SCROLL 36.5895
+0,
+#SCROLL 37.1053
+0,
+#SCROLL 37.6211
+0,
+#SCROLL 38.1368
+0,
+#SCROLL 38.6526
+0,
+#SCROLL 39.1684
+0,
+#SCROLL 39.6842
+0,
+#SCROLL 40.2
+0,
+#SCROLL 40.7158
+0,
+#SCROLL 41.2316
+0,
+#SCROLL 41.7474
+0,
+#SCROLL 42.2632
+0,
+#SCROLL 42.7789
+0,
+#SCROLL 43.2947
+0,
+#SCROLL 43.8105
+0,
+#SCROLL 44.3263
+0,
+#SCROLL 44.8421
+0,
+#SCROLL 45.3579
+0,
+#SCROLL 45.8737
+0,
+#SCROLL 46.3895
+0,
+#SCROLL 46.9053
+0,
+#SCROLL 47.4211
+0,
+#SCROLL 47.9368
+0,
+#SCROLL 48.4526
+0,
+#SCROLL 48.9684
+0,
+#SCROLL 49.4842
+0,
+#SCROLL 50
+0,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 1.2
+3000201010102011,
+1010201010201011,
+1010201110102010,
+1022201020002010,
+1110201010102011,
+1010201010201011,
+1010201110102010,
+102220102010
+#GOGOEND
+2210,
+#GOGOSTART
+3000201110102010,
+1110201010201011,
+1010201010102011,
+1010201110102000,
+1110201010102010,
+1110201010102010,
+1110201110102010,
+300040004000
+#GOGOEND
+1111,
+#GOGOSTART
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+1,
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+1,
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0,
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0,
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+1,
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+1,
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0,
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0,
+#LYRIC Rainy Night ~夢幻想~
+3
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0,
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+1,
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+1,
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0,
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0,
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0,
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0,
+#LYRIC Rainy Night III
+5
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Tear:
+0,
+#GOGOEND
+#LYRIC Rainy Tear:
+8
+#LYRIC Rainy Tear
+0
+#LYRIC Rainy Tear:
+0
+#LYRIC Rainy Tear
+0,
+#BPMCHANGE 87
+#SCROLL 0.5
+#LYRIC Rainy Tear: T
+30
+#LYRIC Rainy Tear: Th
+000000
+#LYRIC Rainy Tear: The
+2000
+#LYRIC Rainy Tear: The E
+20
+#LYRIC Rainy Tear: The En
+002
+#LYRIC Rainy Tear: The End
+0000000
+#LYRIC Rainy Tear: The End a
+2000
+#LYRIC Rainy Tear: The End an
+2000,
+#LYRIC Rainy Tear: The End and
+2000200
+#LYRIC Rainy Tear: The End and a
+02000
+#LYRIC Rainy Tear: The End and a N
+0000
+#GOGOSTART
+#LYRIC Rainy Tear: The End and a Ne
+400
+#LYRIC Rainy Tear: The End and a New
+0000000
+#LYRIC Rainy Tear: The End and a New B
+000000,
+#BARLINEOFF
+0
+#LYRIC Rainy Tear: The End and a New Be
+00
+#LYRIC Rainy Tear: The End and a New Beg
+0000000
+#LYRIC Rainy Tear: The End and a New Begi
+0000
+#LYRIC Rainy Tear: The End and a New Begin
+00000
+#LYRIC Rainy Tear: The End and a New Beginn
+00000
+#LYRIC Rainy Tear: The End and a New Beginni
+0000
+#LYRIC Rainy Tear: The End and a New Beginnin
+00000
+#LYRIC Rainy Tear: The End and a New Beginning
+0000000,
+0
+#LYRIC
+000,
+0,
+#END
+
+COURSE:Normal
+LEVEL:7
+BALLOON:14
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#BPMCHANGE 87
+3,
+20020202,
+2,
+1020,
+3,
+2000200200202020,
+1,
+1002,
+#BPMCHANGE 174
+3021,
+1020,
+1021,
+2140,
+3021,
+1020,
+1021,
+2140,
+3021,
+1020,
+1021,
+2140,
+3011,
+1011,
+1201,
+#MEASURE 2/4
+20,
+#MEASURE 1/24
+#SCROLL 2
+4,
+#SCROLL 1.91667
+0,
+#SCROLL 1.83333
+0,
+#SCROLL 1.75
+0,
+#SCROLL 1.66667
+0,
+#SCROLL 1.58333
+0,
+#SCROLL 1.5
+0,
+#SCROLL 1.41667
+0,
+#SCROLL 1.33333
+0,
+#SCROLL 1.25
+0,
+#BARLINEOFF
+#SCROLL 1.16667
+0,
+#SCROLL 1.08333
+0,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+1221,
+2212,
+1122,
+1120,
+1221,
+2212,
+1122,
+1140,
+1221,
+2212,
+1122,
+1120,
+1221,
+2212,
+1122,
+10105008,
+#BPMCHANGE 87
+#SCROLL 1
+3000201001002000,
+1000200001002010,
+1000200001002000,
+10211040,
+3000201001002000,
+10201120,
+#SCROLL 1
+1
+#SCROLL 1.42857
+1
+#SCROLL 1.85714
+1
+#SCROLL 2.28571
+1,
+#SCROLL 2.71429
+3
+#SCROLL 2.92857
+3
+#SCROLL 3.14286
+3
+#SCROLL 3.35714
+0
+#SCROLL 3.57143
+33
+#SCROLL 4
+34,
+#GOGOSTART
+#BPMCHANGE 174
+#SCROLL 2
+9,
+0008,
+#SCROLL 1.2
+10211021,
+10211120,
+10211021,
+10222210,
+11202210,
+3340
+#GOGOEND
+5008,
+#GOGOSTART
+10211021,
+10211120,
+10211021,
+10211120,
+10211021,
+10211120,
+10222210,
+33403000,
+#MEASURE 1/8
+#GOGOEND
+#BPMCHANGE 87
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+1,
+#SCROLL 1
+1,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1
+0,
+#SCROLL 1
+2,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+3,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+1,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+2,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+2,
+#SCROLL -0.933333
+0,
+#SCROLL 0.866667
+2,
+#SCROLL 0.8
+2,
+#MEASURE 4/4
+#BPMCHANGE 174
+#SCROLL 1
+10102012,
+10010220,
+10102012,
+10102220,
+10102012,
+10010220,
+10102012,
+1120,
+10102012,
+10010220,
+10102012,
+1122,
+3333,
+3333,
+33303330,
+6,
+#MEASURE 1/24
+#SCROLL 1
+8,
+#SCROLL 1.51579
+0,
+#SCROLL 2.03158
+0,
+#SCROLL 2.54737
+0,
+#SCROLL 3.06316
+0,
+#SCROLL 3.57895
+0,
+#SCROLL 4.09474
+0,
+#SCROLL 4.61053
+0,
+#SCROLL 5.12632
+0,
+#SCROLL 5.64211
+0,
+#SCROLL 6.15789
+0,
+#SCROLL 6.67368
+0,
+#SCROLL 7.18947
+0,
+#SCROLL 7.70526
+0,
+#SCROLL 8.22105
+0,
+#SCROLL 8.73684
+0,
+#SCROLL 9.25263
+0,
+#SCROLL 9.76842
+0,
+#SCROLL 10.2842
+0,
+#SCROLL 10.8
+0,
+#SCROLL 11.3158
+0,
+#SCROLL 11.8316
+0,
+#SCROLL 12.3474
+0,
+#SCROLL 12.8632
+0,
+#SCROLL 13.3789
+0,
+#SCROLL 13.8947
+0,
+#SCROLL 14.4105
+0,
+#SCROLL 14.9263
+0,
+#SCROLL 15.4421
+0,
+#SCROLL 15.9579
+0,
+#SCROLL 16.4737
+0,
+#SCROLL 16.9895
+0,
+#SCROLL 17.5053
+0,
+#SCROLL 18.0211
+0,
+#SCROLL 18.5368
+0,
+#SCROLL 19.0526
+0,
+#SCROLL 19.5684
+0,
+#SCROLL 20.0842
+0,
+#SCROLL 20.6
+0,
+#SCROLL 21.1158
+0,
+#SCROLL 21.6316
+0,
+#SCROLL 22.1474
+0,
+#SCROLL 22.6632
+0,
+#SCROLL 23.1789
+0,
+#SCROLL 23.6947
+0,
+#SCROLL 24.2105
+0,
+#SCROLL 24.7263
+0,
+#SCROLL 25.2421
+0,
+#SCROLL 25.7579
+0,
+#SCROLL 26.2737
+0,
+#SCROLL 26.7895
+0,
+#SCROLL 27.3053
+0,
+#SCROLL 27.8211
+0,
+#SCROLL 28.3368
+0,
+#SCROLL 28.8526
+0,
+#SCROLL 29.3684
+0,
+#SCROLL 29.8842
+0,
+#SCROLL 30.4
+0,
+#SCROLL 30.9158
+0,
+#SCROLL 31.4316
+0,
+#SCROLL 31.9474
+0,
+#SCROLL 32.4632
+0,
+#SCROLL 32.9789
+0,
+#SCROLL 33.4947
+0,
+#SCROLL 34.0105
+0,
+#SCROLL 34.5263
+0,
+#SCROLL 35.0421
+0,
+#SCROLL 35.5579
+0,
+#SCROLL 36.0737
+0,
+#SCROLL 36.5895
+0,
+#SCROLL 37.1053
+0,
+#SCROLL 37.6211
+0,
+#SCROLL 38.1368
+0,
+#SCROLL 38.6526
+0,
+#SCROLL 39.1684
+0,
+#SCROLL 39.6842
+0,
+#SCROLL 40.2
+0,
+#SCROLL 40.7158
+0,
+#SCROLL 41.2316
+0,
+#SCROLL 41.7474
+0,
+#SCROLL 42.2632
+0,
+#SCROLL 42.7789
+0,
+#SCROLL 43.2947
+0,
+#SCROLL 43.8105
+0,
+#SCROLL 44.3263
+0,
+#SCROLL 44.8421
+0,
+#SCROLL 45.3579
+0,
+#SCROLL 45.8737
+0,
+#SCROLL 46.3895
+0,
+#SCROLL 46.9053
+0,
+#SCROLL 47.4211
+0,
+#SCROLL 47.9368
+0,
+#SCROLL 48.4526
+0,
+#SCROLL 48.9684
+0,
+#SCROLL 49.4842
+0,
+#SCROLL 50
+0,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 1.2
+30211020,
+11200120,
+10211020,
+11200121,
+10211020,
+11200120,
+10211120,
+122210
+#GOGOEND
+20,
+#GOGOSTART
+30211020,
+11200120,
+10211020,
+11200121,
+10211020,
+11200120,
+11211020,
+333
+#GOGOEND
+3,
+#GOGOSTART
+#LYRIC Rainy Night
+3
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0,
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0,
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0,
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0,
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0,
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0,
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0,
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0,
+#LYRIC Rainy Night ~夢幻想~
+3
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0,
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0,
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+1
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0,
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+2
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0,
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+2
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+2
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0,
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+2
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+2
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0,
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+2
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+1
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0,
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+2
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+1
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+2
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Tear:
+0,
+#GOGOEND
+#LYRIC Rainy Tear:
+0
+#LYRIC Rainy Tear
+0
+#LYRIC Rainy Tear:
+0
+#LYRIC Rainy Tear
+0,
+#BPMCHANGE 87
+#SCROLL 0.5
+#LYRIC Rainy Tear: T
+30
+#LYRIC Rainy Tear: Th
+000000
+#LYRIC Rainy Tear: The
+2000
+#LYRIC Rainy Tear: The E
+00
+#LYRIC Rainy Tear: The En
+002
+#LYRIC Rainy Tear: The End
+0000000
+#LYRIC Rainy Tear: The End a
+2000
+#LYRIC Rainy Tear: The End an
+2000,
+#LYRIC Rainy Tear: The End and
+2000000
+#LYRIC Rainy Tear: The End and a
+02000
+#LYRIC Rainy Tear: The End and a N
+0000
+#GOGOSTART
+#LYRIC Rainy Tear: The End and a Ne
+400
+#LYRIC Rainy Tear: The End and a New
+0000000
+#LYRIC Rainy Tear: The End and a New B
+000000,
+#BARLINEOFF
+0
+#LYRIC Rainy Tear: The End and a New Be
+00
+#LYRIC Rainy Tear: The End and a New Beg
+0000000
+#LYRIC Rainy Tear: The End and a New Begi
+0000
+#LYRIC Rainy Tear: The End and a New Begin
+00000
+#LYRIC Rainy Tear: The End and a New Beginn
+00000
+#LYRIC Rainy Tear: The End and a New Beginni
+0000
+#LYRIC Rainy Tear: The End and a New Beginnin
+00000
+#LYRIC Rainy Tear: The End and a New Beginning
+0000000,
+0
+#LYRIC
+000,
+0,
+#END
+
+COURSE:Easy
+LEVEL:2
+BALLOON:14
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#BPMCHANGE 87
+3,
+1,
+1,
+1,
+3,
+1,
+1,
+1002,
+#BPMCHANGE 174
+3,
+0010,
+,
+1,
+3,
+,
+,
+1,
+3,
+0001,
+0001,
+,
+3001,
+0010,
+0100,
+1040,
+#BARLINEON
+1,
+1,
+1010,
+1,
+1,
+1,
+1010,
+1,
+1,
+1,
+1010,
+1,
+1,
+1,
+1010,
+1,
+#BPMCHANGE 87
+#SCROLL 1
+30010000,
+,
+1,
+1010,
+3100,
+1020,
+3030,
+3033,
+#GOGOSTART
+#BPMCHANGE 174
+9,
+0008,
+#SCROLL 1
+1110,
+1,
+1010,
+1,
+1011,
+10
+#GOGOEND
+00,
+#GOGOSTART
+1110,
+1,
+1010,
+1,
+1011,
+1,
+1010,
+2,
+#MEASURE 1/8
+#GOGOEND
+#BPMCHANGE 87
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+1,
+#SCROLL -1
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+1,
+#SCROLL -1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1
+1,
+#SCROLL -1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+1,
+#SCROLL -1.2
+0,
+#SCROLL 1
+0,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+0,
+#SCROLL -1.2
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+3,
+#SCROLL -1
+0,
+#SCROLL 1.2
+0,
+#SCROLL -1
+0,
+#SCROLL 1
+0,
+#SCROLL -0.933333
+0,
+#SCROLL 0.866667
+0,
+#SCROLL -0.8
+0,
+#MEASURE 4/4
+#BPMCHANGE 174
+#SCROLL 1
+1,
+,
+1,
+1,
+1,
+,
+1,
+1,
+1,
+,
+1010,
+1,
+3,
+3,
+3030,
+6,
+#MEASURE 1/24
+#SCROLL 1
+8,
+#SCROLL 1.51579
+0,
+#SCROLL 2.03158
+0,
+#SCROLL 2.54737
+0,
+#SCROLL 3.06316
+0,
+#SCROLL 3.57895
+0,
+#SCROLL 4.09474
+0,
+#SCROLL 4.61053
+0,
+#SCROLL 5.12632
+0,
+#SCROLL 5.64211
+0,
+#SCROLL 6.15789
+0,
+#SCROLL 6.67368
+0,
+#SCROLL 7.18947
+0,
+#SCROLL 7.70526
+0,
+#SCROLL 8.22105
+0,
+#SCROLL 8.73684
+0,
+#SCROLL 9.25263
+0,
+#SCROLL 9.76842
+0,
+#SCROLL 10.2842
+0,
+#SCROLL 10.8
+0,
+#SCROLL 11.3158
+0,
+#SCROLL 11.8316
+0,
+#SCROLL 12.3474
+0,
+#SCROLL 12.8632
+0,
+#SCROLL 13.3789
+0,
+#SCROLL 13.8947
+0,
+#SCROLL 14.4105
+0,
+#SCROLL 14.9263
+0,
+#SCROLL 15.4421
+0,
+#SCROLL 15.9579
+0,
+#SCROLL 16.4737
+0,
+#SCROLL 16.9895
+0,
+#SCROLL 17.5053
+0,
+#SCROLL 18.0211
+0,
+#SCROLL 18.5368
+0,
+#SCROLL 19.0526
+0,
+#SCROLL 19.5684
+0,
+#SCROLL 20.0842
+0,
+#SCROLL 20.6
+0,
+#SCROLL 21.1158
+0,
+#SCROLL 21.6316
+0,
+#SCROLL 22.1474
+0,
+#SCROLL 22.6632
+0,
+#SCROLL 23.1789
+0,
+#SCROLL 23.6947
+0,
+#SCROLL 24.2105
+0,
+#SCROLL 24.7263
+0,
+#SCROLL 25.2421
+0,
+#SCROLL 25.7579
+0,
+#SCROLL 26.2737
+0,
+#SCROLL 26.7895
+0,
+#SCROLL 27.3053
+0,
+#SCROLL 27.8211
+0,
+#SCROLL 28.3368
+0,
+#SCROLL 28.8526
+0,
+#SCROLL 29.3684
+0,
+#SCROLL 29.8842
+0,
+#SCROLL 30.4
+0,
+#SCROLL 30.9158
+0,
+#SCROLL 31.4316
+0,
+#SCROLL 31.9474
+0,
+#SCROLL 32.4632
+0,
+#SCROLL 32.9789
+0,
+#SCROLL 33.4947
+0,
+#SCROLL 34.0105
+0,
+#SCROLL 34.5263
+0,
+#SCROLL 35.0421
+0,
+#SCROLL 35.5579
+0,
+#SCROLL 36.0737
+0,
+#SCROLL 36.5895
+0,
+#SCROLL 37.1053
+0,
+#SCROLL 37.6211
+0,
+#SCROLL 38.1368
+0,
+#SCROLL 38.6526
+0,
+#SCROLL 39.1684
+0,
+#SCROLL 39.6842
+0,
+#SCROLL 40.2
+0,
+#SCROLL 40.7158
+0,
+#SCROLL 41.2316
+0,
+#SCROLL 41.7474
+0,
+#SCROLL 42.2632
+0,
+#SCROLL 42.7789
+0,
+#SCROLL 43.2947
+0,
+#SCROLL 43.8105
+0,
+#SCROLL 44.3263
+0,
+#SCROLL 44.8421
+0,
+#SCROLL 45.3579
+0,
+#SCROLL 45.8737
+0,
+#SCROLL 46.3895
+0,
+#SCROLL 46.9053
+0,
+#SCROLL 47.4211
+0,
+#SCROLL 47.9368
+0,
+#SCROLL 48.4526
+0,
+#SCROLL 48.9684
+0,
+#SCROLL 49.4842
+0,
+#SCROLL 50
+0,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 1
+3,
+,
+,
+1001,
+1001,
+0010,
+,
+102
+#GOGOEND
+0,
+#GOGOSTART
+1001,
+0010,
+,
+0010,
+1,
+1,
+1,
+303
+#GOGOEND
+0,
+#GOGOSTART
+#LYRIC Rainy Night
+3
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0,
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0,
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0,
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0,
+#LYRIC Rainy Night ~雲飛霧散~
+1
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0,
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0,
+#LYRIC Rainy Night III
+1
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+1
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0,
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0,
+#LYRIC Rainy Night ~夢幻想~
+1
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0,
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0,
+#LYRIC Rainy Night III ~幻虹~
+1
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0,
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+1
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0,
+#LYRIC Rainy Night II
+3
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0,
+#LYRIC Rainy Night ~雲飛霧散~
+3
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0,
+#LYRIC Rainy Night III ~輪回~
+3
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+3
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+0,
+#LYRIC Rainy Night III
+3
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night ~雲飛霧散~
+0
+#LYRIC Rainy Night ~夢幻想~
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night II ~無信の森~
+0
+#LYRIC Rainy Night II ~水凝結~
+4
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Night III ~幻虹~
+0
+#LYRIC Rainy Night III ~輪回~
+0
+#LYRIC Rainy Night
+0
+#LYRIC Rainy Night II
+0
+#LYRIC Rainy Night III
+0
+#LYRIC Rainy Tear:
+0,
+#GOGOEND
+#LYRIC Rainy Tear:
+0
+#LYRIC Rainy Tear
+0
+#LYRIC Rainy Tear:
+0
+#LYRIC Rainy Tear
+0,
+#BPMCHANGE 87
+#SCROLL 0.5
+#LYRIC Rainy Tear: T
+30
+#LYRIC Rainy Tear: Th
+000000
+#LYRIC Rainy Tear: The
+0000
+#LYRIC Rainy Tear: The E
+00
+#LYRIC Rainy Tear: The En
+000
+#LYRIC Rainy Tear: The End
+0000000
+#LYRIC Rainy Tear: The End a
+0000
+#LYRIC Rainy Tear: The End an
+0000,
+#LYRIC Rainy Tear: The End and
+0000000
+#LYRIC Rainy Tear: The End and a
+00000
+#LYRIC Rainy Tear: The End and a N
+0000
+#GOGOSTART
+#LYRIC Rainy Tear: The End and a Ne
+400
+#LYRIC Rainy Tear: The End and a New
+0000000
+#LYRIC Rainy Tear: The End and a New B
+000000,
+#BARLINEOFF
+0
+#LYRIC Rainy Tear: The End and a New Be
+00
+#LYRIC Rainy Tear: The End and a New Beg
+0000000
+#LYRIC Rainy Tear: The End and a New Begi
+0000
+#LYRIC Rainy Tear: The End and a New Begin
+00000
+#LYRIC Rainy Tear: The End and a New Beginn
+00000
+#LYRIC Rainy Tear: The End and a New Beginni
+0000
+#LYRIC Rainy Tear: The End and a New Beginnin
+00000
+#LYRIC Rainy Tear: The End and a New Beginning
+0000000,
+0
+#LYRIC
+000,
+0,
+#END

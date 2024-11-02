@@ -161,6 +161,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 154 - Stormrider's Bolt : H5 - https://linktr.ee/H5Music (Chart by H5, Komi)
 155 - Music for Life : FALL feat. elu_amaga - https://www.likeside.net/ (Chart by Komi)
 156 - Wild Water : Ardolf - https://soundcloud.com/ardolf_music (Chart by berdstep, DiamondN1nja)
+157 - Rainy Tear : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 ```
 
 ### Visuals

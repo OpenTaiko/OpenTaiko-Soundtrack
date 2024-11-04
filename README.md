@@ -162,6 +162,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 155 - Music for Life : FALL feat. elu_amaga - https://www.likeside.net/ (Chart by Komi)
 156 - Wild Water : Ardolf - https://soundcloud.com/ardolf_music (Chart by berdstep, DiamondN1nja)
 157 - Rainy Tear : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
+158 - Goodbye My Phantasia : FALL feat. yufu_sekka - https://www.likeside.net/ (Chart by bol, Komi)
 ```
 
 ### Visuals

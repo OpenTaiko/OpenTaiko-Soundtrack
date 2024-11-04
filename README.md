@@ -163,6 +163,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 156 - Wild Water : Ardolf - https://soundcloud.com/ardolf_music (Chart by berdstep, DiamondN1nja)
 157 - Rainy Tear : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 158 - Goodbye My Phantasia : FALL feat. yufu_sekka - https://www.likeside.net/ (Chart by bol, Komi)
+159 -
+160 - SILVER BULLET : Ardolf - https://soundcloud.com/ardolf_music (Chart by Yokoyoko, DiamondN1nja)
+161 - Donstrgus : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 ```
 
 ### Visuals

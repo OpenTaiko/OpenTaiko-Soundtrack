@@ -2128,13 +2128,14 @@
         "uniqueId": "rN0fIoR0ggXJRzhxaXZbBGQYqYuIrnsm8ruys29zdtb2bPXBZv40b15QxGpqpd0t",
         "tjaFolderPath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams",
         "tjaFilesPath": [
+            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.jpg",
             "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.ogg",
             "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.tja",
             "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "a86fa3a9c2569a9c09f454c7c4cc039b",
-        "chartSize": 6.18,
+        "tjaMD5": "9dce7811367058d6995ea0fda0ead827",
+        "chartSize": 6.38,
         "chartTitle": "Resentment ~The Whittling of Fragmented Dreams~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
@@ -2152,7 +2153,7 @@
             "Oni": "Taichenko"
         },
         "chartAudioFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.jpg",
         "chartHoFRanks": {
             "Edit": 7
         }
@@ -3936,6 +3937,38 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "GOOdbYemyPhANtaSIaFaLLFeAtYUfuSEKka",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.ogg",
+            "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.png",
+            "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.tja",
+            "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "475e0be42cc2d1b5cbf446507ef26c01",
+        "chartSize": 3.64,
+        "chartTitle": "Goodbye My Phantasia",
+        "chartSubtitle": "FALL feat. yufu_sekka",
+        "chartDifficulties": {
+            "Oni": 11.3,
+            "Easy": 6,
+            "Normal": 7,
+            "Hard": 9,
+            "Edit": 11.1
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Easy": "Komi",
+            "Normal": "Komi",
+            "Hard": "Komi",
+            "Edit": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.png",
         "chartHoFRanks": {}
     },
     {

@@ -3975,6 +3975,66 @@
         }
     },
     {
+        "uniqueId": "siLVerBULleTardOlf",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.jpg",
+            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.ogg",
+            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.tja",
+            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "e579e9cf103f9efc8094a98fe10bcadb",
+        "chartSize": 3.46,
+        "chartTitle": "SILVER BULLET",
+        "chartSubtitle": "Ardolf",
+        "chartDifficulties": {
+            "Oni": 10.0,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Yokoyoko",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "doNsTrgustAIcHEnko",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\161 - Donstrgus",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\161 - Donstrgus\\Donstrgus.jpg",
+            "04 OpenTaiko Chapter IV\\161 - Donstrgus\\Donstrgus.ogg",
+            "04 OpenTaiko Chapter IV\\161 - Donstrgus\\Donstrgus.tja",
+            "04 OpenTaiko Chapter IV\\161 - Donstrgus\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "30dac7859fca241b86ad972a655c4106",
+        "chartSize": 7.88,
+        "chartTitle": "Donstrgus",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 11.4,
+            "Easy": 7,
+            "Normal": 8,
+            "Hard": 10
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Easy": "Komi",
+            "Normal": "Komi",
+            "Hard": "Taichenko,Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\161 - Donstrgus\\Donstrgus.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\161 - Donstrgus\\Donstrgus.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

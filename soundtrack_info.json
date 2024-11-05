@@ -437,7 +437,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.png",
         "chartHoFRanks": {
-            "Oni": 40
+            "Oni": 41
         }
     },
     {
@@ -999,7 +999,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.png",
         "chartHoFRanks": {
-            "Oni": 41
+            "Oni": 42
         }
     },
     {
@@ -2788,7 +2788,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.png",
         "chartHoFRanks": {
-            "Edit": 43
+            "Edit": 44
         }
     },
     {
@@ -3294,7 +3294,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 42
+            "Edit": 43
         }
     },
     {
@@ -3522,12 +3522,12 @@
             "04 OpenTaiko Chapter IV\\143 - you ruined me with your lies\\you ruined me with your lies.tja"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "5b5c786675cdbae700cd1b28c89d6066",
+        "tjaMD5": "d01ce96bd990548c5b78ecfb28e8e8bc",
         "chartSize": 2.4,
         "chartTitle": "you ruined me with your lies",
         "chartSubtitle": "Teocore",
         "chartDifficulties": {
-            "Oni": 10.6,
+            "Oni": 10.8,
             "Hard": 8,
             "Normal": 7,
             "Easy": 1
@@ -3540,7 +3540,9 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\143 - you ruined me with your lies\\you ruined me with your lies.ogg",
         "chartJacketFilePath": null,
-        "chartHoFRanks": {}
+        "chartHoFRanks": {
+            "Oni": 39
+        }
     },
     {
         "uniqueId": "iLlbetHeREraCheltyPEx",
@@ -4387,7 +4389,7 @@
         "chartAudioFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.png",
         "chartHoFRanks": {
-            "Edit": 45
+            "Edit": 46
         }
     },
     {
@@ -4988,7 +4990,7 @@
         "chartAudioFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
         "chartHoFRanks": {
-            "Oni": 39
+            "Oni": 40
         }
     },
     {
@@ -5517,7 +5519,7 @@
         "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 44
+            "Edit": 45
         }
     },
     {

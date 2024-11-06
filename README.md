@@ -166,6 +166,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 159 -
 160 - SILVER BULLET : Ardolf - https://soundcloud.com/ardolf_music (Chart by Yokoyoko, DiamondN1nja)
 161 - Donstrgus : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
+162 - linebreak : zqr - https://www.youtube.com/@zqr_ (Chart by DiamondN1nja)
+163 - NEP0：N3PHTHYSジユ : OPTK-HQ=CHANNEL0125 (Chart by OPTK-HQ)
 ```
 
 ### Visuals

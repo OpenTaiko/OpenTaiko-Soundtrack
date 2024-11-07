@@ -5116,6 +5116,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "optkhq04feral",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ04 - 164 - Feral The last call",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ04 - 164 - Feral The last call\\nep04.ogg",
+            "E02 OpenTaiko Headquarters\\HQ04 - 164 - Feral The last call\\nep04.tja",
+            "E02 OpenTaiko Headquarters\\HQ04 - 164 - Feral The last call\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "7332091e91ed5a2ad586148b66b609bc",
+        "chartSize": 3.04,
+        "chartTitle": "NEP0\uff1aTHELASTC4LL\u30d5\u30a7\u30e9\u30eb",
+        "chartSubtitle": "OPTK-HQ=CHANNEL0117",
+        "chartDifficulties": {
+            "Oni": 10.3,
+            "Hard": 1,
+            "Normal": 1,
+            "Easy": 1,
+            "Edit": 10.9
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Edit": "Komi"
+        },
+        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ04 - 164 - Feral The last call\\nep04.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "outfox01",
         "tjaFolderPath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion",
         "tjaFilesPath": [

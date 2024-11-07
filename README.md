@@ -168,6 +168,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 161 - Donstrgus : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 162 - linebreak : zqr - https://www.youtube.com/@zqr_ (Chart by DiamondN1nja)
 163 - NEP0：N3PHTHYSジユ : OPTK-HQ=CHANNEL0125 (Chart by OPTK-HQ)
+164 - NEP0：THELASTC4LLフェラル : OPTK-HQ=CHANNEL0117 (Chart by OPTK-HQ)
 ```
 
 ### Visuals

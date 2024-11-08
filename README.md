@@ -163,12 +163,13 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 156 - Wild Water : Ardolf - https://soundcloud.com/ardolf_music (Chart by berdstep, DiamondN1nja)
 157 - Rainy Tear : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 158 - Goodbye My Phantasia : FALL feat. yufu_sekka - https://www.likeside.net/ (Chart by bol, Komi)
-159 -
+159 - BLACK MAGIC :  Ardolf - https://soundcloud.com/ardolf_music (Chart by Komi)
 160 - SILVER BULLET : Ardolf - https://soundcloud.com/ardolf_music (Chart by Yokoyoko, DiamondN1nja)
 161 - Donstrgus : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 162 - linebreak : zqr - https://www.youtube.com/@zqr_ (Chart by DiamondN1nja)
 163 - NEP0：N3PHTHYSジユ : OPTK-HQ=CHANNEL0125 (Chart by OPTK-HQ)
 164 - NEP0：THELASTC4LLフェラル : OPTK-HQ=CHANNEL0117 (Chart by OPTK-HQ)
+165 - PSEUDOMONARCHIA : Lilith (Lycanix vs Cusi) - https://x.com/CusiMusic https://x.com/OfficialLycanix (Chart by DiamondN1nja)
 ```
 
 ### Visuals

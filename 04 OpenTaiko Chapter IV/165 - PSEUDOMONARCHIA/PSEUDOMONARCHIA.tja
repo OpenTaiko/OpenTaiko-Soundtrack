@@ -1,0 +1,1697 @@
+﻿// OpenTaiko Chart
+TITLE:PSEUDOMONARCHIA
+SUBTITLE:Lilith (Lycanix vs Cusi)
+BPM:220
+WAVE:PSEUDOMONARCHIA.ogg
+PREIMAGE:PSEUDOMONARCHIA.png
+OFFSET:0
+DEMOSTART:114.545
+MAKER:DiamondN1nja
+
+COURSE:Oni
+LEVEL:10.6
+BALLOON:32,4
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#MEASURE 8/4
+#SCROLL 4
+90,
+#MEASURE 2/4
+#SCROLL -2
+80,
+,
+#MEASURE 1/4
+0,
+,
+,
+,
+#MEASURE 4/4
+#SCROLL 1
+3030
+#LYRIC It's here at last.
+1201,
+20120000,
+#LYRIC Your kind's final hope.
+40401201,
+20120011,
+30
+#LYRIC Some may call you a hero!
+301201,
+20120000,
+2020
+#LYRIC Others may call you a fool.
+1201,
+20120110,
+3030
+#LYRIC Say, amuse me -
+1201,
+201200
+#LYRIC Is that fear or conviction written in your eyes?
+00,
+4000400011200010,
+20120011,
+30
+#LYRIC The stage has been set, and we've been expecting you!
+301201,
+20120000,
+20201201,
+200010200000
+#LYRIC So welcome
+1002,
+000200000000
+#LYRIC TO THE END OF THE WORLD!
+2020,
+40444000,
+#LYRIC C|
+2
+#LYRIC Ch|
+1
+#LYRIC Cha|
+0
+#LYRIC Char|
+1
+#LYRIC Chart|
+2
+#LYRIC Charte|
+0
+#LYRIC Charter|
+2
+#LYRIC Charter:|
+1
+#LYRIC Charter: |
+01
+#LYRIC Charter:
+20
+#LYRIC Charter: |
+20
+#LYRIC Charter:
+20,
+#LYRIC Charter: |
+21
+#LYRIC Charter:
+01
+#LYRIC Charter: |
+20
+#LYRIC Charter:
+21
+#LYRIC Charter: |
+01
+#LYRIC Charter:
+20
+#LYRIC Charter: |
+20
+#LYRIC Charter:
+20,
+#LYRIC Charter: D|
+2
+#LYRIC Charter: Di|
+2
+#LYRIC Charter: Dia|
+1
+#LYRIC Charter: Diam|
+2
+#LYRIC Charter: Diamo|
+1
+#LYRIC Charter: Diamon|
+0
+#LYRIC Charter: Diamond|
+22
+#LYRIC Charter: Diamond
+12
+#LYRIC Charter: Diamond|
+10
+#LYRIC Charter: Diamond
+2212,
+#LYRIC Charter: DiamondN|
+10020020
+#LYRIC Charter: DiamondN1|
+01000002
+#LYRIC Charter: DiamondN1n|
+00100200
+#LYRIC Charter: DiamondN1nj|
+200100000100
+#LYRIC Charter: DiamondN1nja|
+200000100000,
+#LYRIC Charter: DiamondN1nja
+21
+#LYRIC Charter: DiamondN1nja|
+01
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+21
+#LYRIC Charter: DiamondN1nja
+01
+#LYRIC Charter: DiamondN1nja|
+20
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+20,
+#LYRIC Charter: DiamondN1nja
+21
+#LYRIC Charter: DiamondN1nja|
+01
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+21
+#LYRIC Charter: DiamondN1nja
+01
+#LYRIC Charter: DiamondN1nja|
+20
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+20,
+#LYRIC Charter: DiamondN1nja
+22
+#LYRIC Charter: DiamondN1nja|
+12
+#LYRIC Charter: DiamondN1nja
+10
+#LYRIC Charter: DiamondN1nja|
+22
+#LYRIC Charter: DiamondN1nja
+12
+#LYRIC Charter: DiamondN1nja|
+10
+#LYRIC Charter: DiamondN1nja
+22
+#LYRIC Charter: DiamondN1nja|
+12,
+#LYRIC Charter: DiamondN1nja
+100100
+#LYRIC Charter: DiamondN1nj|
+10
+#LYRIC Charter: DiamondN1n|
+02
+#LYRIC Charter: DiamondN1|
+00
+#LYRIC Charter: DiamondN|
+20
+#LYRIC Charter: Diamond|
+02
+#LYRIC Charter: Diamon|
+00
+#LYRIC Charter: Diamo|
+10
+#LYRIC Charter: Diam|
+01
+#LYRIC Charter: Dia|
+00
+#LYRIC Charter: Di|
+10
+#LYRIC Charter: D|
+02
+#LYRIC Charter: |
+00
+#LYRIC Charter:|
+20
+#LYRIC Charter|
+02
+#LYRIC Charte|
+00
+#LYRIC Chart|
+20
+#LYRIC Char|
+00
+#LYRIC Cha|
+00
+#LYRIC Ch|
+10
+#LYRIC C|
+00
+#LYRIC |
+00,
+#LYRIC
+2101202101202020,
+2101202101202020,
+2101202020112020,
+2101202030003020,
+1012102010121022,
+1222121211112222,
+#LYRIC Phase 1
+1010202212102022,
+1011202212102010,
+#GOGOSTART
+#LYRIC
+3022102210221022,
+1022102210221010,
+2012201220122121,
+2012102012101112,
+1022102210221012,
+1212102210221010,
+1010202210102022,
+1012202212102010,
+200000101010200000200000200000100100200100200000,
+2012201020221020,
+41414141,
+41414141,
+1022102210221022,
+1022102212102120,
+#GOGOEND
+#LYRIC Phase 2
+1010202212102022,
+1011202212102000,
+#GOGOSTART
+#SCROLL 0.75
+#LYRIC
+3002101040001122,
+1012101040001000,
+1211212220012020,
+1221221120112020,
+3002101040001122,
+1012101040001000,
+1222121120012020,
+1121121220112222,
+1002101040001122,
+1012101040001000,
+1211212220012020,
+1221221120112020,
+3002101040001122,
+1012101040001000,
+#SCROLL 1
+1111111122222222,
+#SCROLL 1.2
+101010100100100100100100202020200200200200200200,
+#GOGOEND
+1002,
+#MEASURE 2/4
+#SCROLL 0.5
+#LYRIC Far from the hands of redemption
+11,
+,
+20,
+20,
+11,
+,
+20,
+20,
+1001,
+2001,
+10010010,
+#LYRIC A sound devoid of all conviction
+20,
+#MEASURE 4/4
+#SCROLL 1
+10012020,
+2222111122221000,
+#LYRIC I've become the cause of your own destruction
+1001201110012022,
+1021012022112120,
+#LYRIC Fall and face your retribution
+1001201110012022,
+1011202210112110,
+#LYRIC Face to face and eye to eye
+2001201110012022,
+100120121001
+#LYRIC Our bloods, they bind us
+2012,
+1022102011221020,
+2222111122221000,
+#LYRIC
+3040000040040040,
+200200100200100200100200
+#LYRIC O light, divine is the fate that you've forsaken
+101010100100202020200000,
+5,
+8010,
+5082,
+20022020,
+1020,
+2010,
+5008,
+58
+#LYRIC Your life will fall tonight
+10,
+2001202020012020,
+2001202020012010,
+2001202020012020,
+2001202020012010,
+11221122,
+1122121211112222,
+#LYRIC Phase 3
+0000
+#LYRIC Now, to meet your demise!
+2002,
+4004004040001000,
+#GOGOSTART
+#LYRIC
+4011201120112122,
+1002102210112120,
+2021012021012020,
+2012011121212122,
+2021012010210120,
+2021012011121120,
+1011201210112000,
+1220201011212110,
+2121211120122022,
+1211102210001211,
+2021012021012020,
+2012011121212122,
+2022202210111011,
+2220111022111220,
+100100100100100100100100100100100100202020200000,
+100100100100100100100100100100100100202000202000,
+100100100100100100100100101010100200202020200200,
+101010100100100000200000101010100100100100100100,
+#GOGOEND
+20120120,
+#MEASURE 3/4
+120120,
+#MEASURE 5/4
+2012020210,
+#MEASURE 4/4
+1212,
+20120120,
+#MEASURE 3/4
+120120,
+#MEASURE 5/4
+20120202
+#LYRIC Do you think I'm done?
+20,
+#MEASURE 4/4
+3022102070008000,
+#GOGOSTART
+#LYRIC
+4011201120112122,
+1212121210112122,
+2021012021012020,
+200200100100202020200000101010200200101010200200,
+100100100100202020200200100100202020100100202020,
+200400111100400400111100,
+#MEASURE 3/4
+#GOGOEND
+#JPOSSCROLL 8.727 1060 1
+400,
+#MEASURE 3/8
+#SCROLL 2
+000,
+,
+#MEASURE 2/8
+0,
+#MEASURE 3/8
+000,
+#MEASURE 2/8
+0,
+,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#MEASURE 3/8
+000,
+,
+,
+,
+#MEASURE 2/8
+0,
+#MEASURE 5/8
+00000,
+#MEASURE 2/8
+#LYRIC This war has only begun.
+0,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#LYRIC
+0,
+#END
+
+COURSE:Hard
+LEVEL:9
+BALLOON:24
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#MEASURE 8/4
+#SCROLL 4
+90,
+#MEASURE 2/4
+#SCROLL -2
+80,
+,
+#MEASURE 1/4
+0,
+,
+,
+,
+#MEASURE 4/4
+#SCROLL 1
+3030
+#LYRIC It's here at last.
+1200,
+20120000,
+#LYRIC Your kind's final hope.
+40401200,
+20120010,
+30
+#LYRIC Some may call you a hero!
+301200,
+20120000,
+2020
+#LYRIC Others may call you a fool.
+1200,
+2112,
+3030
+#LYRIC Say, amuse me -
+1200,
+201200
+#LYRIC Is that fear or conviction written in your eyes?
+00,
+40401200,
+20120010,
+30
+#LYRIC The stage has been set, and we've been expecting you!
+301200,
+20120000,
+20201200,
+201201
+#LYRIC So welcome
+11,
+100000
+#LYRIC TO THE END OF THE WORLD!
+22,
+40444000,
+#LYRIC C|
+4
+#LYRIC Ch|
+0
+#LYRIC Cha|
+0
+#LYRIC Char|
+1
+#LYRIC Chart|
+0
+#LYRIC Charte|
+0
+#LYRIC Charter|
+2
+#LYRIC Charter:|
+0
+#LYRIC Charter: |
+01
+#LYRIC Charter:
+00
+#LYRIC Charter: |
+20
+#LYRIC Charter:
+20,
+#LYRIC Charter: |
+20
+#LYRIC Charter:
+01
+#LYRIC Charter: |
+00
+#LYRIC Charter:
+20
+#LYRIC Charter: |
+01
+#LYRIC Charter:
+00
+#LYRIC Charter: |
+20
+#LYRIC Charter:
+20,
+#LYRIC Charter: D|
+1
+#LYRIC Charter: Di|
+0
+#LYRIC Charter: Dia|
+1
+#LYRIC Charter: Diam|
+0
+#LYRIC Charter: Diamo|
+2
+#LYRIC Charter: Diamon|
+0
+#LYRIC Charter: Diamond|
+20
+#LYRIC Charter: Diamond
+10
+#LYRIC Charter: Diamond|
+11
+#LYRIC Charter: Diamond
+2000,
+#LYRIC Charter: DiamondN|
+10000010
+#LYRIC Charter: DiamondN1|
+00002000
+#LYRIC Charter: DiamondN1n|
+00200000
+#LYRIC Charter: DiamondN1nj|
+200000100100
+#LYRIC Charter: DiamondN1nja|
+200000000000,
+#LYRIC Charter: DiamondN1nja
+40
+#LYRIC Charter: DiamondN1nja|
+01
+#LYRIC Charter: DiamondN1nja
+00
+#LYRIC Charter: DiamondN1nja|
+20
+#LYRIC Charter: DiamondN1nja
+01
+#LYRIC Charter: DiamondN1nja|
+00
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+20,
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+01
+#LYRIC Charter: DiamondN1nja
+00
+#LYRIC Charter: DiamondN1nja|
+20
+#LYRIC Charter: DiamondN1nja
+01
+#LYRIC Charter: DiamondN1nja|
+00
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+20,
+#LYRIC Charter: DiamondN1nja
+10
+#LYRIC Charter: DiamondN1nja|
+10
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+20
+#LYRIC Charter: DiamondN1nja
+10
+#LYRIC Charter: DiamondN1nja|
+11
+#LYRIC Charter: DiamondN1nja
+20
+#LYRIC Charter: DiamondN1nja|
+00,
+#LYRIC Charter: DiamondN1nja
+100000
+#LYRIC Charter: DiamondN1nj|
+10
+#LYRIC Charter: DiamondN1n|
+00
+#LYRIC Charter: DiamondN1|
+00
+#LYRIC Charter: DiamondN|
+20
+#LYRIC Charter: Diamond|
+00
+#LYRIC Charter: Diamon|
+00
+#LYRIC Charter: Diamo|
+20
+#LYRIC Charter: Diam|
+02
+#LYRIC Charter: Dia|
+00
+#LYRIC Charter: Di|
+20
+#LYRIC Charter: D|
+00
+#LYRIC Charter: |
+00
+#LYRIC Charter:|
+10
+#LYRIC Charter|
+00
+#LYRIC Charte|
+00
+#LYRIC Chart|
+20
+#LYRIC Char|
+00
+#LYRIC Cha|
+00
+#LYRIC Ch|
+20
+#LYRIC C|
+00
+#LYRIC |
+00,
+#LYRIC
+4001002001002020,
+2001002001002020,
+2001002001002020,
+2001002010002020,
+11111111,
+1110111011105080,
+#LYRIC Phase 1
+20112022,
+1221,
+#GOGOSTART
+#LYRIC
+41212120,
+21212011,
+40404044,
+40140144,
+41212122,
+22212011,
+12212020,
+1011101020005080,
+2022202020002010,
+2010200010222020,
+41414141,
+41414141,
+21212121,
+21222122,
+#GOGOEND
+#LYRIC Phase 2
+1010202011102020,
+1221,
+#GOGOSTART
+#SCROLL 0.75
+#LYRIC
+3001001040001110,
+11114010,
+1110111040002020,
+1110111050008000,
+1001001040001110,
+11114010,
+1110111040001020,
+1110111050008000,
+3001001040001110,
+11114010,
+1110111040002020,
+1110111050008000,
+1001001040001110,
+11114010,
+#SCROLL 1
+1110111022202220,
+#SCROLL 1.2
+11212120,
+#GOGOEND
+0,
+#MEASURE 2/4
+#SCROLL 0.5
+#LYRIC Far from the hands of redemption
+50,
+80,
+20,
+20,
+50,
+80,
+20,
+20,
+10,
+20,
+10,
+#LYRIC A sound devoid of all conviction
+20,
+#MEASURE 4/4
+#SCROLL 1
+10022020,
+2121,
+#LYRIC I've become the cause of your own destruction
+1001201010012010,
+1001201010202010,
+#LYRIC Fall and face your retribution
+1001201010012020,
+1001200110102000,
+#LYRIC Face to face and eye to eye
+1001201010012010,
+100120101010
+#LYRIC Our bloods, they bind us
+2000,
+11221122,
+1221,
+#LYRIC
+3040000040040040,
+1122
+#LYRIC O light, divine is the fate that you've forsaken
+1220,
+5,
+8010,
+5080,
+2020,
+1020,
+2010,
+5008,
+58
+#LYRIC Your life will fall tonight
+10,
+10202022,
+20202022,
+10101012,
+1111,
+12222222,
+2220222050000000,
+#LYRIC Phase 3
+8000
+#LYRIC Now, to meet your demise!
+2002,
+4440,
+#GOGOSTART
+#LYRIC
+4001002010111020,
+1001201110002022,
+2001002001002020,
+2002002020202022,
+2002002010010020,
+2001002010102020,
+1011200010112000,
+1020201011111000,
+22222012,
+1110201110002222,
+2001002001002020,
+2002002020202022,
+2002001110010011,
+20221120,
+1010101010101110,
+1010101010101110,
+1010101011101110,
+1111102011111000,
+#GOGOEND
+40120120,
+#MEASURE 3/4
+120120,
+#MEASURE 5/4
+2002020210,
+#MEASURE 4/4
+1212,
+20120120,
+#MEASURE 3/4
+120120,
+#MEASURE 5/4
+20020202
+#LYRIC Do you think I'm done?
+20,
+#MEASURE 4/4
+30225080,
+#GOGOSTART
+#LYRIC
+40121012,
+1010101110002022,
+22122022,
+1110102011201120,
+1110222010201020,
+44104410,
+#MEASURE 3/4
+#GOGOEND
+#JPOSSCROLL 8.727 1060 1
+400,
+#MEASURE 3/8
+#SCROLL 2
+000,
+,
+#MEASURE 2/8
+0,
+#MEASURE 3/8
+000,
+#MEASURE 2/8
+0,
+,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#MEASURE 3/8
+000,
+,
+,
+,
+#MEASURE 2/8
+0,
+#MEASURE 5/8
+00000,
+#MEASURE 2/8
+#LYRIC This war has only begun.
+0,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#LYRIC
+0,
+#END
+
+COURSE:Normal
+LEVEL:7
+BALLOON:16,20
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#MEASURE 8/4
+#SCROLL 4
+90,
+#MEASURE 2/4
+#SCROLL -2
+80,
+,
+#MEASURE 1/4
+0,
+,
+,
+,
+#MEASURE 4/4
+#SCROLL 1
+3030
+#LYRIC It's here at last.
+0100,
+10010000,
+#LYRIC Your kind's final hope.
+40400200,
+20020010,
+30
+#LYRIC Some may call you a hero!
+300100,
+10010000,
+2020
+#LYRIC Others may call you a fool.
+0200,
+20020010,
+3030
+#LYRIC Say, amuse me -
+0100,
+100100
+#LYRIC Is that fear or conviction written in your eyes?
+00,
+40400200,
+20020010,
+30
+#LYRIC The stage has been set, and we've been expecting you!
+300100,
+10010000,
+20200200,
+200200
+#LYRIC So welcome
+10,
+100000
+#LYRIC TO THE END OF THE WORLD!
+22,
+2040,
+#LYRIC C|
+4
+#LYRIC Ch|
+0
+#LYRIC Cha|
+0
+#LYRIC Char|
+0
+#LYRIC Chart|
+0
+#LYRIC Charte|
+0
+#LYRIC Charter|
+2
+#LYRIC Charter:|
+0
+#LYRIC Charter: |
+00
+#LYRIC Charter:
+20
+#LYRIC Charter: |
+20
+#LYRIC Charter:
+00,
+#LYRIC Charter: |
+2
+#LYRIC Charter:
+0
+#LYRIC Charter: |
+0
+#LYRIC Charter:
+2
+#LYRIC Charter: |
+0
+#LYRIC Charter:
+2
+#LYRIC Charter: |
+2
+#LYRIC Charter:
+0,
+#LYRIC Charter: D|
+1
+#LYRIC Charter: Di|
+0
+#LYRIC Charter: Dia|
+0
+#LYRIC Charter: Diam|
+1
+#LYRIC Charter: Diamo|
+0
+#LYRIC Charter: Diamon|
+0
+#LYRIC Charter: Diamond|
+10
+#LYRIC Charter: Diamond
+01
+#LYRIC Charter: Diamond|
+00
+#LYRIC Charter: Diamond
+1000,
+#LYRIC Charter: DiamondN|
+10000000
+#LYRIC Charter: DiamondN1|
+01000000
+#LYRIC Charter: DiamondN1n|
+00100000
+#LYRIC Charter: DiamondN1nj|
+000100000000
+#LYRIC Charter: DiamondN1nja|
+100000000000,
+#LYRIC Charter: DiamondN1nja
+4
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+2
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+2
+#LYRIC Charter: DiamondN1nja
+2
+#LYRIC Charter: DiamondN1nja|
+0,
+#LYRIC Charter: DiamondN1nja
+2
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+2
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+2
+#LYRIC Charter: DiamondN1nja
+2
+#LYRIC Charter: DiamondN1nja|
+0,
+#LYRIC Charter: DiamondN1nja
+10
+#LYRIC Charter: DiamondN1nja|
+01
+#LYRIC Charter: DiamondN1nja
+00
+#LYRIC Charter: DiamondN1nja|
+10
+#LYRIC Charter: DiamondN1nja
+01
+#LYRIC Charter: DiamondN1nja|
+00
+#LYRIC Charter: DiamondN1nja
+10
+#LYRIC Charter: DiamondN1nja|
+00,
+#LYRIC Charter: DiamondN1nja
+100000
+#LYRIC Charter: DiamondN1nj|
+00
+#LYRIC Charter: DiamondN1n|
+01
+#LYRIC Charter: DiamondN1|
+00
+#LYRIC Charter: DiamondN|
+00
+#LYRIC Charter: Diamond|
+00
+#LYRIC Charter: Diamon|
+00
+#LYRIC Charter: Diamo|
+10
+#LYRIC Charter: Diam|
+00
+#LYRIC Charter: Dia|
+00
+#LYRIC Charter: Di|
+00
+#LYRIC Charter: D|
+01
+#LYRIC Charter: |
+00
+#LYRIC Charter:|
+00
+#LYRIC Charter|
+00
+#LYRIC Charte|
+00
+#LYRIC Chart|
+10
+#LYRIC Char|
+00
+#LYRIC Cha|
+00
+#LYRIC Ch|
+00
+#LYRIC C|
+00
+#LYRIC |
+00,
+#LYRIC
+3222,
+2002002000002000,
+2222,
+2233,
+11101110,
+11115000,
+#LYRIC Phase 1
+8,
+2221,
+#GOGOSTART
+#LYRIC
+2222,
+20202022,
+1111,
+30030030,
+2222,
+22202022,
+5858,
+2221,
+22222022,
+20202220,
+3333,
+3358,
+2222,
+20222022,
+#GOGOEND
+#LYRIC Phase 2
+0,
+2220,
+#GOGOSTART
+#SCROLL 0.75
+#LYRIC
+1040,
+1140,
+11104000,
+11104000,
+1040,
+1140,
+11104000,
+11104000,
+1040,
+1140,
+11104000,
+11104000,
+1040,
+1141,
+#SCROLL 1
+11102220,
+#SCROLL 1.2
+2221,
+#GOGOEND
+0,
+#MEASURE 2/4
+#SCROLL 0.5
+#LYRIC Far from the hands of redemption
+50,
+80,
+20,
+20,
+50,
+80,
+20,
+20,
+10,
+20,
+10,
+#LYRIC A sound devoid of all conviction
+20,
+#MEASURE 4/4
+#SCROLL 1
+1020,
+2221,
+#LYRIC I've become the cause of your own destruction
+1010,
+1111,
+#LYRIC Fall and face your retribution
+1010,
+1220,
+#LYRIC Face to face and eye to eye
+1010,
+202
+#LYRIC Our bloods, they bind us
+0,
+1110,
+2220,
+#LYRIC
+12004000,
+1110
+#LYRIC O light, divine is the fate that you've forsaken
+3000,
+5,
+8010,
+5080,
+2020,
+1020,
+2010,
+5008,
+50
+#LYRIC Your life will fall tonight
+80,
+1111,
+1110,
+1111,
+1110,
+11101110,
+6,
+#LYRIC Phase 3
+80
+#LYRIC Now, to meet your demise!
+00,
+4440,
+#GOGOSTART
+#LYRIC
+4121,
+10111022,
+2121,
+2220,
+1001000020020000,
+1001000020000000,
+1212,
+50815080,
+22202020,
+10111022,
+2121,
+2220,
+10022001,
+1212,
+7,
+,
+0008,
+3030,
+#GOGOEND
+40020020,
+#MEASURE 3/4
+020020,
+#MEASURE 5/4
+2002020220,
+#MEASURE 4/4
+2222,
+20020020,
+#MEASURE 3/4
+020020,
+#MEASURE 5/4
+20020202
+#LYRIC Do you think I'm done?
+20,
+#MEASURE 4/4
+3358,
+#GOGOSTART
+#LYRIC
+40102011,
+10111022,
+20111010,
+2258,
+1212,
+22002200,
+#MEASURE 3/4
+#GOGOEND
+#JPOSSCROLL 8.727 1060 1
+400,
+#MEASURE 3/8
+#SCROLL 2
+000,
+,
+#MEASURE 2/8
+0,
+#MEASURE 3/8
+000,
+#MEASURE 2/8
+0,
+,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#MEASURE 3/8
+000,
+,
+,
+,
+#MEASURE 2/8
+0,
+#MEASURE 5/8
+00000,
+#MEASURE 2/8
+#LYRIC This war has only begun.
+0,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#LYRIC
+0,
+#END
+
+COURSE:Easy
+LEVEL:5
+BALLOON:8,12
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#MEASURE 8/4
+#SCROLL 4
+90,
+#MEASURE 2/4
+#SCROLL -2
+80,
+,
+#MEASURE 1/4
+0,
+,
+,
+,
+#MEASURE 4/4
+#SCROLL 1
+3010
+#LYRIC It's here at last.
+0100,
+10010000,
+#LYRIC Your kind's final hope.
+40400200,
+20020000,
+30
+#LYRIC Some may call you a hero!
+300100,
+10010000,
+2020
+#LYRIC Others may call you a fool.
+0200,
+20020000,
+3030
+#LYRIC Say, amuse me -
+0100,
+100100
+#LYRIC Is that fear or conviction written in your eyes?
+00,
+40400200,
+20020000,
+30
+#LYRIC The stage has been set, and we've been expecting you!
+300100,
+10010000,
+20200200,
+200200
+#LYRIC So welcome
+00,
+000
+#LYRIC TO THE END OF THE WORLD!
+0,
+,
+#LYRIC C|
+3
+#LYRIC Ch|
+0
+#LYRIC Cha|
+0
+#LYRIC Char|
+0
+#LYRIC Chart|
+0
+#LYRIC Charte|
+0
+#LYRIC Charter|
+0
+#LYRIC Charter:|
+0
+#LYRIC Charter: |
+10
+#LYRIC Charter:
+00
+#LYRIC Charter: |
+00
+#LYRIC Charter:
+00,
+#LYRIC Charter: |
+1
+#LYRIC Charter:
+0
+#LYRIC Charter: |
+0
+#LYRIC Charter:
+0
+#LYRIC Charter: |
+1
+#LYRIC Charter:
+0
+#LYRIC Charter: |
+0
+#LYRIC Charter:
+0,
+#LYRIC Charter: D|
+2
+#LYRIC Charter: Di|
+0
+#LYRIC Charter: Dia|
+0
+#LYRIC Charter: Diam|
+0
+#LYRIC Charter: Diamo|
+0
+#LYRIC Charter: Diamon|
+0
+#LYRIC Charter: Diamond|
+20
+#LYRIC Charter: Diamond
+00
+#LYRIC Charter: Diamond|
+00
+#LYRIC Charter: Diamond
+2000,
+#LYRIC Charter: DiamondN|
+2000
+#LYRIC Charter: DiamondN1|
+0000
+#LYRIC Charter: DiamondN1n|
+0200
+#LYRIC Charter: DiamondN1nj|
+000000
+#LYRIC Charter: DiamondN1nja|
+200000,
+#LYRIC Charter: DiamondN1nja
+1
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+1
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+0,
+#LYRIC Charter: DiamondN1nja
+1
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+1
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+0,
+#LYRIC Charter: DiamondN1nja
+2
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+2
+#LYRIC Charter: DiamondN1nja
+0
+#LYRIC Charter: DiamondN1nja|
+0
+#LYRIC Charter: DiamondN1nja
+2
+#LYRIC Charter: DiamondN1nja|
+0,
+#LYRIC Charter: DiamondN1nja
+200
+#LYRIC Charter: DiamondN1nj|
+0
+#LYRIC Charter: DiamondN1n|
+0
+#LYRIC Charter: DiamondN1|
+0
+#LYRIC Charter: DiamondN|
+0
+#LYRIC Charter: Diamond|
+0
+#LYRIC Charter: Diamon|
+0
+#LYRIC Charter: Diamo|
+2
+#LYRIC Charter: Diam|
+0
+#LYRIC Charter: Dia|
+0
+#LYRIC Charter: Di|
+0
+#LYRIC Charter: D|
+0
+#LYRIC Charter: |
+0
+#LYRIC Charter:|
+0
+#LYRIC Charter|
+0
+#LYRIC Charte|
+0
+#LYRIC Chart|
+2
+#LYRIC Char|
+0
+#LYRIC Cha|
+0
+#LYRIC Ch|
+0
+#LYRIC C|
+0
+#LYRIC |
+0,
+#LYRIC
+3110,
+1110,
+1110,
+1110,
+1111,
+5,
+#LYRIC Phase 1
+8,
+2220,
+#GOGOSTART
+#LYRIC
+1110,
+1110,
+2220,
+40040000,
+1110,
+1110,
+1020,
+5080,
+1111,
+1010,
+2220,
+2220,
+1110,
+1110,
+#GOGOEND
+#LYRIC Phase 2
+5,
+8,
+#GOGOSTART
+#SCROLL 0.75
+#LYRIC
+1020,
+1020,
+1020,
+1,
+2010,
+2010,
+2010,
+5080,
+1020,
+1020,
+1020,
+1,
+2010,
+2010,
+#SCROLL 1
+5008,
+#SCROLL 1.2
+6,
+#GOGOEND
+8,
+#MEASURE 2/4
+#SCROLL 0.5
+#LYRIC Far from the hands of redemption
+20,
+,
+20,
+,
+20,
+,
+20,
+,
+20,
+,
+20,
+#LYRIC A sound devoid of all conviction
+00,
+#MEASURE 4/4
+#SCROLL 1
+1010,
+1111,
+#LYRIC I've become the cause of your own destruction
+1010,
+1110,
+#LYRIC Fall and face your retribution
+2020,
+2220,
+#LYRIC Face to face and eye to eye
+1010,
+202
+#LYRIC Our bloods, they bind us
+0,
+1020,
+5080,
+#LYRIC
+3030,
+33
+#LYRIC O light, divine is the fate that you've forsaken
+30,
+5,
+8010,
+5080,
+2020,
+1020,
+2010,
+5008,
+50
+#LYRIC Your life will fall tonight
+80,
+1110,
+1110,
+1110,
+1110,
+6,
+,
+#LYRIC Phase 3
+80
+#LYRIC Now, to meet your demise!
+00,
+4440,
+#GOGOSTART
+#LYRIC
+4020,
+2220,
+1010,
+1110,
+2010,
+2010,
+2222,
+5080,
+1010,
+1110,
+2020,
+2220,
+1020,
+1120,
+7,
+,
+0008,
+3030,
+#GOGOEND
+40020020,
+#MEASURE 3/4
+020020,
+#MEASURE 5/4
+2002020020,
+#MEASURE 4/4
+2220,
+20020020,
+#MEASURE 3/4
+020020,
+#MEASURE 5/4
+20020200
+#LYRIC Do you think I'm done?
+20,
+#MEASURE 4/4
+3058,
+#GOGOSTART
+#LYRIC
+4222,
+2220,
+1111,
+1110,
+2222,
+4040,
+#MEASURE 3/4
+#GOGOEND
+#JPOSSCROLL 8.727 1060 1
+400,
+#MEASURE 3/8
+#SCROLL 2
+000,
+,
+#MEASURE 2/8
+0,
+#MEASURE 3/8
+000,
+#MEASURE 2/8
+0,
+,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#MEASURE 3/8
+000,
+,
+,
+,
+#MEASURE 2/8
+0,
+#MEASURE 5/8
+00000,
+#MEASURE 2/8
+#LYRIC This war has only begun.
+0,
+#MEASURE 1/8
+0,
+#MEASURE 2/8
+0,
+,
+,
+,
+,
+#LYRIC
+0,
+#END

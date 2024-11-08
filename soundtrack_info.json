@@ -221,7 +221,7 @@
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\DLB.png",
         "chartHoFRanks": {
             "Edit": 3,
-            "Oni": 37
+            "Oni": 38
         }
     },
     {
@@ -253,7 +253,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\010 - BassBoL\\BassBoL.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\010 - BassBoL\\BassBol.png",
         "chartHoFRanks": {
-            "Oni": 30
+            "Oni": 31
         }
     },
     {
@@ -437,7 +437,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.png",
         "chartHoFRanks": {
-            "Oni": 41
+            "Oni": 42
         }
     },
     {
@@ -501,7 +501,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\020 - Slayer of\\Slayer of..ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 31
+            "Edit": 32
         }
     },
     {
@@ -999,7 +999,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.png",
         "chartHoFRanks": {
-            "Oni": 42
+            "Oni": 43
         }
     },
     {
@@ -1786,7 +1786,7 @@
         "chartAudioFilePath": "02 OpenTaiko Chapter II\\070 - Kernschmelze 256\\Kernschmelze 256.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 38
+            "Oni": 39
         }
     },
     {
@@ -2788,7 +2788,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.png",
         "chartHoFRanks": {
-            "Edit": 44
+            "Edit": 45
         }
     },
     {
@@ -2851,7 +2851,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\117 - M Ji U\\MJiU.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 36
+            "Oni": 37
         }
     },
     {
@@ -3294,7 +3294,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 43
+            "Edit": 44
         }
     },
     {
@@ -3541,7 +3541,7 @@
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\143 - you ruined me with your lies\\you ruined me with your lies.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 39
+            "Oni": 40
         }
     },
     {
@@ -3977,6 +3977,36 @@
         }
     },
     {
+        "uniqueId": "bLAcKMagicARdOLf",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.jpg",
+            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.ogg",
+            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.tja",
+            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "de2c6995795dee29a25a5609dd5a2c77",
+        "chartSize": 3.63,
+        "chartTitle": "BLACK MAGIC",
+        "chartSubtitle": "Ardolf",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Normal": 6,
+            "Easy": 5,
+            "Hard": 7
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Hard": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "siLVerBULleTardOlf",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet",
         "tjaFilesPath": [
@@ -4065,6 +4095,36 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\162 - linebreak\\linebreak.ogg",
         "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pSeUDomONARcHiALiliTHLYCANixVSCUSI",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.ogg",
+            "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.png",
+            "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.tja",
+            "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "b7ccc18adfb2cf8e8766feffd1fbe6e0",
+        "chartSize": 4.68,
+        "chartTitle": "PSEUDOMONARCHIA",
+        "chartSubtitle": "Lilith (Lycanix vs Cusi)",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.png",
         "chartHoFRanks": {}
     },
     {
@@ -4348,7 +4408,7 @@
         "chartAudioFilePath": "C12 Dashy's Secrets\\027 - Broken Metronome\\br.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\027 - Broken Metronome\\br.png",
         "chartHoFRanks": {
-            "Edit": 32
+            "Edit": 33
         }
     },
     {
@@ -4418,7 +4478,7 @@
         "chartAudioFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.png",
         "chartHoFRanks": {
-            "Edit": 46
+            "Edit": 47
         }
     },
     {
@@ -4612,7 +4672,7 @@
         "chartJacketFilePath": "C12 Dashy's Secrets\\080 - I want to bloom\\bloom.png",
         "chartHoFRanks": {
             "Edit": 2,
-            "Oni": 33
+            "Oni": 34
         }
     },
     {
@@ -4921,7 +4981,7 @@
         "chartAudioFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.jpg",
         "chartHoFRanks": {
-            "Oni": 35
+            "Oni": 36
         }
     },
     {
@@ -4955,7 +5015,7 @@
         "chartAudioFilePath": "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\Rainy Night III ~Unreal Rainbow~.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\Rainy Night III.jpg",
         "chartHoFRanks": {
-            "Edit": 34
+            "Edit": 35
         }
     },
     {
@@ -5019,7 +5079,7 @@
         "chartAudioFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
         "chartHoFRanks": {
-            "Oni": 40
+            "Oni": 41
         }
     },
     {
@@ -5144,7 +5204,9 @@
         },
         "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ04 - 164 - Feral The last call\\nep04.ogg",
         "chartJacketFilePath": null,
-        "chartHoFRanks": {}
+        "chartHoFRanks": {
+            "Edit": 30
+        }
     },
     {
         "uniqueId": "outfox01",
@@ -5610,7 +5672,7 @@
         "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 45
+            "Edit": 46
         }
     },
     {

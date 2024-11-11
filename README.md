@@ -122,7 +122,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 115 - 菖蒲日和 : Y.W - https://soundcloud.com/pme_yw http://www.yw-works.com/ (Chart by Takkkom)
 116 - 卒業2000 : Y.W - https://soundcloud.com/pme_yw http://www.yw-works.com/ (Chart by Komi)
 117 - M_《Ji：Ü》 : Masamune (Chart by bol)
-118 - Froggy Forest Raceway : Baby Zionov https://twitter.com/babyzionov (Chart by Shoxk & DragonRatTiger)
+118 - Froggy Forest Raceway : Baby Zionov - https://twitter.com/babyzionov (Chart by Shoxk & DragonRatTiger)
 119 - Fractured Eternity : roər & Toneix [roər: SC ➜ https://soundcloud.com/rroer TW ➜ https://twitter.com/roerdtm YT ➜ https://www.youtube.com/@roer-music | Toneix: SC ➜ https://soundcloud.com/toneix TW ➜ https://twitter.com/Toneix1 YT ➜ https://www.youtube.com/@Toneix/featured] (Chart by Komi & bol) 
 120 - the infinite cityscape : Makotora - https://soundcloud.com/kingmakotora (Chart by sadkay & Komi)
 121 - PARANOiA Perpetuality : funkyzukin - https://funkyzukin.bandcamp.com/ (Chart by Komi) 
@@ -170,6 +170,13 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 163 - NEP0：N3PHTHYSジユ : OPTK-HQ=CHANNEL0125 (Chart by OPTK-HQ)
 164 - NEP0：THELASTC4LLフェラル : OPTK-HQ=CHANNEL0117 (Chart by OPTK-HQ)
 165 - PSEUDOMONARCHIA : Lilith (Lycanix vs Cusi) - https://x.com/CusiMusic https://x.com/OfficialLycanix (Chart by DiamondN1nja)
+166 - Dolphin Diamond Raceway : Baby Zionov - https://twitter.com/babyzionov (Chart by Shoxk & Komi)
+167 - 
+168 - Cøllapse of the Surface : OpenTaiko Sound Team "Dashy" - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
+169 - Cørruption of the Søul : OpenTaiko Sound Team "Agøny" (Chart by Komi)
+170 -
+171 -
+172 -
 ```
 
 ### Visuals

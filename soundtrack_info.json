@@ -4137,7 +4137,7 @@
             "04 OpenTaiko Chapter IV\\166 - Dolphin Diamond Raceway\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "9d6c92f097b556f718f9ef8aa5e8111d",
+        "tjaMD5": "20e9fa7bb3c705a4255cc896ac192c9f",
         "chartSize": 3.66,
         "chartTitle": "Dolphin Diamond Raceway",
         "chartSubtitle": "Baby Zionov",
@@ -4168,7 +4168,7 @@
             "04 OpenTaiko Chapter IV\\168 - Collapse of the Surface\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "c479e2c18a0e27603571f942b5e3afbd",
+        "tjaMD5": "67263bda6159e868ef5a515326748a5f",
         "chartSize": 2.79,
         "chartTitle": "C\u00f8llapse of the Surface",
         "chartSubtitle": "OpenTaiko Sound Team \"Dashy\"",
@@ -4185,7 +4185,7 @@
             "Easy": "Dashy"
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\168 - Collapse of the Surface\\surface.ogg",
-        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\168 - Collapse of the Surface\\nextstory.png",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

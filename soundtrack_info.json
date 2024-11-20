@@ -4218,6 +4218,97 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "WIldcArdyw",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\171 - Wildcard",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\171 - Wildcard\\uniqueId.json",
+            "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.ogg",
+            "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.png",
+            "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.tja"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "c810acaebaa0bbb9c7491755a98bc517",
+        "chartSize": 2.92,
+        "chartTitle": "Wildcard",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Edit": 10.1,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 4,
+            "Oni": 9
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Oni": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "VisioNarYxtKakeruracHeLtYpex",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\174 - Visionary",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\174 - Visionary\\uniqueId.json",
+            "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.ogg",
+            "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.tja"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "37f9867f312acae11a63d49565b14c58",
+        "chartSize": 3.31,
+        "chartTitle": "Visionary",
+        "chartSubtitle": "xtkakeru & RachelTypeX",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "SimpleXOFFICiAlAz3",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\176 - Sim-plex",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.ogg",
+            "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.png",
+            "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.tja",
+            "04 OpenTaiko Chapter IV\\176 - Sim-plex\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "9cf6ccd6ad05a7e14cc5e12f413e5041",
+        "chartSize": 4.7,
+        "chartTitle": "Sim-plex",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

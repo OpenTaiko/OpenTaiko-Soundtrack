@@ -4250,6 +4250,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "cElesTSOulauRorawhiteTAil",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\Celestsoul Aurora.ogg",
+            "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\Celestsoul Aurora.png",
+            "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\Celestsoul Aurora.tja",
+            "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "48cf6ac67335f820b692526ef92fb57c",
+        "chartSize": 4.08,
+        "chartTitle": "Celestsoul Aurora",
+        "chartSubtitle": "Whitetail",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Ryuto Setsujin",
+            "Hard": "Ryuto Setsujin",
+            "Normal": "Ryuto Setsujin",
+            "Easy": "Ryuto Setsujin"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\Celestsoul Aurora.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\Celestsoul Aurora.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "VisioNarYxtKakeruracHeLtYpex",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\174 - Visionary",
         "tjaFilesPath": [

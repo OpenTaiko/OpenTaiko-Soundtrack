@@ -171,7 +171,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 164 - NEP0：THELASTC4LLフェラル : OPTK-HQ=CHANNEL0117 (Chart by OPTK-HQ)
 165 - PSEUDOMONARCHIA : Lilith (Lycanix vs Cusi) - https://x.com/CusiMusic https://x.com/OfficialLycanix (Chart by DiamondN1nja)
 166 - Dolphin Diamond Raceway : Baby Zionov - https://twitter.com/babyzionov (Chart by Shoxk & Komi)
-167 - 
+167 - Before It Ends : BilliumMoto - https://soundcloud.com/billiummoto (Chart by berdstep & bol)
 168 - Cøllapse of the Surface : OpenTaiko Sound Team "Dashy" - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 169 - Cørruption of the Søul : OpenTaiko Sound Team "Agøny" (Chart by Komi)
 170 -

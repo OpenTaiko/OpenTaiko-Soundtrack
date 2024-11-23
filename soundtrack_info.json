@@ -4160,6 +4160,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "BEFoReITeNdSBilLIummOto",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\167 - Before it ends",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.jpg",
+            "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.ogg",
+            "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.tja",
+            "04 OpenTaiko Chapter IV\\167 - Before it ends\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "c080b7eaab616ee8c069b7ad46eac9b7",
+        "chartSize": 3.9,
+        "chartTitle": "Before It Ends",
+        "chartSubtitle": "BilliumMoto",
+        "chartDifficulties": {
+            "Edit": 10.7,
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "berdstep",
+            "Hard": "berdstep",
+            "Normal": "berdstep",
+            "Easy": "berdstep"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "cLlapsEoFtheSurfACeoPentAiKOsOuNdteaMDAsHy",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\168 - Collapse of the Surface",
         "tjaFilesPath": [

@@ -181,6 +181,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 174 - Visionary : xtkakeru & RachelTypeX - https://youtu.be/wCF7BKlXtAs?si=cLL7TDlVlhFweTjp (Chart by DiamondN1nja & bol)
 175 -
 176 - Sim-plex : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
+177 - 
+178 -
+179 - Authentic (Game Mix) : Colin McGuire ft. Teto Kasane - https://youtu.be/VadL3qgwv6I?si=8GAvxmBS77DFCsHL (Chart by Colin)
 ```
 
 ### Visuals

@@ -4371,6 +4371,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "authentic",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).mp4",
+            "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).ogg",
+            "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).png",
+            "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).tja",
+            "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).vtt",
+            "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "51548c2a223bedd58e4c51c2af3c7893",
+        "chartSize": 26.45,
+        "chartTitle": "Authentic (Game Mix)",
+        "chartSubtitle": "Colin McGuire ft. Teto Kasane",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 3,
+            "Hard": 6,
+            "Oni": 8
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

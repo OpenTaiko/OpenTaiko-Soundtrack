@@ -1264,17 +1264,19 @@
             "02 OpenTaiko Chapter II\\050 - Annihilation\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "78cf53856dfb52ed45447a6db9dd315d",
+        "tjaMD5": "e171d99763daeb22e04dcddca0b24fe1",
         "chartSize": 5.4,
         "chartTitle": "Annihilation",
         "chartSubtitle": "H5",
         "chartDifficulties": {
+            "Edit": 10.8,
             "Oni": 10.6,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5
         },
         "chartMakers": {
+            "Edit": "bol",
             "Oni": "bol",
             "Hard": "bol",
             "Normal": "bol",

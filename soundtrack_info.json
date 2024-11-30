@@ -221,7 +221,7 @@
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\DLB.png",
         "chartHoFRanks": {
             "Edit": 3,
-            "Oni": 38
+            "Oni": 40
         }
     },
     {
@@ -437,7 +437,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.png",
         "chartHoFRanks": {
-            "Oni": 42
+            "Oni": 44
         }
     },
     {
@@ -999,7 +999,7 @@
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.png",
         "chartHoFRanks": {
-            "Oni": 43
+            "Oni": 45
         }
     },
     {
@@ -1284,7 +1284,9 @@
         },
         "chartAudioFilePath": "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.ogg",
         "chartJacketFilePath": null,
-        "chartHoFRanks": {}
+        "chartHoFRanks": {
+            "Edit": 37
+        }
     },
     {
         "uniqueId": "6qvRnWGz9RWSI0hMa6A9fnQBlmReBPRnwtPVNE3XqJyaeXe7VaQa488Zep5Zt63S",
@@ -1788,7 +1790,7 @@
         "chartAudioFilePath": "02 OpenTaiko Chapter II\\070 - Kernschmelze 256\\Kernschmelze 256.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 39
+            "Oni": 41
         }
     },
     {
@@ -2790,7 +2792,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.png",
         "chartHoFRanks": {
-            "Edit": 45
+            "Edit": 47
         }
     },
     {
@@ -2853,7 +2855,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\117 - M Ji U\\MJiU.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 37
+            "Oni": 39
         }
     },
     {
@@ -3296,7 +3298,7 @@
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 44
+            "Edit": 46
         }
     },
     {
@@ -3543,7 +3545,7 @@
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\143 - you ruined me with your lies\\you ruined me with your lies.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 40
+            "Oni": 36
         }
     },
     {
@@ -4191,7 +4193,9 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.jpg",
-        "chartHoFRanks": {}
+        "chartHoFRanks": {
+            "Edit": 43
+        }
     },
     {
         "uniqueId": "cLlapsEoFtheSurfACeoPentAiKOsOuNdteaMDAsHy",
@@ -4755,7 +4759,7 @@
         "chartAudioFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.png",
         "chartHoFRanks": {
-            "Edit": 47
+            "Edit": 49
         }
     },
     {
@@ -5258,7 +5262,7 @@
         "chartAudioFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.jpg",
         "chartHoFRanks": {
-            "Oni": 36
+            "Oni": 38
         }
     },
     {
@@ -5356,7 +5360,7 @@
         "chartAudioFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
         "chartHoFRanks": {
-            "Oni": 41
+            "Oni": 42
         }
     },
     {
@@ -5949,7 +5953,7 @@
         "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 46
+            "Edit": 48
         }
     },
     {

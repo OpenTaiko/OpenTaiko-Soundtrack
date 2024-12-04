@@ -4288,6 +4288,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "FreSHnessvaCatiONYW",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\172 - Freshness Vacation",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\Freshness Vacation.ogg",
+            "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\Freshness Vacation.png",
+            "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\Freshness Vacation.tja",
+            "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "dbfa3a78d0142bba3f3280350513dd05",
+        "chartSize": 4.32,
+        "chartTitle": "Freshness Vacation",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\Freshness Vacation.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\Freshness Vacation.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "cElesTSOulauRorawhiteTAil",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora",
         "tjaFilesPath": [

@@ -176,8 +176,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 169 - Cørruption of the Søul : OpenTaiko Sound Team "Agøny" (Chart by Komi)
 170 -
 171 - Wildcard : Y.W - https://soundcloud.com/pme_yw http://www.yw-works.com/ (Chart by Komi)
-172 -
-173 -　Celestsoul Aurora : Whitetail - https://soundcloud.com/whitetail-music https://treepunk.bandcamp.com/ https://www.youtube.com/user/whitetailmusic (Chart by Ryuto Setsujin)
+172 - Freshness Vacation : Y.W - https://soundcloud.com/pme_yw http://www.yw-works.com/ (Chart by Komi)
+173 - Celestsoul Aurora : Whitetail - https://soundcloud.com/whitetail-music https://treepunk.bandcamp.com/ https://www.youtube.com/user/whitetailmusic (Chart by Ryuto Setsujin)
 174 - Visionary : xtkakeru & RachelTypeX - https://youtu.be/wCF7BKlXtAs?si=cLL7TDlVlhFweTjp (Chart by DiamondN1nja & bol)
 175 -
 176 - Sim-plex : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)

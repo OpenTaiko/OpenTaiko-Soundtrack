@@ -7637,6 +7637,32 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "gaiden_2024_salad_ryuto1",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\4.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GA. Gaiden Salad",
+        "tjaMD5": "9ea6c032ad3d9f409ca4187bb9160a87",
+        "chartSize": 16.09,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Ryuto's Birthday Bash",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\1.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "cIJCyXU883gyZU5D2sE317xYcPMUYnwhlVQzM1MSrci6znM65C9TLmKuAkWZhQfr",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5",
         "tjaFilesPath": [

@@ -358,7 +358,7 @@
             "01 OpenTaiko Chapter I\\015 - White Heart\\White-Heart_Jacket-ARt.png"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "b7c53fbf32b520e43552185a6cf8efcd",
+        "tjaMD5": "3170f5c70f0306e8abc225ebfdba7194",
         "chartSize": 3.19,
         "chartTitle": "White Heart",
         "chartSubtitle": "9C feat. Cusi",
@@ -366,7 +366,7 @@
             "Oni": 9,
             "Hard": 8,
             "Normal": 7,
-            "Easy": 2
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "bol",
@@ -1981,13 +1981,14 @@
         "uniqueId": "9Yatcy5jMd23ic9qMFMfsQxHXMyjnJb77Robh1rCz5AeHg3wF2O8fWYRhBs0SNGz",
         "tjaFolderPath": "02 OpenTaiko Chapter II\\081 - Taikonitos",
         "tjaFilesPath": [
+            "02 OpenTaiko Chapter II\\081 - Taikonitos\\Taikonitos.jpg",
             "02 OpenTaiko Chapter II\\081 - Taikonitos\\Taikonitos.ogg",
             "02 OpenTaiko Chapter II\\081 - Taikonitos\\Taikonitos.tja",
             "02 OpenTaiko Chapter II\\081 - Taikonitos\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "dbabcedc01555b6faa7ee8050e8779e1",
-        "chartSize": 8.22,
+        "tjaMD5": "a0922c8e97c5ed3993ffa9b98cfae6fa",
+        "chartSize": 8.26,
         "chartTitle": "Taikonitos",
         "chartSubtitle": "Moox",
         "chartDifficulties": {
@@ -2003,7 +2004,7 @@
             "Oni": "Colin"
         },
         "chartAudioFilePath": "02 OpenTaiko Chapter II\\081 - Taikonitos\\Taikonitos.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "02 OpenTaiko Chapter II\\081 - Taikonitos\\Taikonitos.jpg",
         "chartHoFRanks": {}
     },
     {
@@ -3310,12 +3311,12 @@
             "03 OpenTaiko Chapter III\\133 - Fungus Night Carnival ~ Rhythm of the war\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "f8240569ddd178dae824b99ce6219d6e",
+        "tjaMD5": "76fe2f1ff60484aa6ddcb9580a8a9507",
         "chartSize": 5.88,
         "chartTitle": "Fungus Night Carnival ~ Rhythm of the war",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
-            "Oni": 10.1,
+            "Oni": 10.0,
             "Edit": 9,
             "Hard": 7,
             "Normal": 6,
@@ -3800,12 +3801,12 @@
             "04 OpenTaiko Chapter IV\\152 - nante kotta\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "9eecaadfed2eed2d654bbae8fef3e5a1",
+        "tjaMD5": "94d3c97e19dacfdd6fda170efd6c2922",
         "chartSize": 3.56,
         "chartTitle": "nante kotta?!",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 10.4,
+            "Edit": 10.5,
             "Oni": 9,
             "Hard": 7,
             "Normal": 5,
@@ -4265,12 +4266,12 @@
             "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.tja"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "c810acaebaa0bbb9c7491755a98bc517",
+        "tjaMD5": "ebbf45c3a9ceac810a6dc8107f2c2754",
         "chartSize": 2.92,
         "chartTitle": "Wildcard",
         "chartSubtitle": "Y.W",
         "chartDifficulties": {
-            "Edit": 10.1,
+            "Edit": 10.2,
             "Hard": 6,
             "Normal": 6,
             "Easy": 4,
@@ -4386,12 +4387,12 @@
             "04 OpenTaiko Chapter IV\\176 - Sim-plex\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "9cf6ccd6ad05a7e14cc5e12f413e5041",
+        "tjaMD5": "357d832ab41901b641ad60a5004b7b60",
         "chartSize": 4.7,
         "chartTitle": "Sim-plex",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
-            "Oni": 10.2,
+            "Oni": 10.4,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5
@@ -4404,6 +4405,65 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "TheWORldoFsCarleToFfIcIalaz3",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\177 - the world of scarlet",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\the world of scarlet.ogg",
+            "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\the world of scarlet.png",
+            "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\the world of scarlet.tja",
+            "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "a0a86f4e36e2a530654afc630189e39b",
+        "chartSize": 10.56,
+        "chartTitle": "the world of scarlet",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 10.3,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\the world of scarlet.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\the world of scarlet.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "ParANO1AH5",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\178 - PARANO1A",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\178 - PARANO1A\\PARANO1A.ogg",
+            "04 OpenTaiko Chapter IV\\178 - PARANO1A\\PARANO1A.tja",
+            "04 OpenTaiko Chapter IV\\178 - PARANO1A\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "15c607c460695513ac0f99f2881bdf9f",
+        "chartSize": 2.74,
+        "chartTitle": "PARANO1A",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\178 - PARANO1A\\PARANO1A.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

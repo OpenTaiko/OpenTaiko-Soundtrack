@@ -7301,7 +7301,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2024 Dans",
-        "tjaMD5": "79b27359971ad1df0fe081f9075ac030",
+        "tjaMD5": "4e179b34b7d3b502c465e1883ff6e50b",
         "chartSize": 6.51,
         "chartTitle": "\u4e94\u6bb5",
         "chartSubtitle": "OpenTaiko 2024 5th Dan",
@@ -7437,6 +7437,90 @@
             "Dan": ""
         },
         "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\1.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optk2024dan11",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\Kurouto.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
+        "tjaMD5": "77b2eaa5bef3dcd06a2bcbd7cf6d2f42",
+        "chartSize": 11.17,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartMakers": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optk2024dan12",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\Meijin.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
+        "tjaMD5": "5247e1bc3999b62efb26f3c6cb15a96d",
+        "chartSize": 9.92,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartMakers": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optk2024dan13",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\Choujin.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
+        "tjaMD5": "3588eb2c38dbeba5a2dfff1aa47148a1",
+        "chartSize": 7.67,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartMakers": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optk2024dan14",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\Tatsujin.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
+        "tjaMD5": "030c82f1d0b3b7c6a6bd4316f085a3b4",
+        "chartSize": 11.28,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartMakers": {},
+        "chartAudioFilePath": null,
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },

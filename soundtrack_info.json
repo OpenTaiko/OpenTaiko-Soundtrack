@@ -7451,13 +7451,17 @@
             "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2024 Dans",
-        "tjaMD5": "77b2eaa5bef3dcd06a2bcbd7cf6d2f42",
-        "chartSize": 11.17,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartMakers": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "7b617af869c8fc2ff38cf94e3052cfa8",
+        "chartSize": 11.15,
+        "chartTitle": "<c.#cd7f32>\u7384\u4eba</c>",
+        "chartSubtitle": "OpenTaiko 2024 Kurouto",
+        "chartDifficulties": {
+            "Dan": 10.6
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7472,13 +7476,17 @@
             "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2024 Dans",
-        "tjaMD5": "5247e1bc3999b62efb26f3c6cb15a96d",
-        "chartSize": 9.92,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartMakers": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "33ed2156e71774062f6a5a146d158267",
+        "chartSize": 9.91,
+        "chartTitle": "<c.#d3d3d3>\u540d\u4eba</c>",
+        "chartSubtitle": "OpenTaiko 2024 Meijin",
+        "chartDifficulties": {
+            "Dan": 10.8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7493,13 +7501,17 @@
             "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2024 Dans",
-        "tjaMD5": "3588eb2c38dbeba5a2dfff1aa47148a1",
-        "chartSize": 7.67,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartMakers": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "72d295d340ae9d76c717bb9622f088e1",
+        "chartSize": 7.65,
+        "chartTitle": "<c.#ffd700>\u8d85\u4eba</c>",
+        "chartSubtitle": "OpenTaiko 2024 Choujin",
+        "chartDifficulties": {
+            "Dan": 11.1
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7514,13 +7526,17 @@
             "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2024 Dans",
-        "tjaMD5": "030c82f1d0b3b7c6a6bd4316f085a3b4",
-        "chartSize": 11.28,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartMakers": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "1f95345ca4db85f15f3761f4a6f628cd",
+        "chartSize": 11.27,
+        "chartTitle": "<c.#b9f2ff>\u9054\u4eba</c>",
+        "chartSubtitle": "OpenTaiko 2024 Tatsujin",
+        "chartDifficulties": {
+            "Dan": 11.9
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },

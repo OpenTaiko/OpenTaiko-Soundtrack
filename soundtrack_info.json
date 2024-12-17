@@ -857,17 +857,19 @@
             "01 OpenTaiko Chapter I\\036 - RUiNED GLORY\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "a115f9ce30edd097cfe4e094a13f7a40",
-        "chartSize": 2.35,
+        "tjaMD5": "7a529db2fdf8083e29897e3702dfdb1d",
+        "chartSize": 2.36,
         "chartTitle": "RUiNED GLORY",
         "chartSubtitle": "Sukima Altera",
         "chartDifficulties": {
+            "Edit": 10.9,
             "Oni": 9,
             "Hard": 8,
             "Normal": 5,
             "Easy": 4
         },
         "chartMakers": {
+            "Edit": "Komi,bol",
             "Oni": "Komi",
             "Hard": "bol",
             "Normal": "bol",
@@ -3740,17 +3742,19 @@
             "04 OpenTaiko Chapter IV\\150 - Miracle Castle\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "592794fc28a4bf4fdb451d4acd5a993e",
+        "tjaMD5": "0b4303466c001d1f855edb8e05cdee0e",
         "chartSize": 2.17,
         "chartTitle": "Miracle\u2606Castle",
         "chartSubtitle": "Pirendora & ro\u0259r",
         "chartDifficulties": {
+            "Edit": 11.1,
             "Oni": 9,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5
         },
         "chartMakers": {
+            "Edit": "bol",
             "Oni": "Komi",
             "Hard": "bol",
             "Normal": "Komi",
@@ -4254,6 +4258,39 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\169 - Corruption of the Soul\\Corruption of the Soul.ogg",
         "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "CLlAPsEoFTHeSULH888h5dAsHYDeSU",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.ogg",
+            "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.png",
+            "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.tja",
+            "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.vtt",
+            "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "22b7a44567f8edb52fb7feceab853399",
+        "chartSize": 8.73,
+        "chartTitle": "C\u00f8llapse of the S\u00f8ul",
+        "chartSubtitle": "H888. (H5 + DashyDesu)",
+        "chartDifficulties": {
+            "Edit": 11.9,
+            "Oni": 10.8,
+            "Hard": 9,
+            "Normal": 8,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Komi,bol",
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.png",
         "chartHoFRanks": {}
     },
     {

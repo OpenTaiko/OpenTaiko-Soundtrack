@@ -179,7 +179,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 172 - Freshness Vacation : Y.W - https://soundcloud.com/pme_yw http://www.yw-works.com/ (Chart by Komi)
 173 - Celestsoul Aurora : Whitetail - https://soundcloud.com/whitetail-music https://treepunk.bandcamp.com/ https://www.youtube.com/user/whitetailmusic (Chart by Ryuto Setsujin)
 174 - Visionary : xtkakeru & RachelTypeX - https://youtu.be/wCF7BKlXtAs?si=cLL7TDlVlhFweTjp (Chart by DiamondN1nja & bol)
-175 -
+175 - ノスタルジックマジック : 托 aka. Tokky feat. 乙女雨 - https://x.com/crasythunder https://x.com/otomeame (Chart by DragonRatTiger & Komi)
 176 - Sim-plex : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 177 - the world of scarlet : OfficialAz3 - https://www.youtube.com/@OfficialAz3 https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=146 (Chart by Komi)
 178 - PARANO1A : H5 - https://linktr.ee/H5Music (Chart by Dashy, Komi)

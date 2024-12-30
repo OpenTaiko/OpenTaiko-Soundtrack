@@ -4415,6 +4415,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "OpTkCh4NostalgicMagic",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.mp4",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.ogg",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.png",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.tja",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.vtt",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "62af5c615868201c1b491485d7101ecd",
+        "chartSize": 60.76,
+        "chartTitle": "Nostalgic Magic",
+        "chartSubtitle": "TAK aka. Tokky feat. Otome Ame",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "DragonRatTiger",
+            "Normal": "DragonRatTiger",
+            "Easy": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "SimpleXOFFICiAlAz3",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\176 - Sim-plex",
         "tjaFilesPath": [

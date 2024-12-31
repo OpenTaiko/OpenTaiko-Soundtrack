@@ -174,7 +174,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 167 - Before It Ends : BilliumMoto - https://soundcloud.com/billiummoto (Chart by berdstep & bol)
 168 - Cøllapse of the Surface : OpenTaiko Sound Team "Dashy" - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 169 - Cørruption of the Søul : OpenTaiko Sound Team "Agøny" (Chart by Komi)
-170 -
+170 - Cøllapse of the Søul : H888. (H5 + DashyDesu) - https://www.youtube.com/c/DashyDesu https://linktr.ee/H5Music (Chart by Dashy, bol & Komi)
 171 - Wildcard : Y.W - https://soundcloud.com/pme_yw http://www.yw-works.com/ (Chart by Komi)
 172 - Freshness Vacation : Y.W - https://soundcloud.com/pme_yw http://www.yw-works.com/ (Chart by Komi)
 173 - Celestsoul Aurora : Whitetail - https://soundcloud.com/whitetail-music https://treepunk.bandcamp.com/ https://www.youtube.com/user/whitetailmusic (Chart by Ryuto Setsujin)
@@ -184,6 +184,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 177 - the world of scarlet : OfficialAz3 - https://www.youtube.com/@OfficialAz3 https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=146 (Chart by Komi)
 178 - PARANO1A : H5 - https://linktr.ee/H5Music (Chart by Dashy, Komi)
 179 - Authentic (Game Mix) : Colin McGuire ft. Teto Kasane - https://youtu.be/VadL3qgwv6I?si=8GAvxmBS77DFCsHL (Chart by Colin)
+180 - Katharsis (9C + Makotora Remix) : 9C + Makotora - https://kingmakotora.bandcamp.com https://youtube.com/channel/UCxx3wiFJxGwb_-tEePPa4RA (Chart by Komi)
+181 -
+182 - dreamscape : Makotora - https://kingmakotora.bandcamp.com (Chart by DiamondN1nja)
 ```
 
 ### Visuals
@@ -201,6 +204,8 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 114 - pretty kitty, yes？ : kotomi
 115 - 菖蒲日和 : kotomi
 116 - 卒業2000 : kotomi
+171 - Wildcard : kotomi
+172 - Freshness Vacation : kotomi
 ```
 
 ## About the OpenTaiko Original Soundtrack

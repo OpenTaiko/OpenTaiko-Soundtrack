@@ -4628,6 +4628,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "LimELIteaTToclEf",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\184 - Limelite",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.jpg",
+            "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.ogg",
+            "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.tja",
+            "05 OpenTaiko Chapter V\\184 - Limelite\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "cda48c38a74f775af96f3c0ea793c4ea",
+        "chartSize": 2.41,
+        "chartTitle": "Limelite",
+        "chartSubtitle": "Attoclef",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Normal": 7,
+            "Easy": 5,
+            "Oni": 9,
+            "Hard": 8
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Normal": "DiamondN1nja",
+            "Easy": "Komi",
+            "Oni": "Taichenko",
+            "Hard": "Dashy"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

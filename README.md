@@ -187,6 +187,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 180 - Katharsis (9C + Makotora Remix) : 9C + Makotora - https://kingmakotora.bandcamp.com https://youtube.com/channel/UCxx3wiFJxGwb_-tEePPa4RA (Chart by Komi)
 181 -
 182 - dreamscape : Makotora - https://kingmakotora.bandcamp.com (Chart by DiamondN1nja)
+183 -
+184 - Limelite : Attoclef - https://soundcloud.com/attoclef (Chart by DiamondN1nja, Komi, bol, Taichenko, Dashy)
 ```
 
 ### Visuals
@@ -206,6 +208,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 116 - 卒業2000 : kotomi
 171 - Wildcard : kotomi
 172 - Freshness Vacation : kotomi
+184 - Limelite : Pratama
 ```
 
 ## About the OpenTaiko Original Soundtrack

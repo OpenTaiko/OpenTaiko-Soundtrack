@@ -1389,13 +1389,13 @@
             "02 OpenTaiko Chapter II\\055 - NEKROS\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "f22a3a1ce36f4ceeb3ad4cfb84e71309",
+        "tjaMD5": "4a3ed21c6ed23df2e7f1e0583de73a76",
         "chartSize": 1.98,
         "chartTitle": "NEKROS",
         "chartSubtitle": "GRYSCL",
         "chartDifficulties": {
             "Edit": 11.0,
-            "Oni": 10.2,
+            "Oni": 10.0,
             "Hard": 8,
             "Normal": 6,
             "Easy": 4

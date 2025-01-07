@@ -4660,6 +4660,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "SKYfallCHroNOn",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\186 - Skyfall",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.ogg",
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.png",
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.tja",
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "a8ec80f379281369d1ab7fbdd3a76b05",
+        "chartSize": 3.09,
+        "chartTitle": "Skyfall",
+        "chartSubtitle": "chronon",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3,
+            "Edit": 9
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Edit": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

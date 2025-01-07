@@ -189,6 +189,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 182 - dreamscape : Makotora - https://kingmakotora.bandcamp.com (Chart by DiamondN1nja)
 183 -
 184 - Limelite : Attoclef - https://soundcloud.com/attoclef (Chart by DiamondN1nja, Komi, bol, Taichenko, Dashy)
+185 -
+186 - Skyfall : chronon - https://m.soundcloud.com/chrononical (Chart by Komi)
 ```
 
 ### Visuals

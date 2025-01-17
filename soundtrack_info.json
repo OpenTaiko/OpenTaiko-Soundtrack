@@ -4692,6 +4692,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "CaNdygIrLotOMeameCoMPOsITIOnkaNI",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\189 - Candy Girl",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.ogg",
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.png",
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.tja",
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "e7def67dc1950d4c1728b91f84f1ff18",
+        "chartSize": 16.96,
+        "chartTitle": "Candy Girl",
+        "chartSubtitle": "Otome Ame (Composition: kani)",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Normal": 4,
+            "Easy": 3,
+            "Hard": 6
+        },
+        "chartMakers": {
+            "Oni": "Takkkom",
+            "Normal": "Takkkom",
+            "Easy": "Takkkom",
+            "Hard": "Takkkom"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

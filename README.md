@@ -191,6 +191,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 184 - Limelite : Attoclef - https://soundcloud.com/attoclef (Chart by DiamondN1nja, Komi, bol, Taichenko, Dashy)
 185 -
 186 - Skyfall : chronon - https://m.soundcloud.com/chrononical (Chart by Komi)
+187 -
+188 -
+189 - キャンディガール : 乙女雨（作編曲：kani） - https://x.com/otomeame https://x.com/kani0729 (Chart by Takkkom)
 ```
 
 ### Visuals

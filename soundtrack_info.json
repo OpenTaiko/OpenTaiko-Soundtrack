@@ -4722,6 +4722,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "pUrgATORYOftheOOTdMasAmuNEVsH5",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
+            "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.tja",
+            "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "810202e79445680b609ecb860c305290",
+        "chartSize": 4.59,
+        "chartTitle": "Purgatory of the OOTD",
+        "chartSubtitle": "Masamune vs. H5",
+        "chartDifficulties": {
+            "Edit": 11.1,
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "bol,lob",
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

@@ -194,6 +194,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 187 -
 188 -
 189 - キャンディガール : 乙女雨（作編曲：kani） - https://x.com/otomeame https://x.com/kani0729 (Chart by Takkkom)
+190 -
+191 - 煉獄のOOTD : Masamune vs. H5 - https://linktr.ee/H5Music (Chart by bol vs lob)
 ```
 
 ### Visuals

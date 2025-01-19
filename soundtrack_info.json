@@ -4692,6 +4692,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "iNSiGniABReAkERcUZi",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\187 - Insignia Breaker",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\Insignia Breaker.ogg",
+            "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\Insignia Breaker.tja",
+            "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "f25d21af6e6792f1ed381140b8284e1c",
+        "chartSize": 3.88,
+        "chartTitle": "Insignia Breaker",
+        "chartSubtitle": "CuZi",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\Insignia Breaker.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "CaNdygIrLotOMeameCoMPOsITIOnkaNI",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\189 - Candy Girl",
         "tjaFilesPath": [

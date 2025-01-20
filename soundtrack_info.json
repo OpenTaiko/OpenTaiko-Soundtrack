@@ -916,12 +916,13 @@
         "tjaFolderPath": "01 OpenTaiko Chapter I\\040 - Every Night",
         "tjaFilesPath": [
             "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.ogg",
+            "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.png",
             "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.tja",
             "01 OpenTaiko Chapter I\\040 - Every Night\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "cc02e9450dcc658d5c381991ea02641a",
-        "chartSize": 7.86,
+        "tjaMD5": "794885b13b65d2f2a8f9ff09fc5be333",
+        "chartSize": 7.87,
         "chartTitle": "Every Night",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
@@ -937,7 +938,7 @@
             "Easy": "Colin"
         },
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.png",
         "chartHoFRanks": {}
     },
     {

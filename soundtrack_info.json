@@ -4628,6 +4628,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "JUnkETsAltEd",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\183 - junket",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\183 - junket\\hyper.jpg",
+            "05 OpenTaiko Chapter V\\183 - junket\\junket.ogg",
+            "05 OpenTaiko Chapter V\\183 - junket\\junket.tja",
+            "05 OpenTaiko Chapter V\\183 - junket\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "ea0ef93391c7fb1e4f4c12949081c3df",
+        "chartSize": 2.4,
+        "chartTitle": "junket",
+        "chartSubtitle": "Salted",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\183 - junket\\junket.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\183 - junket\\hyper.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "LimELIteaTToclEf",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\184 - Limelite",
         "tjaFilesPath": [
@@ -4748,6 +4778,38 @@
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "NiJiHaKIRaiotomEAMEComPOsITioNShiTSUDOkEi",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\Niji wa Kirai.tja",
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.ogg",
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.png",
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "6d684dc14a7b501e4f1468705f266771",
+        "chartSize": 4.87,
+        "chartTitle": "Niji wa Kirai",
+        "chartSubtitle": "Otome Ame (Composition: Shitsudo Kei)",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2,
+            "Oni": 6
+        },
+        "chartMakers": {
+            "Edit": "Yokoyoko",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Oni": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.png",
         "chartHoFRanks": {}
     },
     {

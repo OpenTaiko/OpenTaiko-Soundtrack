@@ -185,7 +185,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 178 - PARANO1A : H5 - https://linktr.ee/H5Music (Chart by Dashy, Komi)
 179 - Authentic (Game Mix) : Colin McGuire ft. Teto Kasane - https://youtu.be/VadL3qgwv6I?si=8GAvxmBS77DFCsHL (Chart by Colin)
 180 - Katharsis (9C + Makotora Remix) : 9C + Makotora - https://kingmakotora.bandcamp.com https://youtube.com/channel/UCxx3wiFJxGwb_-tEePPa4RA (Chart by Komi)
-181 -
+181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix) : Dashy, thanks to TAK aka. Tokky and Otome Ame - https://x.com/dashydesu https://x.com/crasythunder https://x.com/otomeame (Chart by Dashy)
 182 - dreamscape : Makotora - https://kingmakotora.bandcamp.com (Chart by DiamondN1nja)
 183 - junket : Salted - https://x.com/CraftedMovie https://www.youtube.com/@saltedsalmoon (Chart by Makotora)
 184 - Limelite : Attoclef - https://soundcloud.com/attoclef (Chart by DiamondN1nja, Komi, bol, Taichenko, Dashy)

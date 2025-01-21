@@ -4599,6 +4599,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "optk_ch5_nostalgic888",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\nostalgic888.ogg",
+            "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\nostalgic888.png",
+            "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\nostalgic888.tja",
+            "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "44b7d322b1df3c49dafa4de5fb342ded",
+        "chartSize": 5.37,
+        "chartTitle": "Nostalgic Magic (Magical Jazzy Chip-Dance Mix)",
+        "chartSubtitle": "Dashy, thanks to TAK aka. Tokky and Otome Ame",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Dashy,",
+            "Hard": "Dashy,",
+            "Normal": "Dashy,",
+            "Easy": "Dashy,"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\nostalgic888.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\nostalgic888.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "DReaMscapemAKOtOrA",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\182 - dreamscape",
         "tjaFilesPath": [

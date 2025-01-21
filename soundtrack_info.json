@@ -4818,12 +4818,13 @@
         "tjaFolderPath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD",
         "tjaFilesPath": [
             "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
+            "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.png",
             "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.tja",
             "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "810202e79445680b609ecb860c305290",
-        "chartSize": 4.59,
+        "tjaMD5": "338ba715939ebd07d5ccc13f6f6ba8a9",
+        "chartSize": 4.68,
         "chartTitle": "Purgatory of the OOTD",
         "chartSubtitle": "Masamune vs. H5",
         "chartDifficulties": {
@@ -4841,7 +4842,7 @@
             "Easy": "bol"
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.png",
         "chartHoFRanks": {}
     },
     {

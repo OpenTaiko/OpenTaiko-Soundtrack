@@ -8492,6 +8492,30 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "otpkTowerSweetTOKYO",
+        "tjaFolderPath": "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\tokyo.ogg",
+            "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\tokyo.png",
+            "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\tokyo.tja",
+            "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "2d88f04cfd6de08a9de2a0a09ba79975",
+        "chartSize": 3.64,
+        "chartTitle": "TOKYO RHYTHM No.524",
+        "chartSubtitle": "FALL",
+        "chartDifficulties": {
+            "Tower": 6
+        },
+        "chartMakers": {
+            "Tower": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\tokyo.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\tokyo.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "tower16ttsrfssfes",
         "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP01 - OpTk Tower 1",
         "tjaFilesPath": [
@@ -8727,6 +8751,30 @@
         },
         "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP10 - Rainy Night III ~Samsara~\\Rainy Night III ~\u8f2a\u56de~.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP10 - Rainy Night III ~Samsara~\\Rainy Night III.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "otpkTowerSpicyTOKYO",
+        "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.ogg",
+            "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.png",
+            "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.tja",
+            "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "4e771bfc4ab5c0ab32a36134f6d21a3f",
+        "chartSize": 3.64,
+        "chartTitle": "TOKYO RHYTHM No.524",
+        "chartSubtitle": "FALL",
+        "chartDifficulties": {
+            "Tower": 8
+        },
+        "chartMakers": {
+            "Tower": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.png",
         "chartHoFRanks": {}
     },
     {

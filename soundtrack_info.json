@@ -5521,6 +5521,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "DashandtHEREvolTOftHEbEaSTSdAsHy",
+        "tjaFolderPath": "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.ogg",
+            "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.png",
+            "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.tja",
+            "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "0437b9f0ee965e983daa1ac9013e4a0b",
+        "chartSize": 5.61,
+        "chartTitle": "Dash and the Revolt of the Beasts",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Oni": 10.3,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "iJWSvseMG7mVdm2sLqD3Psm6SSX7H14ZMVc4R5gVLGpaRVVPNQqupGdUzowtciw2",
         "tjaFolderPath": "E01 Rainy Memories\\RM01 - 093 - Rainy Night",
         "tjaFilesPath": [

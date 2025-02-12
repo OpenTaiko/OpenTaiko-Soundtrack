@@ -189,7 +189,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 182 - dreamscape : Makotora - https://kingmakotora.bandcamp.com (Chart by DiamondN1nja)
 183 - junket : Salted - https://x.com/CraftedMovie https://www.youtube.com/@saltedsalmoon (Chart by Makotora)
 184 - Limelite : Attoclef - https://soundcloud.com/attoclef (Chart by DiamondN1nja, Komi, bol, Taichenko, Dashy)
-185 -
+185 - CoNTRoL : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi)
 186 - Skyfall : chronon - https://m.soundcloud.com/chrononical (Chart by Komi)
 187 - Insignia Breaker : CuZi - https://x.com/CusiMusic (Chart by DiamondN1nja)
 188 - Dash and the Revolt of the Beasts : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
@@ -197,6 +197,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 190 - 虹はキライ : 乙女雨（作編曲：湿度ケイ） - https://www.youtube.com/@otomeame https://x.com/otomeame https://www.youtube.com/@shitsudokei5873 https://x.com/shitsudo_K (Chart by Yokoyoko (Extra), Komi)
 191 - 煉獄のOOTD : Masamune vs. H5 - https://linktr.ee/H5Music (Chart by bol vs lob)
 192 -
+193 - Diverging Duality : Riprider - https://riprider.bandcamp.com/  https://www.youtube.com/@Riprider_Music  https://soundcloud.com/riprider_music (Chart by DiamondN1nja)
 ```
 
 ### Visuals

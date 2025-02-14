@@ -4730,7 +4730,7 @@
             "05 OpenTaiko Chapter V\\185 - CoNTRoL\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "cf150021a7644549aa63262c2f1736b2",
+        "tjaMD5": "e6544492c04798cc0067146fbe94c17e",
         "chartSize": 3.86,
         "chartTitle": "CoNTRoL",
         "chartSubtitle": "Makotora",
@@ -4747,7 +4747,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.png",
         "chartHoFRanks": {}
     },
     {

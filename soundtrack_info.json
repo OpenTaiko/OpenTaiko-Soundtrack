@@ -4721,6 +4721,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "cONtRolmakOTORA",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\185 - CoNTRoL",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.ogg",
+            "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.png",
+            "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.tja",
+            "05 OpenTaiko Chapter V\\185 - CoNTRoL\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "cf150021a7644549aa63262c2f1736b2",
+        "chartSize": 3.86,
+        "chartTitle": "CoNTRoL",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "SKYfallCHroNOn",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\186 - Skyfall",
         "tjaFilesPath": [
@@ -4873,6 +4903,36 @@
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "dIVerGInGDuaLITyRIpriDEr",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\193 - Diverging Duality",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\193 - Diverging Duality\\Diverging Duality.ogg",
+            "05 OpenTaiko Chapter V\\193 - Diverging Duality\\Diverging Duality.png",
+            "05 OpenTaiko Chapter V\\193 - Diverging Duality\\Diverging Duality.tja",
+            "05 OpenTaiko Chapter V\\193 - Diverging Duality\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "6c36f96fee8d9bbe2e2846ad8a4236d6",
+        "chartSize": 3.22,
+        "chartTitle": "Diverging Duality",
+        "chartSubtitle": "Riprider",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\193 - Diverging Duality\\Diverging Duality.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\193 - Diverging Duality\\Diverging Duality.png",
         "chartHoFRanks": {}
     },
     {

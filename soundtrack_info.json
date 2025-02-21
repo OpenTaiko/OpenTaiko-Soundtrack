@@ -4936,6 +4936,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "iflIfEwEreaLOopCoLinmCGUIREfTHaTSUNEMIkU",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\203 - If Life Were a Loop",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.mp4",
+            "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.ogg",
+            "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.png",
+            "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.tja",
+            "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "0b4da71a92a6cb466c899f2be466969b",
+        "chartSize": 14.31,
+        "chartTitle": "If Life Were a Loop",
+        "chartSubtitle": "Colin McGuire ft. Hatsune Miku",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 3,
+            "Hard": 6,
+            "Oni": 8
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

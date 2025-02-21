@@ -198,6 +198,16 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 191 - 煉獄のOOTD : Masamune vs. H5 - https://linktr.ee/H5Music (Chart by bol vs lob)
 192 -
 193 - Diverging Duality : Riprider - https://riprider.bandcamp.com/  https://www.youtube.com/@Riprider_Music  https://soundcloud.com/riprider_music (Chart by DiamondN1nja)
+194 -
+195 -
+196 -
+197 -
+198 -
+199 -
+200 -
+201 -
+202 -
+203 - If Life Were a Loop : Colin McGuire ft. Hatsune Miku - https://www.nicovideo.jp/watch/sm44632992 (Chart by Colin) 
 ```
 
 ### Visuals
@@ -218,6 +228,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 171 - Wildcard : kotomi
 172 - Freshness Vacation : kotomi
 184 - Limelite : Pratama
+203 - If Life Were a Loop : Tree Bark
 ```
 
 ## About the OpenTaiko Original Soundtrack

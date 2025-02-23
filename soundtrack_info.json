@@ -4936,6 +4936,68 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "AperfectbeGINnINGBMSOtAKuSanTsUkurUzE25viPoffIcIaLAz3",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\200 - A Perfect Beginning",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\A Perfect Beginning.ogg",
+            "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\A Perfect Beginning.png",
+            "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\A Perfect Beginning.tja",
+            "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "90b3a7090850ad844f872db8085e5a45",
+        "chartSize": 5.37,
+        "chartTitle": "A Perfect Beginning (\"BMS o takusan tsukuru ze'25\" VIP)",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\A Perfect Beginning.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\A Perfect Beginning.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "picoSUmMItOFfICIAlAz3",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\202 - Pico Summit",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.ogg",
+            "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.png",
+            "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.tja",
+            "05 OpenTaiko Chapter V\\202 - Pico Summit\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "5e58390009cf446ef0b7aae23f781842",
+        "chartSize": 4.26,
+        "chartTitle": "Pico Summit",
+        "chartSubtitle": "OfficialAz3 (from Yobimo Entertainment)",
+        "chartDifficulties": {
+            "Edit": 10.5,
+            "Oni": 3,
+            "Hard": 4,
+            "Normal": 2,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "iflIfEwEreaLOopCoLinmCGUIREfTHaTSUNEMIkU",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\203 - If Life Were a Loop",
         "tjaFilesPath": [

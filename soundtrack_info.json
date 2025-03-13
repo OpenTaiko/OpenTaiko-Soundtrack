@@ -4966,6 +4966,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "FuTureFRAgmeNtsYoZuC",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\201 - Future Fragments",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\201 - Future Fragments\\Future Fragments.ogg",
+            "05 OpenTaiko Chapter V\\201 - Future Fragments\\Future Fragments.tja",
+            "05 OpenTaiko Chapter V\\201 - Future Fragments\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "cdacb649f1775c0b9e2811c7b211b52c",
+        "chartSize": 5.96,
+        "chartTitle": "Future Fragments",
+        "chartSubtitle": "Yozu C",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\201 - Future Fragments\\Future Fragments.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "picoSUmMItOFfICIAlAz3",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\202 - Pico Summit",
         "tjaFilesPath": [

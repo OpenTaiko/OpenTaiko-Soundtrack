@@ -232,6 +232,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 172 - Freshness Vacation : kotomi
 184 - Limelite : Pratama
 203 - If Life Were a Loop : Tree Bark
+T07 - Abyss : LeoO
 ```
 
 ## About the OpenTaiko Original Soundtrack

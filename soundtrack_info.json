@@ -5037,7 +5037,7 @@
             "05 OpenTaiko Chapter V\\206 - Eitchfaivest\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "073391e36ad81d0bf702394a1fd1be55",
+        "tjaMD5": "2eab093a2cf43895fb026b738adb132a",
         "chartSize": 4.51,
         "chartTitle": "Eitchfaivest",
         "chartSubtitle": "OpenTaiko Sound Team \"Masamune\"",
@@ -5054,7 +5054,7 @@
             "Easy": "bol"
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\206 - Eitchfaivest\\Eitchfaivest.ogg",
-        "chartJacketFilePath": "05 OpenTaiko Chapter V\\206 - Eitchfaivest\\Eitchfaivest.png",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
@@ -6515,13 +6515,14 @@
         "uniqueId": "touhou07",
         "tjaFolderPath": "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss",
         "tjaFilesPath": [
+            "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\Abyss.jpg",
             "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\Abyss.ogg",
             "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\Abyss.tja",
             "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "d7c958bb6461419643e70194c7c0fa04",
-        "chartSize": 10.18,
+        "tjaMD5": "ecaa6a6efa2a1ab1abaa88e39b217c1e",
+        "chartSize": 11.56,
         "chartTitle": "Abyss",
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartDifficulties": {
@@ -6537,7 +6538,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\Abyss.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\Abyss.jpg",
         "chartHoFRanks": {}
     },
     {

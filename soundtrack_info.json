@@ -4936,6 +4936,95 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "ZUttohexacUBE",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\196 - Zutto",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\196 - Zutto\\uniqueId.json",
+            "05 OpenTaiko Chapter V\\196 - Zutto\\Zutto.ogg",
+            "05 OpenTaiko Chapter V\\196 - Zutto\\Zutto.tja"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "349ab25c2cfe2ae497675b6aa45510e0",
+        "chartSize": 2.58,
+        "chartTitle": "Zutto",
+        "chartSubtitle": "Hexacube",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\196 - Zutto\\Zutto.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "LOvEtOnIGHThexAcUBe",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\197 - Lovetonight",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.ogg",
+            "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.tja",
+            "05 OpenTaiko Chapter V\\197 - Lovetonight\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "fde68aeb73866b560c0b9b1ad4ca9140",
+        "chartSize": 3.63,
+        "chartTitle": "Lovetonight",
+        "chartSubtitle": "Hexacube",
+        "chartDifficulties": {
+            "Edit": 10.1,
+            "Oni": 9,
+            "Easy": 4,
+            "Hard": 7,
+            "Normal": 4
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "DiamondN1nja",
+            "Easy": "DiamondN1nja",
+            "Hard": "Komi",
+            "Normal": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "SUPEReNtHUSIASTichExAcUbE",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\198 - SUPER-ENTHUSIASTIC!!",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\198 - SUPER-ENTHUSIASTIC!!\\SUPER-ENTHUSIASTIC.ogg",
+            "05 OpenTaiko Chapter V\\198 - SUPER-ENTHUSIASTIC!!\\SUPER-ENTHUSIASTIC.tja",
+            "05 OpenTaiko Chapter V\\198 - SUPER-ENTHUSIASTIC!!\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "672cd3ff48607ad27087109224b1961e",
+        "chartSize": 2.52,
+        "chartTitle": "SUPER-ENTHUSIASTIC!!",
+        "chartSubtitle": "Hexacube",
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\198 - SUPER-ENTHUSIASTIC!!\\SUPER-ENTHUSIASTIC.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "AperfectbeGINnINGBMSOtAKuSanTsUkurUzE25viPoffIcIaLAz3",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\200 - A Perfect Beginning",
         "tjaFilesPath": [

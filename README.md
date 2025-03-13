@@ -205,7 +205,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 198 -
 199 -
 200 - A Perfect Beginning (BMSをたくさん作るぜ'25 VIP) : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
-201 -
+201 - Future Fragments : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by Komi)
 202 - Pico Summit :  OfficialAz3 (from Yobimo Entertainment) - https://www.youtube.com/@OfficialAz3, © Yobimo Multimedia Group / OfficialAz3 | https://www.youtube.com/@Yobimo | https://www.facebook.com/yobimo.co/ | https://x.com/yobimo_co | https://www.instagram.com/yobimo_co/ (Chart by Komi)
 203 - If Life Were a Loop : Colin McGuire ft. Hatsune Miku - https://www.nicovideo.jp/watch/sm44632992 (Chart by Colin) 
 204 -

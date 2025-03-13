@@ -200,9 +200,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 193 - Diverging Duality : Riprider - https://riprider.bandcamp.com/  https://www.youtube.com/@Riprider_Music  https://soundcloud.com/riprider_music (Chart by DiamondN1nja)
 194 -
 195 -
-196 -
-197 -
-198 -
+196 - Zutto : Hexacube - https://soundcloud.com/hexacube/zutto (Chart by bol)
+197 - Lovetonight : Hexacube - https://soundcloud.com/hexacube/lovetonight (Chart by DiamondN1nja, bol and Komi)
+198 - SUPER-ENTHUSIASTIC!! : Hexacube - https://soundcloud.com/hexacube/super-enthusiastic (Chart by Komi)
 199 -
 200 - A Perfect Beginning (BMSをたくさん作るぜ'25 VIP) : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 201 - Future Fragments : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by Komi)

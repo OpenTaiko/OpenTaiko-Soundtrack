@@ -199,7 +199,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 192 -
 193 - Diverging Duality : Riprider - https://riprider.bandcamp.com/  https://www.youtube.com/@Riprider_Music  https://soundcloud.com/riprider_music (Chart by DiamondN1nja)
 194 -
-195 -
+195 - Labyrinth from Another World : MoushiKomi (Chart by Komi)
 196 - Zutto : Hexacube - https://soundcloud.com/hexacube/zutto (Chart by bol)
 197 - Lovetonight : Hexacube - https://soundcloud.com/hexacube/lovetonight (Chart by DiamondN1nja, bol and Komi)
 198 - SUPER-ENTHUSIASTIC!! : Hexacube - https://soundcloud.com/hexacube/super-enthusiastic (Chart by Komi)

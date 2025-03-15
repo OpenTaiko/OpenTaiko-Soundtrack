@@ -4936,6 +4936,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "LaBYrINtHFROMaNOThErWoRlDmOusHIkomI",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\Labyrinth from Another World.ogg",
+            "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\Labyrinth from Another World.tja",
+            "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "81e29f4fcb465547704a77d985679e95",
+        "chartSize": 3.82,
+        "chartTitle": "Labyrinth from Another World",
+        "chartSubtitle": "MoushiKomi",
+        "chartDifficulties": {
+            "Oni": 5,
+            "Hard": 2,
+            "Normal": 2,
+            "Edit": 8,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Edit": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\Labyrinth from Another World.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "ZUttohexacUBE",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\196 - Zutto",
         "tjaFilesPath": [

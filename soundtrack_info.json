@@ -5178,6 +5178,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "WHyaREalLtHegIRLssICKOPeNtAikoEDiTstUCupiD",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\uniqueId.json",
+            "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).ogg",
+            "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).tja"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "35bb102de754b3b683ccece40adc6eba",
+        "chartSize": 4.66,
+        "chartTitle": "Why Are All The Girls Sick? (OpenTaiko Edit)",
+        "chartSubtitle": "Stu Cupid",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "EITchFaivesTOpentaikOSoUnDTeAMMasAmUNE",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\206 - Eitchfaivest",
         "tjaFilesPath": [
@@ -5204,6 +5233,36 @@
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\206 - Eitchfaivest\\Eitchfaivest.ogg",
         "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "fOrTaLiCEzxnx",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\207 - FORTALiCE",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\207 - FORTALiCE\\FORTALiCE.jpg",
+            "05 OpenTaiko Chapter V\\207 - FORTALiCE\\FORTALiCE.ogg",
+            "05 OpenTaiko Chapter V\\207 - FORTALiCE\\FORTALiCE.tja",
+            "05 OpenTaiko Chapter V\\207 - FORTALiCE\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "ef373f46b20b16e8a8fec5e37d4144aa",
+        "chartSize": 2.99,
+        "chartTitle": "FORTALiCE",
+        "chartSubtitle": "ZxNX",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\207 - FORTALiCE\\FORTALiCE.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\207 - FORTALiCE\\FORTALiCE.jpg",
         "chartHoFRanks": {}
     },
     {

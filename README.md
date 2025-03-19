@@ -208,9 +208,10 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 201 - Future Fragments : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by Komi)
 202 - Pico Summit :  OfficialAz3 (from Yobimo Entertainment) - https://www.youtube.com/@OfficialAz3, © Yobimo Multimedia Group / OfficialAz3 | https://www.youtube.com/@Yobimo | https://www.facebook.com/yobimo.co/ | https://x.com/yobimo_co | https://www.instagram.com/yobimo_co/ (Chart by Komi)
 203 - If Life Were a Loop : Colin McGuire ft. Hatsune Miku - https://www.nicovideo.jp/watch/sm44632992 (Chart by Colin) 
-204 -
+204 - Why Are All The Girls Sick? (OpenTaiko Edit) : Stu Cupid - https://bsky.app/profile/stucupid.bsky.social https://www.instagram.com/stu.cupid/ https://stucupid.bandcamp.com/ (Chart by Komi)
 205 -
 206 - Eitchfaivest : OpenTaiko Sound Team "Masamune" - https://bsky.app/profile/masamune-judgement.bsky.social (Chart by bol)
+207 - FORTALiCE : ZxNX - https://x.com/NxTunes https://soundcloud.com/zxnx https://www.youtube.com/@zxnx (Chart by DiamondN1nja)
 ```
 
 ### Visuals

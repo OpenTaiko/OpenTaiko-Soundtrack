@@ -5207,6 +5207,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "dePARTUreToCOPACAbAnAOpEnTAIkoEdItStucupidfeaTRHIAnNOnMouSHALl",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\205 - Departure to Copacabana",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\Departure to Copacabana (OpenTaiko Edit).ogg",
+            "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\Departure to Copacabana (OpenTaiko Edit).tja",
+            "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "28772f273e30593d1721941d898d3478",
+        "chartSize": 6.42,
+        "chartTitle": "Departure to Copacabana (OpenTaiko Edit)",
+        "chartSubtitle": "Stu Cupid feat. Rhiannon Moushall",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\Departure to Copacabana (OpenTaiko Edit).ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "EITchFaivesTOpentaikOSoUnDTeAMMasAmUNE",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\206 - Eitchfaivest",
         "tjaFilesPath": [

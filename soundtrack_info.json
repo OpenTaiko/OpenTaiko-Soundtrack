@@ -4936,6 +4936,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "feelItaLLGamEEDitracheLtYpeX",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\194 - FEEL IT ALL",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\194 - FEEL IT ALL\\FEEL IT ALL (Game Edit).ogg",
+            "05 OpenTaiko Chapter V\\194 - FEEL IT ALL\\FEEL IT ALL (Game Edit).tja",
+            "05 OpenTaiko Chapter V\\194 - FEEL IT ALL\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "6890167296f39cdbdd7aaaffde9e5b1e",
+        "chartSize": 2.77,
+        "chartTitle": "FEEL IT ALL (Game Edit)",
+        "chartSubtitle": "RachelTypeX",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\194 - FEEL IT ALL\\FEEL IT ALL (Game Edit).ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "LaBYrINtHFROMaNOThErWoRlDmOusHIkomI",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World",
         "tjaFilesPath": [

@@ -198,7 +198,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 191 - 煉獄のOOTD : Masamune vs. H5 - https://linktr.ee/H5Music (Chart by bol vs lob)
 192 -
 193 - Diverging Duality : Riprider - https://riprider.bandcamp.com/  https://www.youtube.com/@Riprider_Music  https://soundcloud.com/riprider_music (Chart by DiamondN1nja)
-194 -
+194 - FEEL IT ALL (Game Edit) : RachelTypeX - http://soundcloud.com/racheltypex (Chart by Komi)
 195 - Labyrinth from Another World : MoushiKomi (Chart by Komi)
 196 - Zutto : Hexacube - https://soundcloud.com/hexacube/zutto (Chart by bol)
 197 - Lovetonight : Hexacube - https://soundcloud.com/hexacube/lovetonight (Chart by DiamondN1nja, bol and Komi)

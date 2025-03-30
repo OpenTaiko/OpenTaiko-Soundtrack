@@ -7,7 +7,7 @@ WAVE:1.ogg
 DEMOSTART:0
 SCOREMODE:2
 COURSE:Dan
-LEVEL:11.9
+LEVEL:12.2
 BPM:245
 BALLOON:5,1,1,1,1,1,3,4,5,58,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 EXAM1:g,100,100,m
@@ -356,7 +356,7 @@ G,
 #GOGOEND
 0,
 ,
-#NEXTSONG Cøllapse of the Søul,H888. (H5 + DashyDesu),,3.ogg,350,80,11,4
+#NEXTSONG Cøllapse of the Søul,H888. (H5 + DashyDesu),,3.ogg,350,80,12,4
 #BPMCHANGE 210
 #MEASURE 4/4
 #SCROLL 1.0

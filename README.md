@@ -212,6 +212,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 205 - Departure to Copacabana (OpenTaiko Edit) : Stu Cupid feat. Rhiannon Moushall - https://bsky.app/profile/stucupid.bsky.social https://www.instagram.com/stu.cupid/ https://stucupid.bandcamp.com/ (Chart by bol)
 206 - Eitchfaivest : OpenTaiko Sound Team "Masamune" - https://bsky.app/profile/masamune-judgement.bsky.social (Chart by bol)
 207 - FORTALiCE : ZxNX - https://x.com/NxTunes https://soundcloud.com/zxnx https://www.youtube.com/@zxnx (Chart by DiamondN1nja)
+208 -
+209 -
+210 - NEP0: DANCIN6INTHECOLDRAINハートノット : OPTK-HQ=CHANNEL2514 (Chart by OPTK-HQ)
 ```
 
 ### Visuals

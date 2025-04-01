@@ -6998,6 +6998,219 @@
         }
     },
     {
+        "uniqueId": "optkracing01",
+        "tjaFolderPath": "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\uniqueID.json",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap Cutscene.mp4",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.mp4",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.ogg",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.png",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.tja"
+        ],
+        "tjaGenreFolder": "C03 OpenTaiko Karting",
+        "tjaMD5": "c1bcd1b2d948927ea8c8d60688772f8b",
+        "chartSize": 26.93,
+        "chartTitle": "Victory Lap",
+        "chartSubtitle": "Colin McGuire ft. GUMI / OpenTaiko Karting",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 3,
+            "Hard": 5,
+            "Oni": 8
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkracing02",
+        "tjaFolderPath": "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\cityscape racers.ogg",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\cityscape racers.png",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\cityscape racers.tja",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C03 OpenTaiko Karting",
+        "tjaMD5": "a84179c2878f8f579e7e26587bba5894",
+        "chartSize": 2.46,
+        "chartTitle": "cityscape racers",
+        "chartSubtitle": "Makotora / OpenTaiko Karting",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi,Makotora,bol,sadkay",
+            "Hard": "Komi,Makotora,bol",
+            "Normal": "Komi,Makotora,bol",
+            "Easy": "Komi,Makotora,bol"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\cityscape racers.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\cityscape racers.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkracing03",
+        "tjaFolderPath": "L1 Collaborations\\C03 OpenTaiko Karting\\R03 - Fulminate",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R03 - Fulminate\\Fulminate.ogg",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R03 - Fulminate\\Fulminate.tja",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R03 - Fulminate\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C03 OpenTaiko Karting",
+        "tjaMD5": "8de3ba3b22f2577c3209d5bafbc13aae",
+        "chartSize": 7.78,
+        "chartTitle": "Fulminate",
+        "chartSubtitle": "Yozu C / OpenTaiko Karting",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R03 - Fulminate\\Fulminate.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkracing04",
+        "tjaFolderPath": "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\PARTICLE ACCELERATOR.ogg",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\PARTICLE ACCELERATOR.png",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\PARTICLE ACCELERATOR.tja",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "C03 OpenTaiko Karting",
+        "tjaMD5": "256852f679d528e6f7f59fff91ca1454",
+        "chartSize": 4.04,
+        "chartTitle": "PARTICLE ACCELERATOR",
+        "chartSubtitle": "zqr / OpenTaiko Karting",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\PARTICLE ACCELERATOR.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\PARTICLE ACCELERATOR.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkracing05",
+        "tjaFolderPath": "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\BOOGER CART RACER.ogg",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\BOOGER CART RACER.png",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\BOOGER CART RACER.tja",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C03 OpenTaiko Karting",
+        "tjaMD5": "232226fc429b77b2b4150b7cbe0f9b34",
+        "chartSize": 4.84,
+        "chartTitle": "BOOGER CART RACER",
+        "chartSubtitle": "McBoiled / OpenTaiko Karting",
+        "chartDifficulties": {
+            "Oni": 10.3,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\BOOGER CART RACER.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\BOOGER CART RACER.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkracing06",
+        "tjaFolderPath": "L1 Collaborations\\C03 OpenTaiko Karting\\R06 - stormrider_s fork",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R06 - stormrider_s fork\\stormrider_s fork.ogg",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R06 - stormrider_s fork\\stormrider_s fork.tja",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R06 - stormrider_s fork\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C03 OpenTaiko Karting",
+        "tjaMD5": "7fe1f8658031474c490e7f83410d9a06",
+        "chartSize": 1.76,
+        "chartTitle": "stormrider's fork",
+        "chartSubtitle": "H5 DISrespected by OpenTaiko Team All Stars / OpenTaiko Karting",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R06 - stormrider_s fork\\stormrider's fork.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkracing07",
+        "tjaFolderPath": "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal\\amal.ogg",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal\\amal.tja",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal\\amale.mov",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal\\amali.mp4",
+            "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C03 OpenTaiko Karting",
+        "tjaMD5": "3ef61f8b7886608e1c134cd49b58a93c",
+        "chartSize": 19.7,
+        "chartTitle": "\u0394M\u0394L\u00bf",
+        "chartSubtitle": "Spring-Time Jester / OpenTaiko Karting",
+        "chartDifficulties": {
+            "Edit": 11.888,
+            "Easy": 8,
+            "Normal": 8,
+            "Hard": 8,
+            "Oni": 11.41
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Easy": "Komi",
+            "Normal": "Komi",
+            "Hard": "4\u67081\u65e5\u306f\u30d0\u30ab\u30fc ... 888\u6708\u3044\u3063\u3071\u3044\u30b5\u30de\u30fc",
+            "Oni": "Komi"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal\\amal.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu",
         "tjaFilesPath": [

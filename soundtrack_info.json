@@ -4832,7 +4832,7 @@
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
         "tjaMD5": "e7def67dc1950d4c1728b91f84f1ff18",
-        "chartSize": 16.96,
+        "chartSize": 16.54,
         "chartTitle": "Candy Girl",
         "chartSubtitle": "Otome Ame (Composition: kani)",
         "chartDifficulties": {
@@ -5224,13 +5224,14 @@
         "uniqueId": "WHyaREalLtHegIRLssICKOPeNtAikoEDiTstUCupiD",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick",
         "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\DashyShopping.png",
             "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\uniqueId.json",
             "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).ogg",
             "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).tja"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "35bb102de754b3b683ccece40adc6eba",
-        "chartSize": 4.66,
+        "tjaMD5": "1b99dcc45f29c35a9a71b68baf75f495",
+        "chartSize": 4.85,
         "chartTitle": "Why Are All The Girls Sick? (OpenTaiko Edit)",
         "chartSubtitle": "Stu Cupid",
         "chartDifficulties": {
@@ -5246,20 +5247,21 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\DashyShopping.png",
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "dePARTUreToCOPACAbAnAOpEnTAIkoEdItStucupidfeaTRHIAnNOnMouSHALl",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\205 - Departure to Copacabana",
         "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\DashyShopping.png",
             "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\Departure to Copacabana (OpenTaiko Edit).ogg",
             "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\Departure to Copacabana (OpenTaiko Edit).tja",
             "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "28772f273e30593d1721941d898d3478",
-        "chartSize": 6.42,
+        "tjaMD5": "7b5d6e847423acd95fb272268e7f8eff",
+        "chartSize": 6.62,
         "chartTitle": "Departure to Copacabana (OpenTaiko Edit)",
         "chartSubtitle": "Stu Cupid feat. Rhiannon Moushall",
         "chartDifficulties": {
@@ -5275,7 +5277,7 @@
             "Easy": "bol"
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\Departure to Copacabana (OpenTaiko Edit).ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\DashyShopping.png",
         "chartHoFRanks": {}
     },
     {

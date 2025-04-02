@@ -239,6 +239,14 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 T07 - Abyss : LeoO
 ```
 
+The visuals mentionned below have confirmed usage of AI generated assets
+```
+189 - キャンディガール : Preimage
+```
+As usage of AI for preimages or videos needs to be mentionned following OpenTaiko's submission policy, please reach us on Discord if you used it for a specific song
+Assets replaced by assets not using generative AI will be removed from the list
+
+
 ## About the OpenTaiko Original Soundtrack
 
 Songs within the `OpenTaiko Chapter` (at the exception of songs listed on the "Specific Licences" section below) and the distinctive characters folders have non-exclusive licences (which means that you might see some of them in other games or projects).

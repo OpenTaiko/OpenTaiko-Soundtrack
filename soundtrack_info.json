@@ -4918,6 +4918,37 @@
         }
     },
     {
+        "uniqueId": "WarMwiNterwISHwHIMsiCALwINterWorlDsmAestrOs",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\192 - Warm Winter Wish",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\192 - Warm Winter Wish\\uniqueId.json",
+            "05 OpenTaiko Chapter V\\192 - Warm Winter Wish\\WWW.ogg",
+            "05 OpenTaiko Chapter V\\192 - Warm Winter Wish\\WWW.tja"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "049c6e413f0d70f3ab5af213bef03a39",
+        "chartSize": 9.07,
+        "chartTitle": "Warm Winter Wish",
+        "chartSubtitle": "Whimsical Winter World's Maestros",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 7,
+            "Hard": 7,
+            "Oni": 10.3,
+            "Edit": 10.5
+        },
+        "chartMakers": {
+            "Easy": "TFD500",
+            "Normal": "Komi",
+            "Hard": "WilliamDavi",
+            "Oni": "Team JE",
+            "Edit": "sadkay"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\192 - Warm Winter Wish\\WWW.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dIVerGInGDuaLITyRIpriDEr",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\193 - Diverging Duality",
         "tjaFilesPath": [

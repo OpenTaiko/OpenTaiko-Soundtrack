@@ -196,7 +196,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 189 - キャンディガール : 乙女雨（作編曲：kani） - https://x.com/otomeame https://x.com/kani0729 (Chart by Takkkom)
 190 - 虹はキライ : 乙女雨（作編曲：湿度ケイ） - https://www.youtube.com/@otomeame https://x.com/otomeame https://www.youtube.com/@shitsudokei5873 https://x.com/shitsudo_K (Chart by Yokoyoko (Extra), Komi)
 191 - 煉獄のOOTD : Masamune vs. H5 - https://linktr.ee/H5Music (Chart by bol vs lob)
-192 -
+192 -　Warm Winter Wish : Whimsical Winter World's Maestros (Dashy, Colin McGuire, InterChan, Taichenko, Whitetail, IID, Derpikarp) (Chart by the contest winners (sadkay, Team JE, WilliamDavi, TFD500) and Komi)
 193 - Diverging Duality : Riprider - https://riprider.bandcamp.com/  https://www.youtube.com/@Riprider_Music  https://soundcloud.com/riprider_music (Chart by DiamondN1nja)
 194 - FEEL IT ALL (Game Edit) : RachelTypeX - http://soundcloud.com/racheltypex (Chart by Komi)
 195 - Labyrinth from Another World : MoushiKomi (Chart by Komi)

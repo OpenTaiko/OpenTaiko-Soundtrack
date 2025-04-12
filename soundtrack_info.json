@@ -6513,6 +6513,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "optkhq07yokairanbu",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ07 - 212 - Inazuma Yokai Ranbu",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ07 - 212 - Inazuma Yokai Ranbu\\nep07.tja",
+            "E02 OpenTaiko Headquarters\\HQ07 - 212 - Inazuma Yokai Ranbu\\nepo7.ogg",
+            "E02 OpenTaiko Headquarters\\HQ07 - 212 - Inazuma Yokai Ranbu\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "90ab02dff41679613695720ee4bddbc7",
+        "chartSize": 2.77,
+        "chartTitle": "NEP0\uff1aINA7UMA\u30e8\u30a6\u30ab\u30a4\u30e9\u30f3\u30d6",
+        "chartSubtitle": "OPTK-HQ=CHANNEL4700",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Edit": 10.0,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Edit": "Komi",
+            "Hard": "Crab",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ07 - 212 - Inazuma Yokai Ranbu\\nepo7.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "outfox01",
         "tjaFolderPath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion",
         "tjaFilesPath": [
@@ -6952,12 +6983,13 @@
         "tjaFolderPath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein",
         "tjaFilesPath": [
             "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.ogg",
+            "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.png",
             "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.tja",
             "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "8ed1ef0c1c37b977da1d99e442e760e2",
-        "chartSize": 7.58,
+        "tjaMD5": "74b2475232edbe3041f23eea985e2c7d",
+        "chartSize": 33.31,
         "chartTitle": "Disintegrated Laevatein",
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartDifficulties": {
@@ -6975,7 +7007,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.png",
         "chartHoFRanks": {
             "Edit": 57
         }

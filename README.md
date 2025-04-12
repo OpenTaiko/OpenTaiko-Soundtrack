@@ -214,7 +214,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 207 - FORTALiCE : ZxNX - https://x.com/NxTunes https://soundcloud.com/zxnx https://www.youtube.com/@zxnx (Chart by DiamondN1nja)
 208 -
 209 -
-210 - NEP0: DANCIN6INTHECOLDRAINハートノット : OPTK-HQ=CHANNEL2514 (Chart by OPTK-HQ)
+210 - NEP0：DANCIN6INTHECOLDRAINハートノット : OPTK-HQ=CHANNEL2514 (Chart by OPTK-HQ)
+211 -
+212 - NEP0：INA7UMAヨウカイランブ : OPTK-HQ=CHANNEL4700 (Chart by OPTK-HQ)
 ```
 
 ### Visuals
@@ -237,6 +239,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 184 - Limelite : Pratama
 203 - If Life Were a Loop : Tree Bark
 T07 - Abyss : LeoO
+T10 - Disintegrated Laevatein : LeoO
 ```
 
 The visuals mentionned below have confirmed usage of AI generated assets

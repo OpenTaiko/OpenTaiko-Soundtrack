@@ -5371,6 +5371,68 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "welLspRIngVegGERHoggEr",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\211 - Wellspring",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\211 - Wellspring\\uniqueId.json",
+            "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.jpg",
+            "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.ogg",
+            "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.tja"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "05ca9902c6949de6060e10922e142862",
+        "chartSize": 5.6,
+        "chartTitle": "Wellspring",
+        "chartSubtitle": "veggerhogger",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "aNxIeTYASPIDCaT",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\213 - ANXiETY",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.jpg",
+            "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.ogg",
+            "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.tja",
+            "05 OpenTaiko Chapter V\\213 - ANXiETY\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "8f3daafc842ac9d4f3713ab829c891f2",
+        "chartSize": 2.64,
+        "chartTitle": "ANXiETY",
+        "chartSubtitle": "Aspid Cat",
+        "chartDifficulties": {
+            "Edit": 11.0,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

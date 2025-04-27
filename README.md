@@ -218,6 +218,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 211 - Wellspring : veggerhogger - https://soundcloud.com/veggerhogger/wellspring (Chart by Komi)
 212 - NEP0：INA7UMAヨウカイランブ : OPTK-HQ=CHANNEL4700 (Chart by OPTK-HQ)
 213 - ANXiETY : Aspid Cat - https://soundcloud.com/aspidcatowo/anxiety https://aspidcat.bandcamp.com/ (Chart by DiamondN1nja)
+214 -
+215 -
+216 - Constellation ~The Guiding Giant's Journey~ : Mr. Hikaru, and the Infinite Galaxy Ensemble - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 ```
 
 ### Visuals

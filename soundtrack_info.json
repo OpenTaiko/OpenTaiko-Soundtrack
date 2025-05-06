@@ -5433,6 +5433,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "nICOTineTEoCoREREmixJAcKuwteOcORe",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\215 - nicotine",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\215 - nicotine\\nicotine.ogg",
+            "05 OpenTaiko Chapter V\\215 - nicotine\\nicotine.tja",
+            "05 OpenTaiko Chapter V\\215 - nicotine\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "f7c9d6c0572f746ee463b5e1d0ab1dbe",
+        "chartSize": 3.03,
+        "chartTitle": "nicotine (Teocore Remix)",
+        "chartSubtitle": "jackuw & Teocore",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\215 - nicotine\\nicotine.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "CONsTelLationtHeguIdINggIANTSjOurneymrHIKarUANDthEinfiNiTEgalaXYEnsEmBle",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\216 - Constellation",
         "tjaFilesPath": [

@@ -5130,6 +5130,36 @@
         }
     },
     {
+        "uniqueId": "hYPErsonICMAKotORa",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\199 - HYPERSONIC",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\HYPERSONIC.jpg",
+            "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\HYPERSONIC.ogg",
+            "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\HYPERSONIC.tja",
+            "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "062be541824bda914c04bc03cdb96029",
+        "chartSize": 3.49,
+        "chartTitle": "HYPER-SONIC-",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\HYPERSONIC.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\HYPERSONIC.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "AperfectbeGINnINGBMSOtAKuSanTsUkurUzE25viPoffIcIaLAz3",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\200 - A Perfect Beginning",
         "tjaFilesPath": [

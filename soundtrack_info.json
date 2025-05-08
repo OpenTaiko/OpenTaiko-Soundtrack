@@ -5463,6 +5463,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "NePTUNESluLLaByOPEntaiKOSOunDTeAMh5",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\214 - Neptune's Lullaby",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\214 - Neptune's Lullaby\\Neptune's Lullaby.ogg",
+            "05 OpenTaiko Chapter V\\214 - Neptune's Lullaby\\Neptune's Lullaby.tja",
+            "05 OpenTaiko Chapter V\\214 - Neptune's Lullaby\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "3d2097dafb539f8aefa425c7e3d204ff",
+        "chartSize": 1.97,
+        "chartTitle": "Neptune's Lullaby",
+        "chartSubtitle": "OpenTaiko Sound Team \"H5\"",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 10.2,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Oni": "H5",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\214 - Neptune's Lullaby\\Neptune's Lullaby.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "nICOTineTEoCoREREmixJAcKuwteOcORe",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\215 - nicotine",
         "tjaFilesPath": [

@@ -215,7 +215,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 208 -
 209 -
 210 - NEP0：DANCIN6INTHECOLDRAINハートノット : OPTK-HQ=CHANNEL2514 (Chart by OPTK-HQ)
-211 - Wellspring : veggerhogger - https://soundcloud.com/veggerhogger/wellspring (Chart by Komi)
+211 - Wellspring : veggerhogger - https://soundcloud.com/veggerhogger/wellspring (Chart by Komi and bol)
 212 - NEP0：INA7UMAヨウカイランブ : OPTK-HQ=CHANNEL4700 (Chart by OPTK-HQ)
 213 - ANXiETY : Aspid Cat - https://soundcloud.com/aspidcatowo/anxiety https://aspidcat.bandcamp.com/ (Chart by DiamondN1nja)
 214 - Neptune's Lullaby : OpenTaiko Sound Team "H5" - https://linktr.ee/H5Music (Chart by H5, Komi, bol)

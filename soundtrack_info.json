@@ -5410,17 +5410,19 @@
             "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.tja"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "05ca9902c6949de6060e10922e142862",
-        "chartSize": 5.6,
+        "tjaMD5": "0d98529072c29a4f230878b873687fdc",
+        "chartSize": 5.61,
         "chartTitle": "Wellspring",
         "chartSubtitle": "veggerhogger",
         "chartDifficulties": {
+            "Edit": 10.2,
             "Oni": 8,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
         },
         "chartMakers": {
+            "Edit": "bol",
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",

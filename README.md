@@ -221,6 +221,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 214 - Neptune's Lullaby : OpenTaiko Sound Team "H5" - https://linktr.ee/H5Music (Chart by H5, Komi, bol)
 215 - nicotine (Teocore Remix) : jackuw & Teocore - jackuw: https://open.spotify.com/artist/71DCXeZ7RVTTMYI10bkLed?si=DwGhwsRmQXq-RLe7u7_Rlg & https://soundcloud.com/jackuw Teocore: https://open.spotify.com/artist/3sYKIK8OWKNyAqWx9xmprd?si=y_2q8uu2QPev74lQy0Fshw & https://soundcloud.com/teocore (Chart by Komi)
 216 - Constellation ~The Guiding Giant's Journey~ : Mr. Hikaru, and the Infinite Galaxy Ensemble - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
+217 - Lazy Me (Remastered Version) : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 ```
 
 ### Visuals

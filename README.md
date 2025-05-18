@@ -222,6 +222,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 215 - nicotine (Teocore Remix) : jackuw & Teocore - jackuw: https://open.spotify.com/artist/71DCXeZ7RVTTMYI10bkLed?si=DwGhwsRmQXq-RLe7u7_Rlg & https://soundcloud.com/jackuw Teocore: https://open.spotify.com/artist/3sYKIK8OWKNyAqWx9xmprd?si=y_2q8uu2QPev74lQy0Fshw & https://soundcloud.com/teocore (Chart by Komi)
 216 - Constellation ~The Guiding Giant's Journey~ : Mr. Hikaru, and the Infinite Galaxy Ensemble - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 217 - Lazy Me (Remastered Version) : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
+218 - Octans Cel Grift : BilliumMoto - https://soundcloud.com/billiummoto/bofttoctans-cel-grift https://gdbg.tv/release/2024-2-14 (Chart by Ryuto Setsujin, sadkay and IID)
+219 - πevergod : nm-y - https://soundcloud.com/nm-y/nevergod https://youtu.be/qnOtiwL9cpA?si=MdCHVh0A49SCPwsw (Chart by Colin)
+220 - 「DISCARDED_DISRUPTION」 : BeaniCraft - https://www.youtube.com/@BeaniCraft (Chart by Komi, Lyrics and Timing by BeaniCraft)
 ```
 
 ### Visuals
@@ -245,6 +248,8 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 191 - 煉獄のOOTD : DragonRatTiger
 203 - If Life Were a Loop : Tree Bark
 209 - Bannerbomb (OpenTaiko Edit) : DragonRatTiger
+219 - πevergod : Transendium (BGA and Illustration)
+220 - 「DISCARDED_DISRUPTION」 : BeaniCraft
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 ```
@@ -272,6 +277,11 @@ Each composer keep the rights on their songs, therefore you **must** ensure to h
 If you liked a specific song and want to support the composer's work, please check their links on the credits.
 
 ### Songs with specific licenses
+
+- Getting the artist's permission beforehand is explicitely stated as mandatory (All Rights Reserved)
+```
+219 - πevergod
+```
 
 - CC BY
 ```
@@ -346,3 +356,10 @@ Cirno in Quarantine - H5 https://linktr.ee/H5Music (Chart by bol)
 BLINDED CRITICISM - DeBisco & Zovi [DeBisco(https://soundcloud.com/debisco https://twitter.com/debiscomusic) Zovi(https://zovi.bandcamp.com/ https://soundcloud.com/zovi https://twitter.com/zovinoise)] (Chart by Komi)
 ```
 Songs that are not specified under the 'Songs with specific licenses' section are under the OpenTaiko Default Licence
+
+## Reuploading
+
+Permission from the following actors is mandatory for reuploading OpenTaiko Charts:
+- The OpenTaiko Team (and, in the case of a collaboration, the related game's staff)
+- The song artist(s)
+- The jacket/BGA artist(s)

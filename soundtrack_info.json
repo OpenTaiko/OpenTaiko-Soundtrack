@@ -5401,6 +5401,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "BaNneRbomboPEntAiKoeditstUcuPId",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\209 - Bannerbomb",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\209 - Bannerbomb\\Bannerbomb (OpenTaiko Edit).tja",
+            "05 OpenTaiko Chapter V\\209 - Bannerbomb\\Bannerbomb.ogg",
+            "05 OpenTaiko Chapter V\\209 - Bannerbomb\\Bannerbomb.png",
+            "05 OpenTaiko Chapter V\\209 - Bannerbomb\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "528ff60993149d6cd64cb5572a04e329",
+        "chartSize": 4.65,
+        "chartTitle": "Bannerbomb (OpenTaiko Edit)",
+        "chartSubtitle": "Stu Cupid",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\209 - Bannerbomb\\Bannerbomb.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\209 - Bannerbomb\\Bannerbomb.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "welLspRIngVegGERHoggEr",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\211 - Wellspring",
         "tjaFilesPath": [

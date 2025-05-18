@@ -5649,6 +5649,105 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "oCtaNsCelGRIFtbiLLiuMMOto",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\218 - Octans Cel Grift",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans Cel Grift.ogg",
+            "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans Cel Grift.tja",
+            "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans_Cel_Grift.png",
+            "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "35383bdc8637f18dd7bfdf204a841fab",
+        "chartSize": 3.44,
+        "chartTitle": "Octans Cel Grift",
+        "chartSubtitle": "BilliumMoto",
+        "chartDifficulties": {
+            "Edit": 11.2,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "sadkay,IID",
+            "Oni": "Ryuto Setsujin,IID",
+            "Hard": "Ryuto Setsujin",
+            "Normal": "Ryuto Setsujin",
+            "Easy": "Ryuto Setsujin"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans Cel Grift.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans_Cel_Grift.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "nevergodnmycolinchart",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\219 - nevergod",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.jpg",
+            "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.mp4",
+            "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.ogg",
+            "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.tja",
+            "05 OpenTaiko Chapter V\\219 - nevergod\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "f27d31cfff06734ca086d4e2080502ae",
+        "chartSize": 42.55,
+        "chartTitle": "\u03c0evergod",
+        "chartSubtitle": "nm-y",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 8,
+            "Oni": 9,
+            "Edit": 11.7
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin",
+            "Edit": "Colin"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "beaniDD",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\220 - Discarded Disruption",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.ogg",
+            "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.png",
+            "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.tja",
+            "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.vtt",
+            "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2M.mp4",
+            "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "dfc920469139ece0b14b55b85d226793",
+        "chartSize": 13.32,
+        "chartTitle": "\u300cDISCARDED_DISRUPTION\u300d",
+        "chartSubtitle": "BeaniCraft",
+        "chartDifficulties": {
+            "Edit": 11.8,
+            "Oni": 10.3,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

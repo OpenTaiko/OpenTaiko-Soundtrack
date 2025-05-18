@@ -5401,6 +5401,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "fantAsYdrIftERRfeAtDAsHY",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\208 - FANTASY",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\208 - FANTASY\\FANTASY.ogg",
+            "05 OpenTaiko Chapter V\\208 - FANTASY\\FANTASY.png",
+            "05 OpenTaiko Chapter V\\208 - FANTASY\\FANTASY.tja",
+            "05 OpenTaiko Chapter V\\208 - FANTASY\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "797a0d8e5bf26e111878b61c20b5255a",
+        "chartSize": 6.27,
+        "chartTitle": "FANTASY*",
+        "chartSubtitle": "Drifterr!! feat. Dashy,",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\208 - FANTASY\\FANTASY.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\208 - FANTASY\\FANTASY.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "BaNneRbomboPEntAiKoeditstUcuPId",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\209 - Bannerbomb",
         "tjaFilesPath": [

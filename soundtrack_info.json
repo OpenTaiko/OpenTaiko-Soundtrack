@@ -1019,7 +1019,7 @@
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
         "tjaMD5": "81c65599d5a304270ee9a4e3d65b436b",
-        "chartSize": 4.73,
+        "chartSize": 4.91,
         "chartTitle": "TRIPLE HELIX",
         "chartSubtitle": "Yonokid",
         "chartDifficulties": {
@@ -7676,6 +7676,160 @@
             "Edit": 6,
             "Oni": 18
         }
+    },
+    {
+        "uniqueId": "pentjet01",
+        "tjaFolderPath": "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\pentrage.jpg",
+            "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\PentRage.ogg",
+            "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\PentRage.tja",
+            "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "C04 Project Pentjet",
+        "tjaMD5": "74a038a9bdd0ae3d52b08fca4b82af02",
+        "chartSize": 3.43,
+        "chartTitle": "PentRage",
+        "chartSubtitle": "RachelTypeX / Project Pentjet",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 8,
+            "Hard": 7,
+            "Easy": 3,
+            "Normal": 4
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "Komi",
+            "Hard": "DiamondN1nja",
+            "Easy": "DiamondN1nja",
+            "Normal": "Komi"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\PentRage.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\pentrage.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pentjet02",
+        "tjaFolderPath": "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\Star Dust.tja",
+            "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\stardust.jpg",
+            "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\stardust.ogg",
+            "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "C04 Project Pentjet",
+        "tjaMD5": "b50383511e00b4e1e0dbec8acf6f47ed",
+        "chartSize": 2.89,
+        "chartTitle": "Star*Dust",
+        "chartSubtitle": "CuZi / Project Pentjet",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\stardust.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\stardust.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pentjet03",
+        "tjaFolderPath": "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\Necrovis.jpg",
+            "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\Necrovis.ogg",
+            "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\Necrovis.tja",
+            "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "C04 Project Pentjet",
+        "tjaMD5": "f1912c0e47d9025d9f05c9f8dee8c992",
+        "chartSize": 2.77,
+        "chartTitle": "Necrovis",
+        "chartSubtitle": "St4rie / Project Pentjet",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\Necrovis.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\Necrovis.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pentjet04",
+        "tjaFolderPath": "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\Jakarta EVOLUTION.jpg",
+            "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\Jakarta EVOLUTION.ogg",
+            "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\Jakarta EVOLUTION.tja",
+            "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "C04 Project Pentjet",
+        "tjaMD5": "b635c2e2244db244118b12d5ea3ee417",
+        "chartSize": 3.42,
+        "chartTitle": "Jakarta EVOLUTION",
+        "chartSubtitle": "KURORAK / Project Pentjet",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "sadkay",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\Jakarta EVOLUTION.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\Jakarta EVOLUTION.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pentjet05",
+        "tjaFolderPath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\uniqueId.json",
+            "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.jpg",
+            "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.ogg",
+            "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\Yukisarashi.tja"
+        ],
+        "tjaGenreFolder": "C04 Project Pentjet",
+        "tjaMD5": "ce3d8943eceb61ae3562e6484a5ca31e",
+        "chartSize": 3.66,
+        "chartTitle": "Yukisarashi",
+        "chartSubtitle": "SiLiS / Project Pentjet",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.jpg",
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",

@@ -357,6 +357,25 @@ BLINDED CRITICISM - DeBisco & Zovi [DeBisco(https://soundcloud.com/debisco https
 ```
 Songs that are not specified under the 'Songs with specific licenses' section are under the OpenTaiko Default Licence
 
+### Project Pentjet
+
+Get Project Pentjet on the following stores:
+Google Play Store (Android): https://play.google.com/store/apps/details?id=com.Dichi.ProjectPentjet&hl=ja
+Apple Store (TestFlight, iOS): https://testflight.apple.com/join/YOm3zrcG
+
+Showcases:
+- OpenTaiko: https://youtu.be/wElXIoxTcoE
+- Project Pentjet: https://x.com/_dichidichi_/status/1926669753680105496
+
+The included songs are:
+```
+PentRage by RachelTypeX (Chart by Komi and DiamondN1nja): https://soundcloud.com/racheltypex
+Star*Dust by CuZi (Chart by DiamondN1nja): https://youtube.com/channel/UCxx3wiFJxGwb_-tEePPa4RA 
+Necrovis by St4rie (Chart by Makotora): https://www.youtube.com/channel/UC54jxHumitCmoZAk5z1b02Q/videos
+Jakarta EVOLUTION by KURORAK (Chart by DiamondN1nja and sadkay): https://www.youtube.com/@Kurorak
+Yukisarashi by SiLiS (Chart by DiamondN1nja): https://soundcloud.com/silis
+```
+
 ## Reuploading
 
 Permission from the following actors is mandatory for reuploading OpenTaiko Charts:

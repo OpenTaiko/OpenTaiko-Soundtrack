@@ -5440,17 +5440,19 @@
             "05 OpenTaiko Chapter V\\209 - Bannerbomb\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "528ff60993149d6cd64cb5572a04e329",
-        "chartSize": 4.65,
+        "tjaMD5": "2280bfcb2a4df343601c30c6e91411ed",
+        "chartSize": 4.67,
         "chartTitle": "Bannerbomb (OpenTaiko Edit)",
         "chartSubtitle": "Stu Cupid",
         "chartDifficulties": {
+            "Edit": 8,
             "Oni": 10.2,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
         },
         "chartMakers": {
+            "Edit": "bol",
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",

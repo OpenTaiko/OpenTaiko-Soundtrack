@@ -225,6 +225,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 218 - Octans Cel Grift : BilliumMoto - https://soundcloud.com/billiummoto/bofttoctans-cel-grift https://gdbg.tv/release/2024-2-14 (Chart by Ryuto Setsujin, sadkay and IID)
 219 - πevergod : nm-y - https://soundcloud.com/nm-y/nevergod https://youtu.be/qnOtiwL9cpA?si=MdCHVh0A49SCPwsw (Chart by Colin)
 220 - 「DISCARDED_DISRUPTION」 : BeaniCraft - https://www.youtube.com/@BeaniCraft (Chart by Komi, Lyrics and Timing by BeaniCraft)
+221 - ORTU5 5OLI5 : Dashy, vs. H5 vs. Taichenko vs. YLNO vs. Masamune (Chart by bol vs Komi vs lob vs Imok vs 888.8181)
 ```
 
 ### Visuals

@@ -1,0 +1,1088 @@
+﻿// PeepoDrumKit 2023/10/28
+TITLE:BUTCHER VANITY
+SUBTITLE:--FLAVOR FOLEY ft. Yi Xi
+TITLEZH:BUTCHER VANITY
+SUBTITLEZH:FLAVOR FOLEY ft. 奕夕
+BPM:142
+WAVE:BUTCHER VANITY.ogg
+PREIMAGE:BUTCHER VANITY.jpg
+OFFSET:-0.02
+DEMOSTART:28.329
+EXPLICIT:1
+MAKER:Colin,Komi
+BGMOVIE:BUTCHER VANITY.mp4
+
+COURSE:Easy
+LEVEL:2
+BALLOON:4
+SCOREINIT:
+SCOREDIFF:
+NOTESDESIGNER0:Colin
+
+#START
+#SCROLL 70.4155
+68
+#SCROLL 1
+000000,
+1
+#LYRIC They say my hunger's a problem
+0001000,
+1000000
+#LYRIC They tell me to curb my appetite
+0,
+1010,
+1,
+1
+#LYRIC They say I can't keep myself
+0001000,
+1
+#LYRIC From trying a bite of every plate in sight
+0000000,
+1010,
+100
+#LYRIC
+0,
+2
+#LYRIC They worship patience, a virtue
+0002000,
+200
+#LYRIC Oh, they tell me gluttony’s a sin
+0,
+2020,
+20
+#LYRIC
+02,
+2
+#LYRIC But my desire, it’s bottomless
+0002000,
+20000
+#LYRIC I wanna slit your throat and eat 'till I get sick
+000,
+3030,
+#LYRIC
+300
+#LYRIC The slaughter's on
+0,
+#GOGOSTART
+30001
+#LYRIC I’d love to see you come undone
+000,
+111
+#LYRIC Unsatisfied
+0,
+10001
+#LYRIC Until I’ve got you flayed alive
+000,
+10000
+#LYRIC So grab a plate, have a taste
+000,
+202
+#LYRIC 这口味让我 陶醉
+0,
+20202
+#LYRIC I’m still preying on a butcher’s vein
+000,
+2020,
+2000000
+#LYRIC
+0,
+#GOGOEND
+3
+#LYRIC To snap the sinew, I want
+0000000,
+1
+#LYRIC To get within you, I want
+0000000,
+1
+#LYRIC To not forgive you
+00000
+#LYRIC Rigor mortis, mold and mildew
+00,
+100
+#LYRIC But dear, you should be grateful
+0,
+200
+#LYRIC That I won’t waste a good meal
+0,
+200
+#LYRIC That all my love’s precision
+0,
+200
+#LYRIC Carves a cut to simply die for
+0,
+200
+#LYRIC
+0,
+#GOGOSTART
+#LYRIC TO SNAP THE SINEW, I WANT
+3010,
+1
+#LYRIC TO GET WITHIN YOU, I WANT
+0101000,
+1
+#LYRIC TO SCAR THE TISSUE
+00010
+#LYRIC BUTTERFLY AND RECTIFY YOU
+00,
+100
+#LYRIC I NEED TO BE YOUR AFTERLIFE
+0,
+2000200
+#LYRIC EUCHARIST, I DEIFY
+0,
+2020200
+#LYRIC GOD, OH, FUCK THE FORK AND KNIFE
+0,
+2000200
+#LYRIC I’LL RIP IN HANDS AND TEETH AND TAKE A BITE
+0,
+7,
+#GOGOEND
+#LYRIC
+8,
+,
+000
+#LYRIC The slaughter's on
+0,
+#GOGOSTART
+30001
+#LYRIC I’d love to see you come undone
+000,
+111
+#LYRIC Unsatisfied
+0,
+10001
+#LYRIC Until I’ve got you flayed alive
+000,
+10000
+#LYRIC So grab a plate, have a taste
+000,
+202
+#LYRIC 这口味让我 陶醉
+0,
+20202
+#LYRIC I’m still preying on a butcher’s vein
+000,
+2020,
+20000
+#LYRIC And now the slaughter’s mine
+000,
+30001
+#LYRIC My darling, get under the knife
+000,
+111
+#LYRIC Your broken pride
+0,
+10001
+#LYRIC A cut so perfect in its prime
+000,
+10000
+#LYRIC All that I see, sixty-three,
+000,
+202
+#LYRIC 为让我心醉的你
+0,
+20202
+#LYRIC I'll be waiting, so impatiently
+000,
+2020,
+5000
+#LYRIC
+800
+#LYRIC (Oh, your heart
+0,
+3000100
+#LYRIC Aortic work of art
+0,
+1010100
+#LYRIC My love, my knife
+0,
+1000100
+#LYRIC To carve it out, your life)
+0,
+10000
+#LYRIC So grab a plate, have a taste
+000,
+202
+#LYRIC 这口味让我陶醉
+0,
+20202
+#LYRIC I’m still preying on a butcher’s vein
+000,
+2020,
+6008,
+#GOGOEND
+#LYRIC
+3010,
+1,
+2020,
+2,
+1010,
+1000000
+#LYRIC Still praying, hopeless and in vain.
+0,
+2020,
+#LYRIC
+2,
+#END
+
+COURSE:Normal
+LEVEL:4
+BALLOON:8
+SCOREINIT:
+SCOREDIFF:
+NOTESDESIGNER1:Colin
+
+#START
+#SCROLL 70.4155
+68
+#SCROLL 1
+000000,
+1
+#LYRIC They say my hunger's a problem
+0011001,
+1000000
+#LYRIC They tell me to curb my appetite
+0,
+10011001,
+1,
+1
+#LYRIC They say I can't keep myself
+0011001,
+1
+#LYRIC From trying a bite of every plate in sight
+0000000,
+10011001,
+100
+#LYRIC
+0,
+2
+#LYRIC They worship patience, a virtue
+0002022,
+202
+#LYRIC Oh, they tell me gluttony’s a sin
+0,
+2022,
+2000
+#LYRIC
+0022,
+2
+#LYRIC But my desire, it’s bottomless
+0002000,
+20000
+#LYRIC I wanna slit your throat and eat 'till I get sick
+000,
+3031,
+#LYRIC
+300
+#LYRIC The slaughter's on
+0,
+#GOGOSTART
+30011
+#LYRIC I’d love to see you come undone
+011,
+111
+#LYRIC Unsatisfied
+0,
+10011
+#LYRIC Until I’ve got you flayed alive
+010,
+10001
+#LYRIC So grab a plate, have a taste
+000,
+202220
+#LYRIC 这口味让我 陶醉
+20,
+20222
+#LYRIC I’m still preying on a butcher’s vein
+000,
+2022,
+2000000
+#LYRIC
+0,
+#GOGOEND
+3
+#LYRIC To snap the sinew, I want
+0000000,
+1
+#LYRIC To get within you, I want
+0000000,
+1
+#LYRIC To not forgive you
+00000
+#LYRIC Rigor mortis, mold and mildew
+00,
+100
+#LYRIC But dear, you should be grateful
+0,
+200
+#LYRIC That I won’t waste a good meal
+0,
+200
+#LYRIC That all my love’s precision
+0,
+200
+#LYRIC Carves a cut to simply die for
+0,
+200
+#LYRIC
+0,
+#GOGOSTART
+#LYRIC TO SNAP THE SINEW, I WANT
+30011011,
+0
+#LYRIC TO GET WITHIN YOU, I WANT
+1101000,
+1
+#LYRIC TO SCAR THE TISSUE
+00110
+#LYRIC BUTTERFLY AND RECTIFY YOU
+10,
+101
+#LYRIC I NEED TO BE YOUR AFTERLIFE
+0,
+2020222
+#LYRIC EUCHARIST, I DEIFY
+0,
+2020222
+#LYRIC GOD, OH, FUCK THE FORK AND KNIFE
+0,
+2020202
+#LYRIC I’LL RIP IN HANDS AND TEETH AND TAKE A BITE
+0,
+7,
+#GOGOEND
+#LYRIC
+8,
+,
+000
+#LYRIC The slaughter's on
+0,
+#GOGOSTART
+30011
+#LYRIC I’d love to see you come undone
+011,
+111
+#LYRIC Unsatisfied
+0,
+10011
+#LYRIC Until I’ve got you flayed alive
+010,
+10001
+#LYRIC So grab a plate, have a taste
+000,
+202220
+#LYRIC 这口味让我 陶醉
+20,
+20222
+#LYRIC I’m still preying on a butcher’s vein
+000,
+2022,
+20000
+#LYRIC And now the slaughter’s mine
+000,
+30011
+#LYRIC My darling, get under the knife
+011,
+111
+#LYRIC Your broken pride
+0,
+10011
+#LYRIC A cut so perfect in its prime
+010,
+10001
+#LYRIC All that I see, sixty-three,
+000,
+202220
+#LYRIC 为让我心醉的你
+20,
+20222
+#LYRIC I'll be waiting, so impatiently
+000,
+2022,
+5000
+#LYRIC
+800
+#LYRIC (Oh, your heart
+0,
+3000100
+#LYRIC Aortic work of art
+0,
+1010100
+#LYRIC My love, my knife
+0,
+1000100
+#LYRIC To carve it out, your life)
+0,
+10000
+#LYRIC So grab a plate, have a taste
+000,
+202
+#LYRIC 这口味让我陶醉
+0,
+20202
+#LYRIC I’m still preying on a butcher’s vein
+000,
+2020,
+6008,
+#GOGOEND
+#LYRIC
+3010,
+1,
+2020,
+2,
+1010,
+1000000
+#LYRIC Still praying, hopeless and in vain.
+0,
+2020,
+#LYRIC
+2,
+#END
+
+COURSE:Hard
+LEVEL:4
+BALLOON:16
+SCOREINIT:
+SCOREDIFF:
+NOTESDESIGNER2:Colin
+
+#START
+#SCROLL 70.4155
+68
+#SCROLL 1
+000000,
+3
+#LYRIC They say my hunger's a problem
+0033003,
+3000000
+#LYRIC They tell me to curb my appetite
+0,
+30033003,
+3,
+3
+#LYRIC They say I can't keep myself
+0033003,
+3
+#LYRIC From trying a bite of every plate in sight
+0000003,
+30033003,
+300
+#LYRIC
+0,
+3
+#LYRIC They worship patience, a virtue
+0211020,
+102101
+#LYRIC Oh, they tell me gluttony’s a sin
+20,
+10211020,
+10002010
+#LYRIC
+00102011,
+1
+#LYRIC But my desire, it’s bottomless
+0211020,
+10210
+#LYRIC I wanna slit your throat and eat 'till I get sick
+120,
+34343434,
+#LYRIC
+300
+#LYRIC The slaughter's on
+4,
+#GOGOSTART
+30210
+#LYRIC I’d love to see you come undone
+121,
+212220
+#LYRIC Unsatisfied
+20,
+21020
+#LYRIC Until I’ve got you flayed alive
+121,
+21212
+#LYRIC So grab a plate, have a taste
+222,
+102210
+#LYRIC 这口味让我 陶醉
+12,
+12121
+#LYRIC I’m still preying on a butcher’s vein
+202,
+12020222,
+1000000
+#LYRIC
+0,
+#GOGOEND
+3
+#LYRIC To snap the sinew, I want
+0000000,
+2
+#LYRIC To get within you, I want
+0000000,
+1
+#LYRIC To not forgive you
+00000
+#LYRIC Rigor mortis, mold and mildew
+00,
+200
+#LYRIC But dear, you should be grateful
+0,
+100
+#LYRIC That I won’t waste a good meal
+0,
+200
+#LYRIC That all my love’s precision
+0,
+100
+#LYRIC Carves a cut to simply die for
+0,
+200
+#LYRIC
+0,
+#GOGOSTART
+#LYRIC TO SNAP THE SINEW, I WANT
+30210122,
+1
+#LYRIC TO GET WITHIN YOU, I WANT
+0210122,
+10
+#LYRIC TO SCAR THE TISSUE
+0020100010
+#LYRIC BUTTERFLY AND RECTIFY YOU
+2011,
+112011
+#LYRIC I NEED TO BE YOUR AFTERLIFE
+20,
+2020212
+#LYRIC EUCHARIST, I DEIFY
+0,
+2020212
+#LYRIC GOD, OH, FUCK THE FORK AND KNIFE
+0,
+2222222
+#LYRIC I’LL RIP IN HANDS AND TEETH AND TAKE A BITE
+2,
+7,
+#GOGOEND
+#LYRIC
+80021002,
+1,
+000020202022
+#LYRIC The slaughter's on
+2000,
+#GOGOSTART
+30210
+#LYRIC I’d love to see you come undone
+121,
+212220
+#LYRIC Unsatisfied
+20,
+21020
+#LYRIC Until I’ve got you flayed alive
+121,
+21212
+#LYRIC So grab a plate, have a taste
+222,
+102210
+#LYRIC 这口味让我 陶醉
+12,
+12121
+#LYRIC I’m still preying on a butcher’s vein
+202,
+12020222,
+50008
+#LYRIC And now the slaughter’s mine
+000,
+30210
+#LYRIC My darling, get under the knife
+121,
+212220
+#LYRIC Your broken pride
+20,
+21020
+#LYRIC A cut so perfect in its prime
+121,
+21212
+#LYRIC All that I see, sixty-three,
+222,
+102210
+#LYRIC 为让我心醉的你
+12,
+12121
+#LYRIC I'll be waiting, so impatiently
+202,
+12020222,
+5000
+#LYRIC
+800
+#LYRIC (Oh, your heart
+6,
+0000800
+#LYRIC Aortic work of art
+2,
+1212100
+#LYRIC My love, my knife
+2,
+1002200
+#LYRIC To carve it out, your life)
+2,
+12121
+#LYRIC So grab a plate, have a taste
+222,
+102210
+#LYRIC 这口味让我陶醉
+12,
+12121
+#LYRIC I’m still preying on a butcher’s vein
+202,
+22020212,
+5008,
+#GOGOEND
+#LYRIC
+10021001,
+20020222,
+10021001,
+20020222,
+10021001,
+2002022
+#LYRIC Still praying, hopeless and in vain.
+2,
+11010121,
+#LYRIC
+3,
+#END
+
+COURSE:Oni
+LEVEL:6
+BALLOON:8,12
+SCOREINIT:
+SCOREDIFF:
+NOTESDESIGNER3:Komi
+
+#START
+#SCROLL 70.4155
+6080
+#SCROLL 1
+000010001120,
+3
+#LYRIC They say my hunger's a problem
+0012001,
+2022222
+#LYRIC They tell me to curb my appetite
+2,
+10012001,
+2000002000111010,
+1
+#LYRIC They say I can't keep myself
+0012001,
+2
+#LYRIC From trying a bite of every plate in sight
+0222222,
+10012001,
+202222
+#LYRIC
+42,
+3
+#LYRIC They worship patience, a virtue
+0211021,
+100020100010
+#LYRIC Oh, they tell me gluttony’s a sin
+2011,
+10211021,
+10001020
+#LYRIC
+00200011,
+1
+#LYRIC But my desire, it’s bottomless
+0211021,
+10210
+#LYRIC I wanna slit your throat and eat 'till I get sick
+121,
+43434343,
+#LYRIC
+400
+#LYRIC The slaughter's on
+4,
+#GOGOSTART
+1010201110
+#LYRIC I’d love to see you come undone
+102010,
+100020221010
+#LYRIC Unsatisfied
+2000,
+1010201110
+#LYRIC Until I’ve got you flayed alive
+102000,
+1010202010
+#LYRIC So grab a plate, have a taste
+112000,
+100110102000
+#LYRIC 这口味让我 陶醉
+1010,
+2011101020
+#LYRIC I’m still preying on a butcher’s vein
+100022,
+11210122,
+10002000101120
+#LYRIC
+10,
+#GOGOEND
+2
+#LYRIC To snap the sinew, I want
+0001010,
+2
+#LYRIC To get within you, I want
+0101010,
+2
+#LYRIC To not forgive you
+01020
+#LYRIC Rigor mortis, mold and mildew
+20,
+121
+#LYRIC But dear, you should be grateful
+1,
+201
+#LYRIC That I won’t waste a good meal
+1,
+211
+#LYRIC That all my love’s precision
+1,
+212
+#LYRIC Carves a cut to simply die for
+2,
+102010
+#SCROLL 1.25
+#LYRIC
+4
+#SCROLL 1
+0,
+#GOGOSTART
+#LYRIC TO SNAP THE SINEW, I WANT
+1010201020100022,
+10
+#LYRIC TO GET WITHIN YOU, I WANT
+10201020100022,
+1
+#LYRIC TO SCAR THE TISSUE
+12121
+#LYRIC BUTTERFLY AND RECTIFY YOU
+20,
+112021
+#LYRIC I NEED TO BE YOUR AFTERLIFE
+20,
+20101011200010
+#LYRIC EUCHARIST, I DEIFY
+20,
+20102011200010
+#LYRIC GOD, OH, FUCK THE FORK AND KNIFE
+20,
+1111111
+#LYRIC I’LL RIP IN HANDS AND TEETH AND TAKE A BITE
+1,
+50087000,
+#GOGOEND
+#LYRIC
+80012001,
+2030,
+000010001011
+#LYRIC The slaughter's on
+2010,
+#GOGOSTART
+1010201110
+#LYRIC I’d love to see you come undone
+102010,
+100020221010
+#LYRIC Unsatisfied
+2000,
+1010201110
+#LYRIC Until I’ve got you flayed alive
+102000,
+1010202010
+#LYRIC So grab a plate, have a taste
+112000,
+100110102000
+#LYRIC 这口味让我 陶醉
+1010,
+2011101020
+#LYRIC I’m still preying on a butcher’s vein
+100022,
+11210122,
+1000200010
+#LYRIC And now the slaughter’s mine
+112010,
+1010201110
+#LYRIC My darling, get under the knife
+102010,
+100020221010
+#LYRIC Your broken pride
+2000,
+1010201110
+#LYRIC A cut so perfect in its prime
+102000,
+1010221010
+#LYRIC All that I see, sixty-three,
+102210,
+100110102000
+#LYRIC 为让我心醉的你
+1010,
+2011101020
+#LYRIC I'll be waiting, so impatiently
+100022,
+11210122,
+10002000
+#LYRIC
+101120
+#LYRIC (Oh, your heart
+20,
+50008010508010
+#LYRIC Aortic work of art
+22,
+1212580
+#LYRIC My love, my knife
+1,
+20001020508010
+#LYRIC To carve it out, your life)
+22,
+12212
+#LYRIC So grab a plate, have a taste
+121,
+200110102000
+#LYRIC 这口味让我陶醉
+2020,
+34343
+#LYRIC I’m still preying on a butcher’s vein
+401,
+21021144,
+7008,
+#GOGOEND
+#LYRIC
+30211021,
+10210121,
+10211021,
+1000102000102011,
+10211021,
+10002010001022
+#LYRIC Still praying, hopeless and in vain.
+10,
+1020001000201120,
+#LYRIC
+3,
+#END
+
+COURSE:Edit
+LEVEL:8
+SCOREINIT:
+SCOREDIFF:
+NOTESDESIGNER4:Colin
+
+#START
+#SCROLL 70.4155
+600000800000
+#SCROLL 1
+200000200000200000101010200200100000,
+3
+#LYRIC They say my hunger's a problem
+2222101,
+2100000
+#LYRIC They tell me to curb my appetite
+2,
+02121212,
+2,
+0
+#LYRIC They say I can't keep myself
+2221202,
+1
+#LYRIC From trying a bite of every plate in sight
+1020202,
+12020221,
+200000
+#LYRIC
+42,
+30
+#LYRIC They worship patience, a virtue
+00201010002011,
+100020100010
+#LYRIC Oh, they tell me gluttony’s a sin
+2211,
+1000201010002011,
+10002010
+#LYRIC
+20102011,
+10
+#LYRIC But my desire, it’s bottomless
+00201010002011,
+10210
+#LYRIC I wanna slit your throat and eat 'till I get sick
+121,
+43434343,
+#LYRIC
+400
+#LYRIC The slaughter's on
+4,
+#GOGOSTART
+3010210110
+#LYRIC I’d love to see you come undone
+112210,
+101122021010
+#LYRIC Unsatisfied
+2022,
+1010210110
+#LYRIC Until I’ve got you flayed alive
+112210,
+1011220210
+#LYRIC So grab a plate, have a taste
+102022,
+100120102011
+#LYRIC 这口味让我 陶醉
+2020,
+3040304030
+#LYRIC I’m still preying on a butcher’s vein
+402211,
+1010201210102020,
+30112010201120
+#LYRIC
+20,
+#GOGOEND
+3
+#LYRIC To snap the sinew, I want
+0202020,
+1
+#LYRIC To get within you, I want
+0202020,
+1
+#LYRIC To not forgive you
+02020
+#LYRIC Rigor mortis, mold and mildew
+20,
+122
+#LYRIC But dear, you should be grateful
+2,
+122
+#LYRIC That I won’t waste a good meal
+2,
+122
+#LYRIC That all my love’s precision
+2,
+122
+#LYRIC Carves a cut to simply die for
+2,
+102020
+#SCROLL 2
+#LYRIC
+4
+#SCROLL 1
+0,
+#GOGOSTART
+#LYRIC TO SNAP THE SINEW, I WANT
+3010201212102000,
+10
+#LYRIC TO GET WITHIN YOU, I WANT
+10202202102021,
+10
+#LYRIC TO SCAR THE TISSUE
+1020121210
+#LYRIC BUTTERFLY AND RECTIFY YOU
+2000,
+101020220210
+#LYRIC I NEED TO BE YOUR AFTERLIFE
+2021,
+20102011201020
+#LYRIC EUCHARIST, I DEIFY
+11,
+20102011201020
+#LYRIC GOD, OH, FUCK THE FORK AND KNIFE
+11,
+2222222
+#LYRIC I’LL RIP IN HANDS AND TEETH AND TAKE A BITE
+2,
+200200200200200200200200202020202020202020202020,
+#GOGOEND
+#LYRIC
+20021001,
+2030,
+000000200200200111
+#LYRIC The slaughter's on
+200200,
+#GOGOSTART
+3010210110
+#LYRIC I’d love to see you come undone
+112210,
+101122021010
+#LYRIC Unsatisfied
+2022,
+1010210110
+#LYRIC Until I’ve got you flayed alive
+112210,
+1011220210
+#LYRIC So grab a plate, have a taste
+102022,
+100120102011
+#LYRIC 这口味让我 陶醉
+2020,
+3040304030
+#LYRIC I’m still preying on a butcher’s vein
+402211,
+1010201210102010,
+4011201040
+#LYRIC And now the slaughter’s mine
+112222,
+1010210110
+#LYRIC My darling, get under the knife
+112210,
+101122021010
+#LYRIC Your broken pride
+2022,
+1010210110
+#LYRIC A cut so perfect in its prime
+112210,
+1011220210
+#LYRIC All that I see, sixty-three,
+102022,
+100120102011
+#LYRIC 为让我心醉的你
+2020,
+3040304030
+#LYRIC I'll be waiting, so impatiently
+402211,
+1010201210102020,
+50000000
+#LYRIC
+801120
+#LYRIC (Oh, your heart
+22,
+10102012121021
+#LYRIC Aortic work of art
+20,
+11012010201122
+#LYRIC My love, my knife
+11,
+10112010110120
+#LYRIC To carve it out, your life)
+12,
+1021201020
+#LYRIC So grab a plate, have a taste
+102022,
+100120102011
+#LYRIC 这口味让我陶醉
+2020,
+3040304030
+#LYRIC I’m still preying on a butcher’s vein
+402211,
+1010201210104040,
+6008,
+#GOGOEND
+#LYRIC
+30211021,
+1000201000102211,
+10211021,
+1000102000102011,
+10211021,
+10002010001020
+#LYRIC Still praying, hopeless and in vain.
+11,
+12010212,
+#LYRIC
+3,
+#END

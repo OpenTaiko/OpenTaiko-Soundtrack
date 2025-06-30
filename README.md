@@ -226,6 +226,24 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 219 - πevergod : nm-y - https://soundcloud.com/nm-y/nevergod https://youtu.be/qnOtiwL9cpA?si=MdCHVh0A49SCPwsw (Chart by Colin)
 220 - 「DISCARDED_DISRUPTION」 : BeaniCraft - https://www.youtube.com/@BeaniCraft (Chart by Komi, Lyrics and Timing by BeaniCraft)
 221 - ORTU5 5OLI5 : Dashy, vs. H5 vs. Taichenko vs. YLNO vs. Masamune (Chart by bol vs Komi vs lob vs Imok vs 888.8181)
+222 - glide through a sky : Dashy, - https://www.youtube.com/c/DashyDesu  (Chart by bol)
+223 - Hearts in Motion (Game Edit) : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi, Makotora)
+224 - SPDRN : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by Komi)
+225 - Nitro : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by Komi)
+226 - 
+227 - Beach Race : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by Komi)
+228 - Hi Voltage : 3Kado_ feat. Clozzo - https://soundcloud.com/k1xsmp2wmrfb/hivoltage (Chart by Komi, DiamondN1nja)
+229 - cityscape//RUiNsS : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)
+230 - Broken Bond : Colin McGuire - https://www.youtube.com/watch?v=KaYxCFxGlnc (Chart by Colin)
+231 - We Fight (Short Ver.) : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by sadkay)
+232 - 
+233 - Momenta Mori (OpenTaiko Cut) : X3ll3n & Benji-G - [Benji : -Newgrounds https://benji-g.newgrounds.com/ -YouTube: https://www.youtube.com/channel/UC20XOQOSZCS90d4b6Fr0-HA -Soundcloud: https://soundcloud.com/user-763424064]        [X3ll3n • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Newgrounds : https://x3ll3n.newgrounds.com/ • Other Platforms : https://linktr.ee/x3ll3n] (Chart by Makotora)
+234 - RE:fragment : Ariz Kayaba - https://soundcloud.com/ariz-kayaba (Chart by bol)
+235 - Unfortunate Utopia : Wyvren vs. Marilette Aokisama - https://soundcloud.com/panasonic-cat, https://x.com/NokoniPuro, https://x.com/unforgivabot (Chart by bol, sadkay, DiamondN1nja)
+236 - BUTCHER VANITY : FLAVOR FOLEY ft. Yi Xi - https://www.youtube.com/@FLAVORFOLEY (Chart by Colin, Komi)
+237 - weathergirl : FLAVOR FOLEY ft. Eleanor Forte - https://www.youtube.com/@FLAVORFOLEY (Chart by Colin)
+238 - Static : FLAVOR FOLEY ft. Hatsune Miku - https://www.youtube.com/@FLAVORFOLEY (Chart by Dashy)
+239 - SHADOW DRIVER : D'elf - https://www.youtube.com/@delfunreality1540 (Chart by Ryuto Setsujin)
 ```
 
 ### Visuals
@@ -247,10 +265,12 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 172 - Freshness Vacation : kotomi
 184 - Limelite : Pratama
 191 - 煉獄のOOTD : DragonRatTiger
-203 - If Life Were a Loop : Tree Bark
+203 - If Life Were a Loop : Tree Bark (https://x.com/TreeBarkAgain)
 209 - Bannerbomb (OpenTaiko Edit) : DragonRatTiger
 219 - πevergod : Transendium (BGA and Illustration)
 220 - 「DISCARDED_DISRUPTION」 : BeaniCraft
+230 - Broken Bond : DawnablesAwakened (https://bsky.app/profile/dawnablesawakened.bsky.social)
+237 - weathergirl : ippo.tsk (https://x.com/ippotsk)
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 ```
@@ -282,6 +302,9 @@ If you liked a specific song and want to support the composer's work, please che
 - Getting the artist's permission beforehand is explicitely stated as mandatory (All Rights Reserved)
 ```
 219 - πevergod
+225 - Nitro
+227 - Beach Race 
+233 - Momenta Mori (OpenTaiko Cut)
 ```
 
 - CC BY
@@ -296,6 +319,7 @@ If you liked a specific song and want to support the composer's work, please che
 061 - The Abyss : ok cheez
 077 - Meowmetic : HHS
 091 - thumb wrestling : ok cheez
+235 - Unfortunate Utopia
 ```
 
 - Non-commercial, Attribution required (CC BY-NC ?)

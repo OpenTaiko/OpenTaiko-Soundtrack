@@ -5829,6 +5829,493 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "GlIDETHRouGhAskYdAShyDESu",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\222 - glide through a sky",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\222 - glide through a sky\\glide through a sky.ogg",
+            "06 OpenTaiko Chapter VI\\222 - glide through a sky\\glide through a sky.tja",
+            "06 OpenTaiko Chapter VI\\222 - glide through a sky\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "882981105c94c77052c9166df2abd479",
+        "chartSize": 4.25,
+        "chartTitle": "glide through a sky",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\222 - glide through a sky\\glide through a sky.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "HEarTsiNmoTioNgaMEEditMAKoTOrA",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\223 - Hearts in Motion",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).ogg",
+            "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).png",
+            "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).tja",
+            "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).vtt",
+            "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "c1be21f3d8a35c711f9aa94f5764afc0",
+        "chartSize": 4.72,
+        "chartTitle": "Hearts in Motion (Game Edit)",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 5,
+            "Hard": 3,
+            "Normal": 2,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Edit": "Makotora",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "SpdRnyozUc",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\224 - SPDRN",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\224 - SPDRN\\SPDRN.ogg",
+            "06 OpenTaiko Chapter VI\\224 - SPDRN\\SPDRN.tja",
+            "06 OpenTaiko Chapter VI\\224 - SPDRN\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "28fca3eac133ca00001fe2ed878be632",
+        "chartSize": 3.3,
+        "chartTitle": "SPDRN",
+        "chartSubtitle": "Yozu C",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\224 - SPDRN\\SPDRN.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "NiTrOSniKIox3lL3N",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\225 - Nitro",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.ogg",
+            "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.tja",
+            "06 OpenTaiko Chapter VI\\225 - Nitro\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "5cbcba28aa52ca489a173963d0f31c81",
+        "chartSize": 2.1,
+        "chartTitle": "Nitro",
+        "chartSubtitle": "Snikio & X3ll3n",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "BEAcHrACeSnikiOX3ll3n",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\227 - Beach Race",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\227 - Beach Race\\Beach Race.ogg",
+            "06 OpenTaiko Chapter VI\\227 - Beach Race\\Beach Race.tja",
+            "06 OpenTaiko Chapter VI\\227 - Beach Race\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "f6d881c245598c4f078023338df6d1bd",
+        "chartSize": 2.69,
+        "chartTitle": "Beach Race",
+        "chartSubtitle": "Snikio & X3ll3n",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\227 - Beach Race\\Beach Race.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "hivoLTaGE3KAdofEATcLozzO",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\228 - Hi Voltage",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\Hi Voltage.ogg",
+            "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\Hi Voltage.png",
+            "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\Hi Voltage.tja",
+            "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "5e2768e505abcc36e7b54f03bb8171ec",
+        "chartSize": 4.06,
+        "chartTitle": "Hi Voltage",
+        "chartSubtitle": "3kado_ feat. Clozzo",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\Hi Voltage.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\Hi Voltage.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "citYscaPeMAkOTORa",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\229 - cityscape ruins",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\cityscape RUiNsS.ogg",
+            "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\cityscape RUiNsS.png",
+            "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\cityscape RUiNsS.tja",
+            "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "ee3a8de7060700f13aa394ce840dc01a",
+        "chartSize": 3.24,
+        "chartTitle": "cityscape\u2215\u2215RUiNsS",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\cityscape RUiNsS.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\cityscape RUiNsS.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "colinmcguirebrokenbond",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\230 - Broken Bond",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\230 - Broken Bond\\Broken Bond.ogg",
+            "06 OpenTaiko Chapter VI\\230 - Broken Bond\\Broken Bond.png",
+            "06 OpenTaiko Chapter VI\\230 - Broken Bond\\Broken Bond.tja",
+            "06 OpenTaiko Chapter VI\\230 - Broken Bond\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "7538ce2762adfdaa06d924a56250b094",
+        "chartSize": 4.09,
+        "chartTitle": "Broken Bond",
+        "chartSubtitle": "Colin McGuire",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 6,
+            "Oni": 9
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\230 - Broken Bond\\Broken Bond.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\230 - Broken Bond\\Broken Bond.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "WefIghTsHOrTVErYOZUC",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\231 - We Fight (Short Ver.)",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\231 - We Fight (Short Ver.)\\uniqueId.json",
+            "06 OpenTaiko Chapter VI\\231 - We Fight (Short Ver.)\\We Fight (Short Ver.).ogg",
+            "06 OpenTaiko Chapter VI\\231 - We Fight (Short Ver.)\\We Fight (Short Ver.).tja"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "9f275b474afbc5c3f430323d65195e41",
+        "chartSize": 1.8,
+        "chartTitle": "We Fight (Short Ver.)",
+        "chartSubtitle": "Yozu C",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 6,
+            "Hard": 7,
+            "Oni": 9,
+            "Edit": 10.2
+        },
+        "chartMakers": {
+            "Easy": "sadkay",
+            "Normal": "sadkay",
+            "Hard": "sadkay",
+            "Oni": "sadkay",
+            "Edit": "sadkay"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\231 - We Fight (Short Ver.)\\We Fight (Short Ver.).ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "MoMEnTamOrIOPEntaIkOcUtx3Ll3nbEnJig",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\233 - Momenta Mori",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\233 - Momenta Mori\\Momenta Mori (OpenTaiko Cut).ogg",
+            "06 OpenTaiko Chapter VI\\233 - Momenta Mori\\Momenta Mori (OpenTaiko Cut).tja",
+            "06 OpenTaiko Chapter VI\\233 - Momenta Mori\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "ba6e9fed344b822ef8a4d1eda2e183bb",
+        "chartSize": 3.29,
+        "chartTitle": "Momenta Mori (OpenTaiko Cut)",
+        "chartSubtitle": "X3LL3N & Benji-G",
+        "chartDifficulties": {
+            "Oni": 10.3,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\233 - Momenta Mori\\Momenta Mori (OpenTaiko Cut).ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "refRAgMEnTARizKAYaBa",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\234 - REfragment",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\234 - REfragment\\RE fragment.ogg",
+            "06 OpenTaiko Chapter VI\\234 - REfragment\\RE fragment.png",
+            "06 OpenTaiko Chapter VI\\234 - REfragment\\RE fragment.tja",
+            "06 OpenTaiko Chapter VI\\234 - REfragment\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "5bc57f69621ee82a49076f1f12479765",
+        "chartSize": 7.0,
+        "chartTitle": "RE:fragment",
+        "chartSubtitle": "Ariz Kayaba",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\234 - REfragment\\RE fragment.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\234 - REfragment\\RE fragment.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "unFOrtUnateUtopiAWyvRENVsmaRiLeTTEAOkiSAma",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\Unfortunate Utopia.ogg",
+            "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\Unfortunate Utopia.png",
+            "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\Unfortunate Utopia.tja",
+            "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "b8f1accb71e154caf26d05ed2b2d3c1c",
+        "chartSize": 5.01,
+        "chartTitle": "Unfortunate Utopia",
+        "chartSubtitle": "Wyvren vs. Marilette Aokisama",
+        "chartDifficulties": {
+            "Edit": 11.9,
+            "Oni": 10.6,
+            "Hard": 9,
+            "Normal": 8,
+            "Easy": 6
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "sadkay",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\Unfortunate Utopia.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\Unfortunate Utopia.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "butchervanitycolinchart",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.jpg",
+            "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.mp4",
+            "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.ogg",
+            "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.tja",
+            "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "fe2409782e2f7a2b35e70eb19e112798",
+        "chartSize": 66.47,
+        "chartTitle": "BUTCHER VANITY",
+        "chartSubtitle": "FLAVOR FOLEY ft. Yi Xi",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 4,
+            "Hard": 4,
+            "Oni": 6,
+            "Edit": 8
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Komi",
+            "Edit": "Colin"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "weathergirlcolinchart",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\237 - weathergirl",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\237 - weathergirl\\uniqueID.json",
+            "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.mp4",
+            "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.ogg",
+            "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.png",
+            "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.tja"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "763c41f78c690ad7681d0c434eead004",
+        "chartSize": 27.43,
+        "chartTitle": "weathergirl",
+        "chartSubtitle": "FLAVOR FOLEY ft. Eleanor Forte",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 4,
+            "Hard": 5,
+            "Oni": 8
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "statiCFlaVOrfOlEYFtHATsuNemIKu",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\238 - Static",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\238 - Static\\Static.jpg",
+            "06 OpenTaiko Chapter VI\\238 - Static\\Static.mp4",
+            "06 OpenTaiko Chapter VI\\238 - Static\\Static.ogg",
+            "06 OpenTaiko Chapter VI\\238 - Static\\Static.tja",
+            "06 OpenTaiko Chapter VI\\238 - Static\\Static.vtt",
+            "06 OpenTaiko Chapter VI\\238 - Static\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "1fbadf3e44001a826dc33ea020b80a4a",
+        "chartSize": 86.39,
+        "chartTitle": "Static",
+        "chartSubtitle": "FLAVOR FOLEY ft. Hatsune Miku",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 7,
+            "Oni": 9
+        },
+        "chartMakers": {
+            "Easy": "Dashy",
+            "Normal": "Dashy",
+            "Hard": "Dashy",
+            "Oni": "Dashy"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\238 - Static\\Static.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\238 - Static\\Static.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "ShAdoWdriVErdELF",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.ogg",
+            "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.png",
+            "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.tja",
+            "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "85b4d293292edccbf8dbcb36b85c8428",
+        "chartSize": 4.6,
+        "chartTitle": "SHADOW DRIVER",
+        "chartSubtitle": "D'elf",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Ryuto Setsujin",
+            "Hard": "Ryuto Setsujin",
+            "Normal": "Ryuto Setsujin",
+            "Easy": "Ryuto Setsujin"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

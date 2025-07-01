@@ -244,6 +244,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 237 - weathergirl : FLAVOR FOLEY ft. Eleanor Forte - https://www.youtube.com/@FLAVORFOLEY (Chart by Colin)
 238 - Static : FLAVOR FOLEY ft. Hatsune Miku - https://www.youtube.com/@FLAVORFOLEY (Chart by Dashy)
 239 - SHADOW DRIVER : D'elf - https://www.youtube.com/@delfunreality1540 (Chart by Ryuto Setsujin)
+240 - Mr.Raven : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
+241 - Own, : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
+242 - Reverie XXIII - Miracle of the 23rd : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 ```
 
 ### Visuals

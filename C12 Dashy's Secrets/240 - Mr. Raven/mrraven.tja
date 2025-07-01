@@ -1,0 +1,498 @@
+﻿// PeepoDrumKit 2023/10/28
+TITLE:Mr. Raven
+TITLEJA:カラスさん
+SUBTITLE:--Dashy,
+BPM:158
+WAVE:mrraven.ogg
+PREIMAGE:raven.png
+OFFSET:-0
+DEMOSTART:60.7595
+MAKER:Dashy
+
+COURSE:Oni
+LEVEL:6
+BALLOON:20,18
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#BARLINEOFF
+#SCROLL 0.5
+0,
+,
+,
+,
+#BARLINEON
+0,
+,
+,
+,
+10201201,
+10201220,
+10201201,
+10201221,
+10201201,
+10201220,
+11201201,
+1000201022022000,
+#SCROLL 0.888
+#LYRIC Under trees, that summer day,
+10211201,
+2121011
+#LYRIC The raven told his tale again
+2,
+10211201,
+20102010002220
+#LYRIC the reason why he's left to be
+20,
+10211201,
+0010201110202000,
+#LYRIC sub arboribus corvus solus
+1000201110002010,
+2010002010222220,
+#LYRIC "Once upon a time," he said
+1000101010002011,
+120102
+#LYRIC "through the flock's broad travel I was lead"
+12,
+1000101010002011,
+1202012
+#LYRIC "but past a certain point ahead,"
+1,
+10121021,
+20100010002220
+#LYRIC "they weren't quite the family I thought I had"
+20,
+10121021,
+01020020,
+5008,
+#LYRIC "but I had to stay,
+1122,
+7,
+080
+#LYRIC until that final day of dissonance..."
+1,
+5082,
+1122,
+1000201000221020,
+6008,
+#GOGOSTART
+#LYRIC Standing out, a flock of shadows through the sky
+1000201110002010,
+0010201000112000,
+10210120,
+1000
+#LYRIC There you would soar, but its true, their laughs seemed off to you
+201010222040,
+01211021,
+0010201120102000,
+1022201010002010,
+001020101022
+#LYRIC
+2220,
+#LYRIC Slowly left behind, with each crow made of lies
+1000201110201010,
+2010201000112010,
+10211210,
+1000
+#LYRIC then soon enough, only you with nowhere to belong--
+201010222040,
+01211021,
+0010201120102000,
+1022201000222020,
+#LYRIC standing in the blue...
+102210003000
+#GOGOEND
+4090,
+#GOGOSTART
+0,
+0080,
+#LYRIC
+10121212,
+10001020
+#LYRIC (in the blue.....)
+10222020,
+10121210,
+1000102010221020,
+1000102010222010,
+#LYRIC
+0020122010222020,
+10121212,
+1000102010222000,
+10121212,
+1000102010222020,
+10121210,
+10121010,
+1000102210201020,
+1020201020201111,
+#GOGOEND
+1020,
+2020,
+4,
+#END
+
+COURSE:Hard
+LEVEL:4
+BALLOON:12,14,7,18
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#BARLINEOFF
+#SCROLL 0.5
+0,
+,
+,
+,
+#BARLINEON
+0,
+,
+,
+,
+10200200,
+0202,
+10200200,
+0202,
+10200200,
+0202,
+10200200,
+20202220,
+#SCROLL 0.888
+#LYRIC Under trees, that summer day,
+10210210,
+1001012
+#LYRIC The raven told his tale again
+0,
+10210210,
+1001012
+#LYRIC the reason why he's left to be
+0,
+10210210,
+10010120,
+#LYRIC sub arboribus corvus solus
+10211021,
+01020220,
+#LYRIC "Once upon a time," he said
+10210210,
+100101
+#LYRIC "through the flock's broad travel I was lead"
+20,
+10210210,
+1001012
+#LYRIC "but past a certain point ahead,"
+0,
+10210210,
+1001012
+#LYRIC "they weren't quite the family I thought I had"
+0,
+10111021,
+01020020,
+5008,
+#LYRIC "but I had to stay,
+1122,
+7,
+008
+#LYRIC until that final day of dissonance..."
+1,
+5081,
+1222,
+7,
+0008,
+#GOGOSTART
+#LYRIC Standing out, a flock of shadows through the sky
+10210210,
+10120220,
+10210210,
+10
+#LYRIC There you would soar, but its true, their laughs seemed off to you
+121024,
+01201022,
+01201120,
+10210127,
+000
+#LYRIC
+8,
+#LYRIC Slowly left behind, with each crow made of lies
+1000201110002010,
+01201020,
+1000201110002000,
+1000
+#LYRIC then soon enough, only you with nowhere to belong--
+200020002004,
+00201022,
+0212,
+1000201000222000,
+#LYRIC standing in the blue...
+303040
+#GOGOEND
+49,
+#GOGOSTART
+0,
+0080,
+#LYRIC
+10101210,
+1010
+#LYRIC (in the blue.....)
+1220,
+10101212,
+10121020,
+1000100010222020,
+#LYRIC
+02140220,
+10101210,
+10101212,
+10101210,
+10121220,
+10102101,
+0202,
+10102111,
+0202,
+#GOGOEND
+3020,
+2020,
+4,
+#END
+
+COURSE:Normal
+LEVEL:3
+BALLOON:12,14,13
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#BARLINEOFF
+#SCROLL 0.5
+0,
+,
+,
+,
+#BARLINEON
+0,
+,
+,
+,
+1,
+0020,
+1,
+1010,
+1,
+0020,
+1,
+1022,
+#SCROLL 0.888
+#LYRIC Under trees, that summer day,
+10010010,
+1001011
+#LYRIC The raven told his tale again
+0,
+10010010,
+1001011
+#LYRIC the reason why he's left to be
+0,
+20020020,
+20020220,
+#LYRIC sub arboribus corvus solus
+20020020,
+20020220,
+#LYRIC "Once upon a time," he said
+10101001,
+010100
+#LYRIC "through the flock's broad travel I was lead"
+00,
+10101001,
+0101000
+#LYRIC "but past a certain point ahead,"
+0,
+20202002,
+0202000
+#LYRIC "they weren't quite the family I thought I had"
+0,
+20202002,
+02020000,
+5008,
+#LYRIC "but I had to stay,
+1020,
+7,
+008
+#LYRIC until that final day of dissonance..."
+0,
+5080,
+1020,
+7,
+0008,
+#GOGOSTART
+#LYRIC Standing out, a flock of shadows through the sky
+1110,
+2220,
+10110000,
+20
+#LYRIC There you would soar, but its true, their laughs seemed off to you
+202024,
+00002022,
+0222,
+10000015,
+008
+#LYRIC
+0,
+#LYRIC Slowly left behind, with each crow made of lies
+10101002,
+02020000,
+10110000,
+20
+#LYRIC then soon enough, only you with nowhere to belong--
+220004,
+00002022,
+0222,
+10110000,
+#LYRIC standing in the blue...
+303030
+#GOGOEND
+09,
+#GOGOSTART
+0,
+0080,
+#LYRIC
+1110,
+11
+#LYRIC (in the blue.....)
+20,
+1110,
+1110,
+10101110,
+#LYRIC
+1130,
+1110,
+1120,
+1110,
+2220,
+10101011,
+1110,
+10101011,
+1110,
+#GOGOEND
+3,
+,
+,
+#END
+
+COURSE:Easy
+LEVEL:2
+BALLOON:6,13
+SCOREINIT:
+SCOREDIFF:
+
+#START
+#BARLINEOFF
+#SCROLL 0.5
+0,
+,
+,
+,
+#BARLINEON
+0,
+,
+,
+,
+1,
+,
+1,
+,
+1,
+,
+1,
+,
+#SCROLL 0.888
+#LYRIC Under trees, that summer day,
+1010,
+1000000
+#LYRIC The raven told his tale again
+0,
+1010,
+1000000
+#LYRIC the reason why he's left to be
+0,
+2020,
+2,
+#LYRIC sub arboribus corvus solus
+2020,
+2,
+#LYRIC "Once upon a time," he said
+1010,
+300
+#LYRIC "through the flock's broad travel I was lead"
+0,
+1010,
+3000000
+#LYRIC "but past a certain point ahead,"
+0,
+2020,
+4000000
+#LYRIC "they weren't quite the family I thought I had"
+0,
+2020,
+4,
+5,
+#LYRIC "but I had to stay,
+8,
+7,
+008
+#LYRIC until that final day of dissonance..."
+0,
+5,
+8,
+6,
+0080,
+#GOGOSTART
+#LYRIC Standing out, a flock of shadows through the sky
+1010,
+1,
+2020,
+2
+#LYRIC There you would soar, but its true, their laughs seemed off to you
+000,
+1011,
+1,
+2022,
+200
+#LYRIC
+0,
+#LYRIC Slowly left behind, with each crow made of lies
+1010,
+1,
+2020,
+2
+#LYRIC then soon enough, only you with nowhere to belong--
+000,
+1,
+1,
+4040,
+#LYRIC standing in the blue...
+400000
+#GOGOEND
+09,
+#GOGOSTART
+0,
+0080,
+#LYRIC
+1110,
+10
+#LYRIC (in the blue.....)
+00,
+1110,
+1010,
+1110,
+#LYRIC
+1,
+1110,
+1,
+1110,
+1,
+2020,
+2020,
+2,
+2040,
+#GOGOEND
+3,
+,
+,
+#END

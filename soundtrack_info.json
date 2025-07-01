@@ -6107,10 +6107,10 @@
             "06 OpenTaiko Chapter VI\\233 - Momenta Mori\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "ba6e9fed344b822ef8a4d1eda2e183bb",
+        "tjaMD5": "88f6914430e192849df51f72baa1c746",
         "chartSize": 3.29,
         "chartTitle": "Momenta Mori (OpenTaiko Cut)",
-        "chartSubtitle": "X3LL3N & Benji-G",
+        "chartSubtitle": "X3ll3n & Benji-G",
         "chartDifficulties": {
             "Oni": 10.3,
             "Hard": 6,
@@ -6987,6 +6987,101 @@
         },
         "chartAudioFilePath": "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "NEO888KARASUsanDaShyDashydesU",
+        "tjaFolderPath": "C12 Dashy's Secrets\\240 - Mr. Raven",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets\\240 - Mr. Raven\\mrraven.ogg",
+            "C12 Dashy's Secrets\\240 - Mr. Raven\\mrraven.tja",
+            "C12 Dashy's Secrets\\240 - Mr. Raven\\raven.png",
+            "C12 Dashy's Secrets\\240 - Mr. Raven\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "2979200bca5e9b59f2824a5ec1f0264c",
+        "chartSize": 3.77,
+        "chartTitle": "Mr. Raven",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets\\240 - Mr. Raven\\mrraven.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets\\240 - Mr. Raven\\raven.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "NEO888OwnDashYDasHydesU",
+        "tjaFolderPath": "C12 Dashy's Secrets\\241 - Own,",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets\\241 - Own,\\own,.ogg",
+            "C12 Dashy's Secrets\\241 - Own,\\own.png",
+            "C12 Dashy's Secrets\\241 - Own,\\Own.tja",
+            "C12 Dashy's Secrets\\241 - Own,\\Own.vtt",
+            "C12 Dashy's Secrets\\241 - Own,\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "c8216fc0b8cd38d1ca08f0826e7cc2e0",
+        "chartSize": 4.58,
+        "chartTitle": "Own,",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Edit": 10.5,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3,
+            "Oni": 9
+        },
+        "chartMakers": {
+            "Edit": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy",
+            "Oni": "Dashy"
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets\\241 - Own,\\own,.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets\\241 - Own,\\own.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "NEO888REvERIeXXiii23DaShyDashydesU",
+        "tjaFolderPath": "C12 Dashy's Secrets\\242 - Reverie XXIII",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets\\242 - Reverie XXIII\\reverie.ogg",
+            "C12 Dashy's Secrets\\242 - Reverie XXIII\\reverie.png",
+            "C12 Dashy's Secrets\\242 - Reverie XXIII\\reveriexxiii.tja",
+            "C12 Dashy's Secrets\\242 - Reverie XXIII\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "1a7ac145393e98bc5b40a8c1aa721949",
+        "chartSize": 5.54,
+        "chartTitle": "Reverie XXIII - Miracle of the 23rd",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 4,
+            "Normal": 4,
+            "Easy": 2,
+            "Edit": 9
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy",
+            "Edit": "Dashy"
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets\\242 - Reverie XXIII\\reverie.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets\\242 - Reverie XXIII\\reverie.png",
         "chartHoFRanks": {}
     },
     {

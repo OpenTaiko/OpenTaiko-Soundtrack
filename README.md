@@ -236,7 +236,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 229 - cityscape//RUiNsS : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)
 230 - Broken Bond : Colin McGuire - https://www.youtube.com/watch?v=KaYxCFxGlnc (Chart by Colin)
 231 - We Fight (Short Ver.) : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by sadkay)
-232 - 
+232 - Blessing of Endurance : Narwhalle - https://www.youtube.com/watch?v=_Dfqk_431rM (Chart by sadkay)
 233 - Momenta Mori (OpenTaiko Cut) : X3ll3n & Benji-G - [Benji : -Newgrounds https://benji-g.newgrounds.com/ -YouTube: https://www.youtube.com/channel/UC20XOQOSZCS90d4b6Fr0-HA -Soundcloud: https://soundcloud.com/user-763424064]        [X3ll3n • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Newgrounds : https://x3ll3n.newgrounds.com/ • Other Platforms : https://linktr.ee/x3ll3n] (Chart by Makotora)
 234 - RE:fragment : Ariz Kayaba - https://soundcloud.com/ariz-kayaba (Chart by bol)
 235 - Unfortunate Utopia : Wyvren vs. Marilette Aokisama - https://soundcloud.com/panasonic-cat, https://x.com/NokoniPuro, https://x.com/unforgivabot (Chart by bol, sadkay, DiamondN1nja)

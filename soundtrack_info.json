@@ -6099,6 +6099,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "bLeSsingOFeNDuraNcEnarwHalle",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\Blessing of Endurance.jpg",
+            "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\Blessing Of Endurance.ogg",
+            "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\Blessing of Endurance.tja",
+            "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "276e2f09ebb36309e73cdf92171cd7de",
+        "chartSize": 5.84,
+        "chartTitle": "Blessing of Endurance",
+        "chartSubtitle": "Narwhalle",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Edit": "sadkay",
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\Blessing Of Endurance.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\Blessing of Endurance.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "MoMEnTamOrIOPEntaIkOcUtx3Ll3nbEnJig",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\233 - Momenta Mori",
         "tjaFilesPath": [

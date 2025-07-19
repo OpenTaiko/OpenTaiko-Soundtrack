@@ -247,6 +247,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 240 - Mr.Raven : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 241 - Own, : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 242 - Reverie XXIII - Miracle of the 23rd : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
+
+251 - Assimilation : Tatsuoto vs. Ouroboros - https://soundcloud.com/panasonic-cat/ouroboros-vs-wyvren-assimilation (Chart by Komi)
 ```
 
 ### Visuals

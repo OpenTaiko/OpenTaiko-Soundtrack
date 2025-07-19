@@ -6350,6 +6350,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "AssimILATIonTAtsUotOVsoUrObOROs",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\251 - Assimilation",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\251 - Assimilation\\Assimilation.ogg",
+            "06 OpenTaiko Chapter VI\\251 - Assimilation\\Assimilation.tja",
+            "06 OpenTaiko Chapter VI\\251 - Assimilation\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "969399c59e7461fcb0051336695b06de",
+        "chartSize": 3.45,
+        "chartTitle": "Assimilation",
+        "chartSubtitle": "Tatsuoto vs. Ouroboros",
+        "chartDifficulties": {
+            "Edit": 10.8,
+            "Oni": 8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\251 - Assimilation\\Assimilation.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

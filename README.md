@@ -255,10 +255,13 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 Some of the visuals (preimages and videos) are made by the composers themselves, please reach us on Discord if we missed anyone
 ```
+014 - Startup Parade : MusicFracturer (https://x.com/BachThienVanDL)
 028 - Katharsis (Illustration): Komi
 046 - ΣxilƎ : Lirodon (From Project Outfox: Serenity)
+050 - Annihilation : MusicFracturer (https://x.com/BachThienVanDL)
 064 - PLANETES (Illustration): gentu
 065 - Bounded Quietude (Illustration): Hiro (https://twitter.com/HiroChair?s=09) (https://www.pixiv.net/en/users/35926966)
+066 - Heating Up : MusicFracturer (https://x.com/BachThienVanDL)
 069 - Vanaheimr (Illustration): Transendium (https://twitter.com/ardentminus)
 087 - Hero's Treasure (Illustration): picture_game
 089 - FunkBoi : Lirodon (From Project Outfox: Serenity)
@@ -266,14 +269,18 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 114 - pretty kitty, yes？ : kotomi
 115 - 菖蒲日和 : kotomi
 116 - 卒業2000 : kotomi
+131 - CIRCUNFERENCIA : MusicFracturer (https://x.com/BachThienVanDL)
 171 - Wildcard : kotomi
 172 - Freshness Vacation : kotomi
+174 - Visionary : MusicFracturer (https://x.com/BachThienVanDL)
 184 - Limelite : Pratama
 191 - 煉獄のOOTD : DragonRatTiger
+197 - Lovetonight : MusicFracturer (https://x.com/BachThienVanDL)
 203 - If Life Were a Loop : Tree Bark (https://x.com/TreeBarkAgain)
 209 - Bannerbomb (OpenTaiko Edit) : DragonRatTiger
 219 - πevergod : Transendium (BGA and Illustration)
 220 - 「DISCARDED_DISRUPTION」 : BeaniCraft
+225 - Nitro : MusicFracturer (https://x.com/BachThienVanDL)
 230 - Broken Bond : DawnablesAwakened (https://bsky.app/profile/dawnablesawakened.bsky.social)
 237 - weathergirl : ippo.tsk (https://x.com/ippotsk)
 T07 - Abyss : LeoO

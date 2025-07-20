@@ -329,7 +329,7 @@
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
         "tjaMD5": "1dbf7ad905aaa66f7dad36b9bf32e8e2",
-        "chartSize": 1.36,
+        "chartSize": 1.2,
         "chartTitle": "Startup Parade!",
         "chartSubtitle": "Ryuto Setsujin",
         "chartDifficulties": {
@@ -1265,12 +1265,13 @@
         "tjaFolderPath": "02 OpenTaiko Chapter II\\050 - Annihilation",
         "tjaFilesPath": [
             "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.ogg",
+            "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.png",
             "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.tja",
             "02 OpenTaiko Chapter II\\050 - Annihilation\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "e171d99763daeb22e04dcddca0b24fe1",
-        "chartSize": 5.4,
+        "tjaMD5": "e588d43dfa25cd7cc4e02e111642699b",
+        "chartSize": 5.44,
         "chartTitle": "Annihilation",
         "chartSubtitle": "H5",
         "chartDifficulties": {
@@ -1288,7 +1289,7 @@
             "Easy": "bol"
         },
         "chartAudioFilePath": "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.png",
         "chartHoFRanks": {
             "Edit": 50
         }
@@ -1674,12 +1675,13 @@
         "tjaFolderPath": "02 OpenTaiko Chapter II\\066 - Heating up",
         "tjaFilesPath": [
             "02 OpenTaiko Chapter II\\066 - Heating up\\Heating Up.ogg",
+            "02 OpenTaiko Chapter II\\066 - Heating up\\Heating Up.png",
             "02 OpenTaiko Chapter II\\066 - Heating up\\Heating Up.tja",
             "02 OpenTaiko Chapter II\\066 - Heating up\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "7c37af0e307bdca392b8c03bd0efbb8b",
-        "chartSize": 2.72,
+        "tjaMD5": "487245b1c2b9e4444afb49a86e48bb98",
+        "chartSize": 2.78,
         "chartTitle": "Heating Up",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
@@ -1695,7 +1697,7 @@
             "Oni": "Shoxk"
         },
         "chartAudioFilePath": "02 OpenTaiko Chapter II\\066 - Heating up\\Heating Up.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "02 OpenTaiko Chapter II\\066 - Heating up\\Heating Up.png",
         "chartHoFRanks": {}
     },
     {
@@ -3279,12 +3281,13 @@
         "tjaFolderPath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA",
         "tjaFilesPath": [
             "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.ogg",
+            "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.png",
             "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.tja",
             "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "e296d256f405c24adcf2b4d999e113c5",
-        "chartSize": 2.25,
+        "tjaMD5": "c13e8abd4d2730714842bbb729507574",
+        "chartSize": 2.29,
         "chartTitle": "CIRCUNFERENCIA",
         "chartSubtitle": "ULKO",
         "chartDifficulties": {
@@ -3302,7 +3305,7 @@
             "Edit": "Komi,Dashy,DragonRatTiger"
         },
         "chartAudioFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.png",
         "chartHoFRanks": {
             "Edit": 59
         }
@@ -4402,11 +4405,12 @@
         "tjaFilesPath": [
             "04 OpenTaiko Chapter IV\\174 - Visionary\\uniqueId.json",
             "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.ogg",
+            "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.png",
             "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.tja"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "37f9867f312acae11a63d49565b14c58",
-        "chartSize": 3.31,
+        "tjaMD5": "2e18a557aba2e1c0cb09f076f8e28784",
+        "chartSize": 3.36,
         "chartTitle": "Visionary",
         "chartSubtitle": "xtkakeru & RachelTypeX",
         "chartDifficulties": {
@@ -4422,7 +4426,7 @@
             "Easy": "DiamondN1nja"
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.png",
         "chartHoFRanks": {}
     },
     {
@@ -5072,12 +5076,13 @@
         "tjaFolderPath": "05 OpenTaiko Chapter V\\197 - Lovetonight",
         "tjaFilesPath": [
             "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.ogg",
+            "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.png",
             "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.tja",
             "05 OpenTaiko Chapter V\\197 - Lovetonight\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "fde68aeb73866b560c0b9b1ad4ca9140",
-        "chartSize": 3.63,
+        "tjaMD5": "37c70b7b51b863f3aab1f64db5518553",
+        "chartSize": 3.65,
         "chartTitle": "Lovetonight",
         "chartSubtitle": "Hexacube",
         "chartDifficulties": {
@@ -5095,7 +5100,7 @@
             "Normal": "Komi"
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.png",
         "chartHoFRanks": {}
     },
     {
@@ -5924,12 +5929,13 @@
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\225 - Nitro",
         "tjaFilesPath": [
             "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.ogg",
+            "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.png",
             "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.tja",
             "06 OpenTaiko Chapter VI\\225 - Nitro\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "5cbcba28aa52ca489a173963d0f31c81",
-        "chartSize": 2.1,
+        "tjaMD5": "72cf654d29c3c9d3ac8e72654e877e07",
+        "chartSize": 2.15,
         "chartTitle": "Nitro",
         "chartSubtitle": "Snikio & X3ll3n",
         "chartDifficulties": {
@@ -5945,7 +5951,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.png",
         "chartHoFRanks": {}
     },
     {

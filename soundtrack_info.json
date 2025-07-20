@@ -6358,13 +6358,13 @@
             "06 OpenTaiko Chapter VI\\251 - Assimilation\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "969399c59e7461fcb0051336695b06de",
+        "tjaMD5": "cf91c6cae9c7ed620c6721405afb775b",
         "chartSize": 3.45,
         "chartTitle": "Assimilation",
         "chartSubtitle": "Tatsuoto vs. Ouroboros",
         "chartDifficulties": {
             "Edit": 10.8,
-            "Oni": 8,
+            "Oni": 9,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5

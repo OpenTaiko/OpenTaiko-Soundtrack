@@ -27,7 +27,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora,Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\001 - CITYSCAPE\\CITYSCAPE.ogg",
+        "chartAudioFilePath": "preview\\citysMakotora.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\001 - CITYSCAPE\\cityscape.png",
         "chartHoFRanks": {}
     },
@@ -59,7 +59,7 @@
             "Normal": "bol",
             "Easy": "bol,Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\002 - Zerst\u00f6ren\\Zerst\u00f6ren.ogg",
+        "chartAudioFilePath": "preview\\zerSukima.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\002 - Zerst\u00f6ren\\Zerstoren1.jpg",
         "chartHoFRanks": {}
     },
@@ -91,7 +91,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\003 - Breaking Point\\Breaking Point.ogg",
+        "chartAudioFilePath": "preview\\breakpointYonokid.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\003 - Breaking Point\\Cover.jpg",
         "chartHoFRanks": {}
     },
@@ -123,7 +123,7 @@
             "Normal": "Moox",
             "Easy": "Moox"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\005 - WTF\\MooX - WTF.ogg",
+        "chartAudioFilePath": "preview\\wtfMooX.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\005 - WTF\\wtf.png",
         "chartHoFRanks": {}
     },
@@ -154,7 +154,7 @@
             "Normal": "bol",
             "Easy": "Colin,bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\006 - Athazagoraphobia\\Athazagoraphobia.ogg",
+        "chartAudioFilePath": "preview\\athazaDerpikarp.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -184,7 +184,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\007 - Gewissenbisse\\Gewissenbisse.ogg",
+        "chartAudioFilePath": "preview\\gewissSukima.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\007 - Gewissenbisse\\Gewissenbisse1.jpg",
         "chartHoFRanks": {}
     },
@@ -217,7 +217,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\DON'T LOOK BACK.ogg",
+        "chartAudioFilePath": "preview\\dlbTFD.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\DLB.png",
         "chartHoFRanks": {
             "Edit": 5,
@@ -250,7 +250,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\010 - BassBoL\\BassBoL.ogg",
+        "chartAudioFilePath": "preview\\bassbolInterChan.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\010 - BassBoL\\BassBol.png",
         "chartHoFRanks": {
             "Oni": 41
@@ -284,7 +284,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\011 - Liberation\\Liberation.ogg",
+        "chartAudioFilePath": "preview\\libeDeBisco.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\011 - Liberation\\Liberation.png",
         "chartHoFRanks": {}
     },
@@ -314,7 +314,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\013 - Corrupted_Angel\\Corrupted Angel.ogg",
+        "chartAudioFilePath": "preview\\corruptanTFD.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\013 - Corrupted_Angel\\angel.png",
         "chartHoFRanks": {}
     },
@@ -344,7 +344,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\014 - Startup Parade!\\Startup Parade!.ogg",
+        "chartAudioFilePath": "preview\\spRyuto.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\014 - Startup Parade!\\jacket.png",
         "chartHoFRanks": {}
     },
@@ -374,7 +374,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\015 - White Heart\\White Heart.ogg",
+        "chartAudioFilePath": "preview\\wh9C.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\015 - White Heart\\White-Heart_Jacket-ARt.png",
         "chartHoFRanks": {}
     },
@@ -404,7 +404,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\016 - Summer Overload!\\Summer Overload!.ogg",
+        "chartAudioFilePath": "preview\\soAkako.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\016 - Summer Overload!\\Summer Overload!.png",
         "chartHoFRanks": {}
     },
@@ -434,7 +434,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.ogg",
+        "chartAudioFilePath": "preview\\halcyonAkako.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.png",
         "chartHoFRanks": {
             "Oni": 57
@@ -467,7 +467,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\019 - Back Where I'm From\\BackWhereImFrom.ogg",
+        "chartAudioFilePath": "preview\\bwimfNetroAki.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\019 - Back Where I'm From\\BWIF.jpg",
         "chartHoFRanks": {}
     },
@@ -498,7 +498,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\020 - Slayer of\\Slayer of..ogg",
+        "chartAudioFilePath": "preview\\sofAden.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Edit": 43
@@ -532,7 +532,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\021 - Welcome To The Cafe\\WelcomeToTheCafe.ogg",
+        "chartAudioFilePath": "preview\\wttcSukima.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\021 - Welcome To The Cafe\\WelcomeToTheCafe1.jpg",
         "chartHoFRanks": {}
     },
@@ -564,7 +564,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\022 - Seismic Shake\\Seismic Shake.ogg",
+        "chartAudioFilePath": "preview\\ssDeBisco.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\022 - Seismic Shake\\Seismic Shake.png",
         "chartHoFRanks": {}
     },
@@ -594,7 +594,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\023 - Stereotype\\Stereotype.ogg",
+        "chartAudioFilePath": "preview\\stTaichenko.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\023 - Stereotype\\Stereotype.png",
         "chartHoFRanks": {}
     },
@@ -623,7 +623,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\025 - Fearless\\Fearless.ogg",
+        "chartAudioFilePath": "preview\\fearlessAshElectric.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -653,7 +653,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\028 - Katharsis\\khatarsis.ogg",
+        "chartAudioFilePath": "preview\\kh9C.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\028 - Katharsis\\Katharsis.png",
         "chartHoFRanks": {}
     },
@@ -686,7 +686,7 @@
             "Normal": "Colin",
             "Easy": "Colin"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\029 - Two Steppin Love\\2 Steppin Love.ogg",
+        "chartAudioFilePath": "preview\\2stlvFunkyzukin.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\029 - Two Steppin Love\\2 Steppin Love.png",
         "chartHoFRanks": {}
     },
@@ -718,7 +718,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\030 - Yami\\Yami.ogg",
+        "chartAudioFilePath": "preview\\yamiTfd.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\030 - Yami\\YamiAlbum.jpg",
         "chartHoFRanks": {
             "Edit": 32
@@ -750,7 +750,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\031 - Mischief Madness\\Mischief Madness.ogg",
+        "chartAudioFilePath": "preview\\mischiefmadnessMakotora.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\031 - Mischief Madness\\mischiefmadness.png",
         "chartHoFRanks": {}
     },
@@ -782,7 +782,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\033 - Alonebirthday\\Alonebirthday.ogg",
+        "chartAudioFilePath": "preview\\albdTaichenko.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\033 - Alonebirthday\\Alonebirthday.png",
         "chartHoFRanks": {}
     },
@@ -812,7 +812,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\034 - The World of Our Past\\world.ogg",
+        "chartAudioFilePath": "preview\\twoopDashyRainfall.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\034 - The World of Our Past\\world.png",
         "chartHoFRanks": {}
     },
@@ -843,7 +843,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\035 - ENDOMANCER\\ENDOMANCER.ogg",
+        "chartAudioFilePath": "preview\\endomancerZovi.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\035 - ENDOMANCER\\ENDOMANCER.png",
         "chartHoFRanks": {}
     },
@@ -875,7 +875,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\036 - RUiNED GLORY\\RUiNED GLORY.ogg",
+        "chartAudioFilePath": "preview\\mIM3zf55TatXUIzE8tK3s6XFbPXEgbNKw0Kmmhu8vg3dcNRbplhAjA5P8UhTCeKK.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\036 - RUiNED GLORY\\RUiNED GLORY.jpg",
         "chartHoFRanks": {
             "Edit": 34
@@ -909,7 +909,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\037 - Yukianesa ~Azure of Ice~\\Yukianesa ~Azure of Ice~.ogg",
+        "chartAudioFilePath": "preview\\yp69YmRGMCRNO8svwbYb0PRiERMefe6ZFBrGlM99h8C579fGAKsWO2yGgyhz7Ryk.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\037 - Yukianesa ~Azure of Ice~\\yukianesa.jpg",
         "chartHoFRanks": {}
     },
@@ -939,7 +939,7 @@
             "Normal": "Colin",
             "Easy": "Colin"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.ogg",
+        "chartAudioFilePath": "preview\\VP4DGfDSKFQNHuMiqcf7FgWyfNEqQTRErnIroL52GvLwW2CHsU3uAoHYAmkamSBB.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.png",
         "chartHoFRanks": {}
     },
@@ -971,7 +971,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\041 - Beyond the Cityscape\\Beyond the Cityscape.ogg",
+        "chartAudioFilePath": "preview\\nJjtvhOo24FzSUughDdENtNZbWVGpzQhdxsHBdE9zrwa6vQEg37a2UGuzB3NNOSf.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\041 - Beyond the Cityscape\\Beyond the Cityscape.png",
         "chartHoFRanks": {}
     },
@@ -1001,7 +1001,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.ogg",
+        "chartAudioFilePath": "preview\\15bBqzr87CiWas5HyA6i2KTe7BLGlWmo22gbDq9ukp8swCvSG1yYKzgXbjO9x7Ut.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.png",
         "chartHoFRanks": {
             "Oni": 58
@@ -1036,7 +1036,7 @@
             "Easy": "Colin",
             "Edit": "Colin,Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\043 - TRIPLE HELIX\\TRIPLE HELIX.ogg",
+        "chartAudioFilePath": "preview\\agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\043 - TRIPLE HELIX\\Circulation.jpg",
         "chartHoFRanks": {}
     },
@@ -1068,7 +1068,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\044 - Memory\\Memory.ogg",
+        "chartAudioFilePath": "preview\\DY9VMPUEg3M5EoNVgpSXvmKlJ9IciHx8o15hoUFcOJtDlp499vilAM6w24BDLOkR.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\044 - Memory\\Memory.png",
         "chartHoFRanks": {
             "Edit": 29
@@ -1100,7 +1100,7 @@
             "Normal": "Chapter I Megamix",
             "Easy": "Chapter I Megamix"
         },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\OpTkMedley.ogg",
+        "chartAudioFilePath": "preview\\weAREOptkdashYdeSu2022suBMiSSIoNMEMORialMedLEy.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\preimage.png",
         "chartHoFRanks": {}
     },
@@ -1132,7 +1132,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\045 - Nanja Korya\\NanjaKorya.ogg",
+        "chartAudioFilePath": "preview\\4XnCmly8kpwE6X2GQYD47356lDCexuTzEJXdouwiNCIo4dVYlq5dm4TIySWm2IVD.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\045 - Nanja Korya\\NanjaKorya.jpg",
         "chartHoFRanks": {}
     },
@@ -1164,7 +1164,7 @@
             "Normal": "bol",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\046 - Exile\\Exile.ogg",
+        "chartAudioFilePath": "preview\\h4HQFxFFIVo5F7SuBGf8eWfHeXsmZQDkg9JG7IOI79zutvCrIa6l2L0FfQlrgPpx.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\046 - Exile\\jacket.jpg",
         "chartHoFRanks": {
             "Edit": 13
@@ -1195,7 +1195,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\047 - Pixelated Angel\\Pixelated Angel.ogg",
+        "chartAudioFilePath": "preview\\B29YRq8PrhVDxCZOJghUG783kkuN9NedslLdbRV4LbC8qtZXipGkUdnW5KMdmt4d.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -1224,7 +1224,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\048 - The Nostalgic Messenger\\TheNostalgicMessenger.ogg",
+        "chartAudioFilePath": "preview\\DiA0HPkMXWXS0EgYQvZ6Ll8yS7mRknwkQyBbF9JMOnRPa1MgLZjCWFFhumyfkS8z.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -1256,7 +1256,7 @@
             "Normal": "Colin,Komi",
             "Easy": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\049 - Overclocked\\Overclocked.ogg",
+        "chartAudioFilePath": "preview\\YpOS9Ixya6ROj8EU5fS15IvSMvlpmc27s2zZn6YLzlseUGT6I9fqlmBkr95cXjUu.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\049 - Overclocked\\Overclocked.jpg",
         "chartHoFRanks": {}
     },
@@ -1288,7 +1288,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.ogg",
+        "chartAudioFilePath": "preview\\cc2VtAF92XbxZFLniPfGV414BNJAwSTNjlYRNQGoDx8opYWs0q09ySWvi9uPLsrp.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.png",
         "chartHoFRanks": {
             "Edit": 50
@@ -1319,7 +1319,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\051 - 650 HP\\650 HP.ogg",
+        "chartAudioFilePath": "preview\\6qvRnWGz9RWSI0hMa6A9fnQBlmReBPRnwtPVNE3XqJyaeXe7VaQa488Zep5Zt63S.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -1349,7 +1349,7 @@
             "Normal": "Colin,Komi",
             "Easy": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\053 - Pyramid\\PYRAMID.ogg",
+        "chartAudioFilePath": "preview\\7s59O9RzuRCGmDFowOFFPxrfiistfXF5EgfndB5QzgtPqIZ4AQiHsB9krfVwjX4w.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\053 - Pyramid\\PYRAMID.png",
         "chartHoFRanks": {}
     },
@@ -1379,7 +1379,7 @@
             "Normal": "bol",
             "Easy": "Megi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\054 - Synthsea\\Synthsea.ogg",
+        "chartAudioFilePath": "preview\\uPlIURb0xG559bCON3wQRNOfuVwz2kUBWAPEh7apuqy0epx745LwEZjW6Q6vzLLg.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\054 - Synthsea\\Synthsea.png",
         "chartHoFRanks": {}
     },
@@ -1411,7 +1411,7 @@
             "Normal": "Colin",
             "Easy": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\055 - NEKROS\\GRYSCL.ogg",
+        "chartAudioFilePath": "preview\\drWxV66Sy701Xb5Bt1tU0Bu7K7zzVHgCJtofHu82DJ9xzdCODrrupFXdu9UatSsC.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\055 - NEKROS\\GRYSCL.jpg",
         "chartHoFRanks": {
             "Edit": 36
@@ -1443,7 +1443,7 @@
             "Normal": "goldenyoshi22",
             "Easy": "goldenyoshi22"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\058 - pipie\\pipie.ogg",
+        "chartAudioFilePath": "preview\\dIoFTbrjyB3SB4LOBBHFVWh48zMWujgzriflF3wYql0zUEZfH7O96NTc3Sq8cBaC.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\058 - pipie\\jacket.png",
         "chartHoFRanks": {
             "Oni": 7
@@ -1476,7 +1476,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\059 - Hero's March\\Hero's March.ogg",
+        "chartAudioFilePath": "preview\\KJiHxgdgopb2LkcywYYQaUMv1g3qRY2g487w2OMOC0d7lqaqvmlMaT5ABNtcZ7F9.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -1508,7 +1508,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\060 - lost in the cityscape\\lost in the cityscape.ogg",
+        "chartAudioFilePath": "preview\\drQ0fzYwuDFE6voQG0q1ryc6DxMJsi36A3uBYF5PDFirjXnkpVLqveMM15kNSXTM.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\060 - lost in the cityscape\\preimage.png",
         "chartHoFRanks": {}
     },
@@ -1538,7 +1538,7 @@
             "Normal": "Colin",
             "Easy": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\061 - The Abyss\\The Abyss.ogg",
+        "chartAudioFilePath": "preview\\Q3MnWpHUyPvrSYKFlnMmvpCpICklpUXjSQI0cmaiRYriNGaofZwrSogLG1dZbREX.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\061 - The Abyss\\The Abyss.jpg",
         "chartHoFRanks": {}
     },
@@ -1570,7 +1570,7 @@
             "Normal": "Makotora",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\062 - next-level cityscape\\audio.ogg",
+        "chartAudioFilePath": "preview\\MjPb4KtZ4tmDKro9QuK35wNkqAZDaYW2EXaUbOuoyMBVVgTTscdAcK0OXBxH64r2.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\062 - next-level cityscape\\nextlevelcityscape.png",
         "chartHoFRanks": {}
     },
@@ -1584,7 +1584,7 @@
             "02 OpenTaiko Chapter II\\063 - away\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "3fe91d62ae87573edd3f8880af3e37c9",
+        "tjaMD5": "43ee941bec93d46617d6bcde3a6489fe",
         "chartSize": 2.59,
         "chartTitle": "away",
         "chartSubtitle": "rainfall",
@@ -1600,7 +1600,7 @@
             "Normal": "Komi",
             "Hard": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\063 - away\\away.ogg",
+        "chartAudioFilePath": "preview\\WaeeJlU1pFchFWkZQU4ODK4e3GQwNfnOKplCaKZMFdCs5hdvwiNfCrLGaSY0gscK.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\063 - away\\away_cover_image.jpg",
         "chartHoFRanks": {}
     },
@@ -1632,7 +1632,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\064 - PLANETES\\audio.ogg",
+        "chartAudioFilePath": "preview\\pLNusLZO3TFZHt1yUUxvm5pPg7cTeVRZSpkp1NBsKcfBcRQXbrbLdHuR0AvYtNCa.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\064 - PLANETES\\PLANETES.png",
         "chartHoFRanks": {}
     },
@@ -1664,7 +1664,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\065 - Bounded Quietude\\Bounded Quietude.ogg",
+        "chartAudioFilePath": "preview\\2A4IMmyhJ7df3mbWKgrctA1uZJU0kWjRpZWYUEk49yQO3DEdlsie38wJ5kZC9Lqk.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\065 - Bounded Quietude\\Bounded Quietude.png",
         "chartHoFRanks": {
             "Edit": 15
@@ -1696,7 +1696,7 @@
             "Hard": "Shoxk",
             "Oni": "Shoxk"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\066 - Heating up\\Heating Up.ogg",
+        "chartAudioFilePath": "preview\\hxe4adJG1R12kVIxWnfJ0Q63dCd1E6RZNF8YgwUwUMrhoGHwFFVBHyL0SPzx6Kts.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\066 - Heating up\\Heating Up.png",
         "chartHoFRanks": {}
     },
@@ -1729,7 +1729,7 @@
             "Easy": "Komi",
             "Normal": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\067 - Liar Prison\\Liar Prison.ogg",
+        "chartAudioFilePath": "preview\\qWtjFWrabNZ6BPoUtbssFu6F9l8znBapJLVUzNRqyT1OYGqf2ZOVbSevMsCsGorY.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\067 - Liar Prison\\Liar Prison.png",
         "chartHoFRanks": {}
     },
@@ -1761,7 +1761,7 @@
             "Easy": "bol",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\069 - Vanaheimr\\Vanaheimr.ogg",
+        "chartAudioFilePath": "preview\\BpeNYGTWmesmiavWRa5YI9awPs0e3cWOeAMEERlzksSI9bHk7npADQYMQT6igVZS.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\069 - Vanaheimr\\Vanaheimr.png",
         "chartHoFRanks": {
             "Edit": 11
@@ -1794,7 +1794,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\070 - Kernschmelze 256\\Kernschmelze 256.ogg",
+        "chartAudioFilePath": "preview\\kernschmelzefunkyzukin.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Oni": 54
@@ -1826,7 +1826,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\072 - Scarlet Soul\\Scarlet Soul.ogg",
+        "chartAudioFilePath": "preview\\qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\072 - Scarlet Soul\\Scarlet Soul.png",
         "chartHoFRanks": {
             "Oni": 22
@@ -1858,7 +1858,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\074 - Spatium Cursu\\audio.ogg",
+        "chartAudioFilePath": "preview\\hRa6ukuLziowBJq65ulSiI8LMPtyZ6GbNgLkEXRcrzRTzmfgTkNhbkR9VsavWqjm.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\074 - Spatium Cursu\\Spacium Cursu.png",
         "chartHoFRanks": {}
     },
@@ -1890,7 +1890,7 @@
             "Normal": "Colin",
             "Easy": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\075 - 640x480\\640x480.ogg",
+        "chartAudioFilePath": "preview\\htjsA1t0B3lF8AM6mmtNmAtcfL0NFKdMJsYAtfKDvpSezqpQDDz1ta6I6x4MvH4J.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\075 - 640x480\\640x480.png",
         "chartHoFRanks": {}
     },
@@ -1920,7 +1920,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\077 - Meowmetic\\Meowmetic.ogg",
+        "chartAudioFilePath": "preview\\nfTuimAw5vQv6LuXYhChTIMuHnAQxYL0GqXoYeL7jcUBdjCw3fOJHl5JzgEod8pk.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\077 - Meowmetic\\Meowmetic.jpg",
         "chartHoFRanks": {}
     },
@@ -1949,7 +1949,7 @@
             "Hard": "Komi",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\078 - the garden\\the garden.ogg",
+        "chartAudioFilePath": "preview\\Le6RXyWondx6Eovn91s9JGUC67vwJAFX7waSXnOVefvozpLWUfxea0Y0XuDF5YET.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -1980,7 +1980,7 @@
             "Oni": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\079 - MECHANICAL GOD\\MECHANICAL GOD.ogg",
+        "chartAudioFilePath": "preview\\gtk5aMDVrbVwvf6BaN0c9iefWnkKAfS3TbdKoj7FeUhI7SJ4GZqSWO4O0YAp7TC9.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -2010,7 +2010,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\081 - Taikonitos\\Taikonitos.ogg",
+        "chartAudioFilePath": "preview\\9Yatcy5jMd23ic9qMFMfsQxHXMyjnJb77Robh1rCz5AeHg3wF2O8fWYRhBs0SNGz.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\081 - Taikonitos\\Taikonitos.jpg",
         "chartHoFRanks": {}
     },
@@ -2041,7 +2041,7 @@
             "Oni": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\082 - Comma\\Comma.ogg",
+        "chartAudioFilePath": "preview\\ZCvFUHqjSYRS5W9raha2qTMSi4Svwt492qNwvxleUZLza9z0CnAxnbwu8fXxBBDP.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -2070,7 +2070,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\083 - Bracket\\Bracket.ogg",
+        "chartAudioFilePath": "preview\\xhWVJFisJOaLioNRTfQVLQSYP4uRGajA6UQtUjWIYVL4jiKG0u8bgDn8bFazHHz5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Oni": 37
@@ -2103,7 +2103,7 @@
             "Normal": "sadkay",
             "Easy": "sadkay"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\084 - Next To You\\Next To You.ogg",
+        "chartAudioFilePath": "preview\\pTRkoj2GeihZYSarNuGzry9UjmBUwVhU0XrQkYVVrZbRPV0Jv2URtjwLs7CHmLZE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -2132,7 +2132,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\085 - Very long title\\leftalone.ogg",
+        "chartAudioFilePath": "preview\\aloneInTheDarkSukimaAltera.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -2164,7 +2164,7 @@
             "Easy": "Komi",
             "Oni": "Taichenko"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.ogg",
+        "chartAudioFilePath": "preview\\rN0fIoR0ggXJRzhxaXZbBGQYqYuIrnsm8ruys29zdtb2bPXBZv40b15QxGpqpd0t.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\Resentment ~The Whittling of Fragmented Dreams~.jpg",
         "chartHoFRanks": {
             "Edit": 9
@@ -2196,7 +2196,7 @@
             "Normal": "berdstep",
             "Easy": "berdstep"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\087 - Hero's Treasure\\Hero_s Tresure.ogg",
+        "chartAudioFilePath": "preview\\S5dmURvl3Nltn6GZj9LXx8onmpPuOeMKzNp9wczYxp9veBdOoeGVbWEisQC2mSy0.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\087 - Hero's Treasure\\Hero_s Treasure.png",
         "chartHoFRanks": {}
     },
@@ -2228,7 +2228,7 @@
             "Oni": "Colin",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\089 - FunkBoi\\FunkBoi.ogg",
+        "chartAudioFilePath": "preview\\uKe8MKuqagHChRlS2agWNZbXKgY5B0VHKDGmVtVMQ0j5npApLThz7JkGOlOrfz6y.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\089 - FunkBoi\\jacket.jpg",
         "chartHoFRanks": {}
     },
@@ -2257,7 +2257,7 @@
             "Hard": "Komi",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\090 - The Beat\\TheBeat.ogg",
+        "chartAudioFilePath": "preview\\GpjPFmGgEnC9qxoUI5C5XAFVtlrhgMVMAYebftp0El5pUP4QmHDM42zlD3nydvin.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -2287,7 +2287,7 @@
             "Normal": "DragonRatTiger",
             "Easy": "DragonRatTiger"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\091 - thumb wrestling\\thumb wrestling.ogg",
+        "chartAudioFilePath": "preview\\twokcheez.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\091 - thumb wrestling\\thumb wrestling.jpg",
         "chartHoFRanks": {}
     },
@@ -2320,7 +2320,7 @@
             "Hard": "Komi",
             "Normal": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\099 - Dreaming to be with you\\Dreaming to be with you.ogg",
+        "chartAudioFilePath": "preview\\DiA0HPkMXWXS0EgYQvZ6Ll8yS7mfrewkQyBbF9JMOnRPa1MgLZjCWFFhumyfkS8z.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\099 - Dreaming to be with you\\Dreaming to be with you.png",
         "chartHoFRanks": {}
     },
@@ -2351,7 +2351,7 @@
             "Hard": "Komi",
             "Normal": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\101 - Ohayou\\ohayou.ogg",
+        "chartAudioFilePath": "preview\\BRwePFFczz5aP2DtxXdnAh0R1CRXZSYyUD9FjPEHfRPYC7yNECmSzjd1Qi1U3zpl.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\101 - Ohayou\\ohayou.jpg",
         "chartHoFRanks": {}
     },
@@ -2383,7 +2383,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\102 - GET REAL\\GET REAL (Game Size).ogg",
+        "chartAudioFilePath": "preview\\0LlpKVpmaCJE2GUu8BNt1Etjp5ektlrW7ebXOSyLbZELmvKlNNvdDdyHuOPVF46B.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\102 - GET REAL\\GET REAL.png",
         "chartHoFRanks": {}
     },
@@ -2415,7 +2415,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\103 - spliced\\spliced.ogg",
+        "chartAudioFilePath": "preview\\Xc3xqD07If6ogJUguW4GcifYjQd7VNLeBmFJL7jD4Z6SLn2xSCothNrus5KmpABv.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\103 - spliced\\spliced.jpg",
         "chartHoFRanks": {}
     },
@@ -2445,7 +2445,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\104 - Eleven\\Eleven.ogg",
+        "chartAudioFilePath": "preview\\KtTrPRSqbPjvMMugdg3RotLzV9LmLNSXo6O5mlKjzfWCQs9D7qKCHp9PKAu3Bvbz.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\104 - Eleven\\Eleven.png",
         "chartHoFRanks": {}
     },
@@ -2477,7 +2477,7 @@
             "Normal": "sadkay",
             "Easy": "sadkay"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\105 - CHAOTIC DIMENSION\\CHAOTIC DIMENSION.ogg",
+        "chartAudioFilePath": "preview\\gPCrL449oVjg3soU9xqNKP7DNTpDZpaVcHG6iPLtSnUSddTIrrwNCiOBuxPIWGIn.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\105 - CHAOTIC DIMENSION\\CHAOTIC DIMENSION.png",
         "chartHoFRanks": {}
     },
@@ -2509,7 +2509,7 @@
             "Normal": "DragonRatTiger",
             "Easy": "DragonRatTiger"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\106 - colonthree\\colonthree.ogg",
+        "chartAudioFilePath": "preview\\70vlxz919d1rglKaTc3gOt50seCF4iLnYvs9EI9daTGVSYT5nBHcCjuFbLs3HOAd.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\106 - colonthree\\colonthree.jpg",
         "chartHoFRanks": {}
     },
@@ -2539,7 +2539,7 @@
             "Normal": "Tang",
             "Easy": "Tang"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\107 - BONUS\\BONUS.ogg",
+        "chartAudioFilePath": "preview\\mwyKrMXGCFxwdu8FQOqwAtR5Hf5z18XTDLGFtGmN31vh6XziV8qgIXaWuZPfv91B.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\107 - BONUS\\BONUS.jpg",
         "chartHoFRanks": {}
     },
@@ -2569,7 +2569,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\108 - FINAL HOPE\\FINAL HOPE.ogg",
+        "chartAudioFilePath": "preview\\mpLlzrl60TGGGOVQYzeqlNbLdlEmegDxi7eq6IuvXeTUuKGBfmio6KBrScHAMJHs.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\108 - FINAL HOPE\\FINAL HOPE.jpg",
         "chartHoFRanks": {}
     },
@@ -2601,7 +2601,7 @@
             "Easy": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\109 - SUGARUSH\\SUGARUSH.ogg",
+        "chartAudioFilePath": "preview\\tdFhOltdQhI5JJiXxrDksRUQHsioekmFLTYO1nF4KiLDG9YmXnnTScVCFahAk7Ak.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\109 - SUGARUSH\\SUGARUSH.jpg",
         "chartHoFRanks": {}
     },
@@ -2633,7 +2633,7 @@
             "Oni": "Colin",
             "Edit": "Colin"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\110 - ETHEREAL VELOCITY\\ETHEREAL VELOCITY.ogg",
+        "chartAudioFilePath": "preview\\PumWZwvVeA2i6vZVjDruLIDifDCUcMbd6SGyuyAHXQuiYixVyKJdAkDqW7Bmftyb.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\110 - ETHEREAL VELOCITY\\ETHEREAL VELOCITY.png",
         "chartHoFRanks": {
             "Edit": 18
@@ -2667,7 +2667,7 @@
             "Hard": "Komi",
             "Oni": "goldenyoshi22"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\111 - 2024\\2024 BPM IS NOT ENOUGH.ogg",
+        "chartAudioFilePath": "preview\\g5g9LONlUIpjDQWp4sTjx0xjkkkHVZQZtLePUlwsjWVtJmcJ9GjxTfLOFfMJKWXt.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\111 - 2024\\2024 BPM IS NOT ENOUGH.png",
         "chartHoFRanks": {
             "Edit": 12,
@@ -2702,7 +2702,7 @@
             "Normal": "DragonRatTiger",
             "Easy": "DragonRatTiger"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\112 - POGO is ready\\pogo.ogg",
+        "chartAudioFilePath": "preview\\Rjlgw7WEpvImdZ9gRBHYo6UUepREsYo4R4WOMDUnxUWFkevq4br1KjvxTjnBLhH4.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\112 - POGO is ready\\pogo.png",
         "chartHoFRanks": {}
     },
@@ -2733,7 +2733,7 @@
             "Normal": "DragonRatTiger",
             "Easy": "DragonRatTiger"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\113 - Souzoushikunaru\\souzou.ogg",
+        "chartAudioFilePath": "preview\\Rjlgw7WEpvImdZ9gRBHYo6UUepRDsYo4R4WOMDUnxUWFkevq4br1KjvxTjnBLhH4.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\113 - Souzoushikunaru\\souzou.png",
         "chartHoFRanks": {}
     },
@@ -2765,7 +2765,7 @@
             "Easy": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\114 - pretty kitty,yes\\pretty kitty.ogg",
+        "chartAudioFilePath": "preview\\sR5rRUAUWt49NPMXqLHdPIWki09vHd84K1xSqfOGv3kkdYAYDF05DU406tyuLKk0.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\114 - pretty kitty,yes\\pretty kitty.png",
         "chartHoFRanks": {}
     },
@@ -2797,7 +2797,7 @@
             "Easy": "Takkkom",
             "Edit": "Takkkom"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.ogg",
+        "chartAudioFilePath": "preview\\7Lstfr408z2EOnuhF37D1dI1xLq56XGtLyvbF1VhZzFtFnge0LY4wPJaxEukaPSQ.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.png",
         "chartHoFRanks": {
             "Edit": 64
@@ -2831,7 +2831,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\116 - Sotsugyo 2000\\Sotsugyou2000.ogg",
+        "chartAudioFilePath": "preview\\eIidGlMj16o7ndkhroEQUze29Y2sOc0NI0EZOhYHjDkCcID8qzidILYJm7FCXMti.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\116 - Sotsugyo 2000\\Sotsugyou2000.png",
         "chartHoFRanks": {}
     },
@@ -2860,7 +2860,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\117 - M Ji U\\MJiU.ogg",
+        "chartAudioFilePath": "preview\\j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Oni": 52
@@ -2894,7 +2894,7 @@
             "Oni": "DragonRatTiger",
             "Edit": "Shoxk"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\118 - Froggy Forest Raceway\\Froggy Forest Raceway.ogg",
+        "chartAudioFilePath": "preview\\j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzF.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\118 - Froggy Forest Raceway\\Froggy Forest Raceway.png",
         "chartHoFRanks": {}
     },
@@ -2926,7 +2926,7 @@
             "Oni": "bol",
             "Edit": "bol"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\119 - Fractured Eternity\\Fractured Eternity.ogg",
+        "chartAudioFilePath": "preview\\j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzO.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\119 - Fractured Eternity\\Fractured Eternity.png",
         "chartHoFRanks": {
             "Edit": 2,
@@ -2960,7 +2960,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\120 - the infinite cityscape\\the infinite cityscape.ogg",
+        "chartAudioFilePath": "preview\\cookAndBills.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -2992,7 +2992,7 @@
             "Oni": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\121 - PARANOiA Perpetuity\\PARANOiAPerpetuity.ogg",
+        "chartAudioFilePath": "preview\\ZtPIqdYGeZOkWIn26wUfSWDxwB6PsILjmYQGW3CPHSANm2J4SwiFYEe0qZt4PVTQ.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\121 - PARANOiA Perpetuity\\PARANOIA_perpetuality_Jacket.png",
         "chartHoFRanks": {
             "Edit": 30
@@ -3026,7 +3026,7 @@
             "Normal": "sadkay",
             "Easy": "sadkay"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\122 - Incoherent Hysteria\\Incoherent Hysteria.ogg",
+        "chartAudioFilePath": "preview\\incoherentAz3.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\122 - Incoherent Hysteria\\Incoherent Hysteria.png",
         "chartHoFRanks": {}
     },
@@ -3058,7 +3058,7 @@
             "Easy": "Komi",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\123 - HEAT CONDUCTORS\\Heat Conductors.ogg",
+        "chartAudioFilePath": "preview\\OfficialAz3HeatC.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\123 - HEAT CONDUCTORS\\Heat Conductors.png",
         "chartHoFRanks": {}
     },
@@ -3088,7 +3088,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\124 - five states of weirdness\\five states of weirdness.ogg",
+        "chartAudioFilePath": "preview\\OfficialAz3FiveStates.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\124 - five states of weirdness\\five states of weirdness.png",
         "chartHoFRanks": {}
     },
@@ -3120,7 +3120,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\125 - MajETCMAT\\MajETCMAT.ogg",
+        "chartAudioFilePath": "preview\\OfficialAz3MajETC.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\125 - MajETCMAT\\MajETCMAT.png",
         "chartHoFRanks": {
             "Edit": 33
@@ -3151,7 +3151,7 @@
             "Normal": "berdstep",
             "Easy": "berdstep"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\126 - BLACK DIAMOND\\BLACK DIAMOND.ogg",
+        "chartAudioFilePath": "preview\\BLACKDIAMONDtd.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -3183,7 +3183,7 @@
             "Easy": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\127 - A symphony of a million years\\A symphony of a million years.ogg",
+        "chartAudioFilePath": "preview\\millionyearsoxoplasmaP.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\127 - A symphony of a million years\\A symphony of a million years.png",
         "chartHoFRanks": {}
     },
@@ -3213,7 +3213,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\128 - Mayhem\\Mayhem.ogg",
+        "chartAudioFilePath": "preview\\MayhemX3ll3nBenjiG.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\128 - Mayhem\\Mayhem.png",
         "chartHoFRanks": {}
     },
@@ -3243,7 +3243,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\129 - Cybernetic Pressure\\Cybernetic Pressure.ogg",
+        "chartAudioFilePath": "preview\\CyberneticX3ll3nBARY.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\129 - Cybernetic Pressure\\Cybernetic Pressure.png",
         "chartHoFRanks": {}
     },
@@ -3272,7 +3272,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\130 - The Minotaur\\The Minotaur.ogg",
+        "chartAudioFilePath": "preview\\x3ll3nbenjigminotaur.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -3304,7 +3304,7 @@
             "Oni": "Colin",
             "Edit": "Komi,Dashy,DragonRatTiger"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.ogg",
+        "chartAudioFilePath": "preview\\cirfunferenciaULKO.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.png",
         "chartHoFRanks": {
             "Edit": 59
@@ -3337,7 +3337,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\133 - Fungus Night Carnival ~ Rhythm of the war\\Fungus Night Carnival.ogg",
+        "chartAudioFilePath": "preview\\77iZCMhJ7gdC7R2Kw9MGMHffnRYuZ5gxTFBSB36UMGVeHw3Uazk6Do7fyusXVGnc.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -3369,7 +3369,7 @@
             "Normal": "Llits T'sol",
             "Easy": "T'sol"
         },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III\\137 - Tsol Niameri\\tsol.ogg",
+        "chartAudioFilePath": "preview\\tsolYLN0.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\137 - Tsol Niameri\\tsol.png",
         "chartHoFRanks": {
             "Edit": 16,
@@ -3402,7 +3402,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\138 - Startup Parade Remix\\Startup Parade! (Ryuto Setsujin + Makotora Remix).ogg",
+        "chartAudioFilePath": "preview\\stparadeRMXryutoMakotora.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\138 - Startup Parade Remix\\Startup Parade! (Ryuto Setsujin + Makotora Remix).png",
         "chartHoFRanks": {}
     },
@@ -3432,7 +3432,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\139 - euphoric eruption\\euphoric eruption.ogg",
+        "chartAudioFilePath": "preview\\euphoriCMakotora.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\139 - euphoric eruption\\euphoric eruption.png",
         "chartHoFRanks": {}
     },
@@ -3464,7 +3464,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\140 - Nova night\\nova.ogg",
+        "chartAudioFilePath": "preview\\novaNightalden.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\140 - Nova night\\nova.png",
         "chartHoFRanks": {}
     },
@@ -3494,7 +3494,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\141 - AQUAMARINE\\AQUAMARINE.ogg",
+        "chartAudioFilePath": "preview\\AQUAMARINEmcBoiled.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\141 - AQUAMARINE\\AQUAMARINE.png",
         "chartHoFRanks": {}
     },
@@ -3523,7 +3523,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\142 - floatfobia\\floatfobia.ogg",
+        "chartAudioFilePath": "preview\\floatFobiaArlGon.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -3552,7 +3552,7 @@
             "Normal": "sadkay",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\143 - you ruined me with your lies\\you ruined me with your lies.ogg",
+        "chartAudioFilePath": "preview\\liesTeocore.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Oni": 48
@@ -3584,7 +3584,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\144 - i'll be there\\i'll be there.ogg",
+        "chartAudioFilePath": "preview\\iLlbetHeREraCheltyPEx.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\144 - i'll be there\\i'll be there.jpg",
         "chartHoFRanks": {}
     },
@@ -3614,7 +3614,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\145 - parking spot\\parkingspot.ogg",
+        "chartAudioFilePath": "preview\\pARkINgSpOTAlden.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\145 - parking spot\\parkingspot.png",
         "chartHoFRanks": {}
     },
@@ -3644,7 +3644,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\146 - frenzy fever\\frenzy fever.ogg",
+        "chartAudioFilePath": "preview\\frenzYfEveRmAKOTOrA.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\146 - frenzy fever\\frenzy fever.png",
         "chartHoFRanks": {}
     },
@@ -3674,7 +3674,7 @@
             "Normal": "sadkay",
             "Easy": "sadkay"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).ogg",
+        "chartAudioFilePath": "preview\\STaRlIGHTTRAVeLERgamEeDitSuKiMaaLTErA.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).jpg",
         "chartHoFRanks": {}
     },
@@ -3704,7 +3704,7 @@
             "Normal": "sadkay",
             "Easy": "sadkay"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\148 - tiny windows\\tiny windows.ogg",
+        "chartAudioFilePath": "preview\\tiNyWIndoWSFrIZKXTaNGER.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\148 - tiny windows\\tiny windows.jpg",
         "chartHoFRanks": {}
     },
@@ -3736,7 +3736,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\ANARCHIC LIGHT.ogg",
+        "chartAudioFilePath": "preview\\NarcHIclIGhTRor.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\ANARCHIC LIGHT.jpg",
         "chartHoFRanks": {}
     },
@@ -3767,7 +3767,7 @@
             "Normal": "Komi",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\150 - Miracle Castle\\Miracle Castle.ogg",
+        "chartAudioFilePath": "preview\\MirACLeCAStlEPIRENDorAROR.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Edit": 28
@@ -3800,7 +3800,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.ogg",
+        "chartAudioFilePath": "preview\\15NIGhtriderfaLLELERAbBITs.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\15 NIGHT RIDER.png",
         "chartHoFRanks": {}
     },
@@ -3832,7 +3832,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.ogg",
+        "chartAudioFilePath": "preview\\nanTekotTaMAkotoRa.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.png",
         "chartHoFRanks": {}
     },
@@ -3864,7 +3864,7 @@
             "Easy": "DiamondN1nja",
             "Edit": "DragonRatTiger"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.ogg",
+        "chartAudioFilePath": "preview\\toKyOrhyTHmNO524fALl.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\TOKYO-RHYTHM No.524.png",
         "chartHoFRanks": {}
     },
@@ -3893,7 +3893,7 @@
             "Normal": "Komi,H5",
             "Easy": "Komi,H5"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\154 - Stormrider's Bolt\\Stormrider's Bolt.ogg",
+        "chartAudioFilePath": "preview\\StoRmridErSBolTH5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -3925,7 +3925,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\155 - Music for Life\\Music for Life.ogg",
+        "chartAudioFilePath": "preview\\mUSicfORLIFefaLLfEaTELUaMAGa.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\155 - Music for Life\\Music for Life.png",
         "chartHoFRanks": {}
     },
@@ -3955,7 +3955,7 @@
             "Normal": "berdstep",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.ogg",
+        "chartAudioFilePath": "preview\\wILDWAtERarDoLf.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.jpg",
         "chartHoFRanks": {}
     },
@@ -3987,7 +3987,7 @@
             "Hard": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.ogg",
+        "chartAudioFilePath": "preview\\GOOdbYemyPhANtaSIaFaLLFeAtYUfuSEKka.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.png",
         "chartHoFRanks": {
             "Oni": 19,
@@ -4020,7 +4020,7 @@
             "Easy": "Komi",
             "Hard": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.ogg",
+        "chartAudioFilePath": "preview\\bLAcKMagicARdOLf.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.jpg",
         "chartHoFRanks": {}
     },
@@ -4050,7 +4050,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.ogg",
+        "chartAudioFilePath": "preview\\siLVerBULleTardOlf.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.jpg",
         "chartHoFRanks": {}
     },
@@ -4080,7 +4080,7 @@
             "Normal": "Komi",
             "Hard": "Taichenko,Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\161 - Donstrgus\\Donstrgus.ogg",
+        "chartAudioFilePath": "preview\\doNsTrgustAIcHEnko.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\161 - Donstrgus\\Donstrgus.jpg",
         "chartHoFRanks": {
             "Oni": 17
@@ -4111,7 +4111,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\162 - linebreak\\linebreak.ogg",
+        "chartAudioFilePath": "preview\\LINebrEakZqr.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -4141,7 +4141,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.ogg",
+        "chartAudioFilePath": "preview\\pSeUDomONARcHiALiliTHLYCANixVSCUSI.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.png",
         "chartHoFRanks": {
             "Oni": 61
@@ -4175,7 +4175,7 @@
             "Oni": "Komi",
             "Edit": "Shoxk"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\166 - Dolphin Diamond Raceway\\Dolphin Diamond Raceway.ogg",
+        "chartAudioFilePath": "preview\\dOlPHinDiaMONDRaCewAYbAByZIONov.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\166 - Dolphin Diamond Raceway\\Dolphin Diamond Raceway.png",
         "chartHoFRanks": {}
     },
@@ -4189,12 +4189,12 @@
             "04 OpenTaiko Chapter IV\\167 - Before it ends\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "c080b7eaab616ee8c069b7ad46eac9b7",
+        "tjaMD5": "89e06fdc735ed0d801d13ef8988af262",
         "chartSize": 3.9,
         "chartTitle": "Before It Ends",
         "chartSubtitle": "BilliumMoto",
         "chartDifficulties": {
-            "Edit": 10.7,
+            "Edit": 10.9,
             "Oni": 9,
             "Hard": 6,
             "Normal": 5,
@@ -4207,7 +4207,7 @@
             "Normal": "berdstep",
             "Easy": "berdstep"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.ogg",
+        "chartAudioFilePath": "preview\\BEFoReITeNdSBilLIummOto.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.jpg",
         "chartHoFRanks": {
             "Edit": 56
@@ -4238,7 +4238,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\168 - Collapse of the Surface\\surface.ogg",
+        "chartAudioFilePath": "preview\\cLlapsEoFtheSurfACeoPentAiKOsOuNdteaMDAsHy.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -4267,7 +4267,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\169 - Corruption of the Soul\\Corruption of the Soul.ogg",
+        "chartAudioFilePath": "preview\\CrrupTiONOFtHESULOpeNTaIKosOUNDteAmaGNy.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -4300,7 +4300,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.ogg",
+        "chartAudioFilePath": "preview\\CLlAPsEoFTHeSULH888h5dAsHYDeSU.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.png",
         "chartHoFRanks": {
             "Edit": 3,
@@ -4335,7 +4335,7 @@
             "Easy": "Komi",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.ogg",
+        "chartAudioFilePath": "preview\\WIldcArdyw.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.png",
         "chartHoFRanks": {}
     },
@@ -4365,7 +4365,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\Freshness Vacation.ogg",
+        "chartAudioFilePath": "preview\\FreSHnessvaCatiONYW.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\Freshness Vacation.png",
         "chartHoFRanks": {}
     },
@@ -4395,7 +4395,7 @@
             "Normal": "Ryuto Setsujin",
             "Easy": "Ryuto Setsujin"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\Celestsoul Aurora.ogg",
+        "chartAudioFilePath": "preview\\cElesTSOulauRorawhiteTAil.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\Celestsoul Aurora.png",
         "chartHoFRanks": {}
     },
@@ -4425,7 +4425,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.ogg",
+        "chartAudioFilePath": "preview\\VisioNarYxtKakeruracHeLtYpex.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.png",
         "chartHoFRanks": {}
     },
@@ -4457,7 +4457,7 @@
             "Normal": "DragonRatTiger",
             "Easy": "DragonRatTiger"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.ogg",
+        "chartAudioFilePath": "preview\\OpTkCh4NostalgicMagic.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.png",
         "chartHoFRanks": {}
     },
@@ -4487,7 +4487,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.ogg",
+        "chartAudioFilePath": "preview\\SimpleXOFFICiAlAz3.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\176 - Sim-plex\\Sim-plex.png",
         "chartHoFRanks": {}
     },
@@ -4517,7 +4517,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\the world of scarlet.ogg",
+        "chartAudioFilePath": "preview\\TheWORldoFsCarleToFfIcIalaz3.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\the world of scarlet.png",
         "chartHoFRanks": {}
     },
@@ -4546,7 +4546,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\178 - PARANO1A\\PARANO1A.ogg",
+        "chartAudioFilePath": "preview\\ParANO1AH5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -4578,7 +4578,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).ogg",
+        "chartAudioFilePath": "preview\\authentic.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\Authentic (Game Mix).png",
         "chartHoFRanks": {}
     },
@@ -4608,7 +4608,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\Katharsis.ogg",
+        "chartAudioFilePath": "preview\\kAThARSiS9cmAkotorArEMIx9CmAkotoRa.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\Katharsis.png",
         "chartHoFRanks": {}
     },
@@ -4638,7 +4638,7 @@
             "Normal": "Dashy,",
             "Easy": "Dashy,"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\nostalgic888.ogg",
+        "chartAudioFilePath": "preview\\optk_ch5_nostalgic888.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\nostalgic888.png",
         "chartHoFRanks": {}
     },
@@ -4668,7 +4668,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\182 - dreamscape\\dreamscape.ogg",
+        "chartAudioFilePath": "preview\\DReaMscapemAKOtOrA.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\182 - dreamscape\\dreamscape.png",
         "chartHoFRanks": {}
     },
@@ -4698,7 +4698,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\183 - junket\\junket.ogg",
+        "chartAudioFilePath": "preview\\JUnkETsAltEd.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\183 - junket\\hyper.jpg",
         "chartHoFRanks": {}
     },
@@ -4730,7 +4730,7 @@
             "Oni": "Taichenko",
             "Hard": "Dashy"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.ogg",
+        "chartAudioFilePath": "preview\\LimELIteaTToclEf.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.jpg",
         "chartHoFRanks": {}
     },
@@ -4760,7 +4760,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.ogg",
+        "chartAudioFilePath": "preview\\cONtRolmakOTORA.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\185 - CoNTRoL\\CoNTRoL.png",
         "chartHoFRanks": {}
     },
@@ -4792,7 +4792,7 @@
             "Easy": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.ogg",
+        "chartAudioFilePath": "preview\\SKYfallCHroNOn.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.png",
         "chartHoFRanks": {}
     },
@@ -4821,7 +4821,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\Insignia Breaker.ogg",
+        "chartAudioFilePath": "preview\\iNSiGniABReAkERcUZi.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -4851,7 +4851,7 @@
             "Easy": "Takkkom",
             "Hard": "Takkkom"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.ogg",
+        "chartAudioFilePath": "preview\\CaNdygIrLotOMeameCoMPOsITIOnkaNI.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.png",
         "chartHoFRanks": {}
     },
@@ -4883,7 +4883,7 @@
             "Easy": "Komi",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.ogg",
+        "chartAudioFilePath": "preview\\NiJiHaKIRaiotomEAMEComPOsITioNShiTSUDOkEi.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.png",
         "chartHoFRanks": {}
     },
@@ -4915,7 +4915,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
+        "chartAudioFilePath": "preview\\pUrgATORYOftheOOTdMasAmuNEVsH5.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.png",
         "chartHoFRanks": {
             "Edit": 31
@@ -4948,7 +4948,7 @@
             "Oni": "Team JE",
             "Edit": "sadkay"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\192 - Warm Winter Wish\\WWW.ogg",
+        "chartAudioFilePath": "preview\\WarMwiNterwISHwHIMsiCALwINterWorlDsmAestrOs.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -4978,7 +4978,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\193 - Diverging Duality\\Diverging Duality.ogg",
+        "chartAudioFilePath": "preview\\dIVerGInGDuaLITyRIpriDEr.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\193 - Diverging Duality\\Diverging Duality.png",
         "chartHoFRanks": {}
     },
@@ -5007,7 +5007,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\194 - FEEL IT ALL\\FEEL IT ALL (Game Edit).ogg",
+        "chartAudioFilePath": "preview\\feelItaLLGamEEDitracheLtYpeX.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5038,7 +5038,7 @@
             "Edit": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\Labyrinth from Another World.ogg",
+        "chartAudioFilePath": "preview\\LaBYrINtHFROMaNOThErWoRlDmOusHIkomI.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5067,7 +5067,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\196 - Zutto\\Zutto.ogg",
+        "chartAudioFilePath": "preview\\ZUttohexacUBE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5099,7 +5099,7 @@
             "Hard": "Komi",
             "Normal": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.ogg",
+        "chartAudioFilePath": "preview\\LOvEtOnIGHThexAcUBe.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\197 - Lovetonight\\Lovetonight.png",
         "chartHoFRanks": {}
     },
@@ -5128,7 +5128,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\198 - SUPER-ENTHUSIASTIC!!\\SUPER-ENTHUSIASTIC.ogg",
+        "chartAudioFilePath": "preview\\SUPEReNtHUSIASTichExAcUbE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Oni": 47
@@ -5160,7 +5160,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\HYPERSONIC.ogg",
+        "chartAudioFilePath": "preview\\hYPErsonICMAKotORa.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\HYPERSONIC.jpg",
         "chartHoFRanks": {}
     },
@@ -5190,7 +5190,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\A Perfect Beginning.ogg",
+        "chartAudioFilePath": "preview\\AperfectbeGINnINGBMSOtAKuSanTsUkurUzE25viPoffIcIaLAz3.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\A Perfect Beginning.png",
         "chartHoFRanks": {}
     },
@@ -5219,7 +5219,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\201 - Future Fragments\\Future Fragments.ogg",
+        "chartAudioFilePath": "preview\\FuTureFRAgmeNtsYoZuC.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5251,7 +5251,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.ogg",
+        "chartAudioFilePath": "preview\\picoSUmMItOFfICIAlAz3.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.png",
         "chartHoFRanks": {}
     },
@@ -5282,7 +5282,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.ogg",
+        "chartAudioFilePath": "preview\\iflIfEwEreaLOopCoLinmCGUIREfTHaTSUNEMIkU.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\If Life Were a Loop.png",
         "chartHoFRanks": {}
     },
@@ -5312,7 +5312,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).ogg",
+        "chartAudioFilePath": "preview\\WHyaREalLtHegIRLssICKOPeNtAikoEDiTstUCupiD.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\DashyShopping.png",
         "chartHoFRanks": {}
     },
@@ -5342,7 +5342,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\Departure to Copacabana (OpenTaiko Edit).ogg",
+        "chartAudioFilePath": "preview\\dePARTUreToCOPACAbAnAOpEnTAIkoEdItStucupidfeaTRHIAnNOnMouSHALl.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\DashyShopping.png",
         "chartHoFRanks": {}
     },
@@ -5371,7 +5371,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\206 - Eitchfaivest\\Eitchfaivest.ogg",
+        "chartAudioFilePath": "preview\\EITchFaivesTOpentaikOSoUnDTeAMMasAmUNE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5401,7 +5401,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\207 - FORTALiCE\\FORTALiCE.ogg",
+        "chartAudioFilePath": "preview\\fOrTaLiCEzxnx.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\207 - FORTALiCE\\FORTALiCE.jpg",
         "chartHoFRanks": {}
     },
@@ -5431,7 +5431,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\208 - FANTASY\\FANTASY.ogg",
+        "chartAudioFilePath": "preview\\fantAsYdrIftERRfeAtDAsHY.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\208 - FANTASY\\FANTASY.png",
         "chartHoFRanks": {}
     },
@@ -5463,7 +5463,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\209 - Bannerbomb\\Bannerbomb.ogg",
+        "chartAudioFilePath": "preview\\BaNneRbomboPEntAiKoeditstUcuPId.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\209 - Bannerbomb\\Bannerbomb.png",
         "chartHoFRanks": {}
     },
@@ -5495,7 +5495,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.ogg",
+        "chartAudioFilePath": "preview\\welLspRIngVegGERHoggEr.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.jpg",
         "chartHoFRanks": {}
     },
@@ -5527,7 +5527,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.ogg",
+        "chartAudioFilePath": "preview\\aNxIeTYASPIDCaT.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.jpg",
         "chartHoFRanks": {
             "Edit": 35
@@ -5560,7 +5560,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\214 - Neptune's Lullaby\\Neptune's Lullaby.ogg",
+        "chartAudioFilePath": "preview\\NePTUNESluLLaByOPEntaiKOSOunDTeAMh5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5589,7 +5589,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\215 - nicotine\\nicotine.ogg",
+        "chartAudioFilePath": "preview\\nICOTineTEoCoREREmixJAcKuwteOcORe.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5621,7 +5621,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\216 - Constellation\\constellation.ogg",
+        "chartAudioFilePath": "preview\\CONsTelLationtHeguIdINggIANTSjOurneymrHIKarUANDthEinfiNiTEgalaXYEnsEmBle.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\216 - Constellation\\constellation.png",
         "chartHoFRanks": {}
     },
@@ -5653,7 +5653,7 @@
             "Easy": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\217 - Lazy Me\\Lazy Me.ogg",
+        "chartAudioFilePath": "preview\\lAZYmerEmASteREdveRSioNOFfICIalaz3.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\217 - Lazy Me\\Lazy Me.png",
         "chartHoFRanks": {}
     },
@@ -5685,7 +5685,7 @@
             "Normal": "Ryuto Setsujin",
             "Easy": "Ryuto Setsujin"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans Cel Grift.ogg",
+        "chartAudioFilePath": "preview\\oCtaNsCelGRIFtbiLLiuMMOto.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans_Cel_Grift.png",
         "chartHoFRanks": {
             "Edit": 25
@@ -5720,7 +5720,7 @@
             "Oni": "Colin",
             "Edit": "Colin"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.ogg",
+        "chartAudioFilePath": "preview\\nevergodnmycolinchart.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\219 - nevergod\\nevergod.jpg",
         "chartHoFRanks": {
             "Edit": 10
@@ -5756,7 +5756,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.ogg",
+        "chartAudioFilePath": "preview\\beaniDD.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\DDv2.png",
         "chartHoFRanks": {
             "Edit": 8
@@ -5792,7 +5792,7 @@
             "Normal": "Komi",
             "Easy": "Dashy,DragonRatTiger"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\221 - ORTU5 5OLI5\\ORTU5 5OLI5.ogg",
+        "chartAudioFilePath": "preview\\optkch5secret01.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\221 - ORTU5 5OLI5\\ORTU5 5OLI5.png",
         "chartHoFRanks": {
             "Edit": 1,
@@ -5829,7 +5829,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "05 OpenTaiko Chapter V\\CH5 - V-ENTURE\\V-ENTURE.ogg",
+        "chartAudioFilePath": "preview\\optkch5secret02.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\CH5 - V-ENTURE\\venture.png",
         "chartHoFRanks": {}
     },
@@ -5858,7 +5858,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\222 - glide through a sky\\glide through a sky.ogg",
+        "chartAudioFilePath": "preview\\GlIDETHRouGhAskYdAShyDESu.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5891,7 +5891,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).ogg",
+        "chartAudioFilePath": "preview\\HEarTsiNmoTioNgaMEEditMAKoTOrA.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\Hearts in Motion (Game Edit).png",
         "chartHoFRanks": {}
     },
@@ -5920,7 +5920,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\224 - SPDRN\\SPDRN.ogg",
+        "chartAudioFilePath": "preview\\SpdRnyozUc.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -5950,7 +5950,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.ogg",
+        "chartAudioFilePath": "preview\\NiTrOSniKIox3lL3N.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\225 - Nitro\\Nitro.png",
         "chartHoFRanks": {}
     },
@@ -5979,7 +5979,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\227 - Beach Race\\Beach Race.ogg",
+        "chartAudioFilePath": "preview\\BEAcHrACeSnikiOX3ll3n.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -6009,7 +6009,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\Hi Voltage.ogg",
+        "chartAudioFilePath": "preview\\hivoLTaGE3KAdofEATcLozzO.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\Hi Voltage.png",
         "chartHoFRanks": {}
     },
@@ -6039,7 +6039,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\cityscape RUiNsS.ogg",
+        "chartAudioFilePath": "preview\\citYscaPeMAkOTORa.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\cityscape RUiNsS.png",
         "chartHoFRanks": {}
     },
@@ -6069,7 +6069,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\230 - Broken Bond\\Broken Bond.ogg",
+        "chartAudioFilePath": "preview\\colinmcguirebrokenbond.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\230 - Broken Bond\\Broken Bond.png",
         "chartHoFRanks": {}
     },
@@ -6100,7 +6100,7 @@
             "Oni": "sadkay",
             "Edit": "sadkay"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\231 - We Fight (Short Ver.)\\We Fight (Short Ver.).ogg",
+        "chartAudioFilePath": "preview\\WefIghTsHOrTVErYOZUC.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -6132,7 +6132,7 @@
             "Normal": "sadkay",
             "Easy": "sadkay"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\Blessing Of Endurance.ogg",
+        "chartAudioFilePath": "preview\\bLeSsingOFeNDuraNcEnarwHalle.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\Blessing of Endurance.jpg",
         "chartHoFRanks": {}
     },
@@ -6161,7 +6161,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\233 - Momenta Mori\\Momenta Mori (OpenTaiko Cut).ogg",
+        "chartAudioFilePath": "preview\\MoMEnTamOrIOPEntaIkOcUtx3Ll3nbEnJig.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -6191,7 +6191,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\234 - REfragment\\RE fragment.ogg",
+        "chartAudioFilePath": "preview\\refRAgMEnTARizKAYaBa.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\234 - REfragment\\RE fragment.png",
         "chartHoFRanks": {}
     },
@@ -6223,7 +6223,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\Unfortunate Utopia.ogg",
+        "chartAudioFilePath": "preview\\unFOrtUnateUtopiAWyvRENVsmaRiLeTTEAOkiSAma.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\Unfortunate Utopia.png",
         "chartHoFRanks": {
             "Edit": 6
@@ -6258,7 +6258,7 @@
             "Oni": "Komi",
             "Edit": "Colin"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.ogg",
+        "chartAudioFilePath": "preview\\butchervanitycolinchart.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\BUTCHER VANITY.jpg",
         "chartHoFRanks": {}
     },
@@ -6289,7 +6289,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.ogg",
+        "chartAudioFilePath": "preview\\weathergirlcolinchart.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.png",
         "chartHoFRanks": {}
     },
@@ -6321,7 +6321,7 @@
             "Hard": "Dashy",
             "Oni": "Dashy"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\238 - Static\\Static.ogg",
+        "chartAudioFilePath": "preview\\statiCFlaVOrfOlEYFtHATsuNemIKu.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\238 - Static\\Static.jpg",
         "chartHoFRanks": {}
     },
@@ -6351,7 +6351,7 @@
             "Normal": "Ryuto Setsujin",
             "Easy": "Ryuto Setsujin"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.ogg",
+        "chartAudioFilePath": "preview\\ShAdoWdriVErdELF.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.png",
         "chartHoFRanks": {}
     },
@@ -6382,7 +6382,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "06 OpenTaiko Chapter VI\\251 - Assimilation\\Assimilation.ogg",
+        "chartAudioFilePath": "preview\\AssimILATIonTAtsUotOVsoUrObOROs.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Edit": 42
@@ -6415,7 +6415,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver\\DeceivingTheDeceiver.ogg",
+        "chartAudioFilePath": "preview\\dtdH5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -6446,7 +6446,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "C10 Deceiver's Defiances\\009 - Deceiver\\Deceiver.ogg",
+        "chartAudioFilePath": "preview\\deceiverH5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -6475,7 +6475,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "C10 Deceiver's Defiances\\012 - Deceiver's Terminus\\DeceiverTerminus.ogg",
+        "chartAudioFilePath": "preview\\dterH5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -6507,7 +6507,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "C10 Deceiver's Defiances\\032 - ReCollapse\\ReCollapse.ogg",
+        "chartAudioFilePath": "preview\\recollapseh888.ogg",
         "chartJacketFilePath": "C10 Deceiver's Defiances\\032 - ReCollapse\\ReCollapse.png",
         "chartHoFRanks": {
             "Edit": 24
@@ -6540,7 +6540,7 @@
             "Normal": "Komi",
             "Easy": "bol,Komi"
         },
-        "chartAudioFilePath": "C10 Deceiver's Defiances\\073 - Emily\\Emily.ogg",
+        "chartAudioFilePath": "preview\\Wov6iflCWYNC8eiSjATxEzMQuvVwk3AyNcZbAHJdsjylweCb08WSSPc8DoJ1Fp2Z.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Edit": 4
@@ -6571,7 +6571,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "C10 Deceiver's Defiances\\134 - Decever's Revenge\\Deceiver's Revenge.ogg",
+        "chartAudioFilePath": "preview\\W4Qcu7pYjluWEy25n2DUiKaFumGoyCxy0viYRUvmOiPh5h3RKYfkBrTrKGRvs0ct.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -6603,7 +6603,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\018 - Chasing the wind\\Chasing the Wind.ogg",
+        "chartAudioFilePath": "preview\\ctwindDashy.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\018 - Chasing the wind\\preimage.jpg",
         "chartHoFRanks": {}
     },
@@ -6634,7 +6634,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\026 - Lost Emotion\\lostem.ogg",
+        "chartAudioFilePath": "preview\\lostemDashy.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\026 - Lost Emotion\\lostem.png",
         "chartHoFRanks": {}
     },
@@ -6666,7 +6666,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\027 - Broken Metronome\\br.ogg",
+        "chartAudioFilePath": "preview\\brokenMetDashy.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\027 - Broken Metronome\\br.png",
         "chartHoFRanks": {
             "Edit": 44
@@ -6702,7 +6702,7 @@
             "Normal": "Dashy,Komi",
             "Easy": "Dashy,Komi"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\038 - Dear Stars\\stars.ogg",
+        "chartAudioFilePath": "preview\\nusaVoPrmOPvombnYp3mVkjv7FU5mYc5xyPo1TUx6OabcdYBofg3U9R2hWflsw6H.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\038 - Dear Stars\\stars.png",
         "chartHoFRanks": {}
     },
@@ -6736,7 +6736,7 @@
             "Normal": "Dashy,Colin",
             "Easy": "Ryuto Setsujin"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.ogg",
+        "chartAudioFilePath": "preview\\SIUsjccJr1rOhcnKohVRRl8vLe3HO3LjTU8hyGdAXUbjwPOCRTl0TsUqJ2o3iBay.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.png",
         "chartHoFRanks": {
             "Edit": 63
@@ -6769,7 +6769,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\052 - Scarlet Mirage\\Scarlet Mirage.ogg",
+        "chartAudioFilePath": "preview\\7TgDUfiEAVn0sV6HqfRVLV61HeshX8eJhEB7POVVIQmvpgu8W94Wryb8gEXj0KPh.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\052 - Scarlet Mirage\\Scarlet Mirage.png",
         "chartHoFRanks": {
             "Oni": 21
@@ -6801,7 +6801,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\056 - Ill still be me\\I'll Still Be Me.ogg",
+        "chartAudioFilePath": "preview\\gCHwx2DNcitHmY9DRSlAHwG7iaiD1FPNDjDWNpirtCsu6RsuNu1vIIm2wIhxCTln.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\056 - Ill still be me\\I'll Still Be Me.png",
         "chartHoFRanks": {}
     },
@@ -6831,7 +6831,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\057 - the stories of your negative past\\story.ogg",
+        "chartAudioFilePath": "preview\\QYE7wL9QLp0hcARiM811SoWgoeK3vQpw4a7O0Uo4ditWqqE54EcZ3OKzm9j8hpjk.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\057 - the stories of your negative past\\story.png",
         "chartHoFRanks": {}
     },
@@ -6863,7 +6863,7 @@
             "Normal": "Shoxk",
             "Easy": "Shoxk"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\068 - Unlucky Rain\\rain.ogg",
+        "chartAudioFilePath": "preview\\lJYlpDKOtLkNCO3BLJz9D1kkKDdE6scVKqbc9EkAnqlF5W7Z5Q21o0HffGxqsgcm.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\068 - Unlucky Rain\\rain.png",
         "chartHoFRanks": {}
     },
@@ -6896,7 +6896,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\071 - When will the end arrive i wonder\\when.ogg",
+        "chartAudioFilePath": "preview\\W1nN7TAwqj7Xoe9c8t0vfyRXoh96k6fdY0fBgIn56CNWls0pkdZlzxJunN2XPf5N.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\071 - When will the end arrive i wonder\\story.png",
         "chartHoFRanks": {}
     },
@@ -6927,7 +6927,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\080 - I want to bloom\\bloom.ogg",
+        "chartAudioFilePath": "preview\\9zkgZxZzVy108OW0SCPlPsooKRgplzWcuvVXjmBsUIPWZdFtrwYm6kPcXcfMgVEH.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\080 - I want to bloom\\bloom.png",
         "chartHoFRanks": {
             "Oni": 45
@@ -6960,7 +6960,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\088 - II\\IIgamecut.ogg",
+        "chartAudioFilePath": "preview\\dashySecrets88II.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\088 - II\\II.png",
         "chartHoFRanks": {}
     },
@@ -6992,7 +6992,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\100 - Puzzles of The End\\puzzle.ogg",
+        "chartAudioFilePath": "preview\\dashySecrets100Puzzle.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\100 - Puzzles of The End\\II.png",
         "chartHoFRanks": {}
     },
@@ -7026,7 +7026,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\136 - Trapped Passion\\trappedpassion.ogg",
+        "chartAudioFilePath": "preview\\dashySecrets136TrappedPassion.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\136 - Trapped Passion\\passion.png",
         "chartHoFRanks": {}
     },
@@ -7056,7 +7056,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.ogg",
+        "chartAudioFilePath": "preview\\DashandtHEREvolTOftHEbEaSTSdAsHy.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\188 - Dash and the revolt of the beasts\\beasts.png",
         "chartHoFRanks": {}
     },
@@ -7086,7 +7086,7 @@
             "Normal": "Dashy",
             "Easy": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\240 - Mr. Raven\\mrraven.ogg",
+        "chartAudioFilePath": "preview\\NEO888KARASUsanDaShyDashydesU.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\240 - Mr. Raven\\raven.png",
         "chartHoFRanks": {}
     },
@@ -7119,7 +7119,7 @@
             "Easy": "Dashy",
             "Oni": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\241 - Own,\\own,.ogg",
+        "chartAudioFilePath": "preview\\NEO888OwnDashYDasHydesU.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\241 - Own,\\own.png",
         "chartHoFRanks": {}
     },
@@ -7151,7 +7151,7 @@
             "Easy": "Dashy",
             "Edit": "Dashy"
         },
-        "chartAudioFilePath": "C12 Dashy's Secrets\\242 - Reverie XXIII\\reverie.ogg",
+        "chartAudioFilePath": "preview\\NEO888REvERIeXXiii23DaShyDashydesU.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\242 - Reverie XXIII\\reverie.png",
         "chartHoFRanks": {}
     },
@@ -7181,7 +7181,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM01 - 093 - Rainy Night\\Rainy Night.ogg",
+        "chartAudioFilePath": "preview\\iJWSvseMG7mVdm2sLqD3Psm6SSX7H14ZMVc4R5gVLGpaRVVPNQqupGdUzowtciw2.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM01 - 093 - Rainy Night\\Rainy Night.png",
         "chartHoFRanks": {}
     },
@@ -7211,7 +7211,7 @@
             "Normal": "Taichenko",
             "Easy": "Taichenko"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM02 - 094 - Rainy Night ~Dispelled~\\Rainy Night ~Dispelled~.ogg",
+        "chartAudioFilePath": "preview\\t5zT2oCKpDs2VQ4YOYkMaF59u3c2GEJKOC9IQrXgEDWVFQtO25Vh6Odq0vVYBUcB.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM02 - 094 - Rainy Night ~Dispelled~\\Rainy Night.png",
         "chartHoFRanks": {}
     },
@@ -7241,7 +7241,7 @@
             "Normal": "\u98a8\u306b\u4e57\u3063\u3066go",
             "Easy": "\u98a8\u306b\u4e57\u3063\u3066go"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night ~Dream Fantasy~.ogg",
+        "chartAudioFilePath": "preview\\rnTaichenko.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night.png",
         "chartHoFRanks": {}
     },
@@ -7271,7 +7271,7 @@
             "Normal": "Taichenko",
             "Easy": "Taichenko"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM04 - 095 - Rainy Night II\\Rainy Night II.ogg",
+        "chartAudioFilePath": "preview\\ZsuByUEyF9Lwjrk040EZX25JGQ1Yvc7Kujev0Q56DZ4RMwpFc6ydi8zIl7Iy1OB9.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM04 - 095 - Rainy Night II\\Rainy Night II.png",
         "chartHoFRanks": {}
     },
@@ -7301,7 +7301,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II ~Forest of Lost Trust~.ogg",
+        "chartAudioFilePath": "preview\\Tog1ekITrrvEU0Tcx8RWAYXEfaxAPGLq4f4zhWOlZU0qaLfbMq7DdcCmm4CVXGfy.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II.png",
         "chartHoFRanks": {}
     },
@@ -7331,7 +7331,7 @@
             "Normal": "Taichenko",
             "Easy": "Taichenko"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM06 - 096 - Rainy Night II ~Condensation~\\Rainy Night II ~Condensation~.ogg",
+        "chartAudioFilePath": "preview\\LMME4WkttkHA52KF4gfyzDHzbBRcWXsnGvHWdC7tRfKvjlUNxBWmXf8ZCTe8yqjQ.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM06 - 096 - Rainy Night II ~Condensation~\\Rainy Night II.png",
         "chartHoFRanks": {}
     },
@@ -7361,7 +7361,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.ogg",
+        "chartAudioFilePath": "preview\\rAiNyNiGHTIiITaiChenKO.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.jpg",
         "chartHoFRanks": {
             "Oni": 51
@@ -7395,7 +7395,7 @@
             "Edit": "Komi",
             "Oni": "Taichenko"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\Rainy Night III ~Unreal Rainbow~.ogg",
+        "chartAudioFilePath": "preview\\KtAYRbda0k2yU2usL1XBe6pNdApljBBWdZLP93Fzwa3v2gafn2sMRxF5WMx4QbSV.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\Rainy Night III.jpg",
         "chartHoFRanks": {
             "Edit": 46
@@ -7427,7 +7427,7 @@
             "Normal": "Taichenko",
             "Easy": "Taichenko"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM09 - 098 - Rainy Night III ~Samsara~\\Rainy Night III ~Samsara~.ogg",
+        "chartAudioFilePath": "preview\\KJpnHoe2G9s5q6l3ChajeT3KyHmGrvBh7x45rYznQGdXPb6mW2AKtfEJ6QiGGBbg.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM09 - 098 - Rainy Night III ~Samsara~\\Rainy Night III.jpg",
         "chartHoFRanks": {
             "Oni": 20
@@ -7459,7 +7459,7 @@
             "Normal": "Taichenko",
             "Easy": "Taichenko"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.ogg",
+        "chartAudioFilePath": "preview\\rainYtEARTAichENkO.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
         "chartHoFRanks": {
             "Oni": 55
@@ -7492,7 +7492,7 @@
             "Normal": "Dashy",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ01 - 135 - Matsuri Jiken\\nep01.ogg",
+        "chartAudioFilePath": "preview\\optkhq01matsuri.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7523,7 +7523,7 @@
             "Easy": "Dashy",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ02 - 132 - Frozen Rouka\\nep02.ogg",
+        "chartAudioFilePath": "preview\\optkhq02frozen.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7554,7 +7554,7 @@
             "Easy": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ03 - 163 - Nephthys Jiyu\\nep03.ogg",
+        "chartAudioFilePath": "preview\\optkhq03nephtys.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7585,7 +7585,7 @@
             "Easy": "Komi",
             "Edit": "Komi,bol"
         },
-        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ04 - 164 - Feral The last call\\nep04.ogg",
+        "chartAudioFilePath": "preview\\optkhq04feral.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Edit": 40
@@ -7618,7 +7618,7 @@
             "Easy": "Taichenko",
             "Edit": "Taichenko"
         },
-        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ06 - 210 - Dancing in the Cold Rain Heart Knot\\nepo6.ogg",
+        "chartAudioFilePath": "preview\\optkhq06coldrain.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7649,7 +7649,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "E02 OpenTaiko Headquarters\\HQ07 - 212 - Inazuma Yokai Ranbu\\nepo7.ogg",
+        "chartAudioFilePath": "preview\\optkhq07yokairanbu.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -7680,7 +7680,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion\\Relaxation Piece of Conclusion.ogg",
+        "chartAudioFilePath": "preview\\outfox01.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion\\Relaxation Piece of Conclusion.png",
         "chartHoFRanks": {}
     },
@@ -7711,7 +7711,7 @@
             "Hard": "Komi",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S02 - B-Happy\\B-Happy.ogg",
+        "chartAudioFilePath": "preview\\outfox02.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S02 - B-Happy\\jacket.png",
         "chartHoFRanks": {}
     },
@@ -7744,7 +7744,7 @@
             "Normal": "sadkay",
             "Easy": "sadkay"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S03 - What Year Is This (OutFox Edit)\\What Year Is This (OutFox Edit).ogg",
+        "chartAudioFilePath": "preview\\outfox03.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S03 - What Year Is This (OutFox Edit)\\What Year Is This (OutFox Edit).png",
         "chartHoFRanks": {}
     },
@@ -7775,7 +7775,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S04 - Eradication of Light\\Eradication of Light.ogg",
+        "chartAudioFilePath": "preview\\outfox04.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S04 - Eradication of Light\\Eradication of Light.jpg",
         "chartHoFRanks": {}
     },
@@ -7806,7 +7806,7 @@
             "Hard": "Komi",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S05 - brokenHeart resurrection ~estelle~\\brokenHeart-resurrection-_estelle_.ogg",
+        "chartAudioFilePath": "preview\\outfox05.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S05 - brokenHeart resurrection ~estelle~\\FractalHeart-jk.png",
         "chartHoFRanks": {
             "Oni": 23
@@ -7838,7 +7838,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T01 - Evil Gala\\Evil Gala.ogg",
+        "chartAudioFilePath": "preview\\touhou01.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T01 - Evil Gala\\Evil Gala.png",
         "chartHoFRanks": {}
     },
@@ -7869,7 +7869,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T02 - Spread My Wings\\Spread My Wings.ogg",
+        "chartAudioFilePath": "preview\\touhou02.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T02 - Spread My Wings\\Spread My Wings.png",
         "chartHoFRanks": {}
     },
@@ -7899,7 +7899,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T03 - The Scarlet Fog Machine Incident\\The Scarlet Fog Machine Incident.ogg",
+        "chartAudioFilePath": "preview\\touhou03.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T03 - The Scarlet Fog Machine Incident\\The Scarlet Fog Machine Incident.png",
         "chartHoFRanks": {}
     },
@@ -7930,7 +7930,7 @@
             "Normal": "Komi",
             "Hard": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T04 - Confession\\Confession.ogg",
+        "chartAudioFilePath": "preview\\touhou04.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T04 - Confession\\Confession.png",
         "chartHoFRanks": {}
     },
@@ -7961,7 +7961,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T05 - War Zone\\War Zone.ogg",
+        "chartAudioFilePath": "preview\\touhou05.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T05 - War Zone\\War Zone.png",
         "chartHoFRanks": {}
     },
@@ -7992,7 +7992,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T06 - Journey\\Journey.ogg",
+        "chartAudioFilePath": "preview\\touhou06.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T06 - Journey\\Journey.png",
         "chartHoFRanks": {}
     },
@@ -8022,7 +8022,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\Abyss.ogg",
+        "chartAudioFilePath": "preview\\touhou07.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\Abyss.jpg",
         "chartHoFRanks": {}
     },
@@ -8052,7 +8052,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T08 - Exterminate\\Exterminate.ogg",
+        "chartAudioFilePath": "preview\\touhou08.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T08 - Exterminate\\Exterminate.jpg",
         "chartHoFRanks": {}
     },
@@ -8084,7 +8084,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T09 - Imperfect Cherry Blossom\\Imperfect Cherry Blossom.ogg",
+        "chartAudioFilePath": "preview\\touhou09.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T09 - Imperfect Cherry Blossom\\Imperfect Cherry Blossom.jpg",
         "chartHoFRanks": {}
     },
@@ -8116,7 +8116,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.ogg",
+        "chartAudioFilePath": "preview\\touhou10.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.png",
         "chartHoFRanks": {
             "Edit": 62
@@ -8147,7 +8147,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T11 - Cirno in Quarantine\\Cirno in Quarantine.ogg",
+        "chartAudioFilePath": "preview\\touhou11.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8180,7 +8180,7 @@
             "Easy": "Komi",
             "Edit": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T12 - BLINDED CRITICISM\\BLINDED CRITICISM (OpenTaiko Edit).ogg",
+        "chartAudioFilePath": "preview\\touhou12.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T12 - BLINDED CRITICISM\\BLINDED CRITICISM (OpenTaiko Edit).png",
         "chartHoFRanks": {
             "Edit": 26
@@ -8214,7 +8214,7 @@
             "Hard": "Colin",
             "Oni": "Colin"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.ogg",
+        "chartAudioFilePath": "preview\\optkracing01.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R01 - Victory Lap\\Victory Lap.png",
         "chartHoFRanks": {}
     },
@@ -8244,7 +8244,7 @@
             "Normal": "Komi,Makotora,bol",
             "Easy": "Komi,Makotora,bol"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\cityscape racers.ogg",
+        "chartAudioFilePath": "preview\\optkracing02.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R02 - cityscape racers\\cityscape racers.png",
         "chartHoFRanks": {}
     },
@@ -8273,7 +8273,7 @@
             "Normal": "IID",
             "Easy": "IID"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R03 - Fulminate\\Fulminate.ogg",
+        "chartAudioFilePath": "preview\\optkracing03.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8303,7 +8303,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\PARTICLE ACCELERATOR.ogg",
+        "chartAudioFilePath": "preview\\optkracing04.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R04 - PARTICLE ACCELERATOR\\PARTICLE ACCELERATOR.png",
         "chartHoFRanks": {}
     },
@@ -8333,7 +8333,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\BOOGER CART RACER.ogg",
+        "chartAudioFilePath": "preview\\optkracing05.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R05 - BOOGER CART RACER\\BOOGER CART RACER.png",
         "chartHoFRanks": {}
     },
@@ -8346,7 +8346,7 @@
             "L1 Collaborations\\C03 OpenTaiko Karting\\R06 - stormrider_s fork\\uniqueID.json"
         ],
         "tjaGenreFolder": "C03 OpenTaiko Karting",
-        "tjaMD5": "7fe1f8658031474c490e7f83410d9a06",
+        "tjaMD5": "61c4f4dfa20fd1c4e42156bdc72852b2",
         "chartSize": 1.76,
         "chartTitle": "stormrider's fork",
         "chartSubtitle": "H5 DISrespected by OpenTaiko Team All Stars / OpenTaiko Karting",
@@ -8362,7 +8362,7 @@
             "Normal": "bol",
             "Easy": "bol"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R06 - stormrider_s fork\\stormrider's fork.ogg",
+        "chartAudioFilePath": "preview\\optkracing06.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8395,7 +8395,7 @@
             "Hard": "4\u67081\u65e5\u306f\u30d0\u30ab\u30fc ... 888\u6708\u3044\u3063\u3071\u3044\u30b5\u30de\u30fc",
             "Oni": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C03 OpenTaiko Karting\\R07 - Amal\\amal.ogg",
+        "chartAudioFilePath": "preview\\optkracing07.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8427,7 +8427,7 @@
             "Easy": "DiamondN1nja",
             "Normal": "Komi"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\PentRage.ogg",
+        "chartAudioFilePath": "preview\\pentjet01.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P01 - PentRage\\pentrage.jpg",
         "chartHoFRanks": {}
     },
@@ -8457,7 +8457,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\stardust.ogg",
+        "chartAudioFilePath": "preview\\pentjet02.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P02 - Star Dust\\stardust.jpg",
         "chartHoFRanks": {}
     },
@@ -8487,7 +8487,7 @@
             "Normal": "Makotora",
             "Easy": "Makotora"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\Necrovis.ogg",
+        "chartAudioFilePath": "preview\\pentjet03.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P03 - Necrovis\\Necrovis.jpg",
         "chartHoFRanks": {}
     },
@@ -8519,7 +8519,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\Jakarta EVOLUTION.ogg",
+        "chartAudioFilePath": "preview\\pentjet04.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P04 - Jakarta\\Jakarta EVOLUTION.jpg",
         "chartHoFRanks": {}
     },
@@ -8549,7 +8549,7 @@
             "Normal": "DiamondN1nja",
             "Easy": "DiamondN1nja"
         },
-        "chartAudioFilePath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.ogg",
+        "chartAudioFilePath": "preview\\pentjet05.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.jpg",
         "chartHoFRanks": {}
     },
@@ -8574,7 +8574,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu\\Startup Parade!.ogg",
+        "chartAudioFilePath": "preview\\eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8599,7 +8599,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu\\CITYSCAPE.ogg",
+        "chartAudioFilePath": "preview\\yBUHAlt8YP2ejeNfNyPXKWd7buIx6G5DmzDbdSiJkvHVa2SVrYVzuPTUARiEs1k3.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8624,7 +8624,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu\\Alonebirthday.ogg",
+        "chartAudioFilePath": "preview\\xsTDdOse7RHi08u3qZ49CZ7XUQO2cNhCZTSieVCabgfHcBXWRUlbSRanYXQuzzMB.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8649,7 +8649,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu\\Fearless.ogg",
+        "chartAudioFilePath": "preview\\UvyZDf8tSIJQryZZLbqyTVDJTN89yfMbv1zvY5fDXw5wZOkffOpPe48hSuWzGndI.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8674,7 +8674,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu\\world.ogg",
+        "chartAudioFilePath": "preview\\akubwW3NCiUTenShEAc0chPjlP9kB2pIpNkEidD6WkaVEXIH2wRwo2NsCFCw0HMt.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8699,7 +8699,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu\\2 Steppin Love.ogg",
+        "chartAudioFilePath": "preview\\E71kYs69nDsOdTGhlTLOirNLjWSIBl5iA0qGFrUJKORpnftvFBEKPtv6KahBtScr.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8724,7 +8724,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu\\Beyond The Cityscape.ogg",
+        "chartAudioFilePath": "preview\\9fzpviyGJaOLb1FXVF718Q84G1nE61eZthl2rBCjPnwz5dXSFLEcth9tg3o1ACKQ.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8749,7 +8749,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu\\Liberation.ogg",
+        "chartAudioFilePath": "preview\\215VIslggiihEEBfzQTLMn6cNWxxxc2SZVg7GYikWhtv1GQ28zjuCwAuHq0jLz6k.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8774,7 +8774,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu\\ENDOMANCER.ogg",
+        "chartAudioFilePath": "preview\\VswcNanJEGqeItfgNh2GoDgjjoZ64aMTfYoJ0iVK70tyKpe60E3f1ZTUD9qM628L.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8799,7 +8799,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu\\Breaking Point.ogg",
+        "chartAudioFilePath": "preview\\4r8EB1cUoa2s22e3QkjmhHLMuchfU0vOXcIB69JcxiFbb8OttGme0Q3ccPiXatJb.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8824,7 +8824,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan\\Startup Parade!.ogg",
+        "chartAudioFilePath": "preview\\btMfAo6YXwMpXJBSvJFD0a3OdEUAIVGnaIAgT3FUsKKXC2isMqGolIYJ8aURlibR.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8849,7 +8849,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan\\CITYSCAPE.ogg",
+        "chartAudioFilePath": "preview\\HAbdV4YqppVAKFQNl57voyNJ2eJOqzMMq637VTkrOGY6agcKekG72Thsmu9JPCGu.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8874,7 +8874,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan\\Fearless.ogg",
+        "chartAudioFilePath": "preview\\fvEj7ZSupX0vqTD3JbLPuLTl1tS3drGkxRrYgFNbe1n48W69N3ZpZYdyeOOxJ9Wf.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8899,7 +8899,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan\\Liberation.ogg",
+        "chartAudioFilePath": "preview\\VwrRIXPOyfgsXs0DVGMH3gPbCsGFADI1jHvKDX0kMASl4xJgPl7atUJFlHVumcwI.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8924,7 +8924,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan\\world.ogg",
+        "chartAudioFilePath": "preview\\6Y7AS0OaLotFYxWNsoxH6jpTzR8yEmIBDZdKobzktlwc92cRZCr2BNzzngMMymjw.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8949,7 +8949,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan\\Overclocked.ogg",
+        "chartAudioFilePath": "preview\\n3wNch8wBghT2N92isBAeJP0Q7WPSatoXZ0CsRegPwVJe0t3m59HVpwdZajOonoB.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8974,7 +8974,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan\\PYRAMID.ogg",
+        "chartAudioFilePath": "preview\\zzdzL24btSAI6KWAur1eKAYnwkrMffhHCX2pc1wy5m2o9ePMMibvrFFexa0W3hSG.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -8999,7 +8999,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\stars.ogg",
+        "chartAudioFilePath": "preview\\wtqCtbJLJKfFDKYFJg6uiN8NrBPx70DgFj6v99LL4Un1dlY0pRN5S05PncuF0B1m.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9014,7 +9014,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2023 Dans",
-        "tjaMD5": "587ff80da8cfbe12f54c028916fce742",
+        "tjaMD5": "883330dd82d77ef3426c42feff7127ad",
         "chartSize": 12.02,
         "chartTitle": "\u4e5d\u6bb5",
         "chartSubtitle": "OpenTaiko 2023 Ninth Dan",
@@ -9024,7 +9024,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\Summer Overload!.ogg",
+        "chartAudioFilePath": "preview\\2pD2AVEXocgFb751VrEnX6HIljxyOF5R5fdWq6AP2Wah8KOSFmUFP22XTpJ2FTPw.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9039,7 +9039,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2023 Dans",
-        "tjaMD5": "adbeef25f83970c9aecbd86566c0e89c",
+        "tjaMD5": "5f5c2d5faf7a11362d1de6ceaf906832",
         "chartSize": 17.21,
         "chartTitle": "\u5341\u6bb5",
         "chartSubtitle": "OpenTaiko 2023 Tenth Dan",
@@ -9049,7 +9049,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\Rainy Night ~ Dream ~.ogg",
+        "chartAudioFilePath": "preview\\DiHFETwfYgKEsEgwiFdIsrTI0ZiNeAEatJled3Hr0mPAdZtVJWg3uXC3SLmx0oQa.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9065,7 +9065,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2023 Dans",
-        "tjaMD5": "f00da5d0ccafda30b3b0745bb2b8f7a9",
+        "tjaMD5": "7320387a4775b8fec4f81530f939b196",
         "chartSize": 17.4,
         "chartTitle": "\u7384\u4eba",
         "chartSubtitle": "OpenTaiko 2023 Kurouto",
@@ -9075,7 +9075,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\Stereotype.ogg",
+        "chartAudioFilePath": "preview\\fSFCVEqZ0CX8tIcBJShbnY3IDqdPeLm3IaG8jVxZ4vEIdQEQGcrVDAPh71UY04w1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9091,7 +9091,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2023 Dans",
-        "tjaMD5": "5d9a845d5e45aac78ae1e8361f772271",
+        "tjaMD5": "47377a031dd029d157ae7599419f54e4",
         "chartSize": 14.17,
         "chartTitle": "\u540d\u4eba",
         "chartSubtitle": "OpenTaiko 2023 Meijin",
@@ -9101,7 +9101,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\Slayer of..ogg",
+        "chartAudioFilePath": "preview\\x8WlzLf0q1bcRR30R8eUCQiqNzGx5Q2a7NZXY1L3Li9acAPDAqjHaH5bQ1UDMcIU.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9117,7 +9117,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2023 Dans",
-        "tjaMD5": "c66b7fcd4e20acf19a1f5353f6fca805",
+        "tjaMD5": "f123aceed39c41cdf5dc7ac9b2d6bded",
         "chartSize": 15.8,
         "chartTitle": "\u8d85\u4eba",
         "chartSubtitle": "OpenTaiko 2023 Choujin",
@@ -9127,7 +9127,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\br.ogg",
+        "chartAudioFilePath": "preview\\Gny6hz0l6KZ2xpIrAXPtrkqOgyOBD6ZTdf2l4Pe8iyUXbW1BHRk1B6v4QfUrfZoY.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9154,7 +9154,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\1.ogg",
+        "chartAudioFilePath": "preview\\RHLpzDndyv3hn446ymERKSzafQTNvCJLOpfNj7klsmj8k7fXCpsh2C3QccSsjaBo.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9179,7 +9179,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\audio.ogg",
+        "chartAudioFilePath": "preview\\tZpYE4mgDtk4lUU7hkR6zRd4Ck9YkCWQCv7g0rEzZ2y3anbFxGH0yK4COpdwOfWd.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9204,7 +9204,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\Slayer of..ogg",
+        "chartAudioFilePath": "preview\\dV4J8CPXOS5XIPFHZgqvF1F9WKOeN4sHnh4y5SLqyGNzHuzZssWKza78jSVSiAC1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9232,7 +9232,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\rain.ogg",
+        "chartAudioFilePath": "preview\\IyTthCfx7PsNmoFE9Tnt2wzPWDURfIVQ5pDEUmnoL1OzuZptRZF4QdybJSlpCwuP.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9247,7 +9247,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
-        "tjaMD5": "3ef1dacc070a9885b72994f4ab50456d",
+        "tjaMD5": "9650b017276e26756712f944ba143ae0",
         "chartSize": 10.33,
         "chartTitle": "\u5916\u4f1d",
         "chartSubtitle": "Bol's OpenTaiko Favorites",
@@ -9257,7 +9257,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\Startup Parade!.ogg",
+        "chartAudioFilePath": "preview\\HH8stp4s5mTJPdxpAyDQnTbvcLmyl3U4MEew5UFS1jahuDNpJG0O00yZKo3xQq9d.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9282,7 +9282,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\audio.ogg",
+        "chartAudioFilePath": "preview\\hX7NvfTD2grXlrWjpanzYwggqqD6pNgK7tH4MB7CxpfjGW66RnemSAQADh2M2tAb.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9307,7 +9307,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\khatarsis.ogg",
+        "chartAudioFilePath": "preview\\Uqr6OEpypAWHkcZG5gRQiEixxeYa2Z7yudhxgTMGeLXwTlBDhJ9NRq5g5FAX3vPh.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9332,7 +9332,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\Overclocked.ogg",
+        "chartAudioFilePath": "preview\\t2L5VC16e1XkXp0EjBEqQh1NapjHbgkLezvJcgM7l8zJ4cp9v2dJ0yECR00q39PA.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9357,7 +9357,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\Gewissenbisse.ogg",
+        "chartAudioFilePath": "preview\\gBtwQLjP46NznoM0z9pv0xswDiDWrQvWXUZbnUtilHNtEKKT2MtVx7L8HQMTWqhg.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9382,7 +9382,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\Shockwave.ogg",
+        "chartAudioFilePath": "preview\\fra8IpXD7yWCf3oHZzO5mGIZ2F9oU3wv9lEKh0F47gXZvTczt3tO7zlvLqAscorZ.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9407,7 +9407,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\CITYSCAPE.ogg",
+        "chartAudioFilePath": "preview\\P8ShP5hguLa0b4VDnRAu6ccWHw1oEwks2ABJF9o0T5yNo5NrkLK4doPE8Qjnet5W.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9432,7 +9432,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\Corrupted Angel.ogg",
+        "chartAudioFilePath": "preview\\9c4LRgvXfn12ZnIBeWLXX5RkvqgyeRyulB2HOObB0rI9PPMkMMfU0aMrVyDsf8aE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9457,7 +9457,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\Deceiver.ogg",
+        "chartAudioFilePath": "preview\\R4Fyef2x0hBbVO0pRq3nf0bWZpETHy1qVJAKpVKIWZuqSuQYvchbRtnpRnQ2s7KS.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9482,7 +9482,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\Alonebirthday.ogg",
+        "chartAudioFilePath": "preview\\pbmcU0qu9UBNegtnliaCeG7XiwaCd2qE1hSn77qQoDFLEQPK3c3sVOdcT9Yhrm86.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9507,7 +9507,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\khatarsis.ogg",
+        "chartAudioFilePath": "preview\\23eQlhpTTw0OzQa4nDHRbl3HTBLQpN57NBWO42Gto1BkzhpESQsW8nR5YUi5DQ9x.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9532,7 +9532,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\audio.ogg",
+        "chartAudioFilePath": "preview\\tvmVw6pD8JkQ23uGL5UCTX0QfPqs28jQObqDFLdoJTOcmCpQkrq6XXct4WSjeYpy.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9562,7 +9562,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\Chasing The Wind.ogg",
+        "chartAudioFilePath": "preview\\AZHJsyPLu6Mggu30FiQTtaCQw0nWoEVNLs1F5qXH2cfQ5dTNbMDpPgxIobPAWKYj.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9592,7 +9592,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\Chasing The Wind.ogg",
+        "chartAudioFilePath": "preview\\RcIrYz2kKTT8rWgDpcbc7POEzRrPZ0hJveuMM1aC337d8JXnAfRfylC815tHRdbf.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9617,7 +9617,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9642,7 +9642,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan2.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9667,7 +9667,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan3.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9692,7 +9692,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan4.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9717,7 +9717,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9742,7 +9742,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan6.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9767,7 +9767,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan7.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9792,7 +9792,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan8.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9817,7 +9817,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan9.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9842,7 +9842,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan10.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9867,7 +9867,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\21 - \u7384\u4eba\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan11.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9892,7 +9892,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\22 - \u540d\u4eba\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan12.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9917,7 +9917,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\23 - \u8d85\u4eba\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan13.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9942,7 +9942,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\24 - \u9054\u4eba\\1.ogg",
+        "chartAudioFilePath": "preview\\optk2024dan14.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9967,7 +9967,7 @@
         "chartMakers": {
             "Dan": "bol"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC00. Gaiden - bol No.1 - this is only the beginning\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_bol1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -9992,7 +9992,7 @@
         "chartMakers": {
             "Dan": "bol"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC01. Gaiden - bol No.2 - time to recall your skills\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_bol2.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10017,7 +10017,7 @@
         "chartMakers": {
             "Dan": "DiamondN1nja"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC02. Gaiden - DiamondN1nja No.1 - Singing Practice with Aoi!\\Dreaming to be with you.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_Diamond1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10042,7 +10042,7 @@
         "chartMakers": {
             "Dan": "DragonRatTiger"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC03. Gaiden - DragonRatTiger No.1 - Neko Festival! (Sweet)\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_DragonRatTiger1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10067,7 +10067,7 @@
         "chartMakers": {
             "Dan": "DragonRatTiger"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC04. Gaiden - DragonRatTiger No.2 - Neko Festival! (Spicy)\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_DragonRatTiger2.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10090,7 +10090,7 @@
         "chartMakers": {
             "Dan": "DragonRatTiger"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC05. Gaiden - DragonRatTiger No.3 - Oops, all pipie!\\pipie.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_DragonRatTiger3.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10121,7 +10121,7 @@
         "chartMakers": {
             "Dan": "Komi"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC06. Gaiden - Komi No.1 - Komi's New Crazy Easy Gauntlet\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_Komi1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10152,7 +10152,7 @@
         "chartMakers": {
             "Dan": "Komi"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC07. Gaiden - Komi No.2 - Komi's New Crazy Normal Gauntlet\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_Komi2.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10183,7 +10183,7 @@
         "chartMakers": {
             "Dan": "Komi"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC08. Gaiden - Komi No.3 - Komi's New Crazy Hard Gauntlet\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_Komi3.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10210,7 +10210,7 @@
         "chartMakers": {
             "Dan": "Makotora"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC09. Gaiden - Makotora No.1 - Makotora's Cityscape Challenge!\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_Makotora1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10235,7 +10235,7 @@
         "chartMakers": {
             "Dan": "sadkay"
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC10. Gaiden - sadkay No.1 - OpenTaiko Tenth Dan (sadkay Edition)\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_sadkay1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10261,7 +10261,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC11. Gaiden - Ryuto No. 1 - Ryuto's Birthday Bash\\1.ogg",
+        "chartAudioFilePath": "preview\\gaiden_2024_salad_ryuto1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10286,7 +10286,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5\\CITYSCAPE.ogg",
+        "chartAudioFilePath": "preview\\cIJCyXU883gyZU5D2sE317xYcPMUYnwhlVQzM1MSrci6znM65C9TLmKuAkWZhQfr.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10315,7 +10315,7 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\Fearless.ogg",
+        "chartAudioFilePath": "preview\\qCNzKkLs4jIOYogQx3ZZy3ErWvy55EuSomhch1yqK7XIzTUGOaA0PvhJ6FCo5g7D.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10338,7 +10338,7 @@
         "chartMakers": {
             "Tower": "Komi"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW01 - OpTk Tower 1\\optktower.ogg",
+        "chartAudioFilePath": "preview\\tower16tttretfgdgfdgs.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10361,7 +10361,7 @@
         "chartMakers": {
             "Tower": "sadkay"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW02 - Next To You\\Next To You.ogg",
+        "chartAudioFilePath": "preview\\swtowerpTRkoj2GeihZYSarNuGzry9UjmBUwVhU0XrQkYVVrZbRPV0Jv2URtjwLs7CHmLZE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10385,7 +10385,7 @@
         "chartMakers": {
             "Tower": "Taichenko_oni"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW03 - Rainy Night II\\Rainy Night II.ogg",
+        "chartAudioFilePath": "preview\\swtowerrnnight2.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW03 - Rainy Night II\\Rainy Night II.png",
         "chartHoFRanks": {}
     },
@@ -10409,7 +10409,7 @@
         "chartMakers": {
             "Tower": "bol"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW04 - Zerst\u00f6ren\\Zerst\u00f6ren.ogg",
+        "chartAudioFilePath": "preview\\zerSukimaswtower.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW04 - Zerst\u00f6ren\\Zerstoren1.jpg",
         "chartHoFRanks": {}
     },
@@ -10433,7 +10433,7 @@
         "chartMakers": {
             "Tower": "Colin, Komi & bol"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)\\PYRAMID.ogg",
+        "chartAudioFilePath": "preview\\towerswt7s59O9RzuRCGmDFowOFFPxrfiistfXF5EgfndB5QzgtPqIZ4AQiHsB9krfVwjX4w.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)\\PYRAMID.png",
         "chartHoFRanks": {}
     },
@@ -10456,7 +10456,7 @@
         "chartMakers": {
             "Tower": "Komi"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW06 - Deceiver Terminus\\DeceiverTerminus.ogg",
+        "chartAudioFilePath": "preview\\aiLPG8trKe9RvcUcuhVPKNl5xu34UJbyzbBpF0pDBfta5p8gFKXws5YmcxHvrjMT.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10480,7 +10480,7 @@
         "chartMakers": {
             "Tower": "bol"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW07 - Synthsea\\Synthsea.ogg",
+        "chartAudioFilePath": "preview\\swtuPlIURb0xG559bCON3wQRNOfuVwz2kUBWAPEh7apuqy0epx745LwEZjW6Q6vzLLg.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW07 - Synthsea\\Synthsea.png",
         "chartHoFRanks": {}
     },
@@ -10505,7 +10505,7 @@
         "chartMakers": {
             "Tower": "Dashy"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW08 - Until the sky turns black\\until.ogg",
+        "chartAudioFilePath": "preview\\toweruntilsweet.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW08 - Until the sky turns black\\until.png",
         "chartHoFRanks": {}
     },
@@ -10529,7 +10529,7 @@
         "chartMakers": {
             "Tower": "Komi"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW09 - Welcome To The Cafe\\WelcomeToTheCafe.ogg",
+        "chartAudioFilePath": "preview\\swtowerwttcSukima.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW09 - Welcome To The Cafe\\WelcomeToTheCafe1.jpg",
         "chartHoFRanks": {}
     },
@@ -10553,7 +10553,7 @@
         "chartMakers": {
             "Tower": "Taichenko_oni"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW10 - Rainy Night III ~Samsara~\\Rainy Night III ~\u8f2a\u56de~.ogg",
+        "chartAudioFilePath": "preview\\towersamsarasweet.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW10 - Rainy Night III ~Samsara~\\Rainy Night III.jpg",
         "chartHoFRanks": {}
     },
@@ -10577,7 +10577,7 @@
         "chartMakers": {
             "Tower": "DragonRatTiger"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\tokyo.ogg",
+        "chartAudioFilePath": "preview\\otpkTowerSweetTOKYO.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW11 - TOKYO RHYTHM No.524\\tokyo.png",
         "chartHoFRanks": {}
     },
@@ -10600,7 +10600,7 @@
         "chartMakers": {
             "Tower": "Dashy"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP01 - OpTk Tower 1\\optktower.ogg",
+        "chartAudioFilePath": "preview\\tower16ttsrfssfes.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10624,7 +10624,7 @@
         "chartMakers": {
             "Tower": "Komi"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP02 - Welcome To The Cafe\\WelcomeToTheCafe.ogg",
+        "chartAudioFilePath": "preview\\spitowerwttcSukima.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP02 - Welcome To The Cafe\\WelcomeToTheCafe1.jpg",
         "chartHoFRanks": {}
     },
@@ -10647,7 +10647,7 @@
         "chartMakers": {
             "Tower": "sadkay"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP03 - Next To You\\Next To You.ogg",
+        "chartAudioFilePath": "preview\\towerpTRkoj2GeihZYSarNuGzry9UjmBUwVhU0XrQkYVVrZbRPV0Jv2URtjwLs7CHmLZE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10671,7 +10671,7 @@
         "chartMakers": {
             "Tower": "Taichenko_oni"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP04 - Rainy Night ~Dispelled~\\Rainy Night ~\u96f2\u98db\u9727\u6563~.ogg",
+        "chartAudioFilePath": "preview\\towerdispelledspicy.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP04 - Rainy Night ~Dispelled~\\Rainy Night.png",
         "chartHoFRanks": {}
     },
@@ -10695,7 +10695,7 @@
         "chartMakers": {
             "Tower": "Komi"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP05 - Gewissenbisse\\Gewissenbisse.ogg",
+        "chartAudioFilePath": "preview\\towergewissSukima.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP05 - Gewissenbisse\\Gewissenbisse1.jpg",
         "chartHoFRanks": {}
     },
@@ -10718,7 +10718,7 @@
         "chartMakers": {
             "Tower": "Komi"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP06 - Deceiver Terminus\\DeceiverTerminus.ogg",
+        "chartAudioFilePath": "preview\\aiLPG8trKe9RvcUcuhVPKNl5xu34UJbyzbBpF0pDBfta5p8gFKXws5YmcxHvrjMS.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
@@ -10742,7 +10742,7 @@
         "chartMakers": {
             "Tower": "Taichenko_oni"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP07 - Synthsea\\Synthsea.ogg",
+        "chartAudioFilePath": "preview\\PbeAUbrEslf88bcFIUFx4RwpntUPRy2FYs4LT55Hi4X2Q8MYROOm5d5ZotYNwhw2.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP07 - Synthsea\\Synthsea.png",
         "chartHoFRanks": {}
     },
@@ -10767,7 +10767,7 @@
         "chartMakers": {
             "Tower": "Dashy"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP08 - Until the sky turns black\\until.ogg",
+        "chartAudioFilePath": "preview\\toweruntilspicy.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP08 - Until the sky turns black\\until.png",
         "chartHoFRanks": {}
     },
@@ -10791,7 +10791,7 @@
         "chartMakers": {
             "Tower": "Colin, Komi & bol"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)\\PYRAMID.ogg",
+        "chartAudioFilePath": "preview\\towerspi7s59O9RzuRCGmDFowOFFPxrfiistfXF5EgfndB5QzgtPqIZ4AQiHsB9krfVwjX4w.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)\\PYRAMID.png",
         "chartHoFRanks": {}
     },
@@ -10815,7 +10815,7 @@
         "chartMakers": {
             "Tower": "Taichenko_oni"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP10 - Rainy Night III ~Samsara~\\Rainy Night III ~\u8f2a\u56de~.ogg",
+        "chartAudioFilePath": "preview\\towersamsaraspicy.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP10 - Rainy Night III ~Samsara~\\Rainy Night III.jpg",
         "chartHoFRanks": {}
     },
@@ -10839,7 +10839,7 @@
         "chartMakers": {
             "Tower": "DragonRatTiger"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.ogg",
+        "chartAudioFilePath": "preview\\otpkTowerSpicyTOKYO.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.png",
         "chartHoFRanks": {}
     },
@@ -10863,7 +10863,7 @@
         "chartMakers": {
             "Tower": "Dashy"
         },
-        "chartAudioFilePath": "S2 Taiko Towers\\03 - Challenges\\TCH01 - Rhythm Challenge\\rhythmtest.ogg",
+        "chartAudioFilePath": "preview\\towerkjdshfdsjbkjfdsk.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     }

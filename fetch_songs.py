@@ -1,7 +1,38 @@
+from pydub import AudioSegment
 import os
 import json
 import hashlib
 import chardet
+
+
+def create_audio_preview(file_path, name, start_sec):
+    # Get original file extension
+    _, ext = os.path.splitext(file_path)
+    ext = ext.lower().lstrip('.')  # e.g., "mp3", "wav"
+
+    # Ensure output path keeps the original extension
+    output_filename = f"{name}.{ext}"
+    output_path = os.path.join("preview", output_filename)
+
+    # If the preview already exists, skip and return the path
+    if os.path.exists(output_path):
+        print(f"Preview already exists at {output_path}. Skipping.")
+        return output_path
+
+    # Ensure preview directory exists
+    os.makedirs("preview", exist_ok=True)
+
+    # Load and slice audio
+    audio = AudioSegment.from_file(file_path)
+    start_ms = int(float(start_sec) * 1000)
+    end_ms = min(len(audio), start_ms + 15000)
+    preview = audio[start_ms:end_ms]
+
+    # Export preview
+    preview.export(output_path, format=ext)
+    print(f"Preview saved to {output_path}")
+
+    return output_path
 
 # Function to detect file encoding
 def detect_encoding(file_path):
@@ -47,6 +78,7 @@ def parse_tja_file(tja_file_path, base_path):
     chart_maker = ""
     chart_difficulties = {}
     chart_notesdesigner = {}
+    chart_demostart = 0
     
     try:
         with open(tja_file_path, "r", encoding="utf-8-sig", errors="ignore") as tja_file:
@@ -69,6 +101,8 @@ def parse_tja_file(tja_file_path, base_path):
                     chart_jacket_file = line.split("PREIMAGE:", 1)[1].strip()
                 elif line.startswith("MAKER:"):
                     chart_maker = line.split("MAKER:", 1)[1].strip()
+                elif line.startswith("DEMOSTART:"):
+                    chart_demostart = line.split("DEMOSTART:", 1)[1].strip()
                 elif line.startswith("COURSE:"):
                     current_course = line.split("COURSE:", 1)[1].strip()
                 elif line.startswith("NOTESDESIGNER"):
@@ -110,7 +144,8 @@ def parse_tja_file(tja_file_path, base_path):
         "chartDifficulties": chart_difficulties,
         "chartAudioFilePath": chart_audio_file_path,
         "chartJacketFilePath": chart_jacket_file_path,
-        "chartMakers": chart_notesdesigner
+        "chartMakers": chart_notesdesigner,
+        "chartDemoStart": chart_demostart
     }
 
 # Function to generate the JSON data for each .tja file
@@ -161,6 +196,9 @@ def process_tja_files(base_path):
                 
                 # Parse .tja file for metadata
                 tja_metadata = parse_tja_file(tja_file_path, base_path)
+                
+                # Create preview if does not exist
+                preview_path = create_audio_preview(tja_metadata.get("chartAudioFilePath"), unique_id, tja_metadata.get("chartDemoStart"))
 
                 # Add the tja file data to the list
                 data.append({
@@ -174,7 +212,7 @@ def process_tja_files(base_path):
                     "chartSubtitle": tja_metadata.get("chartSubtitle"),
                     "chartDifficulties": tja_metadata.get("chartDifficulties"),
                     "chartMakers": tja_metadata.get("chartMakers"),
-                    "chartAudioFilePath": tja_metadata.get("chartAudioFilePath"),
+                    "chartAudioFilePath": preview_path,
                     "chartJacketFilePath": tja_metadata.get("chartJacketFilePath")
                 })
 

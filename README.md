@@ -249,6 +249,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 242 - Reverie XXIII - Miracle of the 23rd : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 
 251 - Assimilation : Tatsuoto vs. Ouroboros - https://soundcloud.com/panasonic-cat/ouroboros-vs-wyvren-assimilation (Chart by Komi)
+252 - Unending Freedom : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by IID, DiamondN1nja and Komi)
 ```
 
 ### Visuals

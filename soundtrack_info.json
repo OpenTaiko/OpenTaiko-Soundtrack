@@ -6389,6 +6389,37 @@
         }
     },
     {
+        "uniqueId": "UNeNdIngFrEEdomtATSUoto",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\252 - Unending Freedom",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\Unending Freedom.ogg",
+            "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\Unending Freedom.tja",
+            "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "a168b63309290249e05f476460bbfba0",
+        "chartSize": 4.12,
+        "chartTitle": "Unending Freedom",
+        "chartSubtitle": "Tatsuoto",
+        "chartDifficulties": {
+            "Easy": 1,
+            "Oni": 11.2,
+            "Edit": 10.7,
+            "Hard": 7,
+            "Normal": 8
+        },
+        "chartMakers": {
+            "Easy": "Komi",
+            "Oni": "IID",
+            "Edit": "DiamondN1nja",
+            "Hard": "Komi,DiamondN1nja",
+            "Normal": "Komi,IID"
+        },
+        "chartAudioFilePath": "preview\\UNeNdIngFrEEdomtATSUoto.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

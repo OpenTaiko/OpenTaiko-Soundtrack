@@ -290,6 +290,7 @@ T10 - Disintegrated Laevatein : LeoO
 
 The visuals mentionned below have confirmed usage of AI generated assets
 ```
+104 - 〈11 : Preimage
 189 - キャンディガール : Preimage
 ```
 As usage of AI for preimages or videos needs to be mentionned following OpenTaiko's submission policy, please reach us on Discord if you used it for a specific song

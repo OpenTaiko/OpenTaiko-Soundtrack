@@ -6397,23 +6397,23 @@
             "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "a168b63309290249e05f476460bbfba0",
+        "tjaMD5": "99b0efc1bc61773726a4d155d85f377c",
         "chartSize": 4.12,
         "chartTitle": "Unending Freedom",
         "chartSubtitle": "Tatsuoto",
         "chartDifficulties": {
-            "Easy": 1,
-            "Oni": 11.2,
             "Edit": 10.7,
+            "Oni": 11.2,
             "Hard": 7,
-            "Normal": 8
+            "Normal": 8,
+            "Easy": 1
         },
         "chartMakers": {
-            "Easy": "Komi",
-            "Oni": "IID",
             "Edit": "DiamondN1nja",
+            "Oni": "IID",
             "Hard": "Komi,DiamondN1nja",
-            "Normal": "Komi,IID"
+            "Normal": "Komi,IID",
+            "Easy": "Komi"
         },
         "chartAudioFilePath": "preview\\UNeNdIngFrEEdomtATSUoto.ogg",
         "chartJacketFilePath": null,

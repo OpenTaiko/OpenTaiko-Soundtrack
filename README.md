@@ -250,6 +250,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 251 - Assimilation : Tatsuoto vs. Ouroboros - https://soundcloud.com/panasonic-cat/ouroboros-vs-wyvren-assimilation (Chart by Komi)
 252 - Unending Freedom : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by IID, DiamondN1nja and Komi)
+
+271 - NEP0：MY5TERIOUSセッション : OPTK-HQ=CHANNEL0003 (Chart by OPTK-HQ)
 ```
 
 ### Visuals

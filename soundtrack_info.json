@@ -6420,6 +6420,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "ACRosSTHELUmiNesCEnTSKyf2",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\267 - across the luminescent sky",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\267 - across the luminescent sky\\across the luminescent sky.jpg",
+            "06 OpenTaiko Chapter VI\\267 - across the luminescent sky\\across the luminescent sky.ogg",
+            "06 OpenTaiko Chapter VI\\267 - across the luminescent sky\\across the luminescent sky.tja",
+            "06 OpenTaiko Chapter VI\\267 - across the luminescent sky\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "e4e07111a2558de0fe4cf573df058b20",
+        "chartSize": 4.95,
+        "chartTitle": "across the luminescent sky",
+        "chartSubtitle": "f2",
+        "chartDifficulties": {
+            "Edit": 10.8,
+            "Oni": 10.3,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "AsPho,Komi",
+            "Hard": "AsPho",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\ACRosSTHELUmiNesCEnTSKyf2.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\267 - across the luminescent sky\\across the luminescent sky.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

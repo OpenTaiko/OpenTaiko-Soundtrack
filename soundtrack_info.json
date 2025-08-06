@@ -7623,6 +7623,37 @@
         }
     },
     {
+        "uniqueId": "optkhq05mysterious",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ05 - 271 - Mysterious Session",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ05 - 271 - Mysterious Session\\nep05.tja",
+            "E02 OpenTaiko Headquarters\\HQ05 - 271 - Mysterious Session\\nepo5.ogg",
+            "E02 OpenTaiko Headquarters\\HQ05 - 271 - Mysterious Session\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "f5de457719ebd958b8e774086c5d1b11",
+        "chartSize": 3.71,
+        "chartTitle": "NEP0\uff1aMY5TERIOUS\u30bb\u30c3\u30b7\u30e7\u30f3",
+        "chartSubtitle": "OPTK-HQ=CHANNEL0003",
+        "chartDifficulties": {
+            "Edit": 10.5,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "Dashy,Taichenko,bol",
+            "Hard": "Dashy,Taichenko,bol",
+            "Normal": "Dashy,Taichenko,bol",
+            "Easy": "Dashy,Taichenko,bol"
+        },
+        "chartAudioFilePath": "preview\\optkhq05mysterious.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "optkhq06coldrain",
         "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ06 - 210 - Dancing in the Cold Rain Heart Knot",
         "tjaFilesPath": [

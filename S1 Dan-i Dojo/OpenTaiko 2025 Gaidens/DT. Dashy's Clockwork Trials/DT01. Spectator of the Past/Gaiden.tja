@@ -2,7 +2,7 @@
 SUBTITLE: Spectator of the Past
 SUBTITLEJA: 過去の見者
 BPM:208
-WAVE:IIgamecut.ogg
+WAVE:1.ogg
 DEMOSTART:68.0388
 SCOREMODE:2
 COURSE:Dan
@@ -17,7 +17,7 @@ DANTICKCOLOR:#ffffff
 SCENEPRESET:Summer
 
 #START
-#NEXTSONG II (Game Cut),DashyDesu,,1.ogg,350,80,8,NaN
+#NEXTSONG II (Game Cut),DashyDesu,,1.ogg,350,80,8,3
 #BPMCHANGE 208
 #MEASURE 4/4
 #BARLINEON
@@ -215,7 +215,7 @@ SCENEPRESET:Summer
 ,
 8,
 ,
-#NEXTSONG Constellation ~The Guiding Giant's Journey~,Mr. Hikaru and the Infinite Galaxy Ensemble,,2.ogg,350,80,8,NaN,true
+#NEXTSONG Constellation ~The Guiding Giant's Journey~,Mr. Hikaru and the Infinite Galaxy Ensemble,,2.ogg,350,80,8,3,true
 #BPMCHANGE 139
 #MEASURE 4/4
 #SCROLL 1.0
@@ -402,7 +402,7 @@ SCENEPRESET:Summer
 #GOGOEND
 3,
 ,
-#NEXTSONG NEP0：FR02ENロウカ,OPTK-HQ=CHANNEL0125,,3.ogg,350,80,9,NaN
+#NEXTSONG NEP0：FR02ENロウカ,OPTK-HQ=CHANNEL0125,,3.ogg,350,80,9,3
 #BPMCHANGE 115
 #MEASURE 4/4
 #SCROLL 1.0

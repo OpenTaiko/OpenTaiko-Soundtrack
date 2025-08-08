@@ -10365,6 +10365,182 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "8882025GAIDENCLOCKWORKTRIALmiisha",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT01. Spectator of the Past",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT01. Spectator of the Past\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT01. Spectator of the Past\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT01. Spectator of the Past\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT01. Spectator of the Past\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT01. Spectator of the Past\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "DT. Dashy's Clockwork Trials",
+        "tjaMD5": "7a8329e777a5f0024aea1ccd4b2d6bd6",
+        "chartSize": 8.73,
+        "chartTitle": "\u898b\u8005",
+        "chartSubtitle": "Spectator of the Past",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "preview\\8882025GAIDENCLOCKWORKTRIALmiisha.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "8882025GAIDENCLOCKWORKTRIALsenshi",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT02. Warrior of the Future",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT02. Warrior of the Future\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT02. Warrior of the Future\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT02. Warrior of the Future\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT02. Warrior of the Future\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT02. Warrior of the Future\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "DT. Dashy's Clockwork Trials",
+        "tjaMD5": "a54d76ae19b342be8ad19bcac4388550",
+        "chartSize": 10.8,
+        "chartTitle": "\u6226\u58eb",
+        "chartSubtitle": "Warrior of the Future",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "preview\\8882025GAIDENCLOCKWORKTRIALsenshi.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "8882025GAIDENCLOCKWORKTRIALshintaku",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT03. Oracle of the Eternity",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT03. Oracle of the Eternity\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT03. Oracle of the Eternity\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT03. Oracle of the Eternity\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT03. Oracle of the Eternity\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT03. Oracle of the Eternity\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "DT. Dashy's Clockwork Trials",
+        "tjaMD5": "83e9c51fd013c95824071f242016fa94",
+        "chartSize": 11.85,
+        "chartTitle": "\u795e\u8a17",
+        "chartSubtitle": "Oracle of the Eternity",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "preview\\8882025GAIDENCLOCKWORKTRIALshintaku.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "8882025GAIDENCLOCKWORKTRIALEndurance01",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\01.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\02.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\03.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\04.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\05.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\06.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\07.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\08.mp4",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\08.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\ending.mp4",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\preview.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "Endurance",
+        "tjaMD5": "a7ecd7afbf0e44f311c6002561068179",
+        "chartSize": 89.39,
+        "chartTitle": "\u8a18\u61b6",
+        "chartSubtitle": "Memories of Time - \"888.\" Endurance Medley 2025 \u3010Sweet\u3011",
+        "chartDifficulties": {
+            "Dan": 7
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "preview\\8882025GAIDENCLOCKWORKTRIALEndurance01.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "8882025GAIDENCLOCKWORKTRIALEndurance02",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\01.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\02.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\03.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\04.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\05.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\06.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\07.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\08.mp4",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\08.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\ending.mp4",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\preview.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "Endurance",
+        "tjaMD5": "0d72fdfd69917a9896f639c072b5d7dc",
+        "chartSize": 92.23,
+        "chartTitle": "\u9280\u6cb3",
+        "chartSubtitle": "Nebula of Time - \"888.\" Endurance Medley 2025 \u3010Spicy\u3011",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "preview\\8882025GAIDENCLOCKWORKTRIALEndurance02.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "8882025GAIDENCLOCKWORKTRIALEndurance03",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\01.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\02.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\03.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\04.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\05.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\06.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\07.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\08.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\09.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\888.mp4",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\888.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\ending.mp4",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\preview.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "Endurance",
+        "tjaMD5": "0c919cf74e21aa1d1d35364b1f75c08f",
+        "chartSize": 98.29,
+        "chartTitle": "\u5e7b\u5f71",
+        "chartSubtitle": "Phantom of Time - \"888.\" Endurance Medley 2025 \u3010Burning\u3011",
+        "chartDifficulties": {
+            "Dan": 11.8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "preview\\8882025GAIDENCLOCKWORKTRIALEndurance03.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "cIJCyXU883gyZU5D2sE317xYcPMUYnwhlVQzM1MSrci6znM65C9TLmKuAkWZhQfr",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5",
         "tjaFilesPath": [

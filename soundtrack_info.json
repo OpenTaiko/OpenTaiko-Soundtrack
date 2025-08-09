@@ -5955,6 +5955,39 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "contINUe100miLLioNsTiMESzomBkOWITHTakAkAtokkyPRodasAKuraMORi",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\226 - Continue 100 Million Times",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\226 - Continue 100 Million Times\\continue.jpg",
+            "06 OpenTaiko Chapter VI\\226 - Continue 100 Million Times\\continue.ogg",
+            "06 OpenTaiko Chapter VI\\226 - Continue 100 Million Times\\continue.tja",
+            "06 OpenTaiko Chapter VI\\226 - Continue 100 Million Times\\continue.vtt",
+            "06 OpenTaiko Chapter VI\\226 - Continue 100 Million Times\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "6dd1ad12738c98d93673aa70d3be73e7",
+        "chartSize": 4.75,
+        "chartTitle": "Continue 100 Million Times",
+        "chartSubtitle": "ZomB Ko with TAK aka. Tokky (prod. Asakura Mori)",
+        "chartDifficulties": {
+            "Edit": 7,
+            "Oni": 6,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Edit": "DragonRatTiger",
+            "Oni": "Komi",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\contINUe100miLLioNsTiMESzomBkOWITHTakAkAtokkyPRodasAKuraMORi.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\226 - Continue 100 Million Times\\continue.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "BEAcHrACeSnikiOX3ll3n",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\227 - Beach Race",
         "tjaFilesPath": [

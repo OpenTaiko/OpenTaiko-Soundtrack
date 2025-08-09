@@ -230,7 +230,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 223 - Hearts in Motion (Game Edit) : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi, Makotora)
 224 - SPDRN : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by Komi)
 225 - Nitro : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by Komi)
-226 - 
+226 - コンテニュー1億万回 : ゾンB子 with 托 a.k.a. Tokky（prod.浅倉森） - https://x.com/ZonBko https://x.com/crasythunder https://x.com/mori4mirage (Chart by DragonRatTiger, Komi and Dashy)
 227 - Beach Race : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by Komi)
 228 - Hi Voltage : 3Kado_ feat. Clozzo - https://soundcloud.com/k1xsmp2wmrfb/hivoltage (Chart by Komi, DiamondN1nja)
 229 - cityscape//RUiNsS : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)

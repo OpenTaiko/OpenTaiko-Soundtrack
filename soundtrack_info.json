@@ -7224,6 +7224,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "oWnTatsUoTorearrAnGeMeNtDasHYRearRANgedBytATsUoTO",
+        "tjaFolderPath": "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\ownozzyarr.ogg",
+            "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\ownozzyarr.png",
+            "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\ownozzyarr.tja",
+            "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "96d3e9c8310066cdb4d49eb7d0c0c9ef",
+        "chartSize": 4.46,
+        "chartTitle": "Own, (Tatsuoto Rearrangement)",
+        "chartSubtitle": "Dashy, (Rearranged by Tatsuoto)",
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\oWnTatsUoTorearrAnGeMeNtDasHYRearRANgedBytATsUoTO.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\ownozzyarr.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "iJWSvseMG7mVdm2sLqD3Psm6SSX7H14ZMVc4R5gVLGpaRVVPNQqupGdUzowtciw2",
         "tjaFolderPath": "E01 Rainy Memories\\RM01 - 093 - Rainy Night",
         "tjaFilesPath": [

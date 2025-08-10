@@ -221,7 +221,7 @@
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\DLB.png",
         "chartHoFRanks": {
             "Edit": 5,
-            "Oni": 56
+            "Oni": 57
         }
     },
     {
@@ -437,7 +437,7 @@
         "chartAudioFilePath": "preview\\halcyonAkako.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\017 - Halcyon\\Halcyon.png",
         "chartHoFRanks": {
-            "Oni": 60
+            "Oni": 61
         }
     },
     {
@@ -1004,7 +1004,7 @@
         "chartAudioFilePath": "preview\\15bBqzr87CiWas5HyA6i2KTe7BLGlWmo22gbDq9ukp8swCvSG1yYKzgXbjO9x7Ut.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\042 - Shockwave\\Shockwave.png",
         "chartHoFRanks": {
-            "Oni": 61
+            "Oni": 62
         }
     },
     {
@@ -1797,7 +1797,7 @@
         "chartAudioFilePath": "preview\\kernschmelzefunkyzukin.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 57
+            "Oni": 58
         }
     },
     {
@@ -2800,7 +2800,7 @@
         "chartAudioFilePath": "preview\\7Lstfr408z2EOnuhF37D1dI1xLq56XGtLyvbF1VhZzFtFnge0LY4wPJaxEukaPSQ.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.png",
         "chartHoFRanks": {
-            "Edit": 67
+            "Edit": 68
         }
     },
     {
@@ -2863,7 +2863,7 @@
         "chartAudioFilePath": "preview\\j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 55
+            "Oni": 56
         }
     },
     {
@@ -3307,7 +3307,7 @@
         "chartAudioFilePath": "preview\\cirfunferenciaULKO.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\131 - CIRCUNFERENCIA\\CIRCUNFERENCIA.png",
         "chartHoFRanks": {
-            "Edit": 62
+            "Edit": 63
         }
     },
     {
@@ -3373,7 +3373,7 @@
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\137 - Tsol Niameri\\tsol.png",
         "chartHoFRanks": {
             "Edit": 16,
-            "Oni": 63
+            "Oni": 64
         }
     },
     {
@@ -4144,7 +4144,7 @@
         "chartAudioFilePath": "preview\\pSeUDomONARcHiALiliTHLYCANixVSCUSI.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\PSEUDOMONARCHIA.png",
         "chartHoFRanks": {
-            "Oni": 64
+            "Oni": 65
         }
     },
     {
@@ -6452,7 +6452,7 @@
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Oni": 25,
-            "Edit": 59
+            "Edit": 60
         }
     },
     {
@@ -6840,7 +6840,7 @@
         "chartAudioFilePath": "preview\\SIUsjccJr1rOhcnKohVRRl8vLe3HO3LjTU8hyGdAXUbjwPOCRTl0TsUqJ2o3iBay.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.png",
         "chartHoFRanks": {
-            "Edit": 66
+            "Edit": 67
         }
     },
     {
@@ -7284,7 +7284,9 @@
         },
         "chartAudioFilePath": "preview\\oWnTatsUoTorearrAnGeMeNtDasHYRearRANgedBytATsUoTO.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\ownozzyarr.png",
-        "chartHoFRanks": {}
+        "chartHoFRanks": {
+            "Oni": 54
+        }
     },
     {
         "uniqueId": "iJWSvseMG7mVdm2sLqD3Psm6SSX7H14ZMVc4R5gVLGpaRVVPNQqupGdUzowtciw2",
@@ -7495,7 +7497,7 @@
         "chartAudioFilePath": "preview\\rAiNyNiGHTIiITaiChenKO.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.jpg",
         "chartHoFRanks": {
-            "Oni": 54
+            "Oni": 55
         }
     },
     {
@@ -7593,7 +7595,7 @@
         "chartAudioFilePath": "preview\\rainYtEARTAichENkO.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
         "chartHoFRanks": {
-            "Oni": 58
+            "Oni": 59
         }
     },
     {
@@ -8281,7 +8283,7 @@
         "chartAudioFilePath": "preview\\touhou10.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.png",
         "chartHoFRanks": {
-            "Edit": 65
+            "Edit": 66
         }
     },
     {

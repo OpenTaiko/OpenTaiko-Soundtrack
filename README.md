@@ -248,6 +248,13 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 241 - Own, : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 242 - Reverie XXIII - Miracle of the 23rd : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 
+244 - 幽音の翠 : Pinktoe feat.はらもりよしな - https://soundcloud.com/umeboz (Chart by Dashy, DragonRatTiger)
+245 - 灰色カナリア（僕がまだ飛び続けるための） : 虹色鴉（ume & a-m） - https://soundcloud.com/umeboz (Chart by Komi, bol)
+246 - ARIGATO! : LLRK feat. 宮舞モカ - https://soundcloud.com/llrk (Chart by Komi)
+247 - Gocha-maze my treasures! : LLRK - https://soundcloud.com/llrk (Chart by Komi)
+
+249 - Perpetual Exploration : Desjul20 - https://www.youtube.com/@desjul20 (Chart by sadkay)
+250 - holicチョコ : Du Vel Mat Te - https://soundcloud.com/hyparpax https://hpx.getonpictochat.com/ (Chart by sadkay)
 251 - Assimilation : Tatsuoto vs. Ouroboros - https://soundcloud.com/panasonic-cat/ouroboros-vs-wyvren-assimilation (Chart by Komi)
 252 - Unending Freedom : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by IID, DiamondN1nja and Komi)
 
@@ -290,6 +297,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 225 - Nitro : MusicFracturer (https://x.com/BachThienVanDL)
 230 - Broken Bond : DawnablesAwakened (https://bsky.app/profile/dawnablesawakened.bsky.social)
 237 - weathergirl : ippo.tsk (https://x.com/ippotsk)
+250 - holicチョコ : morph
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 ```

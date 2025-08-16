@@ -827,7 +827,7 @@
             "01 OpenTaiko Chapter I\\035 - ENDOMANCER\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "6fa53477a7025c21c8d41c52f9d72c78",
+        "tjaMD5": "578800b0d5e599716ca15777edc9a66c",
         "chartSize": 3.05,
         "chartTitle": "ENDOMANCER",
         "chartSubtitle": "Zovi",
@@ -835,13 +835,15 @@
             "Oni": 8,
             "Hard": 6,
             "Normal": 4,
-            "Easy": 1
+            "Easy": 1,
+            "Edit": 10.1
         },
         "chartMakers": {
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",
-            "Easy": "Komi"
+            "Easy": "Komi",
+            "Edit": "Komi"
         },
         "chartAudioFilePath": "preview\\endomancerZovi.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\035 - ENDOMANCER\\ENDOMANCER.png",
@@ -6386,6 +6388,195 @@
         },
         "chartAudioFilePath": "preview\\ShAdoWdriVErdELF.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\SHADOW DRIVER.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "OPTKCH6Kakurine",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\kakurine.ogg",
+            "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\kakurine.png",
+            "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\kakurine.tja",
+            "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\kakurine.vtt",
+            "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "981d7e58434fea935b8648f9f26717b5",
+        "chartSize": 2.54,
+        "chartTitle": "Kakurine no Midori",
+        "chartSubtitle": "Pinktoe feat. Haramori Yoshina",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 7,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "DragonRatTiger",
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\OPTKCH6Kakurine.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\kakurine.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "graycanArySOtHatiStiLLKEePFLyiNGNIJiIROkaRasUuMEAm",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\245 - Gray Canary",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\245 - Gray Canary\\graycanary.jpg",
+            "06 OpenTaiko Chapter VI\\245 - Gray Canary\\graycanary.ogg",
+            "06 OpenTaiko Chapter VI\\245 - Gray Canary\\graycanary.tja",
+            "06 OpenTaiko Chapter VI\\245 - Gray Canary\\graycanary.vtt",
+            "06 OpenTaiko Chapter VI\\245 - Gray Canary\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "c60d7dafe4610fe1514655532310a42e",
+        "chartSize": 4.42,
+        "chartTitle": "Gray Canary (So that I still keep flying)",
+        "chartSubtitle": "Nijiiro Karasu (ume & a-m)",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\graycanArySOtHatiStiLLKEePFLyiNGNIJiIROkaRasUuMEAm.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\245 - Gray Canary\\graycanary.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "aRIGatoLLrKfeATmiYAMAiMoka",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\246 - ARIGATO!",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\ARIGATO!.jpg",
+            "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\ARIGATO!.ogg",
+            "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\ARIGATO!.tja",
+            "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\ARIGATO!.vtt",
+            "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "ebe82595641faac259f10a938e52cd75",
+        "chartSize": 3.18,
+        "chartTitle": "ARIGATO!",
+        "chartSubtitle": "LLRK feat. Miyamai Moka",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\aRIGatoLLrKfeATmiYAMAiMoka.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\ARIGATO!.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "GoCHamAZeMYTrEAsurESllRk",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\247 - Gocha-maze my treasures!",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\247 - Gocha-maze my treasures!\\gochamaze.jpg",
+            "06 OpenTaiko Chapter VI\\247 - Gocha-maze my treasures!\\gochamaze.ogg",
+            "06 OpenTaiko Chapter VI\\247 - Gocha-maze my treasures!\\gochamaze.tja",
+            "06 OpenTaiko Chapter VI\\247 - Gocha-maze my treasures!\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "d6b49e7f1036c46b79892ea1b36402c1",
+        "chartSize": 4.53,
+        "chartTitle": "Gocha-maze my treasures!",
+        "chartSubtitle": "LLRK",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\GoCHamAZeMYTrEAsurESllRk.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\247 - Gocha-maze my treasures!\\gochamaze.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pERpetuaLExplOraTIonGAMEcUtDesJUL20",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-\\Perpetual Exploration -Game Cut-.ogg",
+            "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-\\Perpetual Exploration -Game Cut-.png",
+            "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-\\Perpetual Exploration -Game Cut-.tja",
+            "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "39768fbec178f506cdb9a6e306cf55da",
+        "chartSize": 5.32,
+        "chartTitle": "Perpetual Exploration -Game Cut-",
+        "chartSubtitle": "Desjul20",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "sadkay",
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\pERpetuaLExplOraTIonGAMEcUtDesJUL20.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-\\Perpetual Exploration -Game Cut-.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "holIcCHOCo",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\250 - holicchoco",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\250 - holicchoco\\holicchoco.ogg",
+            "06 OpenTaiko Chapter VI\\250 - holicchoco\\holicchoco.png",
+            "06 OpenTaiko Chapter VI\\250 - holicchoco\\holicchoco.tja",
+            "06 OpenTaiko Chapter VI\\250 - holicchoco\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "92d046085e20b3545eaf4b6af1784b7c",
+        "chartSize": 3.9,
+        "chartTitle": "holicchoco",
+        "chartSubtitle": "Du Vel Mat Te",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\holIcCHOCo.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\250 - holicchoco\\holicchoco.png",
         "chartHoFRanks": {}
     },
     {

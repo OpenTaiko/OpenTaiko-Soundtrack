@@ -3972,7 +3972,7 @@
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
         "tjaMD5": "475e0be42cc2d1b5cbf446507ef26c01",
-        "chartSize": 3.64,
+        "chartSize": 3.72,
         "chartTitle": "Goodbye My Phantasia",
         "chartSubtitle": "FALL feat. yufu_sekka",
         "chartDifficulties": {
@@ -6467,7 +6467,7 @@
             "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "ebe82595641faac259f10a938e52cd75",
+        "tjaMD5": "0a7e176f22449149b2d318811a9e5953",
         "chartSize": 3.18,
         "chartTitle": "ARIGATO!",
         "chartSubtitle": "LLRK feat. Miyamai Moka",
@@ -6475,13 +6475,15 @@
             "Oni": 7,
             "Hard": 5,
             "Normal": 4,
-            "Easy": 3
+            "Easy": 3,
+            "Edit": 8
         },
         "chartMakers": {
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",
-            "Easy": "Komi"
+            "Easy": "Komi",
+            "Edit": "Komi"
         },
         "chartAudioFilePath": "preview\\aRIGatoLLrKfeATmiYAMAiMoka.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\ARIGATO!.jpg",

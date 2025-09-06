@@ -1,4 +1,6 @@
 ﻿#TITLE:Taiko Towers
+#TITLEES:Torres de Taiko
+#TITLEFR:Tours rhytmiques
 #TITLEJA:太鼓タワー
 #TITLERU:Тайко Башни
 #TITLEZH:太鼓塔
@@ -6,6 +8,12 @@
 #BOXEXPLANATION1:Play long charts within a limited
 #BOXEXPLANATION2:count of lives and reach
 #BOXEXPLANATION3:the top of the tower !
+#BOXEXPLANATIONES1:¡Juega partituras largas con un
+#BOXEXPLANATIONES2:número de vidas limitado y llega
+#BOXEXPLANATIONES3:a la cima de la torre!
+#BOXEXPLANATIONFR1:Jouez de longs partitions avec un
+#BOXEXPLANATIONFR2:nombre de vies limité et atteignez
+#BOXEXPLANATIONFR3:le sommet de la tour !
 #BOXEXPLANATIONJA1:曲を演奏して頂上まで
 #BOXEXPLANATIONJA2:たどり着いたらクリアだよ!
 #BOXEXPLANATIONJA3:ミスをするとHPが減るから気を付けて!

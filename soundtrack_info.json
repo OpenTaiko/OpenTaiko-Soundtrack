@@ -607,17 +607,19 @@
             "01 OpenTaiko Chapter I\\025 - Fearless\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "1493430fe29281016a9f0e03e826f6ac",
+        "tjaMD5": "514d733ccb66265bea752840dc3438f5",
         "chartSize": 2.89,
         "chartTitle": "Fearless",
         "chartSubtitle": "Ash Electric",
         "chartDifficulties": {
+            "Edit": 8,
             "Oni": 7,
             "Hard": 5,
             "Normal": 3,
             "Easy": 2
         },
         "chartMakers": {
+            "Edit": "bol",
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",

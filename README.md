@@ -257,6 +257,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 250 - holicチョコ : Du Vel Mat Te - https://soundcloud.com/hyparpax https://hpx.getonpictochat.com/ (Chart by sadkay)
 251 - Assimilation : Tatsuoto vs. Ouroboros - https://soundcloud.com/panasonic-cat/ouroboros-vs-wyvren-assimilation (Chart by Komi)
 252 - Unending Freedom : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by IID, DiamondN1nja and Komi)
+253 - PJ Princess (BMS Edit) : Baby Zionov feat. Moody V - https://twitter.com/babyzionov (Chart by sadkay)
 
 255 - Own, (Tatsuoto Rearrangement) : Dashy, (Rearranged by Tatsuoto) - https://www.youtube.com/@wyvren_ https://x.com/NokoniPuro (Chart by Dashy)
 

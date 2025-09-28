@@ -73,7 +73,7 @@
             "01 OpenTaiko Chapter I\\003 - Breaking Point\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "5650644e8a70d7afb9ae18fb288cefa0",
+        "tjaMD5": "abac04ac91f220515bc073daf2a15260",
         "chartSize": 4.74,
         "chartTitle": "Breaking Point",
         "chartSubtitle": "Yonokid",
@@ -81,13 +81,15 @@
             "Edit": 10.4,
             "Oni": 9,
             "Hard": 6,
-            "Normal": 5
+            "Normal": 5,
+            "Easy": 4
         },
         "chartMakers": {
             "Edit": "bol",
             "Oni": "bol",
             "Hard": "bol",
-            "Normal": "bol"
+            "Normal": "bol",
+            "Easy": "bol"
         },
         "chartAudioFilePath": "preview\\breakpointYonokid.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\003 - Breaking Point\\Cover.jpg",

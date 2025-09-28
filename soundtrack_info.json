@@ -73,7 +73,7 @@
             "01 OpenTaiko Chapter I\\003 - Breaking Point\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "5a5baf98b5f4ce026c428a12ab21998b",
+        "tjaMD5": "5650644e8a70d7afb9ae18fb288cefa0",
         "chartSize": 4.74,
         "chartTitle": "Breaking Point",
         "chartSubtitle": "Yonokid",
@@ -81,15 +81,13 @@
             "Edit": 10.4,
             "Oni": 9,
             "Hard": 6,
-            "Normal": 5,
-            "Easy": 4
+            "Normal": 5
         },
         "chartMakers": {
             "Edit": "bol",
             "Oni": "bol",
             "Hard": "bol",
-            "Normal": "bol",
-            "Easy": "bol"
+            "Normal": "bol"
         },
         "chartAudioFilePath": "preview\\breakpointYonokid.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\003 - Breaking Point\\Cover.jpg",
@@ -6649,6 +6647,36 @@
             "Oni": 25,
             "Edit": 60
         }
+    },
+    {
+        "uniqueId": "CH06zionovPJ",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\253 - PJ Princess (BMS Edit)",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\253 - PJ Princess (BMS Edit)\\pj_princess.ogg",
+            "06 OpenTaiko Chapter VI\\253 - PJ Princess (BMS Edit)\\pj_princess.png",
+            "06 OpenTaiko Chapter VI\\253 - PJ Princess (BMS Edit)\\pj_princess.tja",
+            "06 OpenTaiko Chapter VI\\253 - PJ Princess (BMS Edit)\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "1d77541cb720df7bb51abe2ddfbc4285",
+        "chartSize": 3.13,
+        "chartTitle": "PJ Princess (BMS Edit)",
+        "chartSubtitle": "Baby Zionov feat. Moody V",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 3,
+            "Normal": 2,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\CH06zionovPJ.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\253 - PJ Princess (BMS Edit)\\pj_princess.png",
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "ACRosSTHELUmiNesCEnTSKyf2",

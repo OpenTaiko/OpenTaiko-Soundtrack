@@ -501,7 +501,7 @@
         "chartAudioFilePath": "preview\\sofAden.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 46
+            "Edit": 47
         }
     },
     {
@@ -882,7 +882,7 @@
         "chartAudioFilePath": "preview\\mIM3zf55TatXUIzE8tK3s6XFbPXEgbNKw0Kmmhu8vg3dcNRbplhAjA5P8UhTCeKK.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\036 - RUiNED GLORY\\RUiNED GLORY.jpg",
         "chartHoFRanks": {
-            "Edit": 35
+            "Edit": 36
         }
     },
     {
@@ -1075,7 +1075,7 @@
         "chartAudioFilePath": "preview\\DY9VMPUEg3M5EoNVgpSXvmKlJ9IciHx8o15hoUFcOJtDlp499vilAM6w24BDLOkR.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\044 - Memory\\Memory.png",
         "chartHoFRanks": {
-            "Edit": 30
+            "Edit": 31
         }
     },
     {
@@ -1418,7 +1418,7 @@
         "chartAudioFilePath": "preview\\drWxV66Sy701Xb5Bt1tU0Bu7K7zzVHgCJtofHu82DJ9xzdCODrrupFXdu9UatSsC.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\055 - NEKROS\\GRYSCL.jpg",
         "chartHoFRanks": {
-            "Edit": 37
+            "Edit": 38
         }
     },
     {
@@ -1833,7 +1833,7 @@
         "chartAudioFilePath": "preview\\qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\072 - Scarlet Soul\\Scarlet Soul.png",
         "chartHoFRanks": {
-            "Oni": 22
+            "Oni": 23
         }
     },
     {
@@ -2077,7 +2077,7 @@
         "chartAudioFilePath": "preview\\xhWVJFisJOaLioNRTfQVLQSYP4uRGajA6UQtUjWIYVL4jiKG0u8bgDn8bFazHHz5.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 38
+            "Oni": 41
         }
     },
     {
@@ -2675,7 +2675,7 @@
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\111 - 2024\\2024 BPM IS NOT ENOUGH.png",
         "chartHoFRanks": {
             "Edit": 12,
-            "Oni": 39
+            "Oni": 35
         }
     },
     {
@@ -2804,7 +2804,7 @@
         "chartAudioFilePath": "preview\\7Lstfr408z2EOnuhF37D1dI1xLq56XGtLyvbF1VhZzFtFnge0LY4wPJaxEukaPSQ.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\shoubu_biyori.png",
         "chartHoFRanks": {
-            "Edit": 68
+            "Edit": 69
         }
     },
     {
@@ -2999,7 +2999,7 @@
         "chartAudioFilePath": "preview\\ZtPIqdYGeZOkWIn26wUfSWDxwB6PsILjmYQGW3CPHSANm2J4SwiFYEe0qZt4PVTQ.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\121 - PARANOiA Perpetuity\\PARANOIA_perpetuality_Jacket.png",
         "chartHoFRanks": {
-            "Edit": 31
+            "Edit": 32
         }
     },
     {
@@ -3106,12 +3106,12 @@
             "03 OpenTaiko Chapter III\\125 - MajETCMAT\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "3991c5bafbf39302e266d7fcde01cf7a",
+        "tjaMD5": "2b23dc00fdb6b874cee44cd13ed700fc",
         "chartSize": 2.79,
         "chartTitle": "MajETCMAT",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
-            "Edit": 11.0,
+            "Edit": 11.1,
             "Oni": 10.3,
             "Hard": 8,
             "Normal": 7,
@@ -3127,7 +3127,7 @@
         "chartAudioFilePath": "preview\\OfficialAz3MajETC.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III\\125 - MajETCMAT\\MajETCMAT.png",
         "chartHoFRanks": {
-            "Edit": 34
+            "Edit": 30
         }
     },
     {
@@ -3973,7 +3973,7 @@
             "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "475e0be42cc2d1b5cbf446507ef26c01",
+        "tjaMD5": "2ff32d4c68fb3fb6951393ded5b3bb9d",
         "chartSize": 3.72,
         "chartTitle": "Goodbye My Phantasia",
         "chartSubtitle": "FALL feat. yufu_sekka",
@@ -3982,7 +3982,7 @@
             "Easy": 6,
             "Normal": 7,
             "Hard": 9,
-            "Edit": 11.1
+            "Edit": 11.2
         },
         "chartMakers": {
             "Oni": "bol",
@@ -3995,7 +3995,7 @@
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\Goodbye My Phantasia.png",
         "chartHoFRanks": {
             "Oni": 19,
-            "Edit": 28
+            "Edit": 26
         }
     },
     {
@@ -4214,7 +4214,7 @@
         "chartAudioFilePath": "preview\\BEFoReITeNdSBilLIummOto.ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\167 - Before it ends\\Before It Ends.jpg",
         "chartHoFRanks": {
-            "Edit": 41
+            "Edit": 42
         }
     },
     {
@@ -4922,7 +4922,7 @@
         "chartAudioFilePath": "preview\\pUrgATORYOftheOOTdMasAmuNEVsH5.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.png",
         "chartHoFRanks": {
-            "Edit": 32
+            "Edit": 27
         }
     },
     {
@@ -5135,7 +5135,7 @@
         "chartAudioFilePath": "preview\\SUPEReNtHUSIASTichExAcUbE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 50
+            "Oni": 44
         }
     },
     {
@@ -5534,7 +5534,7 @@
         "chartAudioFilePath": "preview\\aNxIeTYASPIDCaT.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\213 - ANXiETY\\ANXiETY.jpg",
         "chartHoFRanks": {
-            "Edit": 36
+            "Edit": 37
         }
     },
     {
@@ -5671,12 +5671,12 @@
             "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "35383bdc8637f18dd7bfdf204a841fab",
+        "tjaMD5": "99fee1fc76d2ec166f7bd7bbb731811a",
         "chartSize": 3.44,
         "chartTitle": "Octans Cel Grift",
         "chartSubtitle": "BilliumMoto",
         "chartDifficulties": {
-            "Edit": 11.2,
+            "Edit": 11.0,
             "Oni": 9,
             "Hard": 8,
             "Normal": 6,
@@ -5692,7 +5692,7 @@
         "chartAudioFilePath": "preview\\oCtaNsCelGRIFtbiLLiuMMOto.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\Octans_Cel_Grift.png",
         "chartHoFRanks": {
-            "Edit": 26
+            "Edit": 34
         }
     },
     {
@@ -6613,7 +6613,7 @@
         "chartAudioFilePath": "preview\\AssimILATIonTAtsUotOVsoUrObOROs.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 45
+            "Edit": 46
         }
     },
     {
@@ -6647,7 +6647,7 @@
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Oni": 25,
-            "Edit": 60
+            "Edit": 66
         }
     },
     {
@@ -6707,7 +6707,9 @@
         },
         "chartAudioFilePath": "preview\\roARDazeDTAicheNKo.ogg",
         "chartJacketFilePath": null,
-        "chartHoFRanks": {}
+        "chartHoFRanks": {
+            "Oni": 60
+        }
     },
     {
         "uniqueId": "ACRosSTHELUmiNesCEnTSKyf2",
@@ -6740,7 +6742,7 @@
         "chartAudioFilePath": "preview\\ACRosSTHELUmiNesCEnTSKyf2.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\267 - across the luminescent sky\\across the luminescent sky.jpg",
         "chartHoFRanks": {
-            "Edit": 44
+            "Edit": 45
         }
     },
     {
@@ -7024,7 +7026,7 @@
         "chartAudioFilePath": "preview\\brokenMetDashy.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\027 - Broken Metronome\\br.png",
         "chartHoFRanks": {
-            "Edit": 47
+            "Edit": 48
         }
     },
     {
@@ -7094,7 +7096,7 @@
         "chartAudioFilePath": "preview\\SIUsjccJr1rOhcnKohVRRl8vLe3HO3LjTU8hyGdAXUbjwPOCRTl0TsUqJ2o3iBay.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\039 - Forever Fading Away\\Forever Fading Away.png",
         "chartHoFRanks": {
-            "Edit": 67
+            "Edit": 68
         }
     },
     {
@@ -7127,7 +7129,7 @@
         "chartAudioFilePath": "preview\\7TgDUfiEAVn0sV6HqfRVLV61HeshX8eJhEB7POVVIQmvpgu8W94Wryb8gEXj0KPh.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\052 - Scarlet Mirage\\Scarlet Mirage.png",
         "chartHoFRanks": {
-            "Oni": 21
+            "Oni": 22
         }
     },
     {
@@ -7285,7 +7287,7 @@
         "chartAudioFilePath": "preview\\9zkgZxZzVy108OW0SCPlPsooKRgplzWcuvVXjmBsUIPWZdFtrwYm6kPcXcfMgVEH.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\080 - I want to bloom\\bloom.png",
         "chartHoFRanks": {
-            "Oni": 48
+            "Oni": 49
         }
     },
     {
@@ -7785,7 +7787,7 @@
         "chartAudioFilePath": "preview\\KtAYRbda0k2yU2usL1XBe6pNdApljBBWdZLP93Fzwa3v2gafn2sMRxF5WMx4QbSV.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\Rainy Night III.jpg",
         "chartHoFRanks": {
-            "Edit": 49
+            "Edit": 50
         }
     },
     {
@@ -7817,7 +7819,7 @@
         "chartAudioFilePath": "preview\\KJpnHoe2G9s5q6l3ChajeT3KyHmGrvBh7x45rYznQGdXPb6mW2AKtfEJ6QiGGBbg.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM09 - 098 - Rainy Night III ~Samsara~\\Rainy Night III.jpg",
         "chartHoFRanks": {
-            "Oni": 20
+            "Oni": 21
         }
     },
     {
@@ -7975,7 +7977,7 @@
         "chartAudioFilePath": "preview\\optkhq04feral.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Edit": 42
+            "Edit": 39
         }
     },
     {
@@ -8227,7 +8229,7 @@
         "chartAudioFilePath": "preview\\outfox05.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C01 Project Outfox Serenity\\S05 - brokenHeart resurrection ~estelle~\\FractalHeart-jk.png",
         "chartHoFRanks": {
-            "Oni": 23
+            "Oni": 20
         }
     },
     {
@@ -8537,7 +8539,7 @@
         "chartAudioFilePath": "preview\\touhou10.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\Disintegrated_Laevatein.png",
         "chartHoFRanks": {
-            "Edit": 66
+            "Edit": 67
         }
     },
     {
@@ -8601,7 +8603,7 @@
         "chartAudioFilePath": "preview\\touhou12.ogg",
         "chartJacketFilePath": "L1 Collaborations\\C02 Touhou Arrangements\\T12 - BLINDED CRITICISM\\BLINDED CRITICISM (OpenTaiko Edit).png",
         "chartHoFRanks": {
-            "Edit": 27
+            "Edit": 28
         }
     },
     {

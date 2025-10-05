@@ -261,6 +261,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 255 - Own, (Tatsuoto Rearrangement) : Dashy, (Rearranged by Tatsuoto) - https://www.youtube.com/@wyvren_ https://x.com/NokoniPuro (Chart by Dashy)
 
+266 - Roar Dazed : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 267 - across the luminescent sky : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by bol, AsPho and Komi)
 
 271 - NEP0：MY5TERIOUSセッション : OPTK-HQ=CHANNEL0003 (Chart by OPTK-HQ)

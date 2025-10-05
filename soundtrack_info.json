@@ -1397,12 +1397,12 @@
             "02 OpenTaiko Chapter II\\055 - NEKROS\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "4a3ed21c6ed23df2e7f1e0583de73a76",
+        "tjaMD5": "c6c256b7cd88906ec4378f9d263a365e",
         "chartSize": 1.98,
         "chartTitle": "NEKROS",
         "chartSubtitle": "GRYSCL",
         "chartDifficulties": {
-            "Edit": 11.0,
+            "Edit": 10.9,
             "Oni": 10.0,
             "Hard": 8,
             "Normal": 6,
@@ -2653,7 +2653,7 @@
             "03 OpenTaiko Chapter III\\111 - 2024\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "728f17a1d15195a8dabf683849b63c32",
+        "tjaMD5": "c50d84eac84e378bc31b34970f2213df",
         "chartSize": 10.84,
         "chartTitle": "2024 BPM IS NOT ENOUGH",
         "chartSubtitle": "Underscore",
@@ -2662,7 +2662,7 @@
             "Easy": 4,
             "Normal": 6,
             "Hard": 8,
-            "Oni": 10.9
+            "Oni": 11.0
         },
         "chartMakers": {
             "Edit": "Yokoyoko",
@@ -5607,12 +5607,12 @@
             "05 OpenTaiko Chapter V\\216 - Constellation\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "56c349f749780663a9314e0de512350b",
+        "tjaMD5": "1a8dafb8d827297ead7401e011b6ae13",
         "chartSize": 3.56,
         "chartTitle": "Constellation ~The Guiding Giant's Journey~",
         "chartSubtitle": "Mr. Hikaru, and the Infinite Galaxy Ensemble",
         "chartDifficulties": {
-            "Edit": 10.3,
+            "Edit": 10.4,
             "Oni": 8,
             "Hard": 6,
             "Normal": 5,
@@ -6563,12 +6563,12 @@
             "06 OpenTaiko Chapter VI\\250 - holicchoco\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "92d046085e20b3545eaf4b6af1784b7c",
+        "tjaMD5": "c789b6a50f4c4fd24e3c3b3c246669d4",
         "chartSize": 3.9,
         "chartTitle": "holicchoco",
         "chartSubtitle": "Du Vel Mat Te",
         "chartDifficulties": {
-            "Oni": 10.5,
+            "Oni": 10.6,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5
@@ -6678,6 +6678,35 @@
         },
         "chartAudioFilePath": "preview\\CH06zionovPJ.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\253 - PJ Princess (BMS Edit)\\pj_princess.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "roARDazeDTAicheNKo",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\266 - Roar Dazed",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\266 - Roar Dazed\\Roar Dazed.ogg",
+            "06 OpenTaiko Chapter VI\\266 - Roar Dazed\\Roar Dazed.tja",
+            "06 OpenTaiko Chapter VI\\266 - Roar Dazed\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "81bb3458a9e5ea639ea08c6559a5d438",
+        "chartSize": 12.17,
+        "chartTitle": "Roar Dazed",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\roARDazeDTAicheNKo.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

@@ -5778,12 +5778,12 @@
             "05 OpenTaiko Chapter V\\221 - ORTU5 5OLI5\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "0eca66d3d7cd90142a677dd5726fa36f",
+        "tjaMD5": "74d722d8726680455f745c0f76ad1525",
         "chartSize": 65.04,
         "chartTitle": "ORTU5 5OLI5",
         "chartSubtitle": "Dashy, vs. H5 vs. Taichenko vs. YLNO vs. Masamune",
         "chartDifficulties": {
-            "Edit": 12.8,
+            "Edit": 12.9,
             "Oni": 10.9,
             "Hard": 8,
             "Normal": 7,

@@ -6681,6 +6681,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "ThESlIgOMAiDBabyzIOnoV",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\254 - Sligo Maid",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\sligo.ogg",
+            "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\sligo.png",
+            "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\sligo.tja",
+            "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "e4e42c664d4d64598a38879b35bde1e0",
+        "chartSize": 2.87,
+        "chartTitle": "The Sligo Maid",
+        "chartSubtitle": "Baby Zionov",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\ThESlIgOMAiDBabyzIOnoV.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\sligo.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "roARDazeDTAicheNKo",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\266 - Roar Dazed",
         "tjaFilesPath": [

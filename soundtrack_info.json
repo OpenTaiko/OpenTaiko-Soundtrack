@@ -6522,6 +6522,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "coCKRoachcooKiNgyOsK",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking\\Cockroach Cooking.mp4",
+            "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking\\Cockroach Cooking.ogg",
+            "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking\\Cockroach Cooking.png",
+            "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking\\Cockroach Cooking.tja",
+            "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "953fb31e1a4c46b85a280927fc58b8fc",
+        "chartSize": 21.9,
+        "chartTitle": "Cockroach Cooking",
+        "chartSubtitle": "Yosk!",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Ryuto Setsujin",
+            "Hard": "Komi",
+            "Normal": "DiamondN1nja",
+            "Easy": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "preview\\coCKRoachcooKiNgyOsK.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking\\Cockroach Cooking.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "pERpetuaLExplOraTIonGAMEcUtDesJUL20",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-",
         "tjaFilesPath": [
@@ -6708,6 +6739,36 @@
         },
         "chartAudioFilePath": "preview\\ThESlIgOMAiDBabyzIOnoV.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\sligo.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "ch6kodoku",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai\\kodoku.ogg",
+            "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai\\kodoku.png",
+            "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai\\kodoku.tja",
+            "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "1cb5fd2d5ea8635c3a8b43de13a6a108",
+        "chartSize": 3.13,
+        "chartTitle": "Kodoku naru Jiai to Gasei yuru Yuuai",
+        "chartSubtitle": "lufm",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\ch6kodoku.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai\\kodoku.png",
         "chartHoFRanks": {}
     },
     {

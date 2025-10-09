@@ -252,7 +252,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 245 - 灰色カナリア（僕がまだ飛び続けるための） : 虹色鴉（ume & a-m） - https://soundcloud.com/umeboz (Chart by Komi, bol)
 246 - ARIGATO! : LLRK feat. 宮舞モカ - https://soundcloud.com/llrk (Chart by Komi)
 247 - Gocha-maze my treasures! : LLRK - https://soundcloud.com/llrk (Chart by Komi)
-
+248 - Cockroach Cooking : Yosk! - https://www.youtube.com/watch?v=QMQCXTLAn60 (Chart by Ryuto Setsujin, Komi, DiamondN1nja and DragonRatTiger)
 249 - Perpetual Exploration : Desjul20 - https://www.youtube.com/@desjul20 (Chart by sadkay)
 250 - holicチョコ : Du Vel Mat Te - https://soundcloud.com/hyparpax https://hpx.getonpictochat.com/ (Chart by sadkay)
 251 - Assimilation : Tatsuoto vs. Ouroboros - https://soundcloud.com/panasonic-cat/ouroboros-vs-wyvren-assimilation (Chart by Komi)
@@ -261,6 +261,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 254 - The Sligo Maid : Baby Zionov / violin: Chansey / drums&guitar: Big Zak / BGI: Malev - https://twitter.com/babyzionov (Chart by Komi)
 255 - Own, (Tatsuoto Rearrangement) : Dashy, (Rearranged by Tatsuoto) - https://www.youtube.com/@wyvren_ https://x.com/NokoniPuro (Chart by Dashy)
 
+265 - 孤独なる慈愛と芽生ゆる友愛 : らふむ - https://soundcloud.com/lufm-loves-dragon/jiai-yuai (Chart by Komi)
 266 - Roar Dazed : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 267 - across the luminescent sky : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by bol, AsPho and Komi)
 

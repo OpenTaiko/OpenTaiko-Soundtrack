@@ -6837,6 +6837,36 @@
         }
     },
     {
+        "uniqueId": "VANiSCentIaf2",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\268 - EvanisceantiA",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\268 - EvanisceantiA\\EvaniscentiA.jpg",
+            "06 OpenTaiko Chapter VI\\268 - EvanisceantiA\\EvaniscentiA.ogg",
+            "06 OpenTaiko Chapter VI\\268 - EvanisceantiA\\EvaniscentiA.tja",
+            "06 OpenTaiko Chapter VI\\268 - EvanisceantiA\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "decd3840c8e625a10f595b5dd4ebf689",
+        "chartSize": 5.11,
+        "chartTitle": "\u018evanisce:\u0259ntiA",
+        "chartSubtitle": "f2",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\VANiSCentIaf2.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\268 - EvanisceantiA\\EvaniscentiA.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

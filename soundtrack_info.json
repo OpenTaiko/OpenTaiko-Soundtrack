@@ -221,7 +221,7 @@
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\DLB.png",
         "chartHoFRanks": {
             "Edit": 5,
-            "Oni": 57
+            "Oni": 58
         }
     },
     {
@@ -253,7 +253,7 @@
         "chartAudioFilePath": "preview\\bassbolInterChan.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I\\010 - BassBoL\\BassBol.png",
         "chartHoFRanks": {
-            "Oni": 43
+            "Oni": 44
         }
     },
     {
@@ -1295,7 +1295,7 @@
         "chartAudioFilePath": "preview\\cc2VtAF92XbxZFLniPfGV414BNJAwSTNjlYRNQGoDx8opYWs0q09ySWvi9uPLsrp.ogg",
         "chartJacketFilePath": "02 OpenTaiko Chapter II\\050 - Annihilation\\Annihilation.png",
         "chartHoFRanks": {
-            "Edit": 53
+            "Edit": 54
         }
     },
     {
@@ -1801,7 +1801,7 @@
         "chartAudioFilePath": "preview\\kernschmelzefunkyzukin.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 58
+            "Oni": 59
         }
     },
     {
@@ -2867,7 +2867,7 @@
         "chartAudioFilePath": "preview\\j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 56
+            "Oni": 57
         }
     },
     {
@@ -3559,7 +3559,7 @@
         "chartAudioFilePath": "preview\\liesTeocore.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 51
+            "Oni": 52
         }
     },
     {
@@ -4308,7 +4308,7 @@
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\collapse.png",
         "chartHoFRanks": {
             "Edit": 3,
-            "Oni": 52
+            "Oni": 53
         }
     },
     {
@@ -5135,7 +5135,7 @@
         "chartAudioFilePath": "preview\\SUPEReNtHUSIASTichExAcUbE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
-            "Oni": 44
+            "Oni": 43
         }
     },
     {
@@ -5257,7 +5257,9 @@
         },
         "chartAudioFilePath": "preview\\picoSUmMItOFfICIAlAz3.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\202 - Pico Summit\\Pico Summit.png",
-        "chartHoFRanks": {}
+        "chartHoFRanks": {
+            "Edit": 51
+        }
     },
     {
         "uniqueId": "iflIfEwEreaLOopCoLinmCGUIREfTHaTSUNEMIkU",
@@ -6798,9 +6800,7 @@
         },
         "chartAudioFilePath": "preview\\roARDazeDTAicheNKo.ogg",
         "chartJacketFilePath": null,
-        "chartHoFRanks": {
-            "Oni": 60
-        }
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "ACRosSTHELUmiNesCEnTSKyf2",
@@ -7662,7 +7662,7 @@
         "chartAudioFilePath": "preview\\oWnTatsUoTorearrAnGeMeNtDasHYRearRANgedBytATsUoTO.ogg",
         "chartJacketFilePath": "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\ownozzyarr.png",
         "chartHoFRanks": {
-            "Oni": 54
+            "Oni": 55
         }
     },
     {
@@ -7874,7 +7874,7 @@
         "chartAudioFilePath": "preview\\rAiNyNiGHTIiITaiChenKO.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.jpg",
         "chartHoFRanks": {
-            "Oni": 55
+            "Oni": 56
         }
     },
     {
@@ -7972,7 +7972,7 @@
         "chartAudioFilePath": "preview\\rainYtEARTAichENkO.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\Rainy Tear.jpg",
         "chartHoFRanks": {
-            "Oni": 59
+            "Oni": 60
         }
     },
     {

@@ -2120,7 +2120,7 @@
             "02 OpenTaiko Chapter II\\085 - Very long title\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "47a181fc6accd47b23ce7b2d803866e5",
+        "tjaMD5": "0965d18bd212f4256daf45213c449e29",
         "chartSize": 2.38,
         "chartTitle": "i don't want to see the people i love see me in pain so i sometimes just wanna be left alone to cry in the dark",
         "chartSubtitle": "Sukima Altera",
@@ -2128,7 +2128,7 @@
             "Easy": 3,
             "Normal": 5,
             "Hard": 8,
-            "Oni": 10.0
+            "Oni": 10.2
         },
         "chartMakers": {
             "Easy": "Colin",

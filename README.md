@@ -261,6 +261,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 254 - The Sligo Maid : Baby Zionov / violin: Chansey / drums&guitar: Big Zak / BGI: Malev - https://twitter.com/babyzionov (Chart by Komi)
 255 - Own, (Tatsuoto Rearrangement) : Dashy, (Rearranged by Tatsuoto) - https://www.youtube.com/@wyvren_ https://x.com/NokoniPuro (Chart by Dashy)
 
+259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
+
 265 - 孤独なる慈愛と芽生ゆる友愛 : らふむ - https://soundcloud.com/lufm-loves-dragon/jiai-yuai (Chart by Komi)
 266 - Roar Dazed : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 267 - across the luminescent sky : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by bol, AsPho and Komi)
@@ -287,12 +289,15 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 114 - pretty kitty, yes？ : kotomi
 115 - 菖蒲日和 : kotomi
 116 - 卒業2000 : kotomi
+117 - M_《Ji：Ü》 : MusicFracturer (https://x.com/BachThienVanDL)
 131 - CIRCUNFERENCIA : MusicFracturer (https://x.com/BachThienVanDL)
+162 - linebreak : MusicFracturer (https://x.com/BachThienVanDL)
 171 - Wildcard : kotomi
 172 - Freshness Vacation : kotomi
 174 - Visionary : MusicFracturer (https://x.com/BachThienVanDL)
 184 - Limelite : Pratama
 191 - 煉獄のOOTD : DragonRatTiger
+195 - Labyrinth from Another World : MusicFracturer (https://x.com/BachThienVanDL)
 197 - Lovetonight : MusicFracturer (https://x.com/BachThienVanDL)
 203 - If Life Were a Loop : Tree Bark (https://x.com/TreeBarkAgain)
 209 - Bannerbomb (OpenTaiko Edit) : DragonRatTiger
@@ -302,6 +307,9 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 230 - Broken Bond : DawnablesAwakened (https://bsky.app/profile/dawnablesawakened.bsky.social)
 237 - weathergirl : ippo.tsk (https://x.com/ippotsk)
 250 - holicチョコ : morph
+251 - Assimilation : MusicFracturer (https://x.com/BachThienVanDL)
+252 - Unending Freedom : MusicFracturer (https://x.com/BachThienVanDL)
+259 - Mechanical Heart : Dashy,
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 ```

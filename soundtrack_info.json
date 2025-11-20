@@ -2843,13 +2843,14 @@
         "uniqueId": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU",
         "tjaFolderPath": "03 OpenTaiko Chapter III\\117 - M Ji U",
         "tjaFilesPath": [
+            "03 OpenTaiko Chapter III\\117 - M Ji U\\image.png",
             "03 OpenTaiko Chapter III\\117 - M Ji U\\MJiU.ogg",
             "03 OpenTaiko Chapter III\\117 - M Ji U\\MJiU.tja",
             "03 OpenTaiko Chapter III\\117 - M Ji U\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "02f0ab3e9f17e472a9d7f25f28827aa8",
-        "chartSize": 1.65,
+        "tjaMD5": "33d8caf9674d6126b564a7861d80ab93",
+        "chartSize": 1.7,
         "chartTitle": "M_\u300aJi\uff1a\u00dc\u300b",
         "chartSubtitle": "Masamune",
         "chartDifficulties": {
@@ -2865,7 +2866,7 @@
             "Easy": "bol"
         },
         "chartAudioFilePath": "preview\\j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "03 OpenTaiko Chapter III\\117 - M Ji U\\image.png",
         "chartHoFRanks": {
             "Oni": 57
         }
@@ -4095,12 +4096,13 @@
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\162 - linebreak",
         "tjaFilesPath": [
             "04 OpenTaiko Chapter IV\\162 - linebreak\\linebreak.ogg",
+            "04 OpenTaiko Chapter IV\\162 - linebreak\\linebreak.png",
             "04 OpenTaiko Chapter IV\\162 - linebreak\\linebreak.tja",
             "04 OpenTaiko Chapter IV\\162 - linebreak\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "5a7d25f4938706570a862d05f3dce360",
-        "chartSize": 2.23,
+        "tjaMD5": "65e1b2c9457d2b563eb2061dc0c11bac",
+        "chartSize": 2.26,
         "chartTitle": "linebreak",
         "chartSubtitle": "zqr",
         "chartDifficulties": {
@@ -4116,7 +4118,7 @@
             "Easy": "DiamondN1nja"
         },
         "chartAudioFilePath": "preview\\LINebrEakZqr.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\162 - linebreak\\linebreak.png",
         "chartHoFRanks": {}
     },
     {
@@ -5019,13 +5021,14 @@
         "uniqueId": "LaBYrINtHFROMaNOThErWoRlDmOusHIkomI",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World",
         "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\image.png",
             "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\Labyrinth from Another World.ogg",
             "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\Labyrinth from Another World.tja",
             "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "81e29f4fcb465547704a77d985679e95",
-        "chartSize": 3.82,
+        "tjaMD5": "d5636bb2edb21600da1b91d505960543",
+        "chartSize": 3.87,
         "chartTitle": "Labyrinth from Another World",
         "chartSubtitle": "MoushiKomi",
         "chartDifficulties": {
@@ -5043,7 +5046,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "preview\\LaBYrINtHFROMaNOThErWoRlDmOusHIkomI.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\image.png",
         "chartHoFRanks": {}
     },
     {
@@ -6622,11 +6625,12 @@
         "tjaFilesPath": [
             "06 OpenTaiko Chapter VI\\251 - Assimilation\\Assimilation.ogg",
             "06 OpenTaiko Chapter VI\\251 - Assimilation\\Assimilation.tja",
+            "06 OpenTaiko Chapter VI\\251 - Assimilation\\image.png",
             "06 OpenTaiko Chapter VI\\251 - Assimilation\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "cf91c6cae9c7ed620c6721405afb775b",
-        "chartSize": 3.45,
+        "tjaMD5": "91dfcc23d9794977a40394a7058a0669",
+        "chartSize": 3.47,
         "chartTitle": "Assimilation",
         "chartSubtitle": "Tatsuoto vs. Ouroboros",
         "chartDifficulties": {
@@ -6644,7 +6648,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "preview\\AssimILATIonTAtsUotOVsoUrObOROs.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\251 - Assimilation\\image.png",
         "chartHoFRanks": {
             "Edit": 46
         }
@@ -6653,13 +6657,14 @@
         "uniqueId": "UNeNdIngFrEEdomtATSUoto",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\252 - Unending Freedom",
         "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\image.png",
             "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\Unending Freedom.ogg",
             "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\Unending Freedom.tja",
             "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "99b0efc1bc61773726a4d155d85f377c",
-        "chartSize": 4.12,
+        "tjaMD5": "7280e075deb0e04ba5e0dc95d3f5caa9",
+        "chartSize": 4.19,
         "chartTitle": "Unending Freedom",
         "chartSubtitle": "Tatsuoto",
         "chartDifficulties": {
@@ -6677,7 +6682,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "preview\\UNeNdIngFrEEdomtATSUoto.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\image.png",
         "chartHoFRanks": {
             "Oni": 25,
             "Edit": 66
@@ -6741,6 +6746,36 @@
         },
         "chartAudioFilePath": "preview\\ThESlIgOMAiDBabyzIOnoV.ogg",
         "chartJacketFilePath": "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\sligo.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "mECHANiCAlHeaRTtaIcheNkO",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\259 - Mechanical Heart",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\Mechanical Heart.ogg",
+            "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\Mechanical Heart.png",
+            "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\Mechanical Heart.tja",
+            "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "d35bd4812390c6f42cfd5789f110a94d",
+        "chartSize": 7.16,
+        "chartTitle": "Mechanical Heart",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 5,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "preview\\mECHANiCAlHeaRTtaIcheNkO.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\Mechanical Heart.png",
         "chartHoFRanks": {}
     },
     {

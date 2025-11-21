@@ -4718,12 +4718,12 @@
             "05 OpenTaiko Chapter V\\184 - Limelite\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "df86dc7eb431c9d90c5ed7c8d6a8b48c",
+        "tjaMD5": "423ef177afc286dab2a0c3ff970f519d",
         "chartSize": 2.41,
         "chartTitle": "Limelite",
         "chartSubtitle": "Attoclef",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 10.2,
             "Normal": 7,
             "Easy": 5,
             "Oni": 9,

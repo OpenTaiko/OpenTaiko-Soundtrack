@@ -247,7 +247,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 240 - Mr.Raven : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 241 - Own, : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 242 - Reverie XXIII - Miracle of the 23rd : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
-
+243 - Adamant Apathy : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by Komi)
 244 - 幽音の翠 : Pinktoe feat.はらもりよしな - https://soundcloud.com/umeboz (Chart by Dashy, DragonRatTiger)
 245 - 灰色カナリア（僕がまだ飛び続けるための） : 虹色鴉（ume & a-m） - https://soundcloud.com/umeboz (Chart by Komi, bol)
 246 - ARIGATO! : LLRK feat. 宮舞モカ - https://soundcloud.com/llrk (Chart by Komi)

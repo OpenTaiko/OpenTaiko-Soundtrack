@@ -6779,6 +6779,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "FalSEprETENSeSGaMEeDitRAchELTyPEx",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\257 - False Pretenses",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\257 - False Pretenses\\False Pretenses (Game Edit).jpg",
+            "06 OpenTaiko Chapter VI\\257 - False Pretenses\\False Pretenses (Game Edit).ogg",
+            "06 OpenTaiko Chapter VI\\257 - False Pretenses\\False Pretenses (Game Edit).tja",
+            "06 OpenTaiko Chapter VI\\257 - False Pretenses\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "3806e9d2510461783fd3a6b76a1dce5c",
+        "chartSize": 6.44,
+        "chartTitle": "False Pretenses (Game Edit)",
+        "chartSubtitle": "RachelTypeX",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 4,
+            "Oni": 7,
+            "Edit": 10.0
+        },
+        "chartMakers": {
+            "Easy": "sadkay",
+            "Normal": "sadkay",
+            "Hard": "sadkay",
+            "Oni": "sadkay",
+            "Edit": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\FalSEprETENSeSGaMEeDitRAchELTyPEx.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\257 - False Pretenses\\False Pretenses (Game Edit).jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "mECHANiCAlHeaRTtaIcheNkO",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\259 - Mechanical Heart",
         "tjaFilesPath": [

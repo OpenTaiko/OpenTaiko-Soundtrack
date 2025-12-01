@@ -261,6 +261,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 254 - The Sligo Maid : Baby Zionov / violin: Chansey / drums&guitar: Big Zak / BGI: Malev - https://twitter.com/babyzionov (Chart by Komi)
 255 - Own, (Tatsuoto Rearrangement) : Dashy, (Rearranged by Tatsuoto) - https://www.youtube.com/@wyvren_ https://x.com/NokoniPuro (Chart by Dashy)
 
+257 - False Pretenses (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/false-pretenses (Chart by sadkay)
 259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 
 265 - 孤独なる慈愛と芽生ゆる友愛 : らふむ - https://soundcloud.com/lufm-loves-dragon/jiai-yuai (Chart by Komi)

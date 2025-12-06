@@ -6841,6 +6841,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "iTOHiKUnaTsUNOedenniteSETcAFeAT",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\264 - Summer Eden",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\264 - Summer Eden\\SummerEden.jpg",
+            "06 OpenTaiko Chapter VI\\264 - Summer Eden\\SummerEden.ogg",
+            "06 OpenTaiko Chapter VI\\264 - Summer Eden\\SummerEden.tja",
+            "06 OpenTaiko Chapter VI\\264 - Summer Eden\\SummerEden.vtt",
+            "06 OpenTaiko Chapter VI\\264 - Summer Eden\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "144dc995d34c5c0de1e6365d2e7335e7",
+        "chartSize": 3.86,
+        "chartTitle": "Ito hiku natsu no eden ni te.",
+        "chartSubtitle": "Setca. feat. Karin Natsuki",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\iTOHiKUnaTsUNOedenniteSETcAFeAT.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\264 - Summer Eden\\SummerEden.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "ch6kodoku",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai",
         "tjaFilesPath": [

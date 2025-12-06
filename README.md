@@ -264,6 +264,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 257 - False Pretenses (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/false-pretenses (Chart by sadkay)
 259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 
+264 - 糸引く夏のエデンにて。 : Setca. feat. 夏色花梨 - https://soundcloud.com/setcanon/feat-1 (Chart by Komi)
 265 - 孤独なる慈愛と芽生ゆる友愛 : らふむ - https://soundcloud.com/lufm-loves-dragon/jiai-yuai (Chart by Komi)
 266 - Roar Dazed : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 267 - across the luminescent sky : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by bol, AsPho and Komi)
@@ -313,6 +314,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 251 - Assimilation : MusicFracturer (https://x.com/BachThienVanDL)
 252 - Unending Freedom : MusicFracturer (https://x.com/BachThienVanDL)
 259 - Mechanical Heart : Dashy,
+264 - 糸引く夏のエデンにて。 : 汐張神奈 (https://x.com/shioharikanna)
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 ```

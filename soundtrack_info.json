@@ -8292,6 +8292,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "optkhq08boosttheboogie",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ08 - 273 - Boost the Boogie",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ08 - 273 - Boost the Boogie\\nep08.tja",
+            "E02 OpenTaiko Headquarters\\HQ08 - 273 - Boost the Boogie\\nepo8.ogg",
+            "E02 OpenTaiko Headquarters\\HQ08 - 273 - Boost the Boogie\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "596e87877a127da26a40a10bf2c09369",
+        "chartSize": 3.97,
+        "chartTitle": "NEP0\uff1a8OOST\u30b6_\u30d6\u30ae\u30fc",
+        "chartSubtitle": "OPTK-HQ=CHANNEL0170 ft. Dashy,",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "IID",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\optkhq08boosttheboogie.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "outfox01",
         "tjaFolderPath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion",
         "tjaFilesPath": [

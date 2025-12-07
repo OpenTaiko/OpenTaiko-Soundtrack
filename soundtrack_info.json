@@ -6995,6 +6995,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "JonetSUdaeGUQYUBEy",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\269 - Jounetsu Daegu",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\269 - Jounetsu Daegu\\daegu.ogg",
+            "06 OpenTaiko Chapter VI\\269 - Jounetsu Daegu\\daegu.tja",
+            "06 OpenTaiko Chapter VI\\269 - Jounetsu Daegu\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "9e9bc072d4d88997e0ba33d34b8275f2",
+        "chartSize": 2.19,
+        "chartTitle": "Jonetsu Daegu",
+        "chartSubtitle": "Qyubey",
+        "chartDifficulties": {
+            "Oni": 10.9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Dashy",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\JonetSUdaeGUQYUBEy.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

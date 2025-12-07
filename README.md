@@ -269,6 +269,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 266 - Roar Dazed : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 267 - across the luminescent sky : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by bol, AsPho and Komi)
 268 - Ǝvanisce:əntiA : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by DiamondN1nja)
+269 - 情熱大邱 : Qyubey - https://x.com/QyubeySan (Chart by Komi and Dashy)
 
 271 - NEP0：MY5TERIOUSセッション : OPTK-HQ=CHANNEL0003 (Chart by OPTK-HQ)
 

@@ -6779,6 +6779,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "anOthErreALityH5",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\256 - Alternate Reality",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\256 - Alternate Reality\\Another Reality.ogg",
+            "06 OpenTaiko Chapter VI\\256 - Alternate Reality\\Another Reality.png",
+            "06 OpenTaiko Chapter VI\\256 - Alternate Reality\\Another Reality.tja",
+            "06 OpenTaiko Chapter VI\\256 - Alternate Reality\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "d94e0ec5ea4f49fde307bc603206981e",
+        "chartSize": 2.64,
+        "chartTitle": "Another Reality",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Edit": 2,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\anOthErreALityH5.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\256 - Alternate Reality\\Another Reality.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "FalSEprETENSeSGaMEeDitRAchELTyPEx",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\257 - False Pretenses",
         "tjaFilesPath": [

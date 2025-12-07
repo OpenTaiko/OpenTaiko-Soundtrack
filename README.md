@@ -260,8 +260,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 253 - PJ Princess (BMS Edit) : Baby Zionov feat. Moody V - https://twitter.com/babyzionov (Chart by sadkay)
 254 - The Sligo Maid : Baby Zionov / violin: Chansey / drums&guitar: Big Zak / BGI: Malev - https://twitter.com/babyzionov (Chart by Komi)
 255 - Own, (Tatsuoto Rearrangement) : Dashy, (Rearranged by Tatsuoto) - https://www.youtube.com/@wyvren_ https://x.com/NokoniPuro (Chart by Dashy)
-
+256 - Another Reality : H5 - https://linktr.ee/H5Music (Chart by bol)
 257 - False Pretenses (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/false-pretenses (Chart by sadkay)
+
 259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 
 264 - 糸引く夏のエデンにて。 : Setca. feat. 夏色花梨 - https://soundcloud.com/setcanon/feat-1 (Chart by Komi)
@@ -314,6 +315,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 250 - holicチョコ : morph
 251 - Assimilation : MusicFracturer (https://x.com/BachThienVanDL)
 252 - Unending Freedom : MusicFracturer (https://x.com/BachThienVanDL)
+256 - Another Reality : Dashy,
 259 - Mechanical Heart : Dashy,
 264 - 糸引く夏のエデンにて。 : 汐張神奈 (https://x.com/shioharikanna)
 T07 - Abyss : LeoO

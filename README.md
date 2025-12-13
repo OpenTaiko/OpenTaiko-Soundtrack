@@ -265,6 +265,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 
+262 - 家物語 : K4Y5 - https://soundcloud.com/k4y5z/8m4thy652jif (Chart by Komi)
+
 264 - 糸引く夏のエデンにて。 : Setca. feat. 夏色花梨 - https://soundcloud.com/setcanon/feat-1 (Chart by Komi)
 265 - 孤独なる慈愛と芽生ゆる友愛 : らふむ - https://soundcloud.com/lufm-loves-dragon/jiai-yuai (Chart by Komi)
 266 - Roar Dazed : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
@@ -317,6 +319,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 252 - Unending Freedom : MusicFracturer (https://x.com/BachThienVanDL)
 256 - Another Reality : Dashy,
 259 - Mechanical Heart : Dashy,
+262 - 家物語 : 空読無白眼 (https://9domu46i.com/)
 264 - 糸引く夏のエデンにて。 : 汐張神奈 (https://x.com/shioharikanna)
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO

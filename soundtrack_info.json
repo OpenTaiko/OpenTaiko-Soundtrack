@@ -6873,6 +6873,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "IemoNOgAtARik4y5",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\262 - Iemonogatari",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\Iemonogatari.ogg",
+            "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\Iemonogatari.png",
+            "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\Iemonogatari.tja",
+            "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\Iemonogatari.vtt",
+            "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "c28bd5474017584347edba50b719e549",
+        "chartSize": 3.07,
+        "chartTitle": "Iemonogatari",
+        "chartSubtitle": "K4Y5",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\IemoNOgAtARik4y5.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\Iemonogatari.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "iTOHiKUnaTsUNOedenniteSETcAFeAT",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\264 - Summer Eden",
         "tjaFilesPath": [

@@ -8476,6 +8476,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "optkhq09statesofdistortion",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ09 - 274 - nine states of distorsion",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ09 - 274 - nine states of distorsion\\nep09.ogg",
+            "E02 OpenTaiko Headquarters\\HQ09 - 274 - nine states of distorsion\\nep09.tja",
+            "E02 OpenTaiko Headquarters\\HQ09 - 274 - nine states of distorsion\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "d408f38d1a1022c19d998247bd249e84",
+        "chartSize": 3.68,
+        "chartTitle": "NEP0\uff1a9STATESOF\u30c7\u30a3\u30b9\u30c8\u30fc\u30b7\u30e7\u30f3",
+        "chartSubtitle": "OPTK-HQ=CHANNEL8117",
+        "chartDifficulties": {
+            "Edit": 10.9,
+            "Oni": 10.2,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "IID",
+            "Oni": "Komi",
+            "Hard": "Dashy",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\optkhq09statesofdistortion.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "outfox01",
         "tjaFolderPath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion",
         "tjaFilesPath": [

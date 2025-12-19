@@ -278,6 +278,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 271 - NEP0：MY5TERIOUSセッション : OPTK-HQ=CHANNEL0003 (Chart by OPTK-HQ)
 
 273 - NEP0：8OOSTザ_ブギー : OPTK-HQ=CHANNEL0170 ft. Dashy, (Chart by OPTK-HQ)
+274 - NEP0：9STATESOFディストーション : OPTK-HQ=CHANNEL8117 (Chart by OPTK-HQ)
 ```
 
 ### Visuals

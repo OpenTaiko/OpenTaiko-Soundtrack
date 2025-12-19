@@ -6873,6 +6873,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "SanGOdomAiN6cHA9n",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\261 - Sango Domain",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\261 - Sango Domain\\sango.jpg",
+            "06 OpenTaiko Chapter VI\\261 - Sango Domain\\sango.ogg",
+            "06 OpenTaiko Chapter VI\\261 - Sango Domain\\sango.tja",
+            "06 OpenTaiko Chapter VI\\261 - Sango Domain\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "e65ff8110a42342da7b5b6de97a49872",
+        "chartSize": 1.58,
+        "chartTitle": "Sango Domain",
+        "chartSubtitle": "6CHA9N",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\SanGOdomAiN6cHA9n.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\261 - Sango Domain\\sango.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "IemoNOgAtARik4y5",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\262 - Iemonogatari",
         "tjaFilesPath": [

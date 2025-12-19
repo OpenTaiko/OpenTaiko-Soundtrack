@@ -265,6 +265,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 
+261 - Sango Domain : りょくちゃくん - https://soundcloud.com/shadecount (Chart by Dashy)
 262 - 家物語 : K4Y5 - https://soundcloud.com/k4y5z/8m4thy652jif (Chart by Komi)
 
 264 - 糸引く夏のエデンにて。 : Setca. feat. 夏色花梨 - https://soundcloud.com/setcanon/feat-1 (Chart by Komi)

@@ -267,7 +267,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 260 - ABUNAI!!! : gentu - https://www.youtube.com/@gentu https://soundcloud.com/heyitsgentu (Chart by DiamondN1nja and AsPho)
 261 - Sango Domain : りょくちゃくん - https://soundcloud.com/shadecount (Chart by Dashy)
 262 - 家物語 : K4Y5 - https://soundcloud.com/k4y5z/8m4thy652jif (Chart by Komi)
-
+263 - Railgun : Meram1n - https://x.com/meram1n (Chart by DiamondN1nja)
 264 - 糸引く夏のエデンにて。 : Setca. feat. 夏色花梨 - https://soundcloud.com/setcanon/feat-1 (Chart by Komi)
 265 - 孤独なる慈愛と芽生ゆる友愛 : らふむ - https://soundcloud.com/lufm-loves-dragon/jiai-yuai (Chart by Komi)
 266 - Roar Dazed : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)

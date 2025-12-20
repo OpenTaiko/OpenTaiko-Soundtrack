@@ -6873,6 +6873,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "ABunaIGENtU",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\260 - ABUNAI",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\260 - ABUNAI\\ABUNAI.ogg",
+            "06 OpenTaiko Chapter VI\\260 - ABUNAI\\ABUNAI.tja",
+            "06 OpenTaiko Chapter VI\\260 - ABUNAI\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "6b7dead6af10bf509c2ac166620031b4",
+        "chartSize": 3.62,
+        "chartTitle": "ABUNAI!!!",
+        "chartSubtitle": "gentu",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "AsPho",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\ABunaIGENtU.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "SanGOdomAiN6cHA9n",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\261 - Sango Domain",
         "tjaFilesPath": [

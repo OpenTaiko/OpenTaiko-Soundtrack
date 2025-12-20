@@ -264,7 +264,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 257 - False Pretenses (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/false-pretenses (Chart by sadkay)
 
 259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
-
+260 - ABUNAI!!! : gentu - https://www.youtube.com/@gentu https://soundcloud.com/heyitsgentu (Chart by DiamondN1nja and AsPho)
 261 - Sango Domain : りょくちゃくん - https://soundcloud.com/shadecount (Chart by Dashy)
 262 - 家物語 : K4Y5 - https://soundcloud.com/k4y5z/8m4thy652jif (Chart by Komi)
 

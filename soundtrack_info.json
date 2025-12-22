@@ -8572,6 +8572,36 @@
         }
     },
     {
+        "uniqueId": "4eLiSeMaKOToRA",
+        "tjaFolderPath": "E03 Classical Arrangements\\272 - 4elise",
+        "tjaFilesPath": [
+            "E03 Classical Arrangements\\272 - 4elise\\4elise.ogg",
+            "E03 Classical Arrangements\\272 - 4elise\\4elise.png",
+            "E03 Classical Arrangements\\272 - 4elise\\4elise.tja",
+            "E03 Classical Arrangements\\272 - 4elise\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "E03 Classical Arrangements",
+        "tjaMD5": "6b7fa206b9fb5b09b26709921d65f8a1",
+        "chartSize": 5.09,
+        "chartTitle": "4elise",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\4eLiSeMaKOToRA.ogg",
+        "chartJacketFilePath": "E03 Classical Arrangements\\272 - 4elise\\4elise.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "outfox01",
         "tjaFolderPath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion",
         "tjaFilesPath": [

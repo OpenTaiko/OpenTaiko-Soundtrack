@@ -9534,6 +9534,39 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "pentjet06",
+        "tjaFolderPath": "L1 Collaborations\\C04 Project Pentjet\\P06 - Zealous Seeker",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C04 Project Pentjet\\P06 - Zealous Seeker\\uniqueId.json",
+            "L1 Collaborations\\C04 Project Pentjet\\P06 - Zealous Seeker\\Zealous Seeker.ogg",
+            "L1 Collaborations\\C04 Project Pentjet\\P06 - Zealous Seeker\\Zealous Seeker.png",
+            "L1 Collaborations\\C04 Project Pentjet\\P06 - Zealous Seeker\\Zealous Seeker.tja",
+            "L1 Collaborations\\C04 Project Pentjet\\P06 - Zealous Seeker\\zsopeningfinal.mp4"
+        ],
+        "tjaGenreFolder": "C04 Project Pentjet",
+        "tjaMD5": "1f43d772ff21f4a6b89e4c72b18b82a1",
+        "chartSize": 56.9,
+        "chartTitle": "Zealous Seeker",
+        "chartSubtitle": "zqr vs Sukima Altera",
+        "chartDifficulties": {
+            "Edit": 10.8,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja,bol",
+            "Oni": "DiamondN1nja,bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\pentjet06.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P06 - Zealous Seeker\\Zealous Seeker.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu",
         "tjaFilesPath": [

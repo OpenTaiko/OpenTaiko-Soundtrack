@@ -452,6 +452,7 @@ Star*Dust by CuZi (Chart by DiamondN1nja): https://youtube.com/channel/UCxx3wiFJ
 Necrovis by St4rie (Chart by Makotora): https://www.youtube.com/channel/UC54jxHumitCmoZAk5z1b02Q/videos
 Jakarta EVOLUTION by KURORAK (Chart by DiamondN1nja and sadkay): https://www.youtube.com/@Kurorak
 Yukisarashi by SiLiS (Chart by DiamondN1nja): https://soundcloud.com/silis
+Zealous Seeker by zqr vs Sukima Altera (Chart by the Arctic Circle): https://www.youtube.com/watch?v=OMHiSB_u9OE
 ```
 
 ## Reuploading

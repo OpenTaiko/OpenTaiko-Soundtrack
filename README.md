@@ -262,7 +262,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 255 - Own, (Tatsuoto Rearrangement) : Dashy, (Rearranged by Tatsuoto) - https://www.youtube.com/@wyvren_ https://x.com/NokoniPuro (Chart by Dashy)
 256 - Another Reality : H5 - https://linktr.ee/H5Music (Chart by bol)
 257 - False Pretenses (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/false-pretenses (Chart by sadkay)
-
+258 - ROTTERDAM KITCHEN : freesia - https://www.youtube.com/watch?v=2HDLu4BFk2c (Chart by bol and DragonRatTiger)
 259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 260 - ABUNAI!!! : gentu - https://www.youtube.com/@gentu https://soundcloud.com/heyitsgentu (Chart by DiamondN1nja and AsPho)
 261 - Sango Domain : りょくちゃくん - https://soundcloud.com/shadecount (Chart by Dashy)

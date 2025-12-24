@@ -6843,6 +6843,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "rOTterDAMKItCHENfReEsIA",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\258 - ROTTERDAM KITCHEN",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\258 - ROTTERDAM KITCHEN\\rot.jpg",
+            "06 OpenTaiko Chapter VI\\258 - ROTTERDAM KITCHEN\\rot.ogg",
+            "06 OpenTaiko Chapter VI\\258 - ROTTERDAM KITCHEN\\rot.tja",
+            "06 OpenTaiko Chapter VI\\258 - ROTTERDAM KITCHEN\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "01a853c7b3423d7747c20df28b3a19a3",
+        "chartSize": 1.41,
+        "chartTitle": "ROTTERDAM KITCHEN",
+        "chartSubtitle": "freesia",
+        "chartDifficulties": {
+            "Edit": 10.8,
+            "Oni": 8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "bol",
+            "Hard": "DragonRatTiger",
+            "Normal": "DragonRatTiger",
+            "Easy": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "preview\\rOTterDAMKItCHENfReEsIA.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\258 - ROTTERDAM KITCHEN\\rot.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "mECHANiCAlHeaRTtaIcheNkO",
         "tjaFolderPath": "06 OpenTaiko Chapter VI\\259 - Mechanical Heart",
         "tjaFilesPath": [

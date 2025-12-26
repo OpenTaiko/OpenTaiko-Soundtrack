@@ -274,7 +274,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 267 - across the luminescent sky : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by bol, AsPho and Komi)
 268 - Ǝvanisce:əntiA : f2 - https://x.com/f2_somebody https://soundcloud.com/feet-squared (Chart by DiamondN1nja)
 269 - 情熱大邱 : Qyubey - https://x.com/QyubeySan (Chart by Komi and Dashy)
-
+270 - the world of periwinkle : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by bol, AsPho and Komi)
 271 - NEP0：MY5TERIOUSセッション : OPTK-HQ=CHANNEL0003 (Chart by OPTK-HQ)
 272 - 4elise : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora and Komi)
 273 - NEP0：8OOSTザ_ブギー : OPTK-HQ=CHANNEL0170 ft. Dashy, (Chart by OPTK-HQ)

@@ -279,6 +279,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 272 - 4elise : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora and Komi)
 273 - NEP0：8OOSTザ_ブギー : OPTK-HQ=CHANNEL0170 ft. Dashy, (Chart by OPTK-HQ)
 274 - NEP0：9STATESOFディストーション : OPTK-HQ=CHANNEL8117 (Chart by OPTK-HQ)
+275 - Summer Emotion : motz - https://soundcloud.com/user-677150608/bofetsummer-emotion (Chart by DiamondN1nja)
 ```
 
 ### Visuals
@@ -451,8 +452,8 @@ PentRage by RachelTypeX (Chart by Komi and DiamondN1nja): https://soundcloud.com
 Star*Dust by CuZi (Chart by DiamondN1nja): https://youtube.com/channel/UCxx3wiFJxGwb_-tEePPa4RA 
 Necrovis by St4rie (Chart by Makotora): https://www.youtube.com/channel/UC54jxHumitCmoZAk5z1b02Q/videos
 Jakarta EVOLUTION by KURORAK (Chart by DiamondN1nja and sadkay): https://www.youtube.com/@Kurorak
-Yukisarashi by SiLiS (Chart by DiamondN1nja): https://soundcloud.com/silis
-Zealous Seeker by zqr vs Sukima Altera (Chart by the Arctic Circle): https://www.youtube.com/watch?v=OMHiSB_u9OE
+Yukisarashi by SiLiS (Chart by DiamondN1nja): https://soundcloud.com/silis (Jacket by mngo)
+Zealous Seeker by zqr vs Sukima Altera (Chart by the Arctic Circle): https://www.youtube.com/watch?v=OMHiSB_u9OE (Jacket by Michikoiku)
 ```
 
 ## Reuploading

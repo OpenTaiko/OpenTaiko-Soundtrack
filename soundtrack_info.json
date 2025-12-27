@@ -199,12 +199,12 @@
             "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "5ee825b48c9e341bc020f0da077a1c95",
+        "tjaMD5": "b05a97e9f50f15ecd4a53ac73cc90c52",
         "chartSize": 3.29,
         "chartTitle": "DON'T LOOK BACK",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
-            "Edit": 12.0,
+            "Edit": 12.2,
             "Oni": 10.7,
             "Hard": 8,
             "Normal": 7,
@@ -4288,12 +4288,12 @@
             "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\uniqueId.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "a27228922c24372541d48552ee25af60",
+        "tjaMD5": "2ec93fd2fc3e97bf090e7f51410db3ac",
         "chartSize": 8.73,
         "chartTitle": "C\u00f8llapse of the S\u00f8ul",
         "chartSubtitle": "H888. (H5 + DashyDesu)",
         "chartDifficulties": {
-            "Edit": 12.2,
+            "Edit": 12.4,
             "Oni": 10.8,
             "Hard": 9,
             "Normal": 8,
@@ -7248,6 +7248,38 @@
         }
     },
     {
+        "uniqueId": "yellowrizz",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\275 - Summer Emotion",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\275 - Summer Emotion\\Summer Emotion.tja",
+            "06 OpenTaiko Chapter VI\\275 - Summer Emotion\\SummerEmotion.ogg",
+            "06 OpenTaiko Chapter VI\\275 - Summer Emotion\\SummerEmotion.png",
+            "06 OpenTaiko Chapter VI\\275 - Summer Emotion\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "d22d1dafae6d89a0c1d9cbbc6cd3fca7",
+        "chartSize": 3.77,
+        "chartTitle": "Summer Emotion",
+        "chartSubtitle": "motz",
+        "chartDifficulties": {
+            "Edit": 12.1,
+            "Oni": 10.7,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\yellowrizz.ogg",
+        "chartJacketFilePath": "06 OpenTaiko Chapter VI\\275 - Summer Emotion\\SummerEmotion.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [
@@ -7381,12 +7413,12 @@
             "C10 Deceiver's Defiances\\073 - Emily\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "c313821f09cc01ae52d846de55ebcecc",
+        "tjaMD5": "c3d74628c24b9297412d9809f0de480d",
         "chartSize": 4.49,
         "chartTitle": "Emily",
         "chartSubtitle": "H5",
         "chartDifficulties": {
-            "Edit": 12.1,
+            "Edit": 12.0,
             "Oni": 7,
             "Hard": 9,
             "Normal": 7,
@@ -9544,13 +9576,13 @@
         "tjaFolderPath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi",
         "tjaFilesPath": [
             "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\uniqueId.json",
-            "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.jpg",
             "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.ogg",
+            "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.png",
             "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\Yukisarashi.tja"
         ],
         "tjaGenreFolder": "C04 Project Pentjet",
-        "tjaMD5": "ce3d8943eceb61ae3562e6484a5ca31e",
-        "chartSize": 3.45,
+        "tjaMD5": "330649fcfb48ae3e56c5b5c4cf21bd89",
+        "chartSize": 5.0,
         "chartTitle": "Yukisarashi",
         "chartSubtitle": "SiLiS / Project Pentjet",
         "chartDifficulties": {
@@ -9566,7 +9598,7 @@
             "Easy": "DiamondN1nja"
         },
         "chartAudioFilePath": "preview\\pentjet05.ogg",
-        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.jpg",
+        "chartJacketFilePath": "L1 Collaborations\\C04 Project Pentjet\\P05 - Yukisarashi\\yukisarashi.png",
         "chartHoFRanks": {}
     },
     {

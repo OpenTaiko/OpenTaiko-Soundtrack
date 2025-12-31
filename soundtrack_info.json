@@ -7283,6 +7283,95 @@
         }
     },
     {
+        "uniqueId": "AshEsinthEgeArboxSnikIox3Ll3n",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\277 - Ashes in the Gearbox",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\277 - Ashes in the Gearbox\\Ashes in the Gearbox (Cut).ogg",
+            "07 OpenTaiko Chapter VII\\277 - Ashes in the Gearbox\\Ashes in the Gearbox.tja",
+            "07 OpenTaiko Chapter VII\\277 - Ashes in the Gearbox\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "5503e0548b9cedc270d79f67f3cbd2c7",
+        "chartSize": 2.44,
+        "chartTitle": "Ashes in the Gearbox",
+        "chartSubtitle": "Snikio & X3ll3n",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\AshEsinthEgeArboxSnikIox3Ll3n.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "ChARgeBEAMGaMeeDitrACHeltyPEx",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\278 - CHARGE BEAM",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\278 - CHARGE BEAM\\CHARGE BEAM (Game Edit).ogg",
+            "07 OpenTaiko Chapter VII\\278 - CHARGE BEAM\\CHARGE BEAM (Game Edit).png",
+            "07 OpenTaiko Chapter VII\\278 - CHARGE BEAM\\CHARGE BEAM (Game Edit).tja",
+            "07 OpenTaiko Chapter VII\\278 - CHARGE BEAM\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "59afedfc36e48c0af84b2874b265fa02",
+        "chartSize": 6.98,
+        "chartTitle": "CHARGE BEAM (Game Edit)",
+        "chartSubtitle": "RachelTypeX",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "preview\\ChARgeBEAMGaMeeDitrACHeltyPEx.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\278 - CHARGE BEAM\\CHARGE BEAM (Game Edit).png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "nOstaJUeOFFICIalAZ3FromYOBIMoentertAiNmENt",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\279 - Nostajue",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\279 - Nostajue\\Nostajue.ogg",
+            "07 OpenTaiko Chapter VII\\279 - Nostajue\\Nostajue.png",
+            "07 OpenTaiko Chapter VII\\279 - Nostajue\\Nostajue.tja",
+            "07 OpenTaiko Chapter VII\\279 - Nostajue\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "24bb7d69fd4a945f37b2d64a00f4cf99",
+        "chartSize": 7.4,
+        "chartTitle": "Nostajue",
+        "chartSubtitle": "OfficialAz3 (From Yobimo Entertainment)",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\nOstaJUeOFFICIalAZ3FromYOBIMoentertAiNmENt.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\279 - Nostajue\\Nostajue.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

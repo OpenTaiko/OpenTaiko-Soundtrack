@@ -7372,6 +7372,127 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "MiDnIghTfReeWaySNIKIoX3LL3N",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\283 - Midnight Freeway",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\283 - Midnight Freeway\\Midnight Freeway.ogg",
+            "07 OpenTaiko Chapter VII\\283 - Midnight Freeway\\Midnight Freeway.tja",
+            "07 OpenTaiko Chapter VII\\283 - Midnight Freeway\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "c01c2cba2991de719e31763d4e68e553",
+        "chartSize": 4.63,
+        "chartTitle": "Midnight Freeway",
+        "chartSubtitle": "Snikio & X3ll3n",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "preview\\MiDnIghTfReeWaySNIKIoX3LL3N.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "BAbYr",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\284 - Baby",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\284 - Baby\\baby.jpg",
+            "07 OpenTaiko Chapter VII\\284 - Baby\\baby.ogg",
+            "07 OpenTaiko Chapter VII\\284 - Baby\\baby.tja",
+            "07 OpenTaiko Chapter VII\\284 - Baby\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "b02eba9fe15d8656c0628aceb65ca174",
+        "chartSize": 2.1,
+        "chartTitle": "Baby",
+        "chartSubtitle": "r",
+        "chartDifficulties": {
+            "Edit": 10.1,
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "IID",
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "preview\\BAbYr.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\284 - Baby\\baby.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "RastGAMES3KadoYuruka",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\285 - R-ast GaMES",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\285 - R-ast GaMES\\R-ast GaMES!!.ogg",
+            "07 OpenTaiko Chapter VII\\285 - R-ast GaMES\\R-ast GaMES!!.png",
+            "07 OpenTaiko Chapter VII\\285 - R-ast GaMES\\R-ast GaMES!!.tja",
+            "07 OpenTaiko Chapter VII\\285 - R-ast GaMES\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "17d0ef11be9da1c51bb3d7208235534a",
+        "chartSize": 4.65,
+        "chartTitle": "\"R\"ast GaMES!!",
+        "chartSubtitle": "3Kado_ vs Yuruka",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Ryuto Setsujin",
+            "Hard": "Ryuto Setsujin",
+            "Normal": "Ryuto Setsujin",
+            "Easy": "Ryuto Setsujin"
+        },
+        "chartAudioFilePath": "preview\\RastGAMES3KadoYuruka.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\285 - R-ast GaMES\\R-ast GaMES!!.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "SeVenstATesOFDReAMscApesofFICiaLAz3",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes\\seven states of dreamscapes.ogg",
+            "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes\\seven states of dreamscapes.png",
+            "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes\\seven states of dreamscapes.tja",
+            "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "da335c1a62d34152dfd2f1663df607a3",
+        "chartSize": 6.32,
+        "chartTitle": "seven states of dreamscapes",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 7,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\SeVenstATesOFDReAMscApesofFICiaLAz3.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes\\seven states of dreamscapes.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

@@ -284,6 +284,11 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 277 - Ashes in the Gearbox : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by sadkay)
 278 - CHARGE BEAM (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/charge-beam-game-edit (Chart by IID)
 279 - Nostajue : OfficialAz3 (From Yobimo Entertainment) - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
+
+283 - Midnight Freeway : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by IID)
+284 - Baby : r - https://soundcloud.com/r_00005/akachanakachanakachan (Chart by IID)
+285 - "R"ast GaMES!! : 3Kado_ vs Yuruka - https://x.com/3Kado_168 (Chart by Ryuto Setsujin)
+286 - seven states of dreamscapes : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 ```
 
 ### Visuals
@@ -329,6 +334,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 262 - 家物語 : 空読無白眼 (https://9domu46i.com/)
 264 - 糸引く夏のエデンにて。 : 汐張神奈 (https://x.com/shioharikanna)
 278 - CHARGE BEAM (Game Edit) : MusicFracturer (https://x.com/BachThienVanDL)
+285 - "R"ast GaMES!! : Minerva Rin
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 ```

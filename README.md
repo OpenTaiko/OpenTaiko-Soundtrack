@@ -280,11 +280,13 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 273 - NEP0：8OOSTザ_ブギー : OPTK-HQ=CHANNEL0170 ft. Dashy, (Chart by OPTK-HQ)
 274 - NEP0：9STATESOFディストーション : OPTK-HQ=CHANNEL8117 (Chart by OPTK-HQ)
 275 - Summer Emotion : motz - https://soundcloud.com/user-677150608/bofetsummer-emotion (Chart by DiamondN1nja)
-
+276 - ???
 277 - Ashes in the Gearbox : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by sadkay)
 278 - CHARGE BEAM (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/charge-beam-game-edit (Chart by IID)
 279 - Nostajue : OfficialAz3 (From Yobimo Entertainment) - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
-
+280 - MADRUGADA -vem no pique- : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by Makotora and Komi)
+281 - シャトヤンシーにくちづけを : Rner - https://soundcloud.com/user-833663297/chatyancy_bof2022 (Chart by Komi)
+282 - Palette Lab : かんざきしおん - https://soundcloud.com/2qhhqd0gwwcb/bofetpalette-lab (Chart by bol)
 283 - Midnight Freeway : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by IID)
 284 - Baby : r - https://soundcloud.com/r_00005/akachanakachanakachan (Chart by IID)
 285 - "R"ast GaMES!! : 3Kado_ vs Yuruka - https://x.com/3Kado_168 (Chart by Ryuto Setsujin)

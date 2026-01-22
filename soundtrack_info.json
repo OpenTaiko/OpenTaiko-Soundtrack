@@ -7372,6 +7372,98 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "mADRuGaDAVeMNoPiqUEoPeNtAiKOSoUNDtEamMAkOtORa",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-\\MADRUGADA -vem no pique-.ogg",
+            "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-\\MADRUGADA -vem no pique-.tja",
+            "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-\\MADRUGADA.vtt",
+            "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-\\uniqueId.json",
+            "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-\\yah - Makotora.png"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "f0c5b8dfa7ee4e1436fcf987e58d2c93",
+        "chartSize": 2.71,
+        "chartTitle": "MADRUGADA -vem no pique-",
+        "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 7,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "Makotora",
+            "Oni": "Komi",
+            "Hard": "Makotora",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\mADRuGaDAVeMNoPiqUEoPeNtAiKOSoUNDtEamMAkOtORa.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-\\yah - Makotora.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "cHAToyaNcYNIKUcHIDZuKewornEr",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\281 - Chatoyancy ni Kuchidzuke wo",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\281 - Chatoyancy ni Kuchidzuke wo\\Chatoyancy ni Kuchidzuke wo.ogg",
+            "07 OpenTaiko Chapter VII\\281 - Chatoyancy ni Kuchidzuke wo\\Chatoyancy ni Kuchidzuke wo.tja",
+            "07 OpenTaiko Chapter VII\\281 - Chatoyancy ni Kuchidzuke wo\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "f447d83c02a93a9389b70a6326d8e01c",
+        "chartSize": 2.6,
+        "chartTitle": "Chatoyancy ni Kuchidzuke wo",
+        "chartSubtitle": "Rner",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\cHAToyaNcYNIKUcHIDZuKewornEr.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "PALeTtElaBkanzakIshion",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\282 - Palette Lab",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\282 - Palette Lab\\palette.jpg",
+            "07 OpenTaiko Chapter VII\\282 - Palette Lab\\palette.ogg",
+            "07 OpenTaiko Chapter VII\\282 - Palette Lab\\palette.tja",
+            "07 OpenTaiko Chapter VII\\282 - Palette Lab\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "b2cc5ba940ebd40a7130cba915cc4794",
+        "chartSize": 1.89,
+        "chartTitle": "Palette Lab",
+        "chartSubtitle": "Kanzaki Shion",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\PALeTtElaBkanzakIshion.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\282 - Palette Lab\\palette.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "MiDnIghTfReeWaySNIKIoX3LL3N",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\283 - Midnight Freeway",
         "tjaFilesPath": [

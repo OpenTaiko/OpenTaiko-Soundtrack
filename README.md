@@ -263,7 +263,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 256 - Another Reality : H5 - https://linktr.ee/H5Music (Chart by bol)
 257 - False Pretenses (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/false-pretenses (Chart by sadkay)
 258 - ROTTERDAM KITCHEN : freesia - https://www.youtube.com/watch?v=2HDLu4BFk2c (Chart by bol and DragonRatTiger)
-259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
+259 - Mechanical Heart : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko and DiamondN1nja)
 260 - ABUNAI!!! : gentu - https://www.youtube.com/@gentu https://soundcloud.com/heyitsgentu (Chart by DiamondN1nja and AsPho)
 261 - Sango Domain : りょくちゃくん - https://soundcloud.com/shadecount (Chart by Dashy)
 262 - 家物語 : K4Y5 - https://soundcloud.com/k4y5z/8m4thy652jif (Chart by Komi)
@@ -280,7 +280,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 273 - NEP0：8OOSTザ_ブギー : OPTK-HQ=CHANNEL0170 ft. Dashy, (Chart by OPTK-HQ)
 274 - NEP0：9STATESOFディストーション : OPTK-HQ=CHANNEL8117 (Chart by OPTK-HQ)
 275 - Summer Emotion : motz - https://soundcloud.com/user-677150608/bofetsummer-emotion (Chart by DiamondN1nja)
-276 - ???
+276 - The Shining Amber of the Forest : Kohaku (Arr. Dashy, 2023) - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 277 - Ashes in the Gearbox : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by sadkay)
 278 - CHARGE BEAM (Game Edit) : RachelTypeX - https://soundcloud.com/racheltypex/charge-beam-game-edit (Chart by IID)
 279 - Nostajue : OfficialAz3 (From Yobimo Entertainment) - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
@@ -291,6 +291,10 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 284 - Baby : r - https://soundcloud.com/r_00005/akachanakachanakachan (Chart by IID)
 285 - "R"ast GaMES!! : 3Kado_ vs Yuruka - https://x.com/3Kado_168 (Chart by Ryuto Setsujin)
 286 - seven states of dreamscapes : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
+287 - Iridescent Beauty (Game Edit) : Sukima Altera - https://yokaicore.bandcamp.com/track/iridescent-beauty (Chart by Komi and sadkay)
+288 - ???
+289 - ravage reign : Makotora - https://kingmakotora.bandcamp.com/track/ravage-reign (Chart by IID)
+290 - Collapse. : Pandemonium. - endofsystem: https://www.youtube.com/channel/UCAFzvc7DqmBMVpb9pH4TStg, OfficialAz3 - https://www.youtube.com/@OfficialAz3, Echa - https://www.youtube.com/channel/UCGm9EXfV3yY0Bc8E4gEX1CA (Chart by Komi)
 ```
 
 ### Visuals
@@ -337,6 +341,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 264 - 糸引く夏のエデンにて。 : 汐張神奈 (https://x.com/shioharikanna)
 278 - CHARGE BEAM (Game Edit) : MusicFracturer (https://x.com/BachThienVanDL)
 285 - "R"ast GaMES!! : Minerva Rin
+290 - Collapse. : MONOHALLS
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 ```

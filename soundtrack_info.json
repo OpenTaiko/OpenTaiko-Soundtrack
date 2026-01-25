@@ -6886,17 +6886,19 @@
             "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "d35bd4812390c6f42cfd5789f110a94d",
-        "chartSize": 7.16,
+        "tjaMD5": "ea60fa7af6bb360a77900d9f5ecacf3d",
+        "chartSize": 7.17,
         "chartTitle": "Mechanical Heart",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
+            "Edit": 10.7,
             "Oni": 9,
             "Hard": 8,
             "Normal": 5,
             "Easy": 2
         },
         "chartMakers": {
+            "Edit": "DiamondN1nja",
             "Oni": "Taichenko",
             "Hard": "Taichenko",
             "Normal": "Taichenko",
@@ -7069,17 +7071,19 @@
             "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai\\uniqueId.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "0b545e0827179a9d8f9d33fd696d41ea",
-        "chartSize": 3.13,
+        "tjaMD5": "fe26e2c495e244c76552bcb3f4232579",
+        "chartSize": 3.14,
         "chartTitle": "Kodoku naru Jiai to Gasei yuru Yuuai",
         "chartSubtitle": "lufm",
         "chartDifficulties": {
+            "Edit": 10.8,
             "Oni": 9,
             "Hard": 7,
             "Normal": 6,
             "Easy": 4
         },
         "chartMakers": {
+            "Edit": "Komi",
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",
@@ -7281,6 +7285,35 @@
             "Edit": 5,
             "Oni": 67
         }
+    },
+    {
+        "uniqueId": "kohaku20bpmoutch",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\276 - The Shining Amber of the Forest",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\276 - The Shining Amber of the Forest\\kohaku.ogg",
+            "07 OpenTaiko Chapter VII\\276 - The Shining Amber of the Forest\\The_Shining_Amber_of_the_Forest.tja",
+            "07 OpenTaiko Chapter VII\\276 - The Shining Amber of the Forest\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "0a4fc67a2b42d9cb3601d1c313131d21",
+        "chartSize": 3.02,
+        "chartTitle": "The Shining Amber of the Forest",
+        "chartSubtitle": "Kohaku (Arr. Dashy, 2023)",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\kohaku20bpmoutch.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "AshEsinthEgeArboxSnikIox3Ll3n",
@@ -7582,6 +7615,102 @@
         },
         "chartAudioFilePath": "preview\\SeVenstATesOFDReAMscApesofFICiaLAz3.ogg",
         "chartJacketFilePath": "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes\\seven states of dreamscapes.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "IrIDeSCENTbeautygameEdITsuKimaaLtERA",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\287 - Iridescent Beauty",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\287 - Iridescent Beauty\\Iridescent Beauty (Game Edit).ogg",
+            "07 OpenTaiko Chapter VII\\287 - Iridescent Beauty\\Iridescent Beauty (Game Edit).png",
+            "07 OpenTaiko Chapter VII\\287 - Iridescent Beauty\\Iridescent Beauty (Game Edit).tja",
+            "07 OpenTaiko Chapter VII\\287 - Iridescent Beauty\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "c80d459e2662d01523a9f78d361ba60d",
+        "chartSize": 5.52,
+        "chartTitle": "Iridescent Beauty (Game Edit)",
+        "chartSubtitle": "Sukima Altera",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "sadkay",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\IrIDeSCENTbeautygameEdITsuKimaaLtERA.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\287 - Iridescent Beauty\\Iridescent Beauty (Game Edit).png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "rAvaGEREiGNmaKOtORa",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\289 - ravage reign",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\289 - ravage reign\\ravage reign.ogg",
+            "07 OpenTaiko Chapter VII\\289 - ravage reign\\ravage reign.png",
+            "07 OpenTaiko Chapter VII\\289 - ravage reign\\ravage reign.tja",
+            "07 OpenTaiko Chapter VII\\289 - ravage reign\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "d40b28ce7338f1c9a5ca1fad0b3fb590",
+        "chartSize": 7.27,
+        "chartTitle": "ravage reign",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 10.5,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "IID",
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "preview\\rAvaGEREiGNmaKOtORa.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\289 - ravage reign\\ravage reign.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "CoLlaPSEPaNDEMOniUm",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\290 - Collapse",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\290 - Collapse\\Collapse.ogg",
+            "07 OpenTaiko Chapter VII\\290 - Collapse\\Collapse.png",
+            "07 OpenTaiko Chapter VII\\290 - Collapse\\Collapse.tja",
+            "07 OpenTaiko Chapter VII\\290 - Collapse\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "ababd4526e1b9e7713eb664b422e4e61",
+        "chartSize": 4.32,
+        "chartTitle": "Collapse.",
+        "chartSubtitle": "Pandemonium.",
+        "chartDifficulties": {
+            "Edit": 11.4,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\CoLlaPSEPaNDEMOniUm.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\290 - Collapse\\Collapse.png",
         "chartHoFRanks": {}
     },
     {
@@ -8107,7 +8236,7 @@
             "C12 Dashy's Secrets\\080 - I want to bloom\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "8b4272a0ea398f89092fb9a45809bd7f",
+        "tjaMD5": "85a5cf73e6d5a91d5880fc44518b187d",
         "chartSize": 2.84,
         "chartTitle": "I WANT TO BL00000000M",
         "chartSubtitle": "DashyDesu",

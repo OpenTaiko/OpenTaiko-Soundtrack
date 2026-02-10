@@ -3421,17 +3421,19 @@
             "04 OpenTaiko Chapter IV\\139 - euphoric eruption\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "e81f55a226a2a5a892fa919338ee0172",
+        "tjaMD5": "6584590f2eade7563a21cf6bb898b366",
         "chartSize": 2.03,
         "chartTitle": "euphoric eruption",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
+            "Edit": 8,
             "Oni": 6,
             "Hard": 4,
             "Normal": 3,
             "Easy": 2
         },
         "chartMakers": {
+            "Edit": "YSTAR-T",
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",
@@ -8584,25 +8586,28 @@
         "tjaFilesPath": [
             "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night ~Dream Fantasy~.ogg",
             "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night ~Dream Fantasy~.tja",
+            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night ~Dream Fantasy~.tja.bak",
             "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night.png",
             "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "dc773101b4bac2ddf03131498ba61ca0",
-        "chartSize": 8.9,
+        "tjaMD5": "8104f5eb78178374391233b2e4b10d96",
+        "chartSize": 8.91,
         "chartTitle": "Rainy Night ~Dream Fantasy~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
+            "Edit": 10.0,
             "Oni": 9,
             "Hard": 7,
-            "Normal": 5,
-            "Easy": 4
+            "Normal": 6,
+            "Easy": 3
         },
         "chartMakers": {
+            "Edit": "YSTAR-T",
             "Oni": "Taichenko",
-            "Hard": "\u98a8\u306b\u4e57\u3063\u3066go",
-            "Normal": "\u98a8\u306b\u4e57\u3063\u3066go",
-            "Easy": "\u98a8\u306b\u4e57\u3063\u3066go"
+            "Hard": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
         },
         "chartAudioFilePath": "preview\\rnTaichenko.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night.png",
@@ -10075,6 +10080,185 @@
         "chartHoFRanks": {
             "Edit": 50
         }
+    },
+    {
+        "uniqueId": "touhou13",
+        "tjaFolderPath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T13 - Desire Drive",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T13 - Desire Drive\\Desire Drive (H2GO Remix).ogg",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T13 - Desire Drive\\Desire Drive (H2GO Remix).tja",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T13 - Desire Drive\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
+        "tjaMD5": "75498bfef40520a0f4b0110954d1fe80",
+        "chartSize": 3.77,
+        "chartTitle": "Desire Drive (H2GO Remix)",
+        "chartSubtitle": "Touhou Project Arrange / TanChen",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\touhou13.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "touhou14",
+        "tjaFolderPath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T14 - Far East Requiem",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T14 - Far East Requiem\\Far-East-Requiem.ogg",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T14 - Far East Requiem\\Far-East-Requiem.tja",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T14 - Far East Requiem\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
+        "tjaMD5": "dd25f6df678eba257934538a85b3a6dc",
+        "chartSize": 3.71,
+        "chartTitle": "Far East Requiem",
+        "chartSubtitle": "Touhou Project Arrange / Masamune",
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 6
+        },
+        "chartMakers": {
+            "Oni": "AsPho",
+            "Hard": "AsPho",
+            "Normal": "AsPho",
+            "Easy": "AsPho"
+        },
+        "chartAudioFilePath": "preview\\touhou14.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "touhou15",
+        "tjaFolderPath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T15 - Elusiveyoukai",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T15 - Elusiveyoukai\\Elusiveyoukai.ogg",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T15 - Elusiveyoukai\\Elusiveyoukai.png",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T15 - Elusiveyoukai\\Elusiveyoukai.tja",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T15 - Elusiveyoukai\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
+        "tjaMD5": "32f51495b6f1c0b6a6513f990b4d459b",
+        "chartSize": 13.07,
+        "chartTitle": "Elusiveyoukai",
+        "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "preview\\touhou15.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T15 - Elusiveyoukai\\Elusiveyoukai.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "touhou16",
+        "tjaFolderPath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T16 - Rainy Right",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T16 - Rainy Right\\Rainy Right.ogg",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T16 - Rainy Right\\Rainy Right.png",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T16 - Rainy Right\\Rainy Right.tja",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T16 - Rainy Right\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
+        "tjaMD5": "cb6a31c319cea4459d2f939ef12cff24",
+        "chartSize": 7.51,
+        "chartTitle": "Rainy Right ? ~Fantasy Waterfall~",
+        "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "preview\\touhou16.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T16 - Rainy Right\\Rainy Right.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "touhou17",
+        "tjaFolderPath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T17 - Gap Moe",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T17 - Gap Moe\\Gap Moe.ogg",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T17 - Gap Moe\\Gap Moe.png",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T17 - Gap Moe\\Gap Moe.tja",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T17 - Gap Moe\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
+        "tjaMD5": "8622b18842a48be420957a3eb4dd4f55",
+        "chartSize": 8.0,
+        "chartTitle": "Gap Moe \u2606",
+        "chartSubtitle": "Touhou Project Arrange / gentu",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "preview\\touhou17.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T17 - Gap Moe\\Gap Moe.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "touhou18",
+        "tjaFolderPath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\Seimei.ogg",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\Seimei.tja",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
+        "tjaMD5": "839181a71c9a928c010157e371354b70",
+        "chartSize": 7.05,
+        "chartTitle": "Seimei no Nitouryuu",
+        "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4,
+            "Edit": 11.6
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko",
+            "Edit": "Komi"
+        },
+        "chartAudioFilePath": "preview\\touhou18.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",

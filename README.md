@@ -28,7 +28,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 021 - Welcome To The Cafe : Sukima Altera feat. ALTERNATiVE THEORY - https://youtube.com/c/SukimaAltera | https://www.twitter.com/SukimaAltera (Chart by Komi)
 022 - Seismic Shake : DeBisco - https://soundcloud.com/debisco | https://twitter.com/debiscomusic (Chart by Komi & bol)
 023 - Stereotype : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko (Extreme) & Komi (Easy, Normal, Hard))
-024 - Rainy Night ~夢幻想~ : Taichenko - https://space.bilibili.com/356518101 https://b23.tv/LBMw5Oz (Chart by Taichenko (Extreme) & 風に乗ってgo (Easy, Normal, Hard))
+024 - Rainy Night ~夢幻想~ : Taichenko - https://space.bilibili.com/356518101 https://b23.tv/LBMw5Oz (Chart by Taichenko (Extreme) & YSTAR-T (Easy, Normal, Hard))
 025 - Fearless : Ash Electric - https://linktr.ee/ashelectric (Chart by Komi)
 026 - Lost Emotion. : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu)
 027 - Broken Metronome : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu (Extreme, Extra) & Komi (Easy, Normal, Hard))
@@ -143,7 +143,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 136 - Trapped Passion : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu)
 137 - ??? ~ T'soL Niamer-I ~ : YLN0 feat. The Second Truth (Chart by ???)
 138 - Startup Parade! (Ryuto Setsujin + Makotora Remix) : Ryuto Setsujin + Makotora - https://kingmakotora.bandcamp.com/track/startup-parade-ryuto-setsujin-makotora-remix (Chart by DiamondN1nja)
-139 - euphoric eruption : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi)
+139 - euphoric eruption : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi and YSTAR-T)
 140 - NOVAの夜 (NOVA's Night!!) : alden - https://twitter.com/aldentweeting (Chart by Komi)
 141 - AQUAMARINE : McBoiled - https://soundcloud.com/mcboiled (Chart by Komi)
 142 - floatfobia : ArLgon - https://www.youtube.com/@ArLgon.sb3 (Chart by Komi)
@@ -344,6 +344,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 290 - Collapse. : MONOHALLS
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
+P06 - Zealous Seeker : Michikoiku
 ```
 
 The visuals mentionned below have confirmed usage of AI generated assets
@@ -377,6 +378,8 @@ If you liked a specific song and want to support the composer's work, please che
 225 - Nitro
 227 - Beach Race 
 233 - Momenta Mori (OpenTaiko Cut)
+277 - Ashes in the Gearbox
+283 - Midnight Freeway
 ```
 
 - CC BY
@@ -411,7 +414,7 @@ If you liked a specific song and want to support the composer's work, please che
 T03 - レミリア, 私の影 ～ Ｔｈｅ Ｓｃａｒｌｅｔ Ｆｏｇ Ｍａｃｈｉｎｅ Ｉｎｃｉｄｅｎｔ : Jezebel Ciccone
 ```
 
-## Collaborations
+## Collaborations and Events
 
 ### Project Outfox: Serenity
 
@@ -473,6 +476,19 @@ Jakarta EVOLUTION by KURORAK (Chart by DiamondN1nja and sadkay): https://www.you
 Yukisarashi by SiLiS (Chart by DiamondN1nja): https://soundcloud.com/silis (Jacket by mngo)
 Zealous Seeker by zqr vs Sukima Altera (Chart by the Arctic Circle): https://www.youtube.com/watch?v=OMHiSB_u9OE (Jacket by Michikoiku)
 ```
+
+### Touhou Arrangements Vol.2
+
+The included songs are:
+```
+Desire Drive (H2GO Remix) - TanChen https://b23.tv/HxisbfP (Chart by sadkay)
+Far East Requiem - Masamune (Chart by AsPho)
+Elusiveyoukai - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko)
+Rainy Right ? ~Fantasy Waterfall~ - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko)
+Gap Moe ☆ - gentu https://www.youtube.com/@gentu (Chart by Taichenko)
+生命の二刀流 - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko and Komi)
+```
+Songs that are not specified under the 'Songs with specific licenses' section are under the OpenTaiko Default Licence
 
 ## Reuploading
 

@@ -3937,36 +3937,6 @@
         "chartHoFRanks": {}
     },
     {
-        "uniqueId": "wILDWAtERarDoLf",
-        "tjaFolderPath": "04 OpenTaiko Chapter IV\\156 - Wild water",
-        "tjaFilesPath": [
-            "04 OpenTaiko Chapter IV\\156 - Wild water\\uniqueID.json",
-            "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.jpg",
-            "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.ogg",
-            "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.tja"
-        ],
-        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "c7053fbfac7f5d949050d8fd35e5d3c2",
-        "chartSize": 3.78,
-        "chartTitle": "Wild Water",
-        "chartSubtitle": "Ardolf",
-        "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 5,
-            "Normal": 5,
-            "Easy": 3
-        },
-        "chartMakers": {
-            "Oni": "berdstep",
-            "Hard": "DiamondN1nja",
-            "Normal": "berdstep",
-            "Easy": "DiamondN1nja"
-        },
-        "chartAudioFilePath": "preview\\wILDWAtERarDoLf.ogg",
-        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\156 - Wild water\\Wild Water.jpg",
-        "chartHoFRanks": {}
-    },
-    {
         "uniqueId": "GOOdbYemyPhANtaSIaFaLLFeAtYUfuSEKka",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia",
         "tjaFilesPath": [
@@ -4000,66 +3970,6 @@
             "Oni": 23,
             "Edit": 30
         }
-    },
-    {
-        "uniqueId": "bLAcKMagicARdOLf",
-        "tjaFolderPath": "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC",
-        "tjaFilesPath": [
-            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.jpg",
-            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.ogg",
-            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.tja",
-            "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\uniqueID.json"
-        ],
-        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "de2c6995795dee29a25a5609dd5a2c77",
-        "chartSize": 3.63,
-        "chartTitle": "BLACK MAGIC",
-        "chartSubtitle": "Ardolf",
-        "chartDifficulties": {
-            "Oni": 9,
-            "Normal": 6,
-            "Easy": 5,
-            "Hard": 7
-        },
-        "chartMakers": {
-            "Oni": "Komi",
-            "Normal": "Komi",
-            "Easy": "Komi",
-            "Hard": "Komi"
-        },
-        "chartAudioFilePath": "preview\\bLAcKMagicARdOLf.ogg",
-        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\159 - BLACK MAGIC\\BLACK MAGIC.jpg",
-        "chartHoFRanks": {}
-    },
-    {
-        "uniqueId": "siLVerBULleTardOlf",
-        "tjaFolderPath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet",
-        "tjaFilesPath": [
-            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.jpg",
-            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.ogg",
-            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.tja",
-            "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\uniqueID.json"
-        ],
-        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "55510e1559076dfc5db96c250314fe6e",
-        "chartSize": 3.46,
-        "chartTitle": "SILVER BULLET",
-        "chartSubtitle": "Ardolf",
-        "chartDifficulties": {
-            "Oni": 10.0,
-            "Hard": 8,
-            "Normal": 6,
-            "Easy": 5
-        },
-        "chartMakers": {
-            "Oni": "Yokoyoko",
-            "Hard": "DiamondN1nja",
-            "Normal": "DiamondN1nja",
-            "Easy": "DiamondN1nja"
-        },
-        "chartAudioFilePath": "preview\\siLVerBULleTardOlf.ogg",
-        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\160 - Silver Bullet\\SILVER BULLET.jpg",
-        "chartHoFRanks": {}
     },
     {
         "uniqueId": "doNsTrgustAIcHEnko",

@@ -10145,12 +10145,13 @@
         "tjaFolderPath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei",
         "tjaFilesPath": [
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\Seimei.ogg",
+            "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\Seimei.png",
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\Seimei.tja",
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\uniqueID.json"
         ],
         "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
-        "tjaMD5": "27c4407a5c54cf2c91a54c6c48e06ef9",
-        "chartSize": 7.05,
+        "tjaMD5": "333501510694950eda5def2e7082c633",
+        "chartSize": 9.18,
         "chartTitle": "Seimei no Nitouryuu",
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartDifficulties": {
@@ -10168,7 +10169,7 @@
             "Edit": "Komi"
         },
         "chartAudioFilePath": "preview\\touhou18.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\Seimei.png",
         "chartHoFRanks": {
             "Edit": 15
         }

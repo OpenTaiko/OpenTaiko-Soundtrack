@@ -7784,6 +7784,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "pReLUdeNO2iNAminoRoP33stEveNwaN",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\302 - Prelude No.2 in A Minor (Toccata), Op.33",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\302 - Prelude No.2 in A Minor (Toccata), Op.33\\Prelude No.2 in A Minor, Op.33.ogg",
+            "07 OpenTaiko Chapter VII\\302 - Prelude No.2 in A Minor (Toccata), Op.33\\Prelude No.2 in A Minor, Op.33.tja",
+            "07 OpenTaiko Chapter VII\\302 - Prelude No.2 in A Minor (Toccata), Op.33\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "5fb4ff1c6092a5fc1c74c39084eb65e1",
+        "chartSize": 1.93,
+        "chartTitle": "Prelude No.2 in A Minor, Op.33",
+        "chartSubtitle": "Steven Wan",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Entharex",
+            "Hard": "Entharex",
+            "Normal": "Entharex",
+            "Easy": "Entharex"
+        },
+        "chartAudioFilePath": "preview\\pReLUdeNO2iNAminoRoP33stEveNwaN.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "MaKOToRaRemixTfD500MAkotOraFromtOneFurY",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\303 - Yami Remix",
         "tjaFilesPath": [

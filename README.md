@@ -298,6 +298,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 296 - BIRKIE : oratoruk - https://soundcloud.com/oratoruk/bofet-birkie (Chart by Komi and Dashy)
 
+302 - Prelude No.2 in A Minor, Op.33 : Steven Wan - https://www.youtube.com/watch?v=Tn28yZUJ3Ow (Chart by Entharex)
 303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
 ```
 

@@ -289,11 +289,12 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 285 - "R"ast GaMES!! : 3Kado_ vs Yuruka - https://x.com/3Kado_168 (Chart by Ryuto Setsujin)
 286 - seven states of dreamscapes : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 287 - Iridescent Beauty (Game Edit) : Sukima Altera - https://yokaicore.bandcamp.com/track/iridescent-beauty (Chart by Komi and sadkay)
-288 - ???
+288 - cocoa break : Dashy, - https://youtu.be/S9Q0q3H5HzE?si=qYabGwJEQ3KhPXsE (Chart by Dashy)
 289 - ravage reign : Makotora - https://kingmakotora.bandcamp.com/track/ravage-reign (Chart by IID)
 290 - Collapse. : Pandemonium. - endofsystem: https://www.youtube.com/channel/UCAFzvc7DqmBMVpb9pH4TStg, OfficialAz3 - https://www.youtube.com/@OfficialAz3, Echa - https://www.youtube.com/channel/UCGm9EXfV3yY0Bc8E4gEX1CA (Chart by Komi)
 291 - 虹華の刃 : 悠江 - https://soundcloud.com/k1xsmp2wmrfb (Chart by DiamondN1nja and Komi)
 292 - Tears of Denial : OfficialAz3 feat. Echa & Hodong (from VOX Factory) - https://www.youtube.com/@OfficialAz3 (Chart by Makotora)
+293 - Sayawan Brasilero (OpenTaiko ver.) : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by DragonRatTiger)
 
 296 - BIRKIE : oratoruk - https://soundcloud.com/oratoruk/bofet-birkie (Chart by Komi and Dashy)
 

@@ -7722,6 +7722,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "sAYAWAnbRaSilerOoPEntaiKoVErOpentaIkOSOUNdtEaMmAKotOra",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\293 - Sayawan Brasilero",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\293 - Sayawan Brasilero\\sayawan.ogg",
+            "07 OpenTaiko Chapter VII\\293 - Sayawan Brasilero\\sayawan.png",
+            "07 OpenTaiko Chapter VII\\293 - Sayawan Brasilero\\sayawan.tja",
+            "07 OpenTaiko Chapter VII\\293 - Sayawan Brasilero\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "f0831cd4bcd95c46ad1f82ede57a5b30",
+        "chartSize": 2.94,
+        "chartTitle": "Sayawan Brasilero (OpenTaiko ver.)",
+        "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "DragonRatTiger",
+            "Hard": "DragonRatTiger",
+            "Normal": "DragonRatTiger",
+            "Easy": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "preview\\sAYAWAnbRaSilerOoPEntaiKoVErOpentaIkOSOUNdtEaMmAKotOra.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\293 - Sayawan Brasilero\\sayawan.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "biRkieorAToRUk",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\296 - BIRKIE",
         "tjaFilesPath": [
@@ -8583,6 +8613,36 @@
         "chartHoFRanks": {
             "Oni": 64
         }
+    },
+    {
+        "uniqueId": "cocoabreakTOASTIVERNotTrappedPassion2026",
+        "tjaFolderPath": "C12 Dashy's Secrets\\288 - cocoa break",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets\\288 - cocoa break\\cocoa.ogg",
+            "C12 Dashy's Secrets\\288 - cocoa break\\cocoa.png",
+            "C12 Dashy's Secrets\\288 - cocoa break\\cocoa.tja",
+            "C12 Dashy's Secrets\\288 - cocoa break\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "a7261236bbc286a769b472fc566c2254",
+        "chartSize": 4.45,
+        "chartTitle": "cocoa break",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\cocoabreakTOASTIVERNotTrappedPassion2026.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets\\288 - cocoa break\\cocoa.png",
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "iJWSvseMG7mVdm2sLqD3Psm6SSX7H14ZMVc4R5gVLGpaRVVPNQqupGdUzowtciw2",

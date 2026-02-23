@@ -1,0 +1,1010 @@
+﻿// PeepoDrumKit 2025/09/28
+TITLE:Tears of Denial
+SUBTITLE:--OfficialAz3 feat. Echa & Hodong (from VOX Factory)
+BPM:155
+WAVE:Tears of Denial.ogg
+PREIMAGE:Tears of Denial.png
+OFFSET:0
+DEMOSTART:57.2903
+MAKER:Makotora
+
+COURSE:Oni
+LEVEL:8
+BALLOON:30
+
+#START
+#BARLINEOFF
+0,
+#BARLINEON
+2002,
+2202,
+2002,
+200000200000000000200222,
+20202220G0000000,
+200000200000200200200000G00000000000000000202020,
+20202220G0000000,
+200000200000200200200000G00000000000000000202020,
+#BARLINEOFF
+2,
+,
+,
+00000
+#LYRIC Naisip ko ang kaganapang bigla, ha?
+222,
+#BARLINEON
+1110202020112010,
+0022201120
+#LYRIC Di sya kaaya-ayang pansin diba? Paano?
+202020,
+1110202020112010,
+0000121022
+#LYRIC Tunog katok, rinig mo sa kabila, ha?
+202020,
+1110202020112010,
+0022201120
+#LYRIC Napatanog ka, aba, naisipan, bigla
+202020,
+1120001020111020,
+2022121020
+#SCROLL 4
+#LYRIC
+585858,
+#MEASURE 8/4
+#SCROLL 0.5
+100000002000
+#LYRIC (Maawa ka)
+10000000100022
+#LYRIC Napatingin ka sa ibang itsura, ha?
+202020,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+1110202020112010,
+0022201120
+#LYRIC Bakit nandito, siya, anong ginagawa niya?
+202020,
+1210001120221020,
+202012102000
+#LYRIC Napaisip ka bigla, 'ramdam mo ay balisa
+2020,
+1110202020001210,
+2022201120
+#SCROLL 4
+#LYRIC
+585858,
+#MEASURE 8/4
+#SCROLL 0.5
+100
+#LYRIC Hamog ng utak
+21020,
+12,
+#LYRIC ng taong kawawa
+10202220200010202020122020002020,
+10202220200010202211221120
+#SCROLL 1
+#LYRIC Di mo tanggap-tanggap, katotohanan
+202020,
+#MEASURE 4/4
+#GOGOSTART
+#BARLINEON
+1000221020112010,
+2000101020
+#LYRIC Bigla-bigla mo lang ito nalaman
+222020,
+1110202020112010,
+2000121022
+#LYRIC Bakit 'di maproseso, pakiramdam?
+202020,
+1000202000112022,
+12212
+#LYRIC Gulong-gulo sa isip, sinamahan..
+022,
+1120001020111020,
+2022121020
+#SCROLL 4
+#LYRIC
+585858,
+#SCROLL 1
+#LYRIC Ala-alang gusto mong maranasan ngunit sa pangyayari ay nabiglaan
+1110102220201020,
+2000121020221010,
+1022201020001210,
+000200100100200000100100200000200000202020200000,
+#MEASURE 8/4
+#SCROLL 0.5
+#LYRIC Sana gabayan at tulungan ang pamilya
+1020201020201020201210102000
+#SCROLL 1
+#LYRIC Ngunit sa huli, 'di mo to' tanggap
+2020,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+1110202020112010,
+2122201120
+#SCROLL 4
+#LYRIC
+585858,
+#MEASURE 8/4
+#GOGOEND
+#SCROLL 0.5
+10
+#LYRIC Naisipan kong maigi ang-
+22211210100020,
+#LYRIC
+1
+#LYRIC Kinabukasan nang wala sya, at-
+022212110100020,
+10
+#LYRIC Nakikiramay ang kaibigan
+22212210100020,
+1
+#LYRIC Damdam ang kailangan
+2212212,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+1020
+#LYRIC Sinabi mong miss ko na sya, at-
+201120201020,
+000000200200100000100000200000100000202000200000,
+10
+#LYRIC Puso'y sakit sa kalungkutan, at-
+20201120201020,
+0022101021221010,
+1020
+#LYRIC Hinihiling ko'y wag iwanan-
+201120201020,
+000000200200100000100000200000100000202000200000,
+1020
+#LYRIC Sarili ko sa kanya
+201120201020,
+0022101022211120,
+#MEASURE 8/4
+#SCROLL 0.5
+#LYRIC Magpasalamat
+10022002,
+100000000000
+#LYRIC sa bagay
+10001000200000002220,
+#LYRIC na magkasama tayo
+10202022200010002020222020100020,
+102022202000102012121111
+#LYRIC
+20000000,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 4
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+00
+#GOGOEND
+00
+#GOGOSTART
+80
+#GOGOEND
+00
+#SCROLL 1
+22121210,
+1111201120201112,
+0220121020112120,
+#GOGOSTART
+#SCROLL 4
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+00
+#GOGOEND
+00
+#GOGOSTART
+80
+#GOGOEND
+00
+#SCROLL 1
+22121210,
+1111201120201112,
+0220121020
+#SCROLL 4
+585858,
+#GOGOSTART
+#SCROLL 1
+#LYRIC Kita'ng luhang
+1111111120112010,
+22121210G0001122,
+#LYRIC 'di tanggap ng
+1111111120112010,
+22121210G0001221,
+#LYRIC taong nawalan
+1111111120112010,
+22121210G0001212,
+111111112011
+#LYRIC ng pag-asa
+2022,
+1111111122222222,
+#GOGOEND
+#BARLINEOFF
+#SCROLL 2
+7,
+,
+#LYRIC
+8,
+#SCROLL 1
+0,
+#MEASURE 8/4
+#BARLINEON
+#SCROLL 0.5
+1122002010200020,
+1012021012021122,
+1,
+#END
+
+COURSE:Hard
+LEVEL:6
+BALLOON:30
+
+#START
+#BARLINEOFF
+0,
+#BARLINEON
+2002,
+2202,
+2002,
+2202,
+2000222020002000,
+2000222020002000,
+2000222020002000,
+2000222020000000,
+#BARLINEOFF
+3,
+,
+,
+00000
+#LYRIC Naisip ko ang kaganapang bigla, ha?
+222,
+#BARLINEON
+11112211,
+00304
+#LYRIC Di sya kaaya-ayang pansin diba? Paano?
+022,
+11112211,
+00304
+#LYRIC Tunog katok, rinig mo sa kabila, ha?
+022,
+11112211,
+00304
+#LYRIC Napatanog ka, aba, naisipan, bigla
+022,
+12012022,
+12012
+#SCROLL 4
+#LYRIC
+508,
+#MEASURE 8/4
+#SCROLL 0.5
+300020
+#LYRIC (Maawa ka)
+1020102
+#LYRIC Napatingin ka sa ibang itsura, ha?
+0
+#SCROLL 1
+22,
+#MEASURE 4/4
+#BARLINEON
+11112211,
+00304
+#LYRIC Bakit nandito, siya, anong ginagawa niya?
+022,
+11011221,
+212120
+#LYRIC Napaisip ka bigla, 'ramdam mo ay balisa
+11,
+22221122,
+12121
+#SCROLL 4
+#LYRIC
+508,
+#MEASURE 8/4
+#SCROLL 0.5
+300
+#LYRIC Hamog ng utak
+21020,
+12,
+#LYRIC ng taong kawawa
+1022201022104000,
+5000000000800
+#SCROLL 1
+#LYRIC Di mo tanggap-tanggap, katotohanan
+222,
+#MEASURE 4/4
+#GOGOSTART
+#BARLINEON
+10110111,
+20102
+#LYRIC Bigla-bigla mo lang ito nalaman
+022,
+10110111,
+20102
+#LYRIC Bakit 'di maproseso, pakiramdam?
+022,
+10110111,
+20102
+#LYRIC Gulong-gulo sa isip, sinamahan..
+022,
+10110111,
+20102
+#SCROLL 4
+#LYRIC
+508,
+#SCROLL 1
+#LYRIC Ala-alang gusto mong maranasan ngunit sa pangyayari ay nabiglaan
+1022201020201022,
+2020100040002220,
+1022201020201022,
+22104440,
+#MEASURE 8/4
+#SCROLL 0.5
+#LYRIC Sana gabayan at tulungan ang pamilya
+11111111111120
+#SCROLL 1
+#LYRIC Ngunit sa huli, 'di mo to' tanggap
+22,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+10112012,
+22112
+#SCROLL 4
+#LYRIC
+508,
+#MEASURE 8/4
+#GOGOEND
+#SCROLL 0.5
+30
+#LYRIC Naisipan kong maigi ang-
+22112210100020,
+#LYRIC
+3
+#LYRIC Kinabukasan nang wala sya, at-
+022112210100020,
+30
+#LYRIC Nakikiramay ang kaibigan
+22112210100020,
+3
+#LYRIC Damdam ang kailangan
+2212212,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+3000
+#LYRIC Sinabi mong miss ko na sya, at-
+222011102020,
+1102,
+30
+#LYRIC Puso'y sakit sa kalungkutan, at-
+00222011102020,
+1102,
+3000
+#LYRIC Hinihiling ko'y wag iwanan-
+222011102020,
+1102,
+3
+#LYRIC Sarili ko sa kanya
+221,
+2212,
+#MEASURE 8/4
+#SCROLL 0.5
+#LYRIC Magpasalamat
+30022002,
+100
+#LYRIC sa bagay
+11202,
+#LYRIC na magkasama tayo
+30022002,
+101020201111
+#LYRIC
+2000,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 4
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+8
+#GOGOEND
+0
+#SCROLL 1
+4444,
+3000111020101020,
+0011101020002220,
+#GOGOSTART
+#SCROLL 4
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+8
+#GOGOEND
+0
+#SCROLL 1
+4444,
+3000111020101020,
+0011101020
+#SCROLL 4
+500080,
+#GOGOSTART
+#SCROLL 1
+#LYRIC Kita'ng luhang
+1110101020001020,
+1110101020001020,
+#LYRIC 'di tanggap ng
+1110101020001020,
+2220102220102220,
+#LYRIC taong nawalan
+1110101020001020,
+1110101020001020,
+111010102000
+#LYRIC ng pag-asa
+1020,
+1111100022222000,
+#GOGOEND
+#BARLINEOFF
+#SCROLL 2
+7,
+,
+#LYRIC
+8,
+#SCROLL 1
+0,
+#MEASURE 8/4
+#BARLINEON
+#SCROLL 0.5
+1022002010200020,
+1001002002001122,
+1,
+#END
+
+COURSE:Normal
+LEVEL:5
+BALLOON:30
+
+#START
+#BARLINEOFF
+0,
+#BARLINEON
+0,
+,
+,
+,
+2002,
+2202,
+2002,
+2202,
+#BARLINEOFF
+3,
+,
+,
+00004
+#LYRIC Naisip ko ang kaganapang bigla, ha?
+000,
+#BARLINEON
+10102011,
+00304
+#LYRIC Di sya kaaya-ayang pansin diba? Paano?
+000,
+10102011,
+00304
+#LYRIC Tunog katok, rinig mo sa kabila, ha?
+000,
+10102011,
+00304
+#LYRIC Napatanog ka, aba, naisipan, bigla
+000,
+10102011,
+00304
+#LYRIC
+000,
+#MEASURE 8/4
+#SCROLL 0.5
+300020
+#LYRIC (Maawa ka)
+1000102
+#LYRIC Napatingin ka sa ibang itsura, ha?
+000,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+10102011,
+00304
+#LYRIC Bakit nandito, siya, anong ginagawa niya?
+000,
+11011020,
+222
+#LYRIC Napaisip ka bigla, 'ramdam mo ay balisa
+0,
+22022010,
+10101
+#LYRIC
+000,
+#MEASURE 8/4
+#SCROLL 0.5
+300
+#LYRIC Hamog ng utak
+01020,
+12,
+#LYRIC ng taong kawawa
+10212120,
+5000000000800
+#LYRIC Di mo tanggap-tanggap, katotohanan
+000,
+#MEASURE 4/4
+#GOGOSTART
+#BARLINEON
+#SCROLL 1
+10110110,
+20102
+#LYRIC Bigla-bigla mo lang ito nalaman
+000,
+10110110,
+20102
+#LYRIC Bakit 'di maproseso, pakiramdam?
+000,
+10110110,
+20102
+#LYRIC Gulong-gulo sa isip, sinamahan..
+000,
+10110110,
+20102
+#LYRIC
+000,
+#LYRIC Ala-alang gusto mong maranasan ngunit sa pangyayari ay nabiglaan
+10110110,
+2120,
+10110110,
+20104440,
+#MEASURE 8/4
+#LYRIC Sana gabayan at tulungan ang pamilya
+0000000
+#LYRIC Ngunit sa huli, 'di mo to' tanggap
+0,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+1122,
+11221
+#LYRIC
+000,
+#MEASURE 8/4
+#GOGOEND
+#SCROLL 0.5
+3
+#LYRIC Naisipan kong maigi ang-
+0001102,
+#LYRIC
+3
+#LYRIC Kinabukasan nang wala sya, at-
+000000010100020,
+3
+#LYRIC Nakikiramay ang kaibigan
+0001102,
+3
+#LYRIC Damdam ang kailangan
+2212212,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+30
+#LYRIC Sinabi mong miss ko na sya, at-
+222020,
+1102,
+3
+#LYRIC Puso'y sakit sa kalungkutan, at-
+0222020,
+1102,
+30
+#LYRIC Hinihiling ko'y wag iwanan-
+222020,
+1102,
+3
+#LYRIC Sarili ko sa kanya
+221,
+2212,
+#MEASURE 8/4
+#SCROLL 0.5
+#LYRIC Magpasalamat
+32,
+100
+#LYRIC sa bagay
+11002,
+#LYRIC na magkasama tayo
+32,
+112211
+#LYRIC
+20,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 1
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+8
+#GOGOEND
+04000,
+30102012,
+01102000,
+#GOGOSTART
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+8
+#GOGOEND
+04000,
+30102012,
+01102000,
+#GOGOSTART
+#SCROLL 1
+#LYRIC Kita'ng luhang
+11102010,
+11102010,
+#LYRIC 'di tanggap ng
+11102010,
+2220,
+#LYRIC taong nawalan
+11102010,
+11102010,
+111020
+#LYRIC ng pag-asa
+10,
+11102220,
+#GOGOEND
+#BARLINEOFF
+#SCROLL 2
+7,
+,
+#LYRIC
+8,
+#SCROLL 1
+0,
+#MEASURE 8/4
+#BARLINEON
+#SCROLL 0.5
+10021202,
+10021202,
+1,
+#END
+
+COURSE:Easy
+LEVEL:4
+BALLOON:30
+
+#START
+#BARLINEOFF
+0,
+#BARLINEON
+0,
+,
+,
+,
+2,
+2002,
+2,
+2002,
+#BARLINEOFF
+3,
+,
+,
+00004
+#LYRIC Naisip ko ang kaganapang bigla, ha?
+000,
+#BARLINEON
+1021,
+00304
+#LYRIC Di sya kaaya-ayang pansin diba? Paano?
+000,
+1021,
+00304
+#LYRIC Tunog katok, rinig mo sa kabila, ha?
+000,
+1021,
+00304
+#LYRIC Napatanog ka, aba, naisipan, bigla
+000,
+1021,
+00304
+#LYRIC
+000,
+#MEASURE 8/4
+#SCROLL 0.5
+300020
+#LYRIC (Maawa ka)
+0000002
+#LYRIC Napatingin ka sa ibang itsura, ha?
+000,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+1021,
+00304
+#LYRIC Bakit nandito, siya, anong ginagawa niya?
+000,
+11,
+222
+#LYRIC Napaisip ka bigla, 'ramdam mo ay balisa
+0,
+22,
+10101
+#LYRIC
+000,
+#MEASURE 8/4
+#SCROLL 0.5
+300
+#LYRIC Hamog ng utak
+01020,
+12,
+#LYRIC ng taong kawawa
+1012,
+5000000000800
+#LYRIC Di mo tanggap-tanggap, katotohanan
+000,
+#MEASURE 4/4
+#GOGOSTART
+#BARLINEON
+#SCROLL 1
+12,
+20102
+#LYRIC Bigla-bigla mo lang ito nalaman
+000,
+12,
+20102
+#LYRIC Bakit 'di maproseso, pakiramdam?
+000,
+12,
+20102
+#LYRIC Gulong-gulo sa isip, sinamahan..
+000,
+12,
+20102
+#LYRIC
+000,
+#LYRIC Ala-alang gusto mong maranasan ngunit sa pangyayari ay nabiglaan
+12,
+2120,
+12,
+2120,
+#MEASURE 8/4
+#LYRIC Sana gabayan at tulungan ang pamilya
+0000000
+#LYRIC Ngunit sa huli, 'di mo to' tanggap
+0,
+#MEASURE 4/4
+#BARLINEON
+#SCROLL 1
+12,
+10102
+#LYRIC
+020,
+#MEASURE 8/4
+#GOGOEND
+#SCROLL 0.5
+3
+#LYRIC Naisipan kong maigi ang-
+0000002,
+#LYRIC
+3
+#LYRIC Kinabukasan nang wala sya, at-
+000000000000020,
+3
+#LYRIC Nakikiramay ang kaibigan
+0000002,
+3
+#LYRIC Damdam ang kailangan
+0201020,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+3
+#LYRIC Sinabi mong miss ko na sya, at-
+022,
+1102,
+3
+#LYRIC Puso'y sakit sa kalungkutan, at-
+0002020,
+1102,
+3
+#LYRIC Hinihiling ko'y wag iwanan-
+022,
+1102,
+3
+#LYRIC Sarili ko sa kanya
+020,
+12,
+#MEASURE 8/4
+#SCROLL 0.5
+#LYRIC Magpasalamat
+3,
+100
+#LYRIC sa bagay
+11000,
+#LYRIC na magkasama tayo
+3,
+121
+#LYRIC
+2,
+#MEASURE 4/4
+#GOGOSTART
+#SCROLL 1
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+8
+#GOGOEND
+04000,
+3021,
+0120,
+#GOGOSTART
+6
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0,
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+8
+#GOGOEND
+04000,
+3021,
+0120,
+#GOGOSTART
+#SCROLL 1
+#LYRIC Kita'ng luhang
+1120,
+1120,
+#LYRIC 'di tanggap ng
+1120,
+22,
+#LYRIC taong nawalan
+1120,
+1120,
+112
+#LYRIC ng pag-asa
+0,
+1122,
+#GOGOEND
+#BARLINEOFF
+#SCROLL 2
+7,
+,
+#LYRIC
+8,
+#SCROLL 1
+0,
+#MEASURE 8/4
+#BARLINEON
+#SCROLL 0.5
+10001002,
+10001002,
+1,
+#END

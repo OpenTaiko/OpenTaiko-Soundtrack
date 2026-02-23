@@ -292,6 +292,12 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 288 - ???
 289 - ravage reign : Makotora - https://kingmakotora.bandcamp.com/track/ravage-reign (Chart by IID)
 290 - Collapse. : Pandemonium. - endofsystem: https://www.youtube.com/channel/UCAFzvc7DqmBMVpb9pH4TStg, OfficialAz3 - https://www.youtube.com/@OfficialAz3, Echa - https://www.youtube.com/channel/UCGm9EXfV3yY0Bc8E4gEX1CA (Chart by Komi)
+291 - 虹華の刃 : 悠江 - https://soundcloud.com/k1xsmp2wmrfb (Chart by DiamondN1nja and Komi)
+292 - Tears of Denial : OfficialAz3 feat. Echa & Hodong (from VOX Factory) - https://www.youtube.com/@OfficialAz3 (Chart by Makotora)
+
+296 - BIRKIE : oratoruk - https://soundcloud.com/oratoruk/bofet-birkie (Chart by Komi and Dashy)
+
+303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
 ```
 
 ### Visuals
@@ -377,6 +383,13 @@ If you liked a specific song and want to support the composer's work, please che
 233 - Momenta Mori (OpenTaiko Cut)
 277 - Ashes in the Gearbox
 283 - Midnight Freeway
+```
+
+- Check the following link: https://flavorfoley.com/contact
+```
+236 - BUTCHER VANITY
+237 - weathergirl
+238 - Static
 ```
 
 - CC BY

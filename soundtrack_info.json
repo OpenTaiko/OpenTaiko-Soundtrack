@@ -7203,6 +7203,35 @@
         }
     },
     {
+        "uniqueId": "andsOArThROUghthEUnIVErSEDAsHY",
+        "tjaFolderPath": "06 OpenTaiko Chapter VI\\CH6 - and soar through the universe",
+        "tjaFilesPath": [
+            "06 OpenTaiko Chapter VI\\CH6 - and soar through the universe\\and soar through the universe.ogg",
+            "06 OpenTaiko Chapter VI\\CH6 - and soar through the universe\\and soar through the universe.tja",
+            "06 OpenTaiko Chapter VI\\CH6 - and soar through the universe\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "06 OpenTaiko Chapter VI",
+        "tjaMD5": "956b6ba8969a7b3429699baef9089f27",
+        "chartSize": 2.86,
+        "chartTitle": "and soar through the universe",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\andsOArThROUghthEUnIVErSEDAsHY.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "kohaku20bpmoutch",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\276 - The Shining Amber of the Forest",
         "tjaFilesPath": [
@@ -7630,6 +7659,131 @@
         "chartHoFRanks": {
             "Edit": 20
         }
+    },
+    {
+        "uniqueId": "nIJIBaNanoyaibAYUe",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\Nijibana no Yaiba.ogg",
+            "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\Nijibana no Yaiba.tja",
+            "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "893ddfae7a34aad6851e7ae56c02901f",
+        "chartSize": 2.9,
+        "chartTitle": "Nijibana no Yaiba",
+        "chartSubtitle": "Yue",
+        "chartDifficulties": {
+            "Edit": 10.3,
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "Komi",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\nIJIBaNanoyaibAYUe.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "TeArsOfDENIALoffIcIalAz3FeATecHaHODoNGfRoMvOxfACtORY",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\292 - Tears of Denial",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\292 - Tears of Denial\\Tears of Denial.ogg",
+            "07 OpenTaiko Chapter VII\\292 - Tears of Denial\\Tears of Denial.png",
+            "07 OpenTaiko Chapter VII\\292 - Tears of Denial\\Tears of Denial.tja",
+            "07 OpenTaiko Chapter VII\\292 - Tears of Denial\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "9edb426e7f5e674ce7643c36488e0192",
+        "chartSize": 4.74,
+        "chartTitle": "Tears of Denial",
+        "chartSubtitle": "OfficialAz3 feat. Echa & Hodong (from VOX Factory)",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "preview\\TeArsOfDENIALoffIcIalAz3FeATecHaHODoNGfRoMvOxfACtORY.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\292 - Tears of Denial\\Tears of Denial.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "biRkieorAToRUk",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\296 - BIRKIE",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\296 - BIRKIE\\birkie.jpg",
+            "07 OpenTaiko Chapter VII\\296 - BIRKIE\\birkie.ogg",
+            "07 OpenTaiko Chapter VII\\296 - BIRKIE\\birkie.tja",
+            "07 OpenTaiko Chapter VII\\296 - BIRKIE\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "00b1ca880cddd61c55e7c6a152241841",
+        "chartSize": 2.19,
+        "chartTitle": "BIRKIE",
+        "chartSubtitle": "oratoruk",
+        "chartDifficulties": {
+            "Edit": 10.3,
+            "Normal": 6,
+            "Easy": 2,
+            "Oni": 8,
+            "Hard": 7
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Oni": "Dashy",
+            "Hard": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\biRkieorAToRUk.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\296 - BIRKIE\\birkie.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "MaKOToRaRemixTfD500MAkotOraFromtOneFurY",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\303 - Yami Remix",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\303 - Yami Remix\\uniqueID.json",
+            "07 OpenTaiko Chapter VII\\303 - Yami Remix\\Yami2.ogg",
+            "07 OpenTaiko Chapter VII\\303 - Yami Remix\\Yami2.png",
+            "07 OpenTaiko Chapter VII\\303 - Yami Remix\\Yami2.tja"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "92c14168cda6fea1885172f489aebf0b",
+        "chartSize": 4.04,
+        "chartTitle": "\u95c7 (Makotora Remix)",
+        "chartSubtitle": "TFD500 + Makotora (from TONE::FURY)",
+        "chartDifficulties": {
+            "Edit": 10.6,
+            "Oni": 10.5,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "Makotora",
+            "Oni": "TFD500",
+            "Hard": "TFD500",
+            "Normal": "TFD500",
+            "Easy": "TFD500"
+        },
+        "chartAudioFilePath": "preview\\MaKOToRaRemixTfD500MAkotOraFromtOneFurY.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\303 - Yami Remix\\Yami2.png",
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "dtdH5",

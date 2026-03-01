@@ -7752,6 +7752,39 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "youvegotmailphantoskii",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\295 - You've Got Mail!",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\uniqueID.json",
+            "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\You've Got Mail!.ogg",
+            "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\You've Got Mail!.png",
+            "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\You've Got Mail!.tja",
+            "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\You've Got Mail!.vtt"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "ed71afb7ea5b302386abc0226768c0cc",
+        "chartSize": 3.94,
+        "chartTitle": "You've Got Mail!",
+        "chartSubtitle": "Phantoskii",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Edit": "BeaniCraft",
+            "Oni": "BeaniCraft",
+            "Hard": "BeaniCraft",
+            "Normal": "BeaniCraft",
+            "Easy": "BeaniCraft"
+        },
+        "chartAudioFilePath": "preview\\youvegotmailphantoskii.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\You've Got Mail!.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "biRkieorAToRUk",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\296 - BIRKIE",
         "tjaFilesPath": [
@@ -7781,6 +7814,69 @@
         },
         "chartAudioFilePath": "preview\\biRkieorAToRUk.ogg",
         "chartJacketFilePath": "07 OpenTaiko Chapter VII\\296 - BIRKIE\\birkie.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "ch7ruby",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\298 - Ruby",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\298 - Ruby\\Ruby.ogg",
+            "07 OpenTaiko Chapter VII\\298 - Ruby\\Ruby.png",
+            "07 OpenTaiko Chapter VII\\298 - Ruby\\Ruby.tja",
+            "07 OpenTaiko Chapter VII\\298 - Ruby\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "4d59aff906a0357dc01d170962ce5bad",
+        "chartSize": 4.48,
+        "chartTitle": "Ruby",
+        "chartSubtitle": "BilliumMoto",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Ryuto Setsujin",
+            "Hard": "Ryuto Setsujin",
+            "Normal": "Ryuto Setsujin",
+            "Easy": "Ryuto Setsujin"
+        },
+        "chartAudioFilePath": "preview\\ch7ruby.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\298 - Ruby\\Ruby.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "mAHoUdeKAErunInaTCHatTamiTaIshaRkYoFTKAsaneTeTO",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\Mahou de Kaeru ni Natchattamitai.ogg",
+            "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\Mahou de Kaeru ni Natchattamitai.png",
+            "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\Mahou de Kaeru ni Natchattamitai.tja",
+            "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\Mahou de Kaeru ni Natchattamitai.vtt",
+            "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "21a5d237859c123a38e13953a593b4fe",
+        "chartSize": 2.88,
+        "chartTitle": "Mahou de Kaeru ni Natchattamitai!",
+        "chartSubtitle": "sharkyo ft. Kasane Teto",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2,
+            "Edit": 8
+        },
+        "chartMakers": {
+            "Oni": "Ryuto Setsujin",
+            "Hard": "Ryuto Setsujin",
+            "Normal": "Ryuto Setsujin",
+            "Easy": "Ryuto Setsujin",
+            "Edit": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\mAHoUdeKAErunInaTCHatTamiTaIshaRkYoFTKAsaneTeTO.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\Mahou de Kaeru ni Natchattamitai.png",
         "chartHoFRanks": {}
     },
     {

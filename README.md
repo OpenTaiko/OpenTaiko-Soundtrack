@@ -296,7 +296,11 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 292 - Tears of Denial : OfficialAz3 feat. Echa & Hodong (from VOX Factory) - https://www.youtube.com/@OfficialAz3 (Chart by Makotora)
 293 - Sayawan Brasilero (OpenTaiko ver.) : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by DragonRatTiger)
 
+295 - You've Got Mail! : Phantoskii - https://www.youtube.com/watch?v=FCCq7PYrr4Q (Chart by BeaniCraft)
 296 - BIRKIE : oratoruk - https://soundcloud.com/oratoruk/bofet-birkie (Chart by Komi and Dashy)
+
+298 - Ruby : BilliumMoto - https://soundcloud.com/billiummoto/ruby (Chart by Ryuto Setsujin)
+299 - 魔法でカエルになっちゃったみたい！ : sharkyo ft. 重音テト - https://www.youtube.com/watch?v=3IC_l4uoBpk (Chart by Ryuto Setsujin and DiamondN1nja)
 
 302 - Prelude No.2 in A Minor, Op.33 : Steven Wan - https://www.youtube.com/watch?v=Tn28yZUJ3Ow (Chart by Entharex)
 303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
@@ -406,7 +410,8 @@ If you liked a specific song and want to support the composer's work, please che
 061 - The Abyss : ok cheez
 077 - Meowmetic : HHS
 091 - thumb wrestling : ok cheez
-235 - Unfortunate Utopia
+235 - Unfortunate Utopia : Wyvren vs. Marilette Aokisama
+295 - You've Got Mail! : Phantoskii
 ```
 
 - Non-commercial, Attribution required (CC BY-NC ?)
@@ -419,6 +424,7 @@ If you liked a specific song and want to support the composer's work, please che
 ```
 078 - the garden : AZALI
 079 - MECHANICAL GOD : AZALI × Crow
+298 - Ruby : BilliumMoto
 ```
 
 - CC-BY-NC-ND

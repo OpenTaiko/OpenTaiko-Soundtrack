@@ -302,7 +302,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 298 - Ruby : BilliumMoto - https://soundcloud.com/billiummoto/ruby (Chart by Ryuto Setsujin)
 299 - 魔法でカエルになっちゃったみたい！ : sharkyo ft. 重音テト - https://www.youtube.com/watch?v=3IC_l4uoBpk (Chart by Ryuto Setsujin and DiamondN1nja)
 300 - Oniric : BlastiX & X3ll3n - https://www.youtube.com/watch?v=AxhoGskZ42Y (Chart by Komi)
-
+301 - I'll bee damned : THE BEAT WIZARD - https://soundcloud.com/the-beat-wizard/ill-bee-damned (Chart by DiamondN1nja)
 302 - Prelude No.2 in A Minor, Op.33 : Steven Wan - https://www.youtube.com/watch?v=Tn28yZUJ3Ow (Chart by Entharex)
 303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
 
@@ -356,6 +356,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 278 - CHARGE BEAM (Game Edit) : MusicFracturer (https://x.com/BachThienVanDL)
 285 - "R"ast GaMES!! : Minerva Rin
 290 - Collapse. : MONOHALLS
+301 - I'll bee damned : Minerva Rin and Len
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 P06 - Zealous Seeker : Michikoiku

@@ -7762,12 +7762,12 @@
             "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\You've Got Mail!.vtt"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "ed71afb7ea5b302386abc0226768c0cc",
+        "tjaMD5": "f0fd11e91c98d338f5c90e548cab688c",
         "chartSize": 3.94,
         "chartTitle": "You've Got Mail!",
         "chartSubtitle": "Phantoskii",
         "chartDifficulties": {
-            "Edit": 10.2,
+            "Edit": 10.3,
             "Oni": 8,
             "Hard": 6,
             "Normal": 6,
@@ -7907,6 +7907,36 @@
         },
         "chartAudioFilePath": "preview\\OniRIcBLasTixx3LL3n.ogg",
         "chartJacketFilePath": "07 OpenTaiko Chapter VII\\300 - Oniric\\Oniric.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "iLLbEEdaMNEDtHEBEaTwiZard",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\301 - I'll bee damned",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\301 - I'll bee damned\\I'll bee damned.jpg",
+            "07 OpenTaiko Chapter VII\\301 - I'll bee damned\\I'll bee damned.ogg",
+            "07 OpenTaiko Chapter VII\\301 - I'll bee damned\\I'll bee damned.tja",
+            "07 OpenTaiko Chapter VII\\301 - I'll bee damned\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "d3dd3f3e3cb9fcc3c14bc76a7343c5df",
+        "chartSize": 5.33,
+        "chartTitle": "I'll bee damned",
+        "chartSubtitle": "THE BEAT WIZARD",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 6
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\iLLbEEdaMNEDtHEBEaTwiZard.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\301 - I'll bee damned\\I'll bee damned.jpg",
         "chartHoFRanks": {}
     },
     {

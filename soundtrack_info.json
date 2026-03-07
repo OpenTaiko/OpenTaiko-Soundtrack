@@ -7971,6 +7971,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "narOudaK",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\310 - SaSaYaKi",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\310 - SaSaYaKi\\SaSaYaKi.ogg",
+            "07 OpenTaiko Chapter VII\\310 - SaSaYaKi\\SaSaYaKi.png",
+            "07 OpenTaiko Chapter VII\\310 - SaSaYaKi\\SaSaYaKi.tja",
+            "07 OpenTaiko Chapter VII\\310 - SaSaYaKi\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "175732178c83cc37c2dca0bb6f7d1184",
+        "chartSize": 5.84,
+        "chartTitle": "SaSaYaKi",
+        "chartSubtitle": "NaRouDaK",
+        "chartDifficulties": {
+            "Edit": 10.7,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Makotora",
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "preview\\narOudaK.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\310 - SaSaYaKi\\SaSaYaKi.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "GRANDFanTaSyAftERmOtIFSFroMtHEopEretTALaparTiTAstEvenWAN",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\321 - Grand Fantasy after Motifs",
         "tjaFilesPath": [

@@ -306,6 +306,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 302 - Prelude No.2 in A Minor, Op.33 : Steven Wan - https://www.youtube.com/watch?v=Tn28yZUJ3Ow (Chart by Entharex)
 303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
 
+310 - 「ささやき」 : NaRouDaK - https://soundcloud.com/naroudak (Chart by Makotora)
+
 321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
 ```
 
@@ -406,6 +408,7 @@ If you liked a specific song and want to support the composer's work, please che
 085 - i don't want to see the people i love see me in pain so i sometimes just wanna be left alone to cry in the dark : Sukima Altera
 127 - A symphony of a million years : oxoplasmaP ft. 唄音ウタ
 215 - nicotine (Teocore Remix) : jackuw & Teocore
+310 - 「ささやき」 : NaRouDaK
 ```
 
 - CC BY-SA

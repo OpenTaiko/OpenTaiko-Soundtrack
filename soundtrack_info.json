@@ -7880,6 +7880,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "OniRIcBLasTixx3LL3n",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\300 - Oniric",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\300 - Oniric\\Oniric.ogg",
+            "07 OpenTaiko Chapter VII\\300 - Oniric\\Oniric.png",
+            "07 OpenTaiko Chapter VII\\300 - Oniric\\Oniric.tja",
+            "07 OpenTaiko Chapter VII\\300 - Oniric\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "2ddeaf8acad73af3521ba9566ab4a3b5",
+        "chartSize": 7.5,
+        "chartTitle": "Oniric",
+        "chartSubtitle": "BlastiX & X3ll3n",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\OniRIcBLasTixx3LL3n.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\300 - Oniric\\Oniric.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "pReLUdeNO2iNAminoRoP33stEveNwaN",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\302 - Prelude No.2 in A Minor (Toccata), Op.33",
         "tjaFilesPath": [
@@ -7938,6 +7968,35 @@
         },
         "chartAudioFilePath": "preview\\MaKOToRaRemixTfD500MAkotOraFromtOneFurY.ogg",
         "chartJacketFilePath": "07 OpenTaiko Chapter VII\\303 - Yami Remix\\Yami2.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "GRANDFanTaSyAftERmOtIFSFroMtHEopEretTALaparTiTAstEvenWAN",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\321 - Grand Fantasy after Motifs",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\321 - Grand Fantasy after Motifs\\gfantasy.ogg",
+            "07 OpenTaiko Chapter VII\\321 - Grand Fantasy after Motifs\\gfantasy.tja",
+            "07 OpenTaiko Chapter VII\\321 - Grand Fantasy after Motifs\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "adb011e9dfcbddef8996cb9b0ff9394c",
+        "chartSize": 12.89,
+        "chartTitle": "Grand Fantasy after Motifs from the Operetta \"La Partita\", Op. 26",
+        "chartSubtitle": "Steven Wan",
+        "chartDifficulties": {
+            "Oni": 11.4,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\GRANDFanTaSyAftERmOtIFSFroMtHEopEretTALaparTiTAstEvenWAN.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
@@ -8839,14 +8898,14 @@
             "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "8104f5eb78178374391233b2e4b10d96",
+        "tjaMD5": "7e51a614a346e5d5cf0317f84e42bdac",
         "chartSize": 8.9,
         "chartTitle": "Rainy Night ~Dream Fantasy~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Edit": 10.0,
             "Oni": 9,
-            "Hard": 7,
+            "Hard": 8,
             "Normal": 6,
             "Easy": 3
         },
@@ -12718,6 +12777,29 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "swtowerGrandFantasy",
+        "tjaFolderPath": "S2 Taiko Towers\\01 - Sweet\\TSW12 - Grand Fantasy after Motifs",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\01 - Sweet\\TSW12 - Grand Fantasy after Motifs\\gfantasy.ogg",
+            "S2 Taiko Towers\\01 - Sweet\\TSW12 - Grand Fantasy after Motifs\\gfantasy.tja",
+            "S2 Taiko Towers\\01 - Sweet\\TSW12 - Grand Fantasy after Motifs\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "12324c85c83ceee93215b3d2d9b52ad8",
+        "chartSize": 12.71,
+        "chartTitle": "Grand Fantasy after Motifs from the Operetta \"La Partita\", Op. 26",
+        "chartSubtitle": "Steven Wan",
+        "chartDifficulties": {
+            "Tower": 7
+        },
+        "chartMakers": {
+            "Tower": "Komi"
+        },
+        "chartAudioFilePath": "preview\\swtowerGrandFantasy.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "tower16ttsrfssfes",
         "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP01 - OpTk Tower 1",
         "tjaFilesPath": [
@@ -12941,7 +13023,7 @@
             "S2 Taiko Towers\\02 - Spicy\\TSP10 - Rainy Night III ~Samsara~\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 - Spicy",
-        "tjaMD5": "fe2f0c03480267959aa67f51341e4de9",
+        "tjaMD5": "08336f101993163cb4fd3325ca6f71a4",
         "chartSize": 10.29,
         "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
         "chartSubtitle": "Taichenko",
@@ -12949,7 +13031,7 @@
             "Tower": 11.0
         },
         "chartMakers": {
-            "Tower": "Taichenko_oni"
+            "Tower": "Taichenko"
         },
         "chartAudioFilePath": "preview\\towersamsaraspicy.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP10 - Rainy Night III ~Samsara~\\Rainy Night III.jpg",
@@ -12977,6 +13059,29 @@
         },
         "chartAudioFilePath": "preview\\otpkTowerSpicyTOKYO.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP11 - TOKYO RHYTHM No.524\\tokyo.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "sptowerGrandFantasy",
+        "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP12 - Grand Fantasy after Motifs",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\02 - Spicy\\TSP12 - Grand Fantasy after Motifs\\gfantasy.ogg",
+            "S2 Taiko Towers\\02 - Spicy\\TSP12 - Grand Fantasy after Motifs\\gfantasy.tja",
+            "S2 Taiko Towers\\02 - Spicy\\TSP12 - Grand Fantasy after Motifs\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "c2a04fcbdcf8931beb9449a4b233db2a",
+        "chartSize": 12.72,
+        "chartTitle": "Grand Fantasy after Motifs from the Operetta \"La Partita\", Op. 26",
+        "chartSubtitle": "Steven Wan",
+        "chartDifficulties": {
+            "Tower": 11.4
+        },
+        "chartMakers": {
+            "Tower": "Komi"
+        },
+        "chartAudioFilePath": "preview\\sptowerGrandFantasy.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

@@ -1814,12 +1814,12 @@
             "02 OpenTaiko Chapter II\\072 - Scarlet Soul\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "a48fa40ae0a38767c2bfd99719af6114",
+        "tjaMD5": "8f59d21033bc8e317bc21d977da9d2f3",
         "chartSize": 3.48,
         "chartTitle": "Scarlet Soul",
         "chartSubtitle": "Cusi vs 9C",
         "chartDifficulties": {
-            "Oni": 11.2,
+            "Oni": 11.4,
             "Hard": 9,
             "Normal": 8,
             "Easy": 6
@@ -9465,12 +9465,12 @@
             "E02 OpenTaiko Headquarters\\HQ09 - 274 - nine states of distorsion\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "d408f38d1a1022c19d998247bd249e84",
+        "tjaMD5": "a9bf358f0c237b8d589520999c18e9ab",
         "chartSize": 3.68,
         "chartTitle": "NEP0\uff1a9STATESOF\u30c7\u30a3\u30b9\u30c8\u30fc\u30b7\u30e7\u30f3",
         "chartSubtitle": "OPTK-HQ=CHANNEL8117",
         "chartDifficulties": {
-            "Edit": 10.9,
+            "Edit": 11.2,
             "Oni": 10.2,
             "Hard": 7,
             "Normal": 6,

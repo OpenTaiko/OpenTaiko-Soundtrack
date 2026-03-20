@@ -7752,6 +7752,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "DOnotbREakiMSeEKing",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\294 - Do (Not) Break",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\294 - Do (Not) Break\\Do (Not) Break.jpg",
+            "07 OpenTaiko Chapter VII\\294 - Do (Not) Break\\Do (Not) Break.ogg",
+            "07 OpenTaiko Chapter VII\\294 - Do (Not) Break\\Do (Not) Break.tja",
+            "07 OpenTaiko Chapter VII\\294 - Do (Not) Break\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "729ac58ff382c353fa213272c44d592b",
+        "chartSize": 5.05,
+        "chartTitle": "Do (Not) Break",
+        "chartSubtitle": "imseeking",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\DOnotbREakiMSeEKing.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\294 - Do (Not) Break\\Do (Not) Break.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "youvegotmailphantoskii",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\295 - You've Got Mail!",
         "tjaFilesPath": [
@@ -8001,6 +8031,39 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "HeartoftheCardsdogthingfeatmikuhatsune",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\305 - Heart of the Cards",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\Heart of the Cards.ogg",
+            "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\Heart of the Cards.png",
+            "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\Heart of the Cards.tja",
+            "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\lyrics.vtt",
+            "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "0021707fb7538b4f99a0d1144dd1416d",
+        "chartSize": 10.26,
+        "chartTitle": "Heart of the Cards",
+        "chartSubtitle": "dogthing feat. Miku Hatsune",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 4,
+            "Hard": 5,
+            "Oni": 6,
+            "Edit": 9
+        },
+        "chartMakers": {
+            "Easy": "Komi",
+            "Normal": "Komi",
+            "Hard": "Komi",
+            "Oni": "Komi",
+            "Edit": "Komi"
+        },
+        "chartAudioFilePath": "preview\\HeartoftheCardsdogthingfeatmikuhatsune.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\Heart of the Cards.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "narOudaK",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\310 - SaSaYaKi",
         "tjaFilesPath": [
@@ -8033,6 +8096,35 @@
         "chartHoFRanks": {
             "Edit": 77
         }
+    },
+    {
+        "uniqueId": "drOPpinGPaCkEtsdeBiScO",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\317 - Dropping Packets",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\317 - Dropping Packets\\Dropping Packets.ogg",
+            "07 OpenTaiko Chapter VII\\317 - Dropping Packets\\Dropping Packets.tja",
+            "07 OpenTaiko Chapter VII\\317 - Dropping Packets\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "03858b7ee9e8e09370f7f149a9173531",
+        "chartSize": 3.03,
+        "chartTitle": "Dropping Packets",
+        "chartSubtitle": "DeBisco",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\drOPpinGPaCkEtsdeBiScO.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
     },
     {
         "uniqueId": "GRANDFanTaSyAftERmOtIFSFroMtHEopEretTALaparTiTAstEvenWAN",

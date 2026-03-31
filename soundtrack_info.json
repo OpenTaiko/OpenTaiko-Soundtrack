@@ -10731,6 +10731,566 @@
         }
     },
     {
+        "uniqueId": "owyrsiloeOP",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A01 - April Heart",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A01 - April Heart\\April\u2605Heart! (O.W.I.R.S.I.L.O.U.E Academy Theme Song).ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A01 - April Heart\\April\u2605Heart! Instrumental.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A01 - April Heart\\April\u2605Heart!.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A01 - April Heart\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A01 - April Heart\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A01 - April Heart\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "6056085c111fc0a085596dab3e1122f9",
+        "chartSize": 31.82,
+        "chartTitle": "April\u2605Heart!",
+        "chartSubtitle": "O.W.Y.R.S.I.L.O.E Academy Theme Song",
+        "chartDifficulties": {
+            "Oni": 5,
+            "Hard": 3,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeOP.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP01",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A02 - Connection",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A02 - Connection\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A02 - Connection\\Connection, Op.19.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A02 - Connection\\Connection, Op.19.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A02 - Connection\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A02 - Connection\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A02 - Connection\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "13c3d26032831c84d0d5d5fe178b5531",
+        "chartSize": 43.25,
+        "chartTitle": "Connection, Op.19",
+        "chartSubtitle": "Steven Wan",
+        "chartDifficulties": {
+            "Edit": 10.67,
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP01.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP02",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\uniqueID.json",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\Wherever You Are.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\Wherever You Are.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\Wherever You Are.tja"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "63c716575c580c3db8541a9506269358",
+        "chartSize": 11.06,
+        "chartTitle": "Wherever You Are",
+        "chartSubtitle": "Ryuto Setsujin",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP02.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A03 - Wherever you are\\Wherever You Are.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP03",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\Blur.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\Blur.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\Blur.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "047798bfb84d848d96f903155986abe1",
+        "chartSize": 13.52,
+        "chartTitle": "Blur",
+        "chartSubtitle": "OpenTaiko Sound Team \"Makotora\" with JUN Nocturne (SynthV)",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP03.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A04 - Blur\\Blur.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP04",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\Polaris.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\Polaris.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "499240672533c6bd5fe6af5a70b4110a",
+        "chartSize": 18.16,
+        "chartTitle": "Pola\u042f\u2215\u2215iS",
+        "chartSubtitle": "Eclipse_41",
+        "chartDifficulties": {
+            "Edit": 10.9,
+            "Oni": 7,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "bol",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP04.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP05",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A06 - This might be a beachside drama",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A06 - This might be a beachside drama\\beachside drama.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A06 - This might be a beachside drama\\beachside drama.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A06 - This might be a beachside drama\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A06 - This might be a beachside drama\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A06 - This might be a beachside drama\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A06 - This might be a beachside drama\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "ae3540c019f8b03358820100dca61353",
+        "chartSize": 21.91,
+        "chartTitle": "This might be a beachside drama",
+        "chartSubtitle": "FrankleAnkles",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP05.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP06",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A07 - Valentine's day was 45 days ago",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A07 - Valentine's day was 45 days ago\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A07 - Valentine's day was 45 days ago\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A07 - Valentine's day was 45 days ago\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A07 - Valentine's day was 45 days ago\\uniqueID.json",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A07 - Valentine's day was 45 days ago\\VALENTINES.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A07 - Valentine's day was 45 days ago\\VALENTINES.tja"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "9e03bc3092321e1acf0446d0124d62e3",
+        "chartSize": 29.91,
+        "chartTitle": "Valentine's day was 45 days ago",
+        "chartSubtitle": "zqr",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 4,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP06.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP07",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A08 - Denis",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A08 - Denis\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A08 - Denis\\Denis.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A08 - Denis\\Denis.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A08 - Denis\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A08 - Denis\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A08 - Denis\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "ae3f283c8710ce790f460e1dd9c8b49d",
+        "chartSize": 11.16,
+        "chartTitle": "Denis ~an acapella treat~",
+        "chartSubtitle": "gentu -respect for K-",
+        "chartDifficulties": {
+            "Oni": 10.67,
+            "Edit": 10.41,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Edit": "Komi",
+            "Hard": "berdstep",
+            "Normal": "berdstep",
+            "Easy": "berdstep"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP07.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP08",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime\\fail2.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime\\romance of a lifetime.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime\\romance of a lifetime.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A09 - romance of a lifetime\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "24e92c53980b175aaaf30511af6602d8",
+        "chartSize": 16.26,
+        "chartTitle": "romance of a lifetime",
+        "chartSubtitle": "gentu as \"gentu with toast in his mouth\"",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP08.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeIT",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful\\If you ever feel lost.zip",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful\\uniqueID.json",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful\\What a Wonderful Day.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A10 - Wonderful\\What a Wonderful Day.tja"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "730f940b61d238f3a6a7f19f6663ad23",
+        "chartSize": 9.53,
+        "chartTitle": "What a Wonderful Day!",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Easy": 6,
+            "Normal": 8,
+            "Hard": 9,
+            "Oni": 11.41
+        },
+        "chartMakers": {
+            "Easy": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Oni": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeIT.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP09",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\rizz.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\rizz.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\rizz.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "9c9fa684f9efb79e0fe0bfcb1d514a71",
+        "chartSize": 26.32,
+        "chartTitle": "Sands of Rizz",
+        "chartSubtitle": "MoushiKomi feat. OpenTaiko All Stars",
+        "chartDifficulties": {
+            "Edit": 12.41,
+            "Hard": 10,
+            "Easy": 8,
+            "Oni": 11.067,
+            "Normal": 8
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Hard": "Komi",
+            "Easy": "Komi",
+            "Oni": "bol",
+            "Normal": "Komi"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP09.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A11 - Sands of Rizz\\rizz.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeEP10",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A12 - 67 Dream",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A12 - 67 Dream\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A12 - 67 Dream\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A12 - 67 Dream\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A12 - 67 Dream\\Ozzy67.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A12 - 67 Dream\\Ozzy67.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A12 - 67 Dream\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "f37555b5fd0efd72a61decd545edde92",
+        "chartSize": 13.62,
+        "chartTitle": "\"A dream that holds a thousand lives, and the hope that your love will return\"",
+        "chartSubtitle": "Tatsuoto has had this dream six or seven times.",
+        "chartDifficulties": {
+            "Oni": 11.41,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 6
+        },
+        "chartMakers": {
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeEP10.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeED",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A13 - farewell",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A13 - farewell\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A13 - farewell\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A13 - farewell\\farewell.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A13 - farewell\\farewell.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A13 - farewell\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A13 - farewell\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "ec0010f6782ce130789da649b1ab0dca",
+        "chartSize": 28.35,
+        "chartTitle": "Unlocking farewells of the Dimension of Emotion",
+        "chartSubtitle": "You",
+        "chartDifficulties": {
+            "Oni": 4,
+            "Hard": 1,
+            "Normal": 1,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeED.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "owyrsiloeTRUEFINALE",
+        "tjaFolderPath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\actuallyrics.vtt",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\adulation.tja",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\back.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\back2.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\back3.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\clear.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\fail.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\intro.mp4",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\paku.vtt",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\pakufightsong.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\uniqueID.json",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\bg1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\burst.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\dreamy.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\fx1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\fx2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\fx3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\ojama1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\transition.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\4.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\5.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\6.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara1\\7.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\10.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\11.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\12.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\13.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\14.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\15.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\4.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\5.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\6.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\7.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\8.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\chara4\\9.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\bg2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\bg3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\biglast.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\hero.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast4.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\stars1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\stars2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\vertframe.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\white.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\zawarudo.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionfront\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionfront\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionfront\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionfront\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionlinefinal\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionlinefinal\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionlinefinal\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\motionlinefinal\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast1\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast1\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast1\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast1\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast3\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast3\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast3\\Untitled_Artwork-3 2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast4\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\pakulast4\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\shootingstar\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\shootingstar\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\shootingstar\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\end\\shootingstar\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\negai\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\negai\\1a.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\negai\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\negai\\2a.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\4.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\5.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\6.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku1\\7.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\4.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\5.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\6.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku2\\7.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\0.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\1.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\2.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\3.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\4.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\5.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\6.png",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A14 - Adulation\\bg\\paku3\\7.png"
+        ],
+        "tjaGenreFolder": "C06 OWYRSILOE Academy",
+        "tjaMD5": "11d26c3c03e5e02074d70c4db6de6b71",
+        "chartSize": 65.29,
+        "chartTitle": "\u0394DULATIo\u03a0 \u03a9! ~Cheering for Dreamseeker~",
+        "chartSubtitle": "Spring-Time Jester, Dreamseeker Paku, and You feat. Dashy,",
+        "chartDifficulties": {
+            "Oni": 11.41,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\owyrsiloeTRUEFINALE.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu",
         "tjaFilesPath": [

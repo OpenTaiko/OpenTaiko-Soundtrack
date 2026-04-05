@@ -298,20 +298,22 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 294 - Do (Not) Break : imseeking - https://soundcloud.com/Rc0uKPhLKJnXvcH3xi (Chart by Komi)
 295 - You've Got Mail! : Phantoskii - https://www.youtube.com/watch?v=FCCq7PYrr4Q (Chart by BeaniCraft)
 296 - BIRKIE : oratoruk - https://soundcloud.com/oratoruk/bofet-birkie (Chart by Komi and Dashy)
-
+297 - SHAPESHIFTER : RachelTypeX - https://soundcloud.com/racheltypex (Chart by sadkay)
 298 - Ruby : BilliumMoto - https://soundcloud.com/billiummoto/ruby (Chart by Ryuto Setsujin)
 299 - 魔法でカエルになっちゃったみたい！ : sharkyo ft. 重音テト - https://www.youtube.com/watch?v=3IC_l4uoBpk (Chart by Ryuto Setsujin and DiamondN1nja)
 300 - Oniric : BlastiX & X3ll3n - https://www.youtube.com/watch?v=AxhoGskZ42Y (Chart by Komi)
 301 - I'll bee damned : THE BEAT WIZARD - https://soundcloud.com/the-beat-wizard/ill-bee-damned (Chart by DiamondN1nja)
 302 - Prelude No.2 in A Minor, Op.33 : Steven Wan - https://www.youtube.com/watch?v=Tn28yZUJ3Ow (Chart by Entharex)
 303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
-
+304 - Against the Dragon : Aspid Cat - https://www.youtube.com/watch?v=IB4chQOktYo (Chart by Komi, bol and DiamondN1nja)
 305 - Heart of the Cards : dogthing feat. 初音ミク - https://www.youtube.com/@dogthing69 (Chart by Komi)
 
 310 - 「ささやき」 : NaRouDaK - https://soundcloud.com/naroudak (Chart by Makotora)
+311 - Lost Petal's Wander : RB.H × lixound × 薛南 - https://soundcloud.com/rebirthzx/bofet-lost-petals-wander-rbh-lixound (Chart by sadkay)
 
 317 - Dropping Packets : DeBisco - https://www.debiscomusic.com/ (Chart by sadkay)
 
+320 - queen of destruction : zqr - https://youtu.be/ffDuiF3Bzm0 (Chart by sadkay)
 321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
 ```
 
@@ -521,9 +523,15 @@ Gap Moe ☆ - gentu https://www.youtube.com/@gentu (Chart by Taichenko)
 ```
 Songs that are not specified under the 'Songs with specific licenses' section are under the OpenTaiko Default Licence
 
+## Charts
+
+All charts (.tja files) are licensed under the CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) license.
+The charter name being displayed in the song select screen, it is considered enough for OpenTaiko videos, streams, etc...
+While stated in the CC-BY 4.0 license, stating chart modifications is mandatory only if the chart was modified.
+
 ## Reuploading
 
-Permission from the following actors is mandatory for reuploading OpenTaiko Charts:
-- The OpenTaiko Team (and, in the case of a collaboration, the related game's staff)
-- The song artist(s)
-- The jacket/BGA artist(s)
+Permission from the following actors is mandatory for reuploading OpenTaiko charts alongside their song file/media:
+- The song artist(s) (Except if its license states otherwise)
+- The jacket/BGA artist(s) (Except if its license states otherwise)
+- In the case of a collaboration, the related game's staff

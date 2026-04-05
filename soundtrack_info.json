@@ -7847,6 +7847,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "ShApeshIfTerrACheLtYpEx",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\297 - SHAPESHIFTER",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\297 - SHAPESHIFTER\\SHAPESHIFTER.ogg",
+            "07 OpenTaiko Chapter VII\\297 - SHAPESHIFTER\\SHAPESHIFTER.png",
+            "07 OpenTaiko Chapter VII\\297 - SHAPESHIFTER\\SHAPESHIFTER.tja",
+            "07 OpenTaiko Chapter VII\\297 - SHAPESHIFTER\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "f6b03d14a05f4d35490226100debfdf5",
+        "chartSize": 5.2,
+        "chartTitle": "SHAPESHIFTER",
+        "chartSubtitle": "RachelTypeX",
+        "chartDifficulties": {
+            "Edit": 10.7,
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "sadkay",
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\ShApeshIfTerrACheLtYpEx.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\297 - SHAPESHIFTER\\SHAPESHIFTER.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "ch7ruby",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\298 - Ruby",
         "tjaFilesPath": [
@@ -8031,6 +8063,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "aGaiNsTThEdrAgonAsPidcAt",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\304 - Against the Dragon",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\304 - Against the Dragon\\Against the Dragon.jpg",
+            "07 OpenTaiko Chapter VII\\304 - Against the Dragon\\Against the Dragon.ogg",
+            "07 OpenTaiko Chapter VII\\304 - Against the Dragon\\Against the Dragon.tja",
+            "07 OpenTaiko Chapter VII\\304 - Against the Dragon\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "0bdf71154a16c4ceb845fdb6a73126e1",
+        "chartSize": 4.37,
+        "chartTitle": "Against the Dragon",
+        "chartSubtitle": "Aspid Cat",
+        "chartDifficulties": {
+            "Edit": 11.0,
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Oni": "bol",
+            "Hard": "DiamondN1nja",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\aGaiNsTThEdrAgonAsPidcAt.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\304 - Against the Dragon\\Against the Dragon.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "HeartoftheCardsdogthingfeatmikuhatsune",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\305 - Heart of the Cards",
         "tjaFilesPath": [
@@ -8098,6 +8162,36 @@
         }
     },
     {
+        "uniqueId": "losTPEtAlSwANDERRBHLiXoUNdsetSUnaN",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\lost.jpg",
+            "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\lost.ogg",
+            "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\lost.tja",
+            "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "4a56eb051bc81a1776bffa8f7d51f06c",
+        "chartSize": 1.89,
+        "chartTitle": "Lost Petal's Wander",
+        "chartSubtitle": "RB.H \u00d7 lixound \u00d7 Setsunan",
+        "chartDifficulties": {
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\losTPEtAlSwANDERRBHLiXoUNdsetSUnaN.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\lost.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "drOPpinGPaCkEtsdeBiScO",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\317 - Dropping Packets",
         "tjaFilesPath": [
@@ -8124,6 +8218,38 @@
         },
         "chartAudioFilePath": "preview\\drOPpinGPaCkEtsdeBiScO.ogg",
         "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "quEenOFDESTRUcTIONZqR",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\320 - queen of destruction",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\320 - queen of destruction\\qod.ogg",
+            "07 OpenTaiko Chapter VII\\320 - queen of destruction\\qod.png",
+            "07 OpenTaiko Chapter VII\\320 - queen of destruction\\qod.tja",
+            "07 OpenTaiko Chapter VII\\320 - queen of destruction\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "4bf9f9e0acf59e6333bf9abb3d06180f",
+        "chartSize": 6.5,
+        "chartTitle": "queen of destruction",
+        "chartSubtitle": "zqr",
+        "chartDifficulties": {
+            "Edit": 11.9,
+            "Oni": 10.6,
+            "Hard": 9,
+            "Easy": 6,
+            "Normal": 8
+        },
+        "chartMakers": {
+            "Edit": "sadkay",
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Easy": "sadkay",
+            "Normal": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\quEenOFDESTRUcTIONZqR.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\320 - queen of destruction\\qod.png",
         "chartHoFRanks": {}
     },
     {

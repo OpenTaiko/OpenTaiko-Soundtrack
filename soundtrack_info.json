@@ -7665,12 +7665,13 @@
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba",
         "tjaFilesPath": [
             "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\Nijibana no Yaiba.ogg",
+            "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\Nijibana no Yaiba.png",
             "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\Nijibana no Yaiba.tja",
             "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "893ddfae7a34aad6851e7ae56c02901f",
-        "chartSize": 2.9,
+        "tjaMD5": "5917fc8acb6e26e86f49c16d6f81ee22",
+        "chartSize": 4.43,
         "chartTitle": "Nijibana no Yaiba",
         "chartSubtitle": "Yue",
         "chartDifficulties": {
@@ -7688,7 +7689,7 @@
             "Easy": "DiamondN1nja"
         },
         "chartAudioFilePath": "preview\\nIJIBaNanoyaibAYUe.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\Nijibana no Yaiba.png",
         "chartHoFRanks": {}
     },
     {

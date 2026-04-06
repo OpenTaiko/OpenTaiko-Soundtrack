@@ -295,7 +295,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 291 - 虹華の刃 : 悠江 - https://soundcloud.com/k1xsmp2wmrfb (Chart by DiamondN1nja and Komi)
 292 - Tears of Denial : OfficialAz3 feat. Echa & Hodong (from VOX Factory) - https://www.youtube.com/@OfficialAz3 (Chart by Makotora)
 293 - Sayawan Brasilero (OpenTaiko ver.) : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by DragonRatTiger)
-294 - Do (Not) Break : imseeking - https://soundcloud.com/Rc0uKPhLKJnXvcH3xi (Chart by Komi)
+294 - Do (Not) Break : imseeking - https://on.soundcloud.com/Rc0uKPhLKJnXvcH3xi (Chart by Komi)
 295 - You've Got Mail! : Phantoskii - https://www.youtube.com/watch?v=FCCq7PYrr4Q (Chart by BeaniCraft)
 296 - BIRKIE : oratoruk - https://soundcloud.com/oratoruk/bofet-birkie (Chart by Komi and Dashy)
 297 - SHAPESHIFTER : RachelTypeX - https://soundcloud.com/racheltypex (Chart by sadkay)

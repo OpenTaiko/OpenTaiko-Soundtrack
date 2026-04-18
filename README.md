@@ -307,12 +307,15 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
 304 - Against the Dragon : Aspid Cat - https://www.youtube.com/watch?v=IB4chQOktYo (Chart by Komi, bol and DiamondN1nja)
 305 - Heart of the Cards : dogthing feat. 初音ミク - https://www.youtube.com/@dogthing69 (Chart by Komi)
+306 - Melpomene's Cry : FrankleAnkles - https://www.youtube.com/@FrankleAnkles, https://soundcloud.com/franky-171214264 (Chart by YSTAR-T)
 
+309 - opia : rN - https://soundcloud.com/rurinn/opia (Chart by DiamondN1nja)
 310 - 「ささやき」 : NaRouDaK - https://soundcloud.com/naroudak (Chart by Makotora)
 311 - Lost Petal's Wander : RB.H × lixound × 薛南 - https://soundcloud.com/rebirthzx/bofet-lost-petals-wander-rbh-lixound (Chart by sadkay)
 
 317 - Dropping Packets : DeBisco - https://www.debiscomusic.com/ (Chart by sadkay)
-
+318 - RE:ITERATION : BlastiX & ione - https://www.youtube.com/watch?v=_nUBbOhmQy8 (Chart by bol)
+319 - Moonlight Frequency : Kaizu - https://www.instagram.com/_oneandonlykaizu/ https://www.tiktok.com/@_oneandonlykaizu https://x.com/oneandonlyKaizu https://soundcloud.com/kaizu-619786520 https://open.spotify.com/artist/6HsFsUzGbGV1VUEaNgfMpP?si=rYeqIHJsS7SaOwVxBtDK9Q https://music.apple.com/ph/artist/kaizu/1856552500 (Chart by Komi)
 320 - queen of destruction : zqr - https://youtu.be/ffDuiF3Bzm0 (Chart by sadkay)
 321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
 ```
@@ -363,6 +366,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 285 - "R"ast GaMES!! : Minerva Rin
 290 - Collapse. : MONOHALLS
 301 - I'll bee damned : Minerva Rin and Len
+306 - Melpomene's Cry : Chegg/chocobogamer
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 P06 - Zealous Seeker : Michikoiku
@@ -427,6 +431,7 @@ If you liked a specific song and want to support the composer's work, please che
 091 - thumb wrestling : ok cheez
 235 - Unfortunate Utopia : Wyvren vs. Marilette Aokisama
 295 - You've Got Mail! : Phantoskii
+306 - Melpomene's Cry : FrankleAnkles
 ```
 
 - Non-commercial, Attribution required (CC BY-NC ?)

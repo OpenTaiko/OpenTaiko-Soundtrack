@@ -28,7 +28,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 021 - Welcome To The Cafe : Sukima Altera feat. ALTERNATiVE THEORY - https://youtube.com/c/SukimaAltera | https://www.twitter.com/SukimaAltera (Chart by Komi)
 022 - Seismic Shake : DeBisco - https://soundcloud.com/debisco | https://twitter.com/debiscomusic (Chart by Komi & bol)
 023 - Stereotype : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko (Extreme) & Komi (Easy, Normal, Hard))
-024 - Rainy Night ~夢幻想~ : Taichenko - https://space.bilibili.com/356518101 https://b23.tv/LBMw5Oz (Chart by Taichenko (Extreme) & 風に乗ってgo (Easy, Normal, Hard))
+024 - Rainy Night ~夢幻想~ : Taichenko - https://space.bilibili.com/356518101 https://b23.tv/LBMw5Oz (Chart by Taichenko (Extreme) & YSTAR-T (Easy, Normal, Hard))
 025 - Fearless : Ash Electric - https://linktr.ee/ashelectric (Chart by Komi)
 026 - Lost Emotion. : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu)
 027 - Broken Metronome : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu (Extreme, Extra) & Komi (Easy, Normal, Hard))
@@ -143,7 +143,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 136 - Trapped Passion : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu)
 137 - ??? ~ T'soL Niamer-I ~ : YLN0 feat. The Second Truth (Chart by ???)
 138 - Startup Parade! (Ryuto Setsujin + Makotora Remix) : Ryuto Setsujin + Makotora - https://kingmakotora.bandcamp.com/track/startup-parade-ryuto-setsujin-makotora-remix (Chart by DiamondN1nja)
-139 - euphoric eruption : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi)
+139 - euphoric eruption : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi and YSTAR-T)
 140 - NOVAの夜 (NOVA's Night!!) : alden - https://twitter.com/aldentweeting (Chart by Komi)
 141 - AQUAMARINE : McBoiled - https://soundcloud.com/mcboiled (Chart by Komi)
 142 - floatfobia : ArLgon - https://www.youtube.com/@ArLgon.sb3 (Chart by Komi)
@@ -160,11 +160,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 153 - TOKYO-RHYTHM No.524 : フォ㍊ a.k.a FALL - https://www.likeside.net/ (Chart by DiamondN1nja, DragonRatTiger)
 154 - Stormrider's Bolt : H5 - https://linktr.ee/H5Music (Chart by H5, Komi)
 155 - Music for Life : FALL feat. elu_amaga - https://www.likeside.net/ (Chart by Komi)
-156 - Wild Water : Ardolf - https://soundcloud.com/ardolf_music (Chart by berdstep, DiamondN1nja)
 157 - Rainy Tear : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 158 - Goodbye My Phantasia : FALL feat. yufu_sekka - https://www.likeside.net/ (Chart by bol, Komi)
-159 - BLACK MAGIC :  Ardolf - https://soundcloud.com/ardolf_music (Chart by Komi)
-160 - SILVER BULLET : Ardolf - https://soundcloud.com/ardolf_music (Chart by Yokoyoko, DiamondN1nja)
 161 - Donstrgus : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 162 - linebreak : zqr - https://www.youtube.com/@zqr_ (Chart by DiamondN1nja)
 163 - NEP0：N3PHTHYSジユ : OPTK-HQ=CHANNEL0125 (Chart by OPTK-HQ)
@@ -183,7 +180,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 176 - Sim-plex : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 177 - the world of scarlet : OfficialAz3 - https://www.youtube.com/@OfficialAz3 https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=146 (Chart by Komi)
 178 - PARANO1A : H5 - https://linktr.ee/H5Music (Chart by Dashy, Komi)
-179 - Authentic (Game Mix) : Colin McGuire ft. Teto Kasane - https://youtu.be/VadL3qgwv6I?si=8GAvxmBS77DFCsHL (Chart by Colin)
+179 - Authentic (Game Mix) : dogthing ft. Teto Kasane - https://youtu.be/VadL3qgwv6I?si=8GAvxmBS77DFCsHL (Chart by Colin)
 180 - Katharsis (9C + Makotora Remix) : 9C + Makotora - https://kingmakotora.bandcamp.com https://youtube.com/channel/UCxx3wiFJxGwb_-tEePPa4RA (Chart by Komi)
 181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix) : Dashy, thanks to TAK aka. Tokky and Otome Ame - https://x.com/dashydesu https://x.com/crasythunder https://x.com/otomeame (Chart by Dashy)
 182 - dreamscape : Makotora - https://kingmakotora.bandcamp.com (Chart by DiamondN1nja)
@@ -196,7 +193,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 189 - キャンディガール : 乙女雨（作編曲：kani） - https://x.com/otomeame https://x.com/kani0729 (Chart by Takkkom)
 190 - 虹はキライ : 乙女雨（作編曲：湿度ケイ） - https://www.youtube.com/@otomeame https://x.com/otomeame https://www.youtube.com/@shitsudokei5873 https://x.com/shitsudo_K (Chart by Yokoyoko (Extra), Komi)
 191 - 煉獄のOOTD : Masamune vs. H5 - https://linktr.ee/H5Music (Chart by bol vs lob)
-192 -　Warm Winter Wish : Whimsical Winter World's Maestros (Dashy, Colin McGuire, InterChan, Taichenko, Whitetail, IID, Derpikarp) (Chart by the contest winners (sadkay, Team JE, WilliamDavi, TFD500) and Komi)
+192 -　Warm Winter Wish : Whimsical Winter World's Maestros (Dashy, dogthing, InterChan, Taichenko, Whitetail, IID, Derpikarp) (Chart by the contest winners (sadkay, Team JE, WilliamDavi, TFD500) and Komi)
 193 - Diverging Duality : Riprider - https://riprider.bandcamp.com/  https://www.youtube.com/@Riprider_Music  https://soundcloud.com/riprider_music (Chart by DiamondN1nja)
 194 - FEEL IT ALL (Game Edit) : RachelTypeX - http://soundcloud.com/racheltypex (Chart by Komi)
 195 - Labyrinth from Another World : MoushiKomi (Chart by Komi)
@@ -207,7 +204,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 200 - A Perfect Beginning (BMSをたくさん作るぜ'25 VIP) : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 201 - Future Fragments : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by Komi)
 202 - Pico Summit :  OfficialAz3 (from Yobimo Entertainment) - https://www.youtube.com/@OfficialAz3, © Yobimo Multimedia Group / OfficialAz3 | https://www.youtube.com/@Yobimo | https://www.facebook.com/yobimo.co/ | https://x.com/yobimo_co | https://www.instagram.com/yobimo_co/ (Chart by Komi)
-203 - If Life Were a Loop : Colin McGuire ft. Hatsune Miku - https://www.nicovideo.jp/watch/sm44632992 (Chart by Colin) 
+203 - If Life Were a Loop : dogthing ft. Hatsune Miku - https://www.nicovideo.jp/watch/sm44632992 (Chart by Colin) 
 204 - Why Are All The Girls Sick? (OpenTaiko Edit) : Stu Cupid - https://bsky.app/profile/stucupid.bsky.social https://www.instagram.com/stu.cupid/ https://stucupid.bandcamp.com/ (Chart by Komi)
 205 - Departure to Copacabana (OpenTaiko Edit) : Stu Cupid feat. Rhiannon Moushall - https://bsky.app/profile/stucupid.bsky.social https://www.instagram.com/stu.cupid/ https://stucupid.bandcamp.com/ (Chart by bol)
 206 - Eitchfaivest : OpenTaiko Sound Team "Masamune" - https://bsky.app/profile/masamune-judgement.bsky.social (Chart by bol)
@@ -234,7 +231,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 227 - Beach Race : Snikio & X3ll3n - [X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Other Platforms : https://linktr.ee/x3ll3n]   [Snikio (Ledonn) : • Soundcloud : https://soundcloud.com/snikio-253348413 • Youtube : https://www.youtube.com/channel/UCcZpohY7Kj5jmaJii51Ai-Q • Spotify : https://open.spotify.com/artist/4KEFl8lrGPq1XGVHlOrri0] (Chart by Komi)
 228 - Hi Voltage : 3Kado_ feat. Clozzo - https://soundcloud.com/k1xsmp2wmrfb/hivoltage (Chart by Komi, DiamondN1nja)
 229 - cityscape//RUiNsS : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)
-230 - Broken Bond : Colin McGuire - https://www.youtube.com/watch?v=KaYxCFxGlnc (Chart by Colin)
+230 - Broken Bond : dogthing - https://www.youtube.com/watch?v=KaYxCFxGlnc (Chart by Colin)
 231 - We Fight (Short Ver.) : Yozu C - https://soundcloud.com/yozushitunes https://www.instagram.com/yozushitunes/ (Chart by sadkay)
 232 - Blessing of Endurance : Narwhalle - https://www.youtube.com/watch?v=_Dfqk_431rM (Chart by sadkay)
 233 - Momenta Mori (OpenTaiko Cut) : X3ll3n & Benji-G - [Benji : -Newgrounds https://benji-g.newgrounds.com/ -YouTube: https://www.youtube.com/channel/UC20XOQOSZCS90d4b6Fr0-HA -Soundcloud: https://soundcloud.com/user-763424064]        [X3ll3n • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Newgrounds : https://x3ll3n.newgrounds.com/ • Other Platforms : https://linktr.ee/x3ll3n] (Chart by Makotora)
@@ -292,9 +289,35 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 285 - "R"ast GaMES!! : 3Kado_ vs Yuruka - https://x.com/3Kado_168 (Chart by Ryuto Setsujin)
 286 - seven states of dreamscapes : OfficialAz3 - https://www.youtube.com/@OfficialAz3 (Chart by Komi)
 287 - Iridescent Beauty (Game Edit) : Sukima Altera - https://yokaicore.bandcamp.com/track/iridescent-beauty (Chart by Komi and sadkay)
-288 - ???
+288 - cocoa break : Dashy, - https://youtu.be/S9Q0q3H5HzE?si=qYabGwJEQ3KhPXsE (Chart by Dashy)
 289 - ravage reign : Makotora - https://kingmakotora.bandcamp.com/track/ravage-reign (Chart by IID)
 290 - Collapse. : Pandemonium. - endofsystem: https://www.youtube.com/channel/UCAFzvc7DqmBMVpb9pH4TStg, OfficialAz3 - https://www.youtube.com/@OfficialAz3, Echa - https://www.youtube.com/channel/UCGm9EXfV3yY0Bc8E4gEX1CA (Chart by Komi)
+291 - 虹華の刃 : 悠江 - https://soundcloud.com/k1xsmp2wmrfb (Chart by DiamondN1nja and Komi)
+292 - Tears of Denial : OfficialAz3 feat. Echa & Hodong (from VOX Factory) - https://www.youtube.com/@OfficialAz3 (Chart by Makotora)
+293 - Sayawan Brasilero (OpenTaiko ver.) : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by DragonRatTiger)
+294 - Do (Not) Break : imseeking - https://on.soundcloud.com/Rc0uKPhLKJnXvcH3xi (Chart by Komi)
+295 - You've Got Mail! : Phantoskii - https://www.youtube.com/watch?v=FCCq7PYrr4Q (Chart by BeaniCraft)
+296 - BIRKIE : oratoruk - https://soundcloud.com/oratoruk/bofet-birkie (Chart by Komi and Dashy)
+297 - SHAPESHIFTER : RachelTypeX - https://soundcloud.com/racheltypex (Chart by sadkay)
+298 - Ruby : BilliumMoto - https://soundcloud.com/billiummoto/ruby (Chart by Ryuto Setsujin)
+299 - 魔法でカエルになっちゃったみたい！ : sharkyo ft. 重音テト - https://www.youtube.com/watch?v=3IC_l4uoBpk (Chart by Ryuto Setsujin and DiamondN1nja)
+300 - Oniric : BlastiX & X3ll3n - https://www.youtube.com/watch?v=AxhoGskZ42Y (Chart by Komi)
+301 - I'll bee damned : THE BEAT WIZARD - https://soundcloud.com/the-beat-wizard/ill-bee-damned (Chart by DiamondN1nja)
+302 - Prelude No.2 in A Minor, Op.33 : Steven Wan - https://www.youtube.com/watch?v=Tn28yZUJ3Ow (Chart by Entharex)
+303 - 闇 (Makotora Remix) : TFD500 + Makotora (from TONE::FURY) - https://youtu.be/50AyJld_77o?si=Jn9LuZYP2q11_A1o (Chart by TFD500 and Makotora)
+304 - Against the Dragon : Aspid Cat - https://www.youtube.com/watch?v=IB4chQOktYo (Chart by Komi, bol and DiamondN1nja)
+305 - Heart of the Cards : dogthing feat. 初音ミク - https://www.youtube.com/@dogthing69 (Chart by Komi)
+306 - Melpomene's Cry : FrankleAnkles - https://www.youtube.com/@FrankleAnkles, https://soundcloud.com/franky-171214264 (Chart by YSTAR-T)
+
+309 - opia : rN - https://soundcloud.com/rurinn/opia (Chart by DiamondN1nja)
+310 - 「ささやき」 : NaRouDaK - https://soundcloud.com/naroudak (Chart by Makotora)
+311 - Lost Petal's Wander : RB.H × lixound × 薛南 - https://soundcloud.com/rebirthzx/bofet-lost-petals-wander-rbh-lixound (Chart by sadkay)
+
+317 - Dropping Packets : DeBisco - https://www.debiscomusic.com/ (Chart by sadkay)
+318 - RE:ITERATION : BlastiX & ione - https://www.youtube.com/watch?v=_nUBbOhmQy8 (Chart by bol)
+319 - Moonlight Frequency : Kaizu - https://www.instagram.com/_oneandonlykaizu/ https://www.tiktok.com/@_oneandonlykaizu https://x.com/oneandonlyKaizu https://soundcloud.com/kaizu-619786520 https://open.spotify.com/artist/6HsFsUzGbGV1VUEaNgfMpP?si=rYeqIHJsS7SaOwVxBtDK9Q https://music.apple.com/ph/artist/kaizu/1856552500 (Chart by Komi)
+320 - queen of destruction : zqr - https://youtu.be/ffDuiF3Bzm0 (Chart by sadkay)
+321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
 ```
 
 ### Visuals
@@ -342,8 +365,11 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 278 - CHARGE BEAM (Game Edit) : MusicFracturer (https://x.com/BachThienVanDL)
 285 - "R"ast GaMES!! : Minerva Rin
 290 - Collapse. : MONOHALLS
+301 - I'll bee damned : Minerva Rin and Len
+306 - Melpomene's Cry : Chegg/chocobogamer
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
+P06 - Zealous Seeker : Michikoiku
 ```
 
 The visuals mentionned below have confirmed usage of AI generated assets
@@ -377,6 +403,16 @@ If you liked a specific song and want to support the composer's work, please che
 225 - Nitro
 227 - Beach Race 
 233 - Momenta Mori (OpenTaiko Cut)
+277 - Ashes in the Gearbox
+283 - Midnight Freeway
+317 - Dropping Packets
+```
+
+- Check the following link: https://flavorfoley.com/contact
+```
+236 - BUTCHER VANITY
+237 - weathergirl
+238 - Static
 ```
 
 - CC BY
@@ -384,6 +420,8 @@ If you liked a specific song and want to support the composer's work, please che
 085 - i don't want to see the people i love see me in pain so i sometimes just wanna be left alone to cry in the dark : Sukima Altera
 127 - A symphony of a million years : oxoplasmaP ft. 唄音ウタ
 215 - nicotine (Teocore Remix) : jackuw & Teocore
+310 - 「ささやき」 : NaRouDaK
+305 - Heart of the Cards : dogthing feat. 初音ミク
 ```
 
 - CC BY-SA
@@ -391,7 +429,9 @@ If you liked a specific song and want to support the composer's work, please che
 061 - The Abyss : ok cheez
 077 - Meowmetic : HHS
 091 - thumb wrestling : ok cheez
-235 - Unfortunate Utopia
+235 - Unfortunate Utopia : Wyvren vs. Marilette Aokisama
+295 - You've Got Mail! : Phantoskii
+306 - Melpomene's Cry : FrankleAnkles
 ```
 
 - Non-commercial, Attribution required (CC BY-NC ?)
@@ -404,6 +444,7 @@ If you liked a specific song and want to support the composer's work, please che
 ```
 078 - the garden : AZALI
 079 - MECHANICAL GOD : AZALI × Crow
+298 - Ruby : BilliumMoto
 ```
 
 - CC-BY-NC-ND
@@ -411,7 +452,7 @@ If you liked a specific song and want to support the composer's work, please che
 T03 - レミリア, 私の影 ～ Ｔｈｅ Ｓｃａｒｌｅｔ Ｆｏｇ Ｍａｃｈｉｎｅ Ｉｎｃｉｄｅｎｔ : Jezebel Ciccone
 ```
 
-## Collaborations
+## Collaborations and Events
 
 ### Project Outfox: Serenity
 
@@ -474,9 +515,28 @@ Yukisarashi by SiLiS (Chart by DiamondN1nja): https://soundcloud.com/silis (Jack
 Zealous Seeker by zqr vs Sukima Altera (Chart by the Arctic Circle): https://www.youtube.com/watch?v=OMHiSB_u9OE (Jacket by Michikoiku)
 ```
 
+### Touhou Arrangements Vol.2
+
+The included songs are:
+```
+Desire Drive (H2GO Remix) - TanChen https://b23.tv/HxisbfP (Chart by sadkay)
+Far East Requiem - Masamune (Chart by AsPho)
+Elusiveyoukai - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko)
+Rainy Right ? ~Fantasy Waterfall~ - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko)
+Gap Moe ☆ - gentu https://www.youtube.com/@gentu (Chart by Taichenko)
+生命の二刀流 - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko and Komi)
+```
+Songs that are not specified under the 'Songs with specific licenses' section are under the OpenTaiko Default Licence
+
+## Charts
+
+All charts (.tja files) are licensed under the CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) license.
+The charter name being displayed in the song select screen, it is considered enough for OpenTaiko videos, streams, etc...
+While stated in the CC-BY 4.0 license, stating chart modifications is mandatory only if the chart was modified.
+
 ## Reuploading
 
-Permission from the following actors is mandatory for reuploading OpenTaiko Charts:
-- The OpenTaiko Team (and, in the case of a collaboration, the related game's staff)
-- The song artist(s)
-- The jacket/BGA artist(s)
+Permission from the following actors is mandatory for reuploading OpenTaiko charts alongside their song file/media:
+- The song artist(s) (Except if its license states otherwise)
+- The jacket/BGA artist(s) (Except if its license states otherwise)
+- In the case of a collaboration, the related game's staff

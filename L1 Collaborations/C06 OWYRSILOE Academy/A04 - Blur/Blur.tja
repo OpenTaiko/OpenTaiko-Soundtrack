@@ -1,0 +1,1576 @@
+﻿// PeepoDrumKit 2025/11/19
+TITLE:Blur
+SUBTITLE:--OpenTaiko Sound Team "Makotora" with JUN Nocturne (SynthV)
+BPM:150
+WAVE:Blur.ogg
+PREIMAGE:Blur.png
+OFFSET:-0.034
+DEMOSTART:102.432
+MAKER:Makotora
+.CUTSCENE_INTRO:intro.mp4,1
+.CUTSCENE_OUTRO:clear.mp4,2,me,1,fail.mp4,1,le,1
+
+COURSE:Oni
+LEVEL:8
+BALLOON:15,15
+NOTESDESIGNER3:Makotora
+
+#START
+#MEASURE 8/4
+#BARLINEOFF
+#LYRIC (Makotora!)
+0
+#LYRIC
+0,
+,
+#BARLINEON
+#SCROLL 0.5
+200000200000200000202020200000000000200000000000200000200000200000202020200000200000200200200000,
+200200200222200000200000
+#LYRIC (Makotora doesn't miss!)
+500000000000000000800000,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+300000
+#LYRIC I'm waking up, the bed feels empty
+2220202012,
+2020100022102000,
+#LYRIC
+300000
+#LYRIC I open my eyes, space is plenty
+2220202012,
+2022101020102000,
+#LYRIC
+300000
+#LYRIC I'm underneath the cold sheets
+22202020
+#LYRIC I'm underneath the cold sheets
+12,
+20201000
+#LYRIC where you used to hold me
+22102000,
+11220050,
+000000000000800000
+#LYRIC
+222200,
+302000
+#LYRIC It's just another day without you
+2220202012,
+2020100022102000,
+#LYRIC
+302000
+#LYRIC My heart has been aching, now that we're through
+2220202012,
+2022101020102000,
+#LYRIC
+302000
+#LYRIC I wish you could've told me why
+2220202012,
+202010002210
+#LYRIC Now I feel so blue...
+2012,
+1020001121202212,
+500
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+101
+#LYRIC Remember all the things we did together?
+0222210102022,
+101
+#LYRIC The memories we've had in perfect weather?
+0222210102022,
+1010
+#LYRIC Now that you're gone, everything is such a blur
+202210112022,
+700000000000000000000000800000000000
+#LYRIC Oh!
+400000
+#SCROLL 1
+222222,
+#MEASURE 4/4
+#LYRIC
+112000
+#LYRIC Remember all the things we said to each other?
+1020222010,
+2022101020100020,
+112000
+#LYRIC The way you told me, "our love is forever"?
+1020222010,
+2022101120102020,
+11200010
+#LYRIC Now that you're gone, everything is such a blur
+20222010,
+2022101020102020,
+1022201022205000,
+000000800000
+#LYRIC Yeah!
+400000222222,
+#GOGOEND
+#LYRIC
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2010,
+#GOGOEND
+2220
+#GOGOSTART
+1022
+#GOGOEND
+2010
+#GOGOSTART
+2222,
+#GOGOEND
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2210,
+#GOGOEND
+2022
+#GOGOSTART
+10
+#LYRIC It's such a blur, yeah...
+10
+#GOGOEND
+2010
+#GOGOSTART
+2222,
+#GOGOEND
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2010,
+#GOGOEND
+2220
+#GOGOSTART
+1022
+#GOGOEND
+2010
+#GOGOSTART
+2222,
+#GOGOEND
+#LYRIC
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2210,
+#GOGOEND
+02
+#GOGOSTART
+12
+#GOGOEND
+21
+#GOGOSTART
+22,
+#MEASURE 8/4
+#GOGOEND
+10
+#SCROLL 0.5
+#LYRIC All this time, I was oblivious of your fake love
+22112212121020,
+10
+#LYRIC Why'd you stick around and play me like a dumb old scrub?
+22122122121020,
+10
+#LYRIC
+00
+#LYRIC Yeah, you know the way I'm feeling these days
+211120120212,
+00
+#LYRIC I'm dragged through the mud
+1202125000
+#LYRIC
+0080,
+#MEASURE 4/4
+#SCROLL 1
+3000
+#LYRIC Now I realize to you this was a passing joke
+222020202010,
+22112102,
+3000
+#LYRIC Why'd you strike the match and leave me choking in the smoke?
+222020202010,
+22112120,
+3020
+#LYRIC
+00
+#LYRIC I hate the fact I trusted you
+2220202010,
+222011102010
+#LYRIC and the promises you broke...
+2020,
+1020001121202212,
+500
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+101
+#LYRIC Remember all the things we did together?
+0222210102022,
+101
+#LYRIC The memories we've had in perfect weather?
+0222210102022,
+1010
+#LYRIC Now that you're gone, everything is such a blur
+202210112022,
+700000000000000000000000800000000000
+#LYRIC Oh!
+400000
+#SCROLL 1
+222222,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+112000
+#LYRIC Remember all the things we said to each other?
+1020222010,
+2022101020100020,
+112000
+#LYRIC The way you told me, "our love is forever"?
+1020222010,
+2022101120102020,
+11200010
+#LYRIC Now that you're gone, everything is such a blur
+20222010,
+2022101020102020,
+1022201022205000,
+000000800000
+#LYRIC Yeah!
+400000222222,
+#GOGOEND
+#LYRIC
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2010,
+#GOGOEND
+2220
+#GOGOSTART
+1022
+#GOGOEND
+2010
+#GOGOSTART
+2222,
+#GOGOEND
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2210,
+#GOGOEND
+2022
+#GOGOSTART
+10
+#LYRIC It's such a blur, yeah...
+10
+#GOGOEND
+2010
+#GOGOSTART
+2222,
+#GOGOEND
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2010,
+#GOGOEND
+2220
+#GOGOSTART
+1022
+#GOGOEND
+2010
+#GOGOSTART
+2222,
+#GOGOEND
+#LYRIC
+1120
+#GOGOSTART
+2020
+#GOGOEND
+2000
+#GOGOSTART
+2210,
+#GOGOEND
+200000100100
+#GOGOSTART
+200000
+#LYRIC It's such a blur!
+100000
+#GOGOEND
+200200100100
+#GOGOSTART
+202020202020,
+#GOGOEND
+1011
+#GOGOSTART
+2011
+#GOGOEND
+2011
+#GOGOSTART
+2010,
+#GOGOEND
+#LYRIC
+2022
+#GOGOSTART
+1022
+#GOGOEND
+1022
+#GOGOSTART
+1020,
+#GOGOEND
+1011
+#GOGOSTART
+2022
+#GOGOEND
+1011
+#GOGOSTART
+2010,
+#GOGOEND
+2022
+#GOGOSTART
+10
+#LYRIC It's such a blur, yeah...
+11
+#GOGOEND
+2022
+#GOGOSTART
+1020,
+#GOGOEND
+1022
+#GOGOSTART
+2010
+#GOGOEND
+2220
+#GOGOSTART
+1010,
+#GOGOEND
+0022
+#GOGOSTART
+1010
+#GOGOEND
+2010
+#GOGOSTART
+0020,
+#GOGOEND
+#LYRIC
+1110
+#GOGOSTART
+2012
+#GOGOEND
+1000
+#GOGOSTART
+2010,
+#GOGOEND
+02
+#GOGOSTART
+1
+#LYRIC It's such a blur... (Makotora!)
+2
+#GOGOEND
+21
+#GOGOSTART
+22,
+#GOGOEND
+#SCROLL 2
+G,
+,
+#LYRIC
+0,
+#END
+
+COURSE:Hard
+LEVEL:5
+BALLOON:15,15
+NOTESDESIGNER2:Makotora
+
+#START
+#MEASURE 8/4
+#BARLINEOFF
+#LYRIC (Makotora!)
+0
+#LYRIC
+0,
+,
+#BARLINEON
+#SCROLL 0.5
+2222202022222220,
+22222020
+#LYRIC (Makotora doesn't miss!)
+50000080,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+300
+#LYRIC I'm waking up, the bed feels empty
+02221,
+2122,
+#LYRIC
+300
+#LYRIC I open my eyes, space is plenty
+02221,
+20112020,
+#LYRIC
+300
+#LYRIC I'm underneath the cold sheets
+0222
+#LYRIC I'm underneath the cold sheets
+1,
+21
+#LYRIC where you used to hold me
+22,
+10220050,
+008
+#LYRIC
+0,
+320
+#LYRIC It's just another day without you
+02221,
+2122,
+#LYRIC
+320
+#LYRIC My heart has been aching, now that we're through
+02221,
+20112020,
+#LYRIC
+320
+#LYRIC I wish you could've told me why
+02221,
+212
+#LYRIC Now I feel so blue...
+2,
+12012012,
+500
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+101
+#LYRIC Remember all the things we did together?
+0202010201020,
+101
+#LYRIC The memories we've had in perfect weather?
+0202010201020,
+11
+#LYRIC Now that you're gone, everything is such a blur
+221212,
+708
+#LYRIC Oh!
+4,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+120
+#LYRIC Remember all the things we said to each other?
+12021,
+20112102,
+120
+#LYRIC The way you told me, "our love is forever"?
+12021,
+20112120,
+1201
+#LYRIC Now that you're gone, everything is such a blur
+2021,
+20112102,
+12012050,
+08
+#LYRIC Yeah!
+40,
+#GOGOEND
+#LYRIC
+11
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+21
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+11
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+21
+#GOGOSTART
+2
+#LYRIC It's such a blur, yeah...
+1
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#MEASURE 8/4
+#GOGOEND
+#SCROLL 0.5
+10
+#LYRIC All this time, I was oblivious of your fake love
+10222011102020,
+10
+#LYRIC Why'd you stick around and play me like a dumb old scrub?
+10222011102020,
+1
+#LYRIC
+0
+#LYRIC Yeah, you know the way I'm feeling these days
+211021,
+1
+#LYRIC I'm dragged through the mud
+02150
+#LYRIC
+08,
+#MEASURE 4/4
+#SCROLL 1
+30
+#LYRIC Now I realize to you this was a passing joke
+222021,
+20112102,
+30
+#LYRIC Why'd you strike the match and leave me choking in the smoke?
+222021,
+20112120,
+30
+#LYRIC
+2
+#LYRIC I hate the fact I trusted you
+22021,
+201210
+#LYRIC and the promises you broke...
+20,
+12012012,
+500
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+101
+#LYRIC Remember all the things we did together?
+0202010201020,
+101
+#LYRIC The memories we've had in perfect weather?
+0202010201020,
+11
+#LYRIC Now that you're gone, everything is such a blur
+221212,
+700080
+#LYRIC Oh!
+4
+#SCROLL 1
+0,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+120
+#LYRIC Remember all the things we said to each other?
+12021,
+20112102,
+120
+#LYRIC The way you told me, "our love is forever"?
+12021,
+20112120,
+1201
+#LYRIC Now that you're gone, everything is such a blur
+2021,
+20112102,
+12012050,
+08
+#LYRIC Yeah!
+40,
+#GOGOEND
+#LYRIC
+11
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+21
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+11
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+21
+#GOGOSTART
+2
+#LYRIC It's such a blur, yeah...
+1
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+00
+#GOGOSTART
+0
+#LYRIC It's such a blur!
+0
+#GOGOEND
+22
+#GOGOSTART
+22,
+#GOGOEND
+11
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+#LYRIC
+21
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+11
+#GOGOSTART
+21
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+21
+#GOGOSTART
+2
+#LYRIC It's such a blur, yeah...
+1
+#GOGOEND
+21
+#GOGOSTART
+20,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+00
+#GOGOSTART
+0
+#LYRIC It's such a blur... (Makotora!)
+0
+#GOGOEND
+00
+#GOGOSTART
+00,
+#GOGOEND
+#SCROLL 0.5
+3,
+,
+#LYRIC
+0,
+#END
+
+COURSE:Normal
+LEVEL:4
+BALLOON:15,15
+NOTESDESIGNER1:Makotora
+
+#START
+#MEASURE 8/4
+#BARLINEOFF
+#LYRIC (Makotora!)
+0
+#LYRIC
+0,
+,
+#BARLINEON
+#SCROLL 0.5
+22202220,
+2220
+#LYRIC (Makotora doesn't miss!)
+5008,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+300
+#LYRIC I'm waking up, the bed feels empty
+02020,
+1122,
+#LYRIC
+300
+#LYRIC I open my eyes, space is plenty
+02020,
+1122,
+#LYRIC
+300
+#LYRIC I'm underneath the cold sheets
+0202
+#LYRIC I'm underneath the cold sheets
+0,
+11
+#LYRIC where you used to hold me
+22,
+5,
+008
+#LYRIC
+0,
+300
+#LYRIC It's just another day without you
+02020,
+1122,
+#LYRIC
+300
+#LYRIC My heart has been aching, now that we're through
+02020,
+1122,
+#LYRIC
+300
+#LYRIC I wish you could've told me why
+02020,
+112
+#LYRIC Now I feel so blue...
+2,
+5,
+000
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+100
+#LYRIC Remember all the things we did together?
+0000010000000,
+200
+#LYRIC The memories we've had in perfect weather?
+0000020000000,
+1
+#LYRIC Now that you're gone, everything is such a blur
+122,
+708
+#LYRIC Oh!
+4,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+101
+#LYRIC Remember all the things we said to each other?
+02020,
+1120,
+101
+#LYRIC The way you told me, "our love is forever"?
+02020,
+1120,
+11
+#LYRIC Now that you're gone, everything is such a blur
+22,
+1120,
+5,
+08
+#LYRIC Yeah!
+40,
+#GOGOEND
+#LYRIC
+11
+#GOGOSTART
+10
+#GOGOEND
+10
+#GOGOSTART
+10,
+#GOGOEND
+22
+#GOGOSTART
+20
+#GOGOEND
+20
+#GOGOSTART
+20,
+#GOGOEND
+1
+#GOGOSTART
+1
+#GOGOEND
+2
+#GOGOSTART
+2,
+#GOGOEND
+11
+#GOGOSTART
+1
+#LYRIC It's such a blur, yeah...
+0
+#GOGOEND
+22
+#GOGOSTART
+20,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#MEASURE 8/4
+#GOGOEND
+#SCROLL 0.5
+1
+#LYRIC All this time, I was oblivious of your fake love
+0001000,
+2
+#LYRIC Why'd you stick around and play me like a dumb old scrub?
+0002000,
+1
+#LYRIC
+0
+#LYRIC Yeah, you know the way I'm feeling these days
+102020,
+1
+#LYRIC I'm dragged through the mud
+02050
+#LYRIC
+08,
+#MEASURE 4/4
+#SCROLL 1
+3
+#LYRIC Now I realize to you this was a passing joke
+022,
+1122,
+3
+#LYRIC Why'd you strike the match and leave me choking in the smoke?
+022,
+1122,
+30
+#LYRIC
+0
+#LYRIC I hate the fact I trusted you
+02020,
+112
+#LYRIC and the promises you broke...
+2,
+5,
+000
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+100
+#LYRIC Remember all the things we did together?
+0000010000000,
+200
+#LYRIC The memories we've had in perfect weather?
+0000020000000,
+1
+#LYRIC Now that you're gone, everything is such a blur
+122,
+700080
+#LYRIC Oh!
+4
+#SCROLL 1
+0,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+101
+#LYRIC Remember all the things we said to each other?
+02020,
+1120,
+101
+#LYRIC The way you told me, "our love is forever"?
+02020,
+1120,
+11
+#LYRIC Now that you're gone, everything is such a blur
+22,
+1120,
+5,
+08
+#LYRIC Yeah!
+40,
+#GOGOEND
+#LYRIC
+11
+#GOGOSTART
+10
+#GOGOEND
+10
+#GOGOSTART
+10,
+#GOGOEND
+22
+#GOGOSTART
+20
+#GOGOEND
+20
+#GOGOSTART
+20,
+#GOGOEND
+1
+#GOGOSTART
+1
+#GOGOEND
+2
+#GOGOSTART
+2,
+#GOGOEND
+11
+#GOGOSTART
+1
+#LYRIC It's such a blur, yeah...
+0
+#GOGOEND
+22
+#GOGOSTART
+20,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+00
+#GOGOSTART
+0
+#LYRIC It's such a blur!
+0
+#GOGOEND
+22
+#GOGOSTART
+20,
+#GOGOEND
+11
+#GOGOSTART
+10
+#GOGOEND
+10
+#GOGOSTART
+10,
+#GOGOEND
+#LYRIC
+22
+#GOGOSTART
+20
+#GOGOEND
+20
+#GOGOSTART
+20,
+#GOGOEND
+1
+#GOGOSTART
+1
+#GOGOEND
+2
+#GOGOSTART
+2,
+#GOGOEND
+11
+#GOGOSTART
+1
+#LYRIC It's such a blur, yeah...
+0
+#GOGOEND
+22
+#GOGOSTART
+20,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+00
+#GOGOSTART
+0
+#LYRIC It's such a blur... (Makotora!)
+0
+#GOGOEND
+00
+#GOGOSTART
+00,
+#GOGOEND
+#SCROLL 0.5
+3,
+,
+#LYRIC
+0,
+#END
+
+COURSE:Easy
+LEVEL:2
+BALLOON:15,15
+NOTESDESIGNER0:Makotora
+
+#START
+#MEASURE 8/4
+#BARLINEOFF
+#LYRIC (Makotora!)
+0
+#LYRIC
+0,
+,
+#BARLINEON
+#SCROLL 0.5
+2222,
+2020
+#LYRIC (Makotora doesn't miss!)
+5008,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+300
+#LYRIC I'm waking up, the bed feels empty
+02000,
+1110,
+#LYRIC
+300
+#LYRIC I open my eyes, space is plenty
+02000,
+1110,
+#LYRIC
+300
+#LYRIC I'm underneath the cold sheets
+0200
+#LYRIC I'm underneath the cold sheets
+0,
+11
+#LYRIC where you used to hold me
+10,
+5,
+008
+#LYRIC
+0,
+300
+#LYRIC It's just another day without you
+02000,
+1110,
+#LYRIC
+300
+#LYRIC My heart has been aching, now that we're through
+02000,
+1110,
+#LYRIC
+300
+#LYRIC I wish you could've told me why
+02000,
+111
+#LYRIC Now I feel so blue...
+0,
+5,
+000
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+100
+#LYRIC Remember all the things we did together?
+0000010000000,
+200
+#LYRIC The memories we've had in perfect weather?
+0000020000000,
+1
+#LYRIC Now that you're gone, everything is such a blur
+020,
+708
+#LYRIC Oh!
+4,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+100
+#LYRIC Remember all the things we said to each other?
+01000,
+1110,
+200
+#LYRIC The way you told me, "our love is forever"?
+02000,
+2220,
+1
+#LYRIC Now that you're gone, everything is such a blur
+1,
+22,
+5,
+08
+#LYRIC Yeah!
+40,
+#GOGOEND
+#LYRIC
+1
+#GOGOSTART
+1
+#GOGOEND
+1
+#GOGOSTART
+0,
+#GOGOEND
+1
+#GOGOSTART
+1
+#GOGOEND
+1
+#GOGOSTART
+0,
+#GOGOEND
+2
+#GOGOSTART
+2
+#GOGOEND
+2
+#GOGOSTART
+0,
+#GOGOEND
+20
+#GOGOSTART
+2
+#LYRIC It's such a blur, yeah...
+0
+#GOGOEND
+20
+#GOGOSTART
+00,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#MEASURE 8/4
+#GOGOEND
+#SCROLL 0.5
+1
+#LYRIC All this time, I was oblivious of your fake love
+0001000,
+2
+#LYRIC Why'd you stick around and play me like a dumb old scrub?
+0002000,
+1
+#LYRIC
+0
+#LYRIC Yeah, you know the way I'm feeling these days
+002000,
+1
+#LYRIC I'm dragged through the mud
+00050
+#LYRIC
+08,
+#MEASURE 4/4
+#SCROLL 1
+3
+#LYRIC Now I realize to you this was a passing joke
+020,
+1110,
+3
+#LYRIC Why'd you strike the match and leave me choking in the smoke?
+020,
+1110,
+30
+#LYRIC
+0
+#LYRIC I hate the fact I trusted you
+02000,
+111
+#LYRIC and the promises you broke...
+0,
+5,
+000
+#LYRIC
+8,
+#MEASURE 8/4
+#GOGOSTART
+#SCROLL 0.5
+100
+#LYRIC Remember all the things we did together?
+0000010000000,
+200
+#LYRIC The memories we've had in perfect weather?
+0000020000000,
+1
+#LYRIC Now that you're gone, everything is such a blur
+020,
+700080
+#LYRIC Oh!
+4
+#SCROLL 1
+0,
+#MEASURE 4/4
+#SCROLL 1
+#LYRIC
+100
+#LYRIC Remember all the things we said to each other?
+01000,
+1110,
+200
+#LYRIC The way you told me, "our love is forever"?
+02000,
+2220,
+1
+#LYRIC Now that you're gone, everything is such a blur
+1,
+22,
+5,
+08
+#LYRIC Yeah!
+40,
+#GOGOEND
+#LYRIC
+1
+#GOGOSTART
+1
+#GOGOEND
+1
+#GOGOSTART
+0,
+#GOGOEND
+1
+#GOGOSTART
+1
+#GOGOEND
+1
+#GOGOSTART
+0,
+#GOGOEND
+2
+#GOGOSTART
+2
+#GOGOEND
+2
+#GOGOSTART
+0,
+#GOGOEND
+20
+#GOGOSTART
+2
+#LYRIC It's such a blur, yeah...
+0
+#GOGOEND
+20
+#GOGOSTART
+00,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+00
+#GOGOSTART
+0
+#LYRIC It's such a blur!
+0
+#GOGOEND
+00
+#GOGOSTART
+00,
+#GOGOEND
+1
+#GOGOSTART
+1
+#GOGOEND
+1
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+1
+#GOGOSTART
+1
+#GOGOEND
+1
+#GOGOSTART
+0,
+#GOGOEND
+2
+#GOGOSTART
+2
+#GOGOEND
+2
+#GOGOSTART
+0,
+#GOGOEND
+20
+#GOGOSTART
+2
+#LYRIC It's such a blur, yeah...
+0
+#GOGOEND
+20
+#GOGOSTART
+00,
+#GOGOEND
+5
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+0
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+#LYRIC
+8
+#GOGOSTART
+0
+#GOGOEND
+0
+#GOGOSTART
+0,
+#GOGOEND
+00
+#GOGOSTART
+0
+#LYRIC It's such a blur... (Makotora!)
+0
+#GOGOEND
+00
+#GOGOSTART
+00,
+#GOGOEND
+#SCROLL 0.5
+3,
+,
+#LYRIC
+0,
+#END

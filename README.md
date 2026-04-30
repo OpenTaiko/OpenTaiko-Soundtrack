@@ -146,7 +146,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 139 - euphoric eruption : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi and YSTAR-T)
 140 - NOVAの夜 (NOVA's Night!!) : alden - https://twitter.com/aldentweeting (Chart by Komi)
 141 - AQUAMARINE : McBoiled - https://soundcloud.com/mcboiled (Chart by Komi)
-142 - floatfobia : ArLgon - https://www.youtube.com/@ArLgon.sb3 (Chart by Komi)
+142 - floatfobia (Chart by Komi)
 143 - you ruined me with your lies : Teocore - https://open.spotify.com/artist/3sYKIK8OWKNyAqWx9xmprd?si=lxpWLpvsT4OVwqwiNAEpPA // https://www.youtube.com/@t3oc0re // https://soundcloud.com/teocore (Chart by sadkay)
 144 - i'll be there : RachelTypeX - https://soundcloud.com/racheltypex https://blissandinnocence.bandcamp.com/ (Chart by bol)
 145 - parking spot : alden - https://twitter.com/aldentweeting (Chart by Dashy, Komi)

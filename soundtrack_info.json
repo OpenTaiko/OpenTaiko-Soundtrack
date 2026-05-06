@@ -7896,7 +7896,7 @@
             "07 OpenTaiko Chapter VII\\302 - Prelude No.2 in A Minor (Toccata), Op.33\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "5fb4ff1c6092a5fc1c74c39084eb65e1",
+        "tjaMD5": "e56955bd4a2696b7febde3e9fe7dc87c",
         "chartSize": 1.93,
         "chartTitle": "Prelude No.2 in A Minor, Op.33",
         "chartSubtitle": "Steven Wan",
@@ -8135,6 +8135,67 @@
         },
         "chartAudioFilePath": "preview\\losTPEtAlSwANDERRBHLiXoUNdsetSUnaN.ogg",
         "chartJacketFilePath": "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\lost.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "StarrYrEServOiRfrANklEankLEs",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\312 - Starry Reservoir",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\312 - Starry Reservoir\\Starry Reservoir.ogg",
+            "07 OpenTaiko Chapter VII\\312 - Starry Reservoir\\Starry Reservoir.tja",
+            "07 OpenTaiko Chapter VII\\312 - Starry Reservoir\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "d84a8a44c9f13c933b57fc0ce7668607",
+        "chartSize": 3.48,
+        "chartTitle": "Starry Reservoir",
+        "chartSubtitle": "FrankleAnkles",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\StarrYrEServOiRfrANklEankLEs.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "ch7goto",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\316 - GOTO",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\316 - GOTO\\GOTO.ogg",
+            "07 OpenTaiko Chapter VII\\316 - GOTO\\GOTO.png",
+            "07 OpenTaiko Chapter VII\\316 - GOTO\\GOTO.tja",
+            "07 OpenTaiko Chapter VII\\316 - GOTO\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "f332707c1987fc16daea9d388be77881",
+        "chartSize": 4.27,
+        "chartTitle": "#GOTO",
+        "chartSubtitle": "NASA",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\ch7goto.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\316 - GOTO\\GOTO.png",
         "chartHoFRanks": {}
     },
     {
@@ -9684,6 +9745,37 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "preview\\optkhq09statesofdistortion.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkhq12anubisroulette",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\nep012.ogg",
+            "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\nep012.tja",
+            "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "ade52aef077d52a90853986c8ad4a9a7",
+        "chartSize": 5.49,
+        "chartTitle": "NEP0\uff1aANUB12_S\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "chartSubtitle": "OPTK-HQ=CHANNEL3821",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 3,
+            "Hard": 4,
+            "Normal": 5,
+            "Easy": 6
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\optkhq12anubisroulette.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },

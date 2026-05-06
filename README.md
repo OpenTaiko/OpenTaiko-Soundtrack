@@ -312,12 +312,16 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 309 - opia : rN - https://soundcloud.com/rurinn/opia (Chart by DiamondN1nja)
 310 - 「ささやき」 : NaRouDaK - https://soundcloud.com/naroudak (Chart by Makotora)
 311 - Lost Petal's Wander : RB.H × lixound × 薛南 - https://soundcloud.com/rebirthzx/bofet-lost-petals-wander-rbh-lixound (Chart by sadkay)
+312 - Starry Reservoir : FrankleAnkles - https://www.youtube.com/@FrankleAnkles, https://soundcloud.com/franky-171214264 (Chart by bol)
 
+316 - #GOTO : NASA - https://soundcloud.com/nasa_473nm/ggg (Chart by bol)
 317 - Dropping Packets : DeBisco - https://www.debiscomusic.com/ (Chart by sadkay)
 318 - RE:ITERATION : BlastiX & ione - https://www.youtube.com/watch?v=_nUBbOhmQy8 (Chart by bol)
 319 - Moonlight Frequency : Kaizu - https://www.instagram.com/_oneandonlykaizu/ https://www.tiktok.com/@_oneandonlykaizu https://x.com/oneandonlyKaizu https://soundcloud.com/kaizu-619786520 https://open.spotify.com/artist/6HsFsUzGbGV1VUEaNgfMpP?si=rYeqIHJsS7SaOwVxBtDK9Q https://music.apple.com/ph/artist/kaizu/1856552500 (Chart by Komi)
 320 - queen of destruction : zqr - https://youtu.be/ffDuiF3Bzm0 (Chart by sadkay)
 321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
+
+323 - NEP0：ANUB12_Sルーレット : OPTK-HQ=CHANNEL3821 (Chart by OPTK-HQ)
 ```
 
 ### Visuals

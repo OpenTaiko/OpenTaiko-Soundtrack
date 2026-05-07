@@ -366,6 +366,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 259 - Mechanical Heart : Dashy,
 262 - 家物語 : 空読無白眼 (https://9domu46i.com/)
 264 - 糸引く夏のエデンにて。 : 汐張神奈 (https://x.com/shioharikanna)
+269 - 情熱大邱 : DARUMUL
 278 - CHARGE BEAM (Game Edit) : MusicFracturer (https://x.com/BachThienVanDL)
 285 - "R"ast GaMES!! : Minerva Rin
 290 - Collapse. : MONOHALLS

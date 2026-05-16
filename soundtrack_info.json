@@ -8048,6 +8048,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "aCAdeNCEOfTheLOTUsESfrAnKLeANklEs",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\307 - A Cadence of the Lotuses",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\307 - A Cadence of the Lotuses\\A Cadence of the Lotuses.ogg",
+            "07 OpenTaiko Chapter VII\\307 - A Cadence of the Lotuses\\A Cadence of the Lotuses.tja",
+            "07 OpenTaiko Chapter VII\\307 - A Cadence of the Lotuses\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "86d3b52d835e038ec384007666d2fa8d",
+        "chartSize": 3.56,
+        "chartTitle": "A Cadence of the Lotuses",
+        "chartSubtitle": "FrankleAnkles",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\aCAdeNCEOfTheLOTUsESfrAnKLeANklEs.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "opIaRntmp",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\309 - opia",
         "tjaFilesPath": [

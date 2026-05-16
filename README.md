@@ -308,6 +308,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 304 - Against the Dragon : Aspid Cat - https://www.youtube.com/watch?v=IB4chQOktYo (Chart by Komi, bol and DiamondN1nja)
 305 - Heart of the Cards : dogthing feat. 初音ミク - https://www.youtube.com/@dogthing69 (Chart by Komi)
 306 - Melpomene's Cry : FrankleAnkles - https://www.youtube.com/@FrankleAnkles, https://soundcloud.com/franky-171214264 (Chart by YSTAR-T)
+307 - A Cadence of the Lotuses : FrankleAnkles - https://www.youtube.com/@FrankleAnkles, https://soundcloud.com/franky-171214264 (Chart by sadkay)
 
 309 - opia : rN - https://soundcloud.com/rurinn/opia (Chart by DiamondN1nja)
 310 - 「ささやき」 : NaRouDaK - https://soundcloud.com/naroudak (Chart by Makotora)

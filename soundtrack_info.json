@@ -9870,6 +9870,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "MoUNtainkInGmAkOtora",
+        "tjaFolderPath": "E03 Classical Arrangements\\324 - Mountain King",
+        "tjaFilesPath": [
+            "E03 Classical Arrangements\\324 - Mountain King\\Mountain King.ogg",
+            "E03 Classical Arrangements\\324 - Mountain King\\Mountain King.tja",
+            "E03 Classical Arrangements\\324 - Mountain King\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "E03 Classical Arrangements",
+        "tjaMD5": "2a80c8696eaeb9c3adfb7029f856c22d",
+        "chartSize": 3.29,
+        "chartTitle": "Mountain King",
+        "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "YSTAR-T",
+            "Oni": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\MoUNtainkInGmAkOtora.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "outfox01",
         "tjaFolderPath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion",
         "tjaFilesPath": [

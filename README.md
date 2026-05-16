@@ -324,6 +324,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
 
 323 - NEP0：ANUB12_Sルーレット : OPTK-HQ=CHANNEL3821 (Chart by OPTK-HQ)
+324 - Mountain King : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart YSTAR-T)
 ```
 
 ### Visuals

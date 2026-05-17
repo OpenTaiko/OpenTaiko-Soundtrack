@@ -8077,6 +8077,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "RIpoFFLUcKYsilenCE",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\308 - RIP OFF",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\308 - RIP OFF\\RIP-OFF.ogg",
+            "07 OpenTaiko Chapter VII\\308 - RIP OFF\\RIP-OFF.png",
+            "07 OpenTaiko Chapter VII\\308 - RIP OFF\\RIP-OFF.tja",
+            "07 OpenTaiko Chapter VII\\308 - RIP OFF\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "4d43c87b44258dd3daa16839e3c628ee",
+        "chartSize": 4.77,
+        "chartTitle": "RIP \u2215\u2215 OFF",
+        "chartSubtitle": "Lucky & Silence",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 10.3,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "sadkay",
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\RIpoFFLUcKYsilenCE.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\308 - RIP OFF\\RIP-OFF.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "opIaRntmp",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\309 - opia",
         "tjaFilesPath": [

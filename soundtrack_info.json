@@ -8232,6 +8232,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "repriSLTATSuoTO",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\314 - REPRISAL",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\314 - REPRISAL\\REPRISAL.ogg",
+            "07 OpenTaiko Chapter VII\\314 - REPRISAL\\REPRISAL.tja",
+            "07 OpenTaiko Chapter VII\\314 - REPRISAL\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "2185fe38774136c4fbca2ef4245c6fc2",
+        "chartSize": 3.89,
+        "chartTitle": "REPRIS\u0245L",
+        "chartSubtitle": "Tatsuoto",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\repriSLTATSuoTO.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "chALLENgE32pHononiSraElSTroM",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\315 - challenge32",
         "tjaFilesPath": [

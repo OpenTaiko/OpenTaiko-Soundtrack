@@ -315,6 +315,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 311 - Lost Petal's Wander : RB.H × lixound × 薛南 - https://soundcloud.com/rebirthzx/bofet-lost-petals-wander-rbh-lixound (Chart by sadkay)
 312 - Starry Reservoir : FrankleAnkles - https://www.youtube.com/@FrankleAnkles, https://soundcloud.com/franky-171214264 (Chart by bol)
 
+314 - REPRISɅL : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by Komi)
 315 - challenge32 : phonon & Israel Strom - https://www.youtube.com/watch?v=cED4k6n4a4I (Chart by Komi)
 316 - #GOTO : NASA - https://soundcloud.com/nasa_473nm/ggg (Chart by bol)
 317 - Dropping Packets : DeBisco - https://www.debiscomusic.com/ (Chart by sadkay)

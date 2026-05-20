@@ -8232,6 +8232,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "cHAPTEroFAdRagOnqLoudPaTCh",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\313 - Chapter of a Dragon",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\313 - Chapter of a Dragon\\Chapter of a Dragon.ogg",
+            "07 OpenTaiko Chapter VII\\313 - Chapter of a Dragon\\Chapter of a Dragon.tja",
+            "07 OpenTaiko Chapter VII\\313 - Chapter of a Dragon\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "20aa34c6a8735bbe000870db8cdf6962",
+        "chartSize": 3.5,
+        "chartTitle": "Chapter of a Dragon",
+        "chartSubtitle": "qloudpatch",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi,DiamondN1nja",
+            "Hard": "Komi,DiamondN1nja",
+            "Normal": "Komi,DiamondN1nja",
+            "Easy": "Komi,DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\cHAPTEroFAdRagOnqLoudPaTCh.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "repriSLTATSuoTO",
         "tjaFolderPath": "07 OpenTaiko Chapter VII\\314 - REPRISAL",
         "tjaFilesPath": [

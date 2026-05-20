@@ -325,7 +325,16 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
 
 323 - NEP0：ANUB12_Sルーレット : OPTK-HQ=CHANNEL3821 (Chart by OPTK-HQ)
-324 - Mountain King : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart YSTAR-T)
+324 - Mountain King : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by YSTAR-T)
+```
+
+Tower-exclusive songs:
+```
+TSW01/TSP01 - Climb across the sky - #1 : OPTK Sound Team "Dashy" - https://www.youtube.com/c/DashyDesu (Chart by Komi)
+TSW05/TSP09 - PYRΔMiD (ΣXTΣND MiX) : TFD500 - https://www.youtube.com/channel/UCJjrxomZT2973fr8-9Yts_w (Chart by Colin, bol and Komi)
+TSW08/TSP08 - 888 Tower ~Until the sky turns black~ : OPTK Sound Team "Dashy" - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
+TSW11/TSP11 - TOKYO RHYTHM No.524 : フォ㍊ aka. FALL - https://www.likeside.net/ (Chart by DragonRatTiger)
+TSW13/TSP13 - Solaris: Tempo Doesn't Exist : Catonieca - https://www.youtube.com/@CatoniecaCH (Chart by DiamondN1nja)
 ```
 
 ### Visuals

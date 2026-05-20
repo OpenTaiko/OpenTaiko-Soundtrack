@@ -13885,6 +13885,30 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "swtowerSolaris",
+        "tjaFolderPath": "S2 Taiko Towers\\01 - Sweet\\TSW13 - Solaris",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\01 - Sweet\\TSW13 - Solaris\\Solaris.jpg",
+            "S2 Taiko Towers\\01 - Sweet\\TSW13 - Solaris\\Solaris.ogg",
+            "S2 Taiko Towers\\01 - Sweet\\TSW13 - Solaris\\Solaris.tja",
+            "S2 Taiko Towers\\01 - Sweet\\TSW13 - Solaris\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "56864747f25c0a6d1a70759cd7674308",
+        "chartSize": 4.08,
+        "chartTitle": "Solaris: Tempo Doesn't Exist",
+        "chartSubtitle": "Catonieca",
+        "chartDifficulties": {
+            "Tower": 7
+        },
+        "chartMakers": {
+            "Tower": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\swtowerSolaris.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers\\01 - Sweet\\TSW13 - Solaris\\Solaris.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "tower16ttsrfssfes",
         "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP01 - OpTk Tower 1",
         "tjaFilesPath": [
@@ -14167,6 +14191,30 @@
         },
         "chartAudioFilePath": "preview\\sptowerGrandFantasy.ogg",
         "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "sptowerSolaris",
+        "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP13 - Solaris",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\02 - Spicy\\TSP13 - Solaris\\Solaris.jpg",
+            "S2 Taiko Towers\\02 - Spicy\\TSP13 - Solaris\\Solaris.ogg",
+            "S2 Taiko Towers\\02 - Spicy\\TSP13 - Solaris\\Solaris.tja",
+            "S2 Taiko Towers\\02 - Spicy\\TSP13 - Solaris\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "33bc7062e809b165fa84650e67f5db32",
+        "chartSize": 4.08,
+        "chartTitle": "Solaris: Tempo Doesn't Exist",
+        "chartSubtitle": "Catonieca",
+        "chartDifficulties": {
+            "Tower": 11.8
+        },
+        "chartMakers": {
+            "Tower": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\sptowerSolaris.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP13 - Solaris\\Solaris.jpg",
         "chartHoFRanks": {}
     },
     {

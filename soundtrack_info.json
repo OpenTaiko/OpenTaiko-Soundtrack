@@ -2614,19 +2614,17 @@
             "03 OpenTaiko Chapter III\\111 - 2024\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "c50d84eac84e378bc31b34970f2213df",
+        "tjaMD5": "5a7321443f5f68353c15490525c34976",
         "chartSize": 10.84,
         "chartTitle": "2024 BPM IS NOT ENOUGH",
         "chartSubtitle": "Underscore",
         "chartDifficulties": {
-            "Edit": 11.6,
             "Easy": 4,
             "Normal": 6,
             "Hard": 8,
             "Oni": 11.0
         },
         "chartMakers": {
-            "Edit": "Yokoyoko",
             "Easy": "Komi",
             "Normal": "Komi",
             "Hard": "Komi",
@@ -4710,7 +4708,7 @@
             "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "6d684dc14a7b501e4f1468705f266771",
+        "tjaMD5": "8b730cc88a9f64e2bc0847ee006aa6f0",
         "chartSize": 4.87,
         "chartTitle": "Niji wa Kirai",
         "chartSubtitle": "Otome Ame (Composition: Shitsudo Kei)",
@@ -4722,7 +4720,7 @@
             "Oni": 6
         },
         "chartMakers": {
-            "Edit": "Yokoyoko",
+            "Edit": "DiamondN1nja",
             "Hard": "Komi",
             "Normal": "Komi",
             "Easy": "Komi",

@@ -11235,12 +11235,13 @@
             "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\fail.mp4",
             "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\intro.mp4",
             "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\Polaris.ogg",
+            "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\Polaris.png",
             "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\Polaris.tja",
             "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\uniqueID.json"
         ],
         "tjaGenreFolder": "C06 OWYRSILOE Academy",
-        "tjaMD5": "499240672533c6bd5fe6af5a70b4110a",
-        "chartSize": 18.16,
+        "tjaMD5": "dd4bd298800682d3d45bc6cd6a5a795d",
+        "chartSize": 19.5,
         "chartTitle": "Pola\u042f\u2215\u2215iS",
         "chartSubtitle": "Eclipse_41",
         "chartDifficulties": {
@@ -11258,7 +11259,7 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "preview\\owyrsiloeEP04.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "L1 Collaborations\\C06 OWYRSILOE Academy\\A05 - Polaris\\Polaris.png",
         "chartHoFRanks": {}
     },
     {

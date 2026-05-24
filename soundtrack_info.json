@@ -8499,6 +8499,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "optkch7secret01",
+        "tjaFolderPath": "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS",
+        "tjaFilesPath": [
+            "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS\\BURDENED-AEGIS.ogg",
+            "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS\\BURDENED-AEGIS.png",
+            "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS\\BURDENED-AEGIS.tja",
+            "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "07 OpenTaiko Chapter VII",
+        "tjaMD5": "7fd1ec772e50592815952b4ea2ef3790",
+        "chartSize": 8.04,
+        "chartTitle": "BURDENED-\u2200EGIS",
+        "chartSubtitle": "Xeveir and Xeron",
+        "chartDifficulties": {
+            "Edit": 12.6,
+            "Oni": 10.7,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\optkch7secret01.ogg",
+        "chartJacketFilePath": "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS\\BURDENED-AEGIS.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

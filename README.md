@@ -323,7 +323,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 319 - Moonlight Frequency : Kaizu - https://www.instagram.com/_oneandonlykaizu/ https://www.tiktok.com/@_oneandonlykaizu https://x.com/oneandonlyKaizu https://soundcloud.com/kaizu-619786520 https://open.spotify.com/artist/6HsFsUzGbGV1VUEaNgfMpP?si=rYeqIHJsS7SaOwVxBtDK9Q https://music.apple.com/ph/artist/kaizu/1856552500 (Chart by Komi)
 320 - queen of destruction : zqr - https://youtu.be/ffDuiF3Bzm0 (Chart by sadkay)
 321 - Grand Fantasy after Motifs from the Operetta "La Partita", Op. 26 : Steven Wan - https://www.youtube.com/watch?v=9OWF1aJsSeM (Chart by Komi)
-
+322 - BURDENED-∀EGIS : Xeveir and Xeron - https://Jinokurisu.ju.mp https://soundcloud.com/jinobeats https://jinokurisu.bandcamp.com https://www.youtube.com/@JinoBeats https://twitter.com/JinoBeats (Chart by Komi)
 323 - NEP0：ANUB12_Sルーレット : OPTK-HQ=CHANNEL3821 (Chart by OPTK-HQ)
 324 - Mountain King : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by YSTAR-T)
 ```

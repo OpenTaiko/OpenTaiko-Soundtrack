@@ -10055,6 +10055,93 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "RevivalofAwITHEredTREETaIchENko",
+        "tjaFolderPath": "E04 Rainy Diary\\RD01 - 325 - Revival of a Withered Tree",
+        "tjaFilesPath": [
+            "E04 Rainy Diary\\RD01 - 325 - Revival of a Withered Tree\\Revival of a Withered Tree.ogg",
+            "E04 Rainy Diary\\RD01 - 325 - Revival of a Withered Tree\\Revival of a Withered Tree.tja",
+            "E04 Rainy Diary\\RD01 - 325 - Revival of a Withered Tree\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "E04 Rainy Diary",
+        "tjaMD5": "438196a438c22b328cf0aaf529aa78d5",
+        "chartSize": 4.57,
+        "chartTitle": "Revival of a Withered Tree",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "preview\\RevivalofAwITHEredTREETaIchENko.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "GaLaxYFaLLtAichEnkO",
+        "tjaFolderPath": "E04 Rainy Diary\\RD02 - 326 - Galaxy Fall",
+        "tjaFilesPath": [
+            "E04 Rainy Diary\\RD02 - 326 - Galaxy Fall\\Galaxy Fall.ogg",
+            "E04 Rainy Diary\\RD02 - 326 - Galaxy Fall\\Galaxy Fall.tja",
+            "E04 Rainy Diary\\RD02 - 326 - Galaxy Fall\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "E04 Rainy Diary",
+        "tjaMD5": "92fca0b22729fa35cb1ee2c5632b3e87",
+        "chartSize": 4.81,
+        "chartTitle": "Galaxy Fall",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "preview\\GaLaxYFaLLtAichEnkO.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "RippletaicHEnKo",
+        "tjaFolderPath": "E04 Rainy Diary\\RD03 - 327 - Ripple",
+        "tjaFilesPath": [
+            "E04 Rainy Diary\\RD03 - 327 - Ripple\\Ripple.ogg",
+            "E04 Rainy Diary\\RD03 - 327 - Ripple\\Ripple.tja",
+            "E04 Rainy Diary\\RD03 - 327 - Ripple\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "E04 Rainy Diary",
+        "tjaMD5": "412803fcc1e6a8d092b7ed81247dedb9",
+        "chartSize": 9.0,
+        "chartTitle": "Ripple",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Taichenko",
+            "Hard": "Taichenko",
+            "Normal": "Taichenko",
+            "Easy": "Taichenko"
+        },
+        "chartAudioFilePath": "preview\\RippletaicHEnKo.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "outfox01",
         "tjaFolderPath": "L1 Collaborations\\C01 Project Outfox Serenity\\S01 - Relaxation Piece of Conclusion",
         "tjaFilesPath": [

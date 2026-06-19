@@ -326,6 +326,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 322 - BURDENED-∀EGIS : Xeveir and Xeron - https://Jinokurisu.ju.mp https://soundcloud.com/jinobeats https://jinokurisu.bandcamp.com https://www.youtube.com/@JinoBeats https://twitter.com/JinoBeats (Chart by Komi)
 323 - NEP0：ANUB12_Sルーレット : OPTK-HQ=CHANNEL3821 (Chart by OPTK-HQ)
 324 - Mountain King : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by YSTAR-T)
+325 - 枯木逢春 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
+326 - 银河倒泻 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
+327 - 澜 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 ```
 
 Tower-exclusive songs:

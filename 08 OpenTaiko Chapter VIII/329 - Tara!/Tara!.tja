@@ -1,0 +1,760 @@
+﻿// PeepoDrumKit 2025/09/28
+TITLE:Tara!
+SUBTITLE:OfficialAz3
+BPM:124
+WAVE:Tara!.ogg
+PREIMAGE:Tara!.png
+OFFSET:0
+DEMOSTART:30.9677
+MAKER:YSTAR-K
+
+COURSE:Oni
+LEVEL:8
+BALLOON:8,2,2,28,1,28,39,39
+NOTESDESIGNER3:Komi
+
+#START
+2020
+#LYRIC Tara! labas kana sa katahimikan
+100200002001,
+2020100200002001,
+2020100200002001,
+2020
+#LYRIC
+000000120120,
+2020
+#LYRIC Tara! tignan ang sinag ng munting araw
+100200002001,
+2020100200002001,
+2020100200002001,
+22
+#LYRIC
+000122,
+1020201202101020,
+22
+#LYRIC Ba't nagaalangan? Tulala na'ng mukha...
+122122,
+1020201202102010,
+22211122,
+1020201202101020,
+#LYRIC
+2020
+#LYRIC Wag mag-aalala
+102020112020,
+1020201202101010,
+4
+#LYRIC
+708,
+1010
+#LYRIC Ramdam mo ang ngiti ng 'yong tuyong bibig
+210112101022,
+1012101121221020,
+1010210112101022,
+10
+#LYRIC
+21212270807080,
+1010
+#LYRIC Ang pagtingin ng ganda'y biglang inibig
+210112101022,
+1012101121221020,
+1010210112101022,
+10
+#LYRIC
+2122121010
+#LYRIC Kaya inakaya ka ng taong 'di mapakali
+2022,
+1001121001221010,
+2002212002112020,
+1001121001221010,
+20022120
+#LYRIC
+0211
+#LYRIC Ngunit, 'di nasanayan ng aking puting katawan
+2222,
+#SCROLL 1.5
+3003003023003030,
+4004004014004040,
+1012101012101020,
+4444
+#LYRIC
+4
+#SCROLL 1
+#LYRIC Bakit ako'y kinakabahan sayo?
+102,
+9,
+0008,
+#GOGOSTART
+1001121010212020,
+#LYRIC
+2002212020
+#LYRIC Bakit nahihilo ang ulo ko?
+121010,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+1001121010212020,
+2002
+#LYRIC Wala sanang nakatingin sa akin na parang ako'y tanga
+212022112010,
+1002212001121000,
+1002211001122000,
+1002212211212210,
+200112200221
+#LYRIC Matapos na ito sana para makauwi ng may ginhawa
+1212,
+1002212001121000,
+1002211001122000,
+1002212211212210,
+#SCROLL 1.5
+40404040
+#GOGOEND
+4000
+#SCROLL 3
+#LYRIC
+7800,
+#SCROLL 1
+1010202102202100,
+1010201202201200,
+1010202102202100,
+1010201202212020,
+1010202102202101,
+1010201202201201,
+1010202102202101,
+1010201202
+#LYRIC Napilitan lang ako sa bagay na di ko kaya
+212022,
+1001121012021010,
+2002002002002020,
+1001121012021010,
+200200200200
+#LYRIC At 'di ko inakala ang magandang kalabasan
+2020,
+1001121012021010,
+2002212021012020,
+#SCROLL 1.5
+4004004004004040,
+333330
+#SCROLL 1
+#LYRIC
+11,
+#SCROLL 1.5
+GGGGG
+#LYRIC Bakit 'di ko ito ginawa noon?
+000,
+#SCROLL 1
+9,
+0008,
+#GOGOSTART
+1001121010212020,
+#LYRIC
+2002212020
+#LYRIC Bakit sobrang takot ako sa iyo?
+121010,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+1001121010212020,
+2002
+#LYRIC Nararamdam ang luha sa mata na parang ako ba'y tanga
+212022112010,
+1002212001121000,
+1002211001122000,
+1002212211212210,
+2001122002
+#LYRIC Nalulula ang utak ko,
+211212,
+1002212001121000,
+100221100112
+#LYRIC pero sobrang sulit ang karanasan ko ngayon!
+2000,
+1002212211212210,
+#SCROLL 1.5
+GGGG
+#GOGOEND
+G000,
+#LYRIC
+9
+#LYRIC Sarap humilata sa lumang higaan.
+000,
+,
+,
+#LYRIC
+8,
+9
+#LYRIC Sobrang pagod, ngunit gusto pa rin kita.
+000,
+,
+,
+#LYRIC
+8,
+#END
+
+COURSE:Hard
+LEVEL:6
+BALLOON:28,28,39,39
+NOTESDESIGNER2:Komi
+
+#START
+22
+#LYRIC Tara! labas kana sa katahimikan
+000000,
+22000000,
+22000000,
+2020
+#LYRIC
+000000110220,
+22
+#LYRIC Tara! tignan ang sinag ng munting araw
+000000,
+22000000,
+22000000,
+22
+#LYRIC
+000122,
+1020201202001010,
+22
+#LYRIC Ba't nagaalangan? Tulala na'ng mukha...
+000122,
+1020201202001010,
+22000122,
+1020201202001010,
+#LYRIC
+22
+#LYRIC Wag mag-aalala
+000122,
+1020201202001010,
+4
+#LYRIC
+508,
+2020
+#LYRIC Ramdam mo ang ngiti ng 'yong tuyong bibig
+100110102000,
+2002200110102020,
+2020100110102000,
+10
+#LYRIC
+11011050805080,
+2020
+#LYRIC Ang pagtingin ng ganda'y biglang inibig
+100110102000,
+2002200110102020,
+2020100110102000,
+10
+#LYRIC
+1101101010
+#LYRIC Kaya inakaya ka ng taong 'di mapakali
+2020,
+1001101001101010,
+2002202002202020,
+1001101001101010,
+20022020
+#LYRIC
+0220
+#LYRIC Ngunit, 'di nasanayan ng aking puting katawan
+2020,
+#SCROLL 1.5
+3003003003003030,
+4004004004004040,
+1022001022001020,
+4444
+#LYRIC
+4
+#LYRIC Bakit ako'y kinakabahan sayo?
+000,
+#SCROLL 1
+9,
+0008,
+#GOGOSTART
+1001101010111010,
+#LYRIC
+2002202020
+#LYRIC Bakit nahihilo ang ulo ko?
+222020,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+1001101010111010,
+2002
+#LYRIC Wala sanang nakatingin sa akin na parang ako'y tanga
+202020222020,
+1002201001102000,
+1002201001102000,
+1002201010102010,
+200110200220
+#LYRIC Matapos na ito sana para makauwi ng may ginhawa
+1020,
+1002201001102000,
+1002201001102000,
+1002201010201020,
+#SCROLL 1.5
+3333
+#GOGOEND
+30
+#SCROLL 3
+#LYRIC
+58,
+#SCROLL 1
+1010202202202200,
+1010202202202200,
+1010202202202200,
+1010202202202020,
+1010202202202200,
+1010202202202200,
+1010202202202200,
+1010202202
+#LYRIC Napilitan lang ako sa bagay na di ko kaya
+202020,
+1001101001101010,
+2002002002002020,
+1001101001101010,
+200200200200
+#LYRIC At 'di ko inakala ang magandang kalabasan
+2020,
+1001101001101010,
+2002202002202020,
+#SCROLL 1.5
+4004004004004040,
+333330
+#SCROLL 1
+#LYRIC
+11,
+#SCROLL 1.5
+44444
+#LYRIC Bakit 'di ko ito ginawa noon?
+000,
+#SCROLL 1
+9,
+0008,
+#GOGOSTART
+1001101010111010,
+#LYRIC
+2002202020
+#LYRIC Bakit sobrang takot ako sa iyo?
+222020,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+1001101010111010,
+2002
+#LYRIC Nararamdam ang luha sa mata na parang ako ba'y tanga
+202020222020,
+1002201001102000,
+1002201001102000,
+1002201010102010,
+2001102002
+#LYRIC Nalulula ang utak ko,
+201020,
+1002201001102000,
+100220100110
+#LYRIC pero sobrang sulit ang karanasan ko ngayon!
+2000,
+1002201010201020,
+#SCROLL 1.5
+3434
+#GOGOEND
+3000,
+#LYRIC
+9
+#LYRIC Sarap humilata sa lumang higaan.
+000,
+,
+,
+#LYRIC
+8,
+9
+#LYRIC Sobrang pagod, ngunit gusto pa rin kita.
+000,
+,
+,
+#LYRIC
+8,
+#END
+
+COURSE:Normal
+LEVEL:6
+BALLOON:10,50
+NOTESDESIGNER1:YSTAR-T
+
+#START
+22
+#LYRIC Tara! labas kana sa katahimikan
+000000,
+22000000,
+22000000,
+22
+#LYRIC
+000202,
+22
+#LYRIC Tara! tignan ang sinag ng munting araw
+000000,
+22000000,
+22000000,
+22
+#LYRIC
+000222,
+1000100100001010,
+22
+#LYRIC Ba't nagaalangan? Tulala na'ng mukha...
+000110,
+1010100100001010,
+22000222,
+1000100100001010,
+#LYRIC
+22
+#LYRIC Wag mag-aalala
+000220,
+1010100100001000,
+40
+#LYRIC
+700008,
+1010
+#LYRIC Ramdam mo ang ngiti ng 'yong tuyong bibig
+100100101000,
+1010100100101000,
+1010100100101000,
+10
+#LYRIC
+01001050805080,
+2020
+#LYRIC Ang pagtingin ng ganda'y biglang inibig
+200200202000,
+2020200200202000,
+2020200200202000,
+2
+#LYRIC
+02022
+#LYRIC Kaya inakaya ka ng taong 'di mapakali
+20,
+1001001001001050,
+08,
+2002002002002050,
+00
+#LYRIC
+8
+#LYRIC Ngunit, 'di nasanayan ng aking puting katawan
+1,
+1001001001001050,
+08,
+2002002002002020,
+3333
+#LYRIC
+3
+#LYRIC Bakit ako'y kinakabahan sayo?
+000,
+5,
+0008,
+#GOGOSTART
+1001001000101000,
+#LYRIC
+2002002000
+#LYRIC Bakit nahihilo ang ulo ko?
+202000,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+1001001000101000,
+2002
+#LYRIC Wala sanang nakatingin sa akin na parang ako'y tanga
+002002002020,
+1002001000102000,
+1002001000201000,
+1002001010102000,
+200100202020
+#LYRIC Matapos na ito sana para makauwi ng may ginhawa
+1000,
+1002002000101000,
+2001001000202000,
+1001001010001000,
+3333
+#GOGOEND
+30
+#SCROLL 2
+#LYRIC
+58,
+#SCROLL 1
+1010200200200200,
+1010200200200200,
+1010200100200100,
+1010200100202000,
+1010200200200200,
+1010200200200200,
+1010200100200100,
+1010200100
+#LYRIC Napilitan lang ako sa bagay na di ko kaya
+202020,
+1001001001001050,
+08,
+2002002002002050,
+008
+#LYRIC At 'di ko inakala ang magandang kalabasan
+0,
+1001001001001050,
+08,
+2002002002002020,
+333330
+#LYRIC
+10,
+44444
+#LYRIC Bakit 'di ko ito ginawa noon?
+000,
+5,
+0008,
+#GOGOSTART
+1001001000101000,
+#LYRIC
+2002002010
+#LYRIC Bakit sobrang takot ako sa iyo?
+202000,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+1001001000101010,
+2002
+#LYRIC Nararamdam ang luha sa mata na parang ako ba'y tanga
+002002002000,
+1001001001001000,
+1001001001001000,
+2002002002002000,
+2002002002
+#LYRIC Nalulula ang utak ko,
+002000,
+1001001001001000,
+200200200200
+#LYRIC pero sobrang sulit ang karanasan ko ngayon!
+2000,
+1001001001001000,
+3434
+#GOGOEND
+3000,
+#LYRIC
+7
+#LYRIC Sarap humilata sa lumang higaan.
+000,
+,
+,
+#LYRIC
+8,
+5
+#LYRIC Sobrang pagod, ngunit gusto pa rin kita.
+000,
+,
+,
+#LYRIC
+8,
+#END
+
+COURSE:Easy
+LEVEL:4
+BALLOON:30
+NOTESDESIGNER0:YSTAR-T
+
+#START
+#MEASURE 1/8
+#BARLINEON
+0,
+,
+#BARLINEOFF
+#LYRIC Tara! labas kana sa katahimikan
+0,
+,
+,
+,
+,
+,
+#BARLINEON
+0,
+,
+#BARLINEOFF
+0,
+,
+,
+,
+,
+,
+#BARLINEON
+0,
+,
+#BARLINEOFF
+0,
+,
+,
+,
+,
+,
+#BARLINEON
+0,
+,
+#BARLINEOFF
+#LYRIC
+0,
+,
+,
+,
+,
+,
+#MEASURE 4/4
+#BARLINEON
+1
+#LYRIC Tara! tignan ang sinag ng munting araw
+000,
+1,
+1,
+1
+#LYRIC
+000,
+1000000100001000,
+0
+#LYRIC Ba't nagaalangan? Tulala na'ng mukha...
+000,
+1000000100001000,
+,
+2000000200002000,
+#LYRIC
+0
+#LYRIC Wag mag-aalala
+000,
+2000000200002000,
+3
+#LYRIC
+508,
+2
+#LYRIC Ramdam mo ang ngiti ng 'yong tuyong bibig
+200,
+2200,
+2200,
+2
+#LYRIC
+0202020,
+2
+#LYRIC Ang pagtingin ng ganda'y biglang inibig
+200,
+2200,
+2200,
+2
+#LYRIC
+02020
+#LYRIC Kaya inakaya ka ng taong 'di mapakali
+00,
+10001015,
+08,
+10001015,
+00
+#LYRIC
+8
+#LYRIC Ngunit, 'di nasanayan ng aking puting katawan
+0,
+20002005,
+08,
+2022,
+3030
+#LYRIC
+3
+#LYRIC Bakit ako'y kinakabahan sayo?
+000,
+5,
+0008,
+#GOGOSTART
+1101,
+#LYRIC
+10100
+#LYRIC Bakit nahihilo ang ulo ko?
+010,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+2202,
+2
+#LYRIC Wala sanang nakatingin sa akin na parang ako'y tanga
+202,
+22,
+2220,
+22,
+222
+#LYRIC Matapos na ito sana para makauwi ng may ginhawa
+0,
+22,
+2222,
+2022,
+33
+#GOGOEND
+3
+#LYRIC
+0,
+1,
+1,
+1,
+1,
+11000000,
+11000000,
+11000000,
+11000
+#LYRIC Napilitan lang ako sa bagay na di ko kaya
+000,
+10001005,
+08,
+10001015,
+008
+#LYRIC At 'di ko inakala ang magandang kalabasan
+0,
+20002005,
+08,
+2022,
+333
+#LYRIC
+0,
+40404
+#LYRIC Bakit 'di ko ito ginawa noon?
+000,
+5,
+0008,
+#GOGOSTART
+1101,
+#LYRIC
+10100
+#LYRIC Bakit sobrang takot ako sa iyo?
+010,
+#GOGOEND
+5,
+0008,
+#GOGOSTART
+2202,
+2
+#LYRIC Nararamdam ang luha sa mata na parang ako ba'y tanga
+202,
+22,
+2220,
+22,
+20202
+#LYRIC Nalulula ang utak ko,
+020,
+22,
+222
+#LYRIC pero sobrang sulit ang karanasan ko ngayon!
+2,
+2022,
+34
+#GOGOEND
+30,
+#LYRIC
+7
+#LYRIC Sarap humilata sa lumang higaan.
+000,
+,
+,
+#LYRIC
+8,
+5
+#LYRIC Sobrang pagod, ngunit gusto pa rin kita.
+000,
+,
+,
+#LYRIC
+8,
+#END

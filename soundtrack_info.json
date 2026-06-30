@@ -8565,6 +8565,219 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "APeiRoscOpYDAShy",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\328 - Apeiroscopy",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\328 - Apeiroscopy\\Apeiroscopy.ogg",
+            "08 OpenTaiko Chapter VIII\\328 - Apeiroscopy\\Apeiroscopy.tja",
+            "08 OpenTaiko Chapter VIII\\328 - Apeiroscopy\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "d56ab035c79733f38e2fd5abcab15d4d",
+        "chartSize": 2.79,
+        "chartTitle": "Apeiroscopy",
+        "chartSubtitle": "Dashy,",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\APeiRoscOpYDAShy.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "TArAOffIciAlAZ3",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\329 - Tara!",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\329 - Tara!\\Tara!.ogg",
+            "08 OpenTaiko Chapter VIII\\329 - Tara!\\Tara!.png",
+            "08 OpenTaiko Chapter VIII\\329 - Tara!\\Tara!.tja",
+            "08 OpenTaiko Chapter VIII\\329 - Tara!\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "717d9ca7b866f50fea3e336f6e6acadc",
+        "chartSize": 3.88,
+        "chartTitle": "Tara!",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\TArAOffIciAlAZ3.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\329 - Tara!\\Tara!.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "sparkleonDiscoholic2026",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\330 - Sparkle On!",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\330 - Sparkle On!\\Sparkle On!.tja",
+            "08 OpenTaiko Chapter VIII\\330 - Sparkle On!\\sparkle.jpg",
+            "08 OpenTaiko Chapter VIII\\330 - Sparkle On!\\sparkleonoptkedit.ogg",
+            "08 OpenTaiko Chapter VIII\\330 - Sparkle On!\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "44bae58dccca45ebc2811f5bb88b1df3",
+        "chartSize": 3.22,
+        "chartTitle": "Sparkle On!",
+        "chartSubtitle": "Discoholic feat. Vampires Love Sunny",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\sparkleonDiscoholic2026.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\330 - Sparkle On!\\sparkle.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "PIKopIkoPArADETonYFeATHAtSuNEMiKu",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\331 - pikopiko parade",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\331 - pikopiko parade\\pikopiko parade.jpg",
+            "08 OpenTaiko Chapter VIII\\331 - pikopiko parade\\pikopiko parade.ogg",
+            "08 OpenTaiko Chapter VIII\\331 - pikopiko parade\\pikopiko parade.tja",
+            "08 OpenTaiko Chapter VIII\\331 - pikopiko parade\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "9da2132ee8c5898602ca309794a3efd4",
+        "chartSize": 2.73,
+        "chartTitle": "pikopiko\u2606parade",
+        "chartSubtitle": "tony feat. Hatsune Miku",
+        "chartDifficulties": {
+            "Edit": 7,
+            "Oni": 6,
+            "Hard": 3,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\PIKopIkoPArADETonYFeATHAtSuNEMiKu.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\331 - pikopiko parade\\pikopiko parade.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "midSUmMErMiDNighTGAmecuTbITLIE",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\335 - Midsummer Midnight",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\335 - Midsummer Midnight\\Midsummer Midnight.ogg",
+            "08 OpenTaiko Chapter VIII\\335 - Midsummer Midnight\\Midsummer Midnight.tja",
+            "08 OpenTaiko Chapter VIII\\335 - Midsummer Midnight\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "d6afb342f75c84e8d3cccdd5b5347b2c",
+        "chartSize": 2.66,
+        "chartTitle": "Midsummer Midnight (Game Cut.)",
+        "chartSubtitle": "Bit Lie",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Edit": 7,
+            "Hard": 4,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "YSTAR-T,sadkay",
+            "Edit": "YSTAR-T",
+            "Hard": "sadkay",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\midSUmMErMiDNighTGAmecuTbITLIE.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "tofeelalivephantoskii",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\342 - To Feel Alive",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\To Feel Alive.ogg",
+            "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\To Feel Alive.png",
+            "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\To Feel Alive.tja",
+            "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\To Feel Alive.vtt",
+            "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "e9a8952da3c48154162d93d372a0d878",
+        "chartSize": 3.6,
+        "chartTitle": "To Feel Alive",
+        "chartSubtitle": "Phantoskii ft. Adachi Rei",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "BeaniCraft",
+            "Hard": "BeaniCraft",
+            "Normal": "BeaniCraft",
+            "Easy": "BeaniCraft"
+        },
+        "chartAudioFilePath": "preview\\tofeelalivephantoskii.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\To Feel Alive.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "PassAgEdevtheFox",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\358 - passage",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\358 - passage\\passage.jpg",
+            "08 OpenTaiko Chapter VIII\\358 - passage\\passage.ogg",
+            "08 OpenTaiko Chapter VIII\\358 - passage\\passage.tja",
+            "08 OpenTaiko Chapter VIII\\358 - passage\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "50d1ab10cc778e9aa2643e78cecb1c23",
+        "chartSize": 4.27,
+        "chartTitle": "passage",
+        "chartSubtitle": "DevTheFox",
+        "chartDifficulties": {
+            "Oni": 10.3,
+            "Easy": 4,
+            "Normal": 7,
+            "Hard": 8
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Easy": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Hard": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\PassAgEdevtheFox.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\358 - passage\\passage.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

@@ -329,6 +329,16 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 325 - 枯木逢春 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 326 - 银河倒泻 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 327 - 澜 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
+328 - Apeiroscopy : Dashy, - https://www.youtube.com/c/DashyDesu  (Chart by bol)
+329 - Tara! : OfficialAz3 feat. Hodong (VOXFactory) - https://youtube.com/@OfficialAz3 (Chart by YSTAR-T and Komi)
+330 - Sparkle On! : Discoholic feat. Vampires Love Sunny - https://www.youtube.com/channel/UCgIRXSFeLFYgpN9E6R2JC_w (Chart by Dashy)
+331 - pikopiko☆parade : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by DiamondN1nja)
+
+335 - Midsummer Midnight : Bit Lie - https://www.youtube.com/@bit_lie_1024 (Chart by sadkay and YSTAR-T)
+
+342 - To Feel Alive : Phantoskii ft. Adachi Rei - https://www.youtube.com/channel/UCf5X18JsK5n6pK-8GMftOzw (Chart by BeaniCraft)
+
+358 - passage : DevTheFox - https://www.youtube.com/devthefox (Chart by DiamondN1nja)
 ```
 
 Tower-exclusive songs:
@@ -389,6 +399,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 290 - Collapse. : MONOHALLS
 301 - I'll bee damned : Minerva Rin and Len
 306 - Melpomene's Cry : Chegg/chocobogamer
+331 - pikopiko☆parade : poss4m
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 P06 - Zealous Seeker : Michikoiku

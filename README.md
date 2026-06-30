@@ -330,7 +330,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 326 - 银河倒泻 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 327 - 澜 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 328 - Apeiroscopy : Dashy, - https://www.youtube.com/c/DashyDesu  (Chart by bol)
-329 - Tara! : OfficialAz3 feat. Hodong (VOXFactory) - https://youtube.com/@OfficialAz3 (Chart by YSTAR-T and Komi)
+329 - Tara! : OfficialAz3 feat. Hodong (from VOX Factory) - https://youtube.com/@OfficialAz3 (Chart by YSTAR-T and Komi)
 330 - Sparkle On! : Discoholic feat. Vampires Love Sunny - https://www.youtube.com/channel/UCgIRXSFeLFYgpN9E6R2JC_w (Chart by Dashy)
 331 - pikopiko☆parade : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by DiamondN1nja)
 

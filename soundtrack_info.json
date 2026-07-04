@@ -8686,6 +8686,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "mTGImpaCtAOPentAiKOsoUndteamMaKOtorA",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA\\MTG IMPACTA.ogg",
+            "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA\\MTG IMPACTA.png",
+            "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA\\MTG IMPACTA.tja",
+            "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "346480ea9d5fb3c8c4c13e858022cffb",
+        "chartSize": 2.1,
+        "chartTitle": "MTG IMPACTA",
+        "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\mTGImpaCtAOPentAiKOsoUndteamMaKOtorA.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA\\MTG IMPACTA.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "midSUmMErMiDNighTGAmecuTbITLIE",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\335 - Midsummer Midnight",
         "tjaFilesPath": [
@@ -8745,6 +8775,65 @@
         },
         "chartAudioFilePath": "preview\\tofeelalivephantoskii.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\To Feel Alive.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "BLOwfIshSNorKelingphONonISRaELStrom",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\353 - blowfish snorkeling",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\353 - blowfish snorkeling\\blowfish snorkeling.ogg",
+            "08 OpenTaiko Chapter VIII\\353 - blowfish snorkeling\\blowfish snorkeling.tja",
+            "08 OpenTaiko Chapter VIII\\353 - blowfish snorkeling\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "20c88ffae057bfa07234958c138326e8",
+        "chartSize": 6.54,
+        "chartTitle": "blowfish snorkeling",
+        "chartSubtitle": "phonon & Israel Strom",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\BLOwfIshSNorKelingphONonISRaELStrom.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "extrATeRrEstRiALkObOldfROMThemOoNQlOuDPATCh",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\357 - Extraterrestrial Kobold from the Moon",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\357 - Extraterrestrial Kobold from the Moon\\Extraterrestrial Kobold from the Moon.jpg",
+            "08 OpenTaiko Chapter VIII\\357 - Extraterrestrial Kobold from the Moon\\Extraterrestrial Kobold from the Moon.ogg",
+            "08 OpenTaiko Chapter VIII\\357 - Extraterrestrial Kobold from the Moon\\Extraterrestrial Kobold from the Moon.tja",
+            "08 OpenTaiko Chapter VIII\\357 - Extraterrestrial Kobold from the Moon\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "e4161aafaa53b8ae414a594cc1b7ae03",
+        "chartSize": 4.42,
+        "chartTitle": "Extraterrestrial Kobold from the Moon",
+        "chartSubtitle": "qloudpatch",
+        "chartDifficulties": {
+            "Easy": 5,
+            "Normal": 6,
+            "Hard": 7,
+            "Oni": 10.2
+        },
+        "chartMakers": {
+            "Easy": "sadkay",
+            "Normal": "sadkay",
+            "Hard": "sadkay",
+            "Oni": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\extrATeRrEstRiALkObOldfROMThemOoNQlOuDPATCh.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\357 - Extraterrestrial Kobold from the Moon\\Extraterrestrial Kobold from the Moon.jpg",
         "chartHoFRanks": {}
     },
     {

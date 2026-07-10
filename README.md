@@ -337,11 +337,15 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 333 - MTG IMPACTA : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by Makotora and Komi)
 
 335 - Midsummer Midnight : Bit Lie - https://www.youtube.com/@bit_lie_1024 (Chart by sadkay and YSTAR-T)
+336 - BERRY FEVER : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by Komi)
+
+340 - Unending Freedom ~Dashy's 3-Piece Infinitus~ : Tatsuoto reversed by Dashy, (Chart by DiamondN1nja)
 
 342 - To Feel Alive : Phantoskii ft. Adachi Rei - https://www.youtube.com/channel/UCf5X18JsK5n6pK-8GMftOzw (Chart by BeaniCraft)
 
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
 
+356 - re:iteration = NULL (Calm Version of "they remember her memory" World) : endofsystem - https://soundcloud.com/endofsystem/reiteration-null-calm (Chart by YSTAR-T and Komi)
 357 - Extraterrestrial Kobold from the Moon : qloudpatch - https://soundcloud.com/qloudpatch (Chart by sadkay)
 358 - passage : DevTheFox - https://www.youtube.com/devthefox (Chart by DiamondN1nja)
 ```
@@ -405,6 +409,8 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 301 - I'll bee damned : Minerva Rin and Len
 306 - Melpomene's Cry : Chegg/chocobogamer
 331 - pikopiko☆parade : poss4m
+336 - BERRY FEVER : toofless
+356 - re:iteration = NULL (Calm Version of "they remember her memory" World) : MONOHALLS
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 P06 - Zealous Seeker : Michikoiku

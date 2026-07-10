@@ -1071,7 +1071,7 @@
             "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "8d315fb1565f9cb29de195e335d83bfe",
+        "tjaMD5": "8fc9e041975df3cb71738b645e2fdb27",
         "chartSize": 5.76,
         "chartTitle": "WE ARE OPTK!!",
         "chartSubtitle": "DashyDesu / 2022 Submission Memorial Medley",
@@ -8747,6 +8747,65 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "BERryfeVeRToNyfEaTHatSunEmikU",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\336 - BERRY FEVER",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\336 - BERRY FEVER\\BERRY FEVER.ogg",
+            "08 OpenTaiko Chapter VIII\\336 - BERRY FEVER\\BERRY FEVER.png",
+            "08 OpenTaiko Chapter VIII\\336 - BERRY FEVER\\BERRY FEVER.tja",
+            "08 OpenTaiko Chapter VIII\\336 - BERRY FEVER\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "70fa2e9f8d395a3778c0cd10108fd335",
+        "chartSize": 3.42,
+        "chartTitle": "BERRY FEVER",
+        "chartSubtitle": "tony feat. Hatsune Miku",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\BERryfeVeRToNyfEaTHatSunEmikU.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\336 - BERRY FEVER\\BERRY FEVER.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "unendiNGFreeDomdashYs3PIEcEINFInitustatSUotOrEveRSedbYDAshy",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\340 - Unending Freedom Dashy",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\340 - Unending Freedom Dashy\\Unending Freedom ~Dashy's 3-Piece Infinitus~.ogg",
+            "08 OpenTaiko Chapter VIII\\340 - Unending Freedom Dashy\\Unending Freedom ~Dashy's 3-Piece Infinitus~.tja",
+            "08 OpenTaiko Chapter VIII\\340 - Unending Freedom Dashy\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "2ca1050e1d4924ae2aeabfd64b7e3341",
+        "chartSize": 3.16,
+        "chartTitle": "Unending Freedom ~Dashy's 3-Piece Infinitus~",
+        "chartSubtitle": "Tatsuoto reversed by Dashy,",
+        "chartDifficulties": {
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\unendiNGFreeDomdashYs3PIEcEINFInitustatSUotOrEveRSedbYDAshy.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "tofeelalivephantoskii",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\342 - To Feel Alive",
         "tjaFilesPath": [
@@ -8804,6 +8863,38 @@
         },
         "chartAudioFilePath": "preview\\BLOwfIshSNorKelingphONonISRaELStrom.ogg",
         "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "ReiteRaTionNUlLENdoFsYSTem",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\356 - reiteration null",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\356 - reiteration null\\reiteration null.ogg",
+            "08 OpenTaiko Chapter VIII\\356 - reiteration null\\reiteration null.png",
+            "08 OpenTaiko Chapter VIII\\356 - reiteration null\\reiteration null.tja",
+            "08 OpenTaiko Chapter VIII\\356 - reiteration null\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "611c017ee16399cd0602102e190663a7",
+        "chartSize": 3.69,
+        "chartTitle": "re:iteration = NULL",
+        "chartSubtitle": "endofsystem",
+        "chartDifficulties": {
+            "Easy": 1,
+            "Normal": 4,
+            "Hard": 6,
+            "Oni": 7,
+            "Edit": 8
+        },
+        "chartMakers": {
+            "Easy": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Oni": "YSTAR-T",
+            "Edit": "Komi"
+        },
+        "chartAudioFilePath": "preview\\ReiteRaTionNUlLENdoFsYSTem.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\356 - reiteration null\\reiteration_null.png",
         "chartHoFRanks": {}
     },
     {

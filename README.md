@@ -348,6 +348,11 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 356 - re:iteration = NULL (Calm Version of "they remember her memory" World) : endofsystem - https://soundcloud.com/endofsystem/reiteration-null-calm (Chart by YSTAR-T and Komi)
 357 - Extraterrestrial Kobold from the Moon : qloudpatch - https://soundcloud.com/qloudpatch (Chart by sadkay)
 358 - passage : DevTheFox - https://www.youtube.com/devthefox (Chart by DiamondN1nja)
+
+360 - No Concision, Full Deception : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by sadkay)
+
+362 - Full Combo, All Perfect Even : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by Komi)
+363 - CHANGE YOUR MIND : dogthing feat. Luka Megurine - https://www.youtube.com/@dogthingmusic (Chart by Colin)
 ```
 
 Tower-exclusive songs:
@@ -476,6 +481,7 @@ If you liked a specific song and want to support the composer's work, please che
 235 - Unfortunate Utopia : Wyvren vs. Marilette Aokisama
 295 - You've Got Mail! : Phantoskii
 306 - Melpomene's Cry : FrankleAnkles
+363 - CHANGE YOUR MIND : dogthing feat. Luka Megurine
 ```
 
 - Non-commercial, Attribution required (CC BY-NC ?)

@@ -8958,6 +8958,96 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "NoCoNcISIOnFuLlDEcEPTiOnoffIcIAlAz3",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\No Concision Full Deception.ogg",
+            "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\No Concision Full Deception.png",
+            "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\No Concision Full Deception.tja",
+            "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "249b61152bdc0bbe27e255000892a21b",
+        "chartSize": 4.12,
+        "chartTitle": "No Concision, Full Deception",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\NoCoNcISIOnFuLlDEcEPTiOnoffIcIAlAz3.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\No Concision Full Deception.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "FuLlcOMboALlPERFecTevEntatsUOTO",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\362 - FC AP Even",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\362 - FC AP Even\\Full Combo, All Perfect Even.jpg",
+            "08 OpenTaiko Chapter VIII\\362 - FC AP Even\\Full Combo, All Perfect Even.ogg",
+            "08 OpenTaiko Chapter VIII\\362 - FC AP Even\\Full Combo, All Perfect Even.tja",
+            "08 OpenTaiko Chapter VIII\\362 - FC AP Even\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "e44c13ff540e7c371cdd67ab9350d05f",
+        "chartSize": 2.68,
+        "chartTitle": "Full Combo, All Perfect Even",
+        "chartSubtitle": "Tatsuoto",
+        "chartDifficulties": {
+            "Oni": 11.3,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\FuLlcOMboALlPERFecTevEntatsUOTO.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\362 - FC AP Even\\Full Combo, All Perfect Even.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "changeyourminddogthingmusicfeatlukacolinchartdogthingiscolinandcoliniswhochartedthis",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND\\CHANGE YOUR MIND.ogg",
+            "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND\\CHANGE YOUR MIND.png",
+            "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND\\CHANGE YOUR MIND.tja",
+            "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "500db1c3e2ce50b384a7a3e8b01e0701",
+        "chartSize": 3.53,
+        "chartTitle": "CHANGE YOUR MIND",
+        "chartSubtitle": "dogthing feat. Luka Megurine",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 3,
+            "Hard": 6,
+            "Oni": 7
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "preview\\changeyourminddogthingmusicfeatlukacolinchartdogthingiscolinandcoliniswhochartedthis.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND\\CHANGE YOUR MIND.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [

@@ -8866,6 +8866,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "PaTMeTheNyReMiXPhOnOnisRAELstRoM",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\354 - Pat Metheny Remix",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\354 - Pat Metheny Remix\\Pat Metheny Remix.ogg",
+            "08 OpenTaiko Chapter VIII\\354 - Pat Metheny Remix\\Pat Metheny Remix.tja",
+            "08 OpenTaiko Chapter VIII\\354 - Pat Metheny Remix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "af9d3794c500dd274accab9fbd5899e5",
+        "chartSize": 8.66,
+        "chartTitle": "Pat Metheny Remix",
+        "chartSubtitle": "phonon & Israel Strom",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\PaTMeTheNyReMiXPhOnOnisRAELstRoM.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "ReiteRaTionNUlLENdoFsYSTem",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\356 - reiteration null",
         "tjaFilesPath": [
@@ -8958,6 +8987,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "hYpERsUrfaCEGrIgOrIPoinCar",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\359 - Hypersurface",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\359 - Hypersurface\\Hypersurface.jpg",
+            "08 OpenTaiko Chapter VIII\\359 - Hypersurface\\Hypersurface.ogg",
+            "08 OpenTaiko Chapter VIII\\359 - Hypersurface\\Hypersurface.tja",
+            "08 OpenTaiko Chapter VIII\\359 - Hypersurface\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "4bc70dd7df753ea296db993aafa1175f",
+        "chartSize": 5.26,
+        "chartTitle": "Hypersurface",
+        "chartSubtitle": "Grigori Poincar\u00e9",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Normal": 4,
+            "Hard": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Normal": "sadkay",
+            "Hard": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\hYpERsUrfaCEGrIgOrIPoinCar.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\359 - Hypersurface\\Hypersurface.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "NoCoNcISIOnFuLlDEcEPTiOnoffIcIAlAz3",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception",
         "tjaFilesPath": [
@@ -8985,6 +9044,36 @@
         },
         "chartAudioFilePath": "preview\\NoCoNcISIOnFuLlDEcEPTiOnoffIcIAlAz3.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\No Concision Full Deception.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "luNARFrAgMeNTqLoudPAtCH",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\361 - Lunar Fragment",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\361 - Lunar Fragment\\Lunar Fragment.jpg",
+            "08 OpenTaiko Chapter VIII\\361 - Lunar Fragment\\Lunar Fragment.ogg",
+            "08 OpenTaiko Chapter VIII\\361 - Lunar Fragment\\Lunar Fragment.tja",
+            "08 OpenTaiko Chapter VIII\\361 - Lunar Fragment\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "9d15043079a13501b5ef84f532518448",
+        "chartSize": 3.39,
+        "chartTitle": "Lunar\u2215\u2215Fragment",
+        "chartSubtitle": "qloudpatch",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 5,
+            "Hard": 8,
+            "Oni": 9
+        },
+        "chartMakers": {
+            "Easy": "YSTAR-T,Fragment 0",
+            "Normal": "YSTAR-T,Fragment 1",
+            "Hard": "YSTAR-T,Fragment 2",
+            "Oni": "YSTAR-T,Fragment 3"
+        },
+        "chartAudioFilePath": "preview\\luNARFrAgMeNTqLoudPAtCH.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\361 - Lunar Fragment\\Lunar Fragment.jpg",
         "chartHoFRanks": {}
     },
     {

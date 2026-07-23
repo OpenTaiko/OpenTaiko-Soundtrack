@@ -344,13 +344,14 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 342 - To Feel Alive : Phantoskii ft. Adachi Rei - https://www.youtube.com/channel/UCf5X18JsK5n6pK-8GMftOzw (Chart by BeaniCraft)
 
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
+354 - Pat Metheny Remix : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by YSTAR-T)
 
 356 - re:iteration = NULL (Calm Version of "they remember her memory" World) : endofsystem - https://soundcloud.com/endofsystem/reiteration-null-calm (Chart by YSTAR-T and Komi)
 357 - Extraterrestrial Kobold from the Moon : qloudpatch - https://soundcloud.com/qloudpatch (Chart by sadkay)
 358 - passage : DevTheFox - https://www.youtube.com/devthefox (Chart by DiamondN1nja)
-
+359 - Hypersurface : Grigori Poincaré - https://soundcloud.com/billiummoto (Chart by sadkay)
 360 - No Concision, Full Deception : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by sadkay)
-
+361 - Lunar⧸⧸Fragment : qloudpatch - https://soundcloud.com/qloudpatch (Chart by YSTAR-T)
 362 - Full Combo, All Perfect Even : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by Komi)
 363 - CHANGE YOUR MIND : dogthing feat. Luka Megurine - https://www.youtube.com/@dogthingmusic (Chart by Colin)
 ```

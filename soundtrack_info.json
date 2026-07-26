@@ -10688,13 +10688,14 @@
         "uniqueId": "RippletaicHEnKo",
         "tjaFolderPath": "E04 Rainy Diary\\RD03 - 327 - Ripple",
         "tjaFilesPath": [
+            "E04 Rainy Diary\\RD03 - 327 - Ripple\\Ripple.jpg",
             "E04 Rainy Diary\\RD03 - 327 - Ripple\\Ripple.ogg",
             "E04 Rainy Diary\\RD03 - 327 - Ripple\\Ripple.tja",
             "E04 Rainy Diary\\RD03 - 327 - Ripple\\uniqueID.json"
         ],
         "tjaGenreFolder": "E04 Rainy Diary",
-        "tjaMD5": "412803fcc1e6a8d092b7ed81247dedb9",
-        "chartSize": 9.0,
+        "tjaMD5": "6b78f84124388a41049e13c76df6dab2",
+        "chartSize": 9.17,
         "chartTitle": "Ripple",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
@@ -10710,7 +10711,7 @@
             "Easy": "Taichenko"
         },
         "chartAudioFilePath": "preview\\RippletaicHEnKo.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "E04 Rainy Diary\\RD03 - 327 - Ripple\\Ripple.jpg",
         "chartHoFRanks": {}
     },
     {

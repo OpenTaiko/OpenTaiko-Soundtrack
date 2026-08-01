@@ -8837,6 +8837,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "CONTINuINgHEarTTOnefEAThaTsUnemIku",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\CONTINUING HEART.ogg",
+            "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\CONTINUING HEART.png",
+            "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\CONTINUING HEART.tja",
+            "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "71240cda5dd62039f97bf159906bb054",
+        "chartSize": 5.35,
+        "chartTitle": "CONTINUING HEART",
+        "chartSubtitle": "TONE feat. Hatsune Miku",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Dashy",
+            "Easy": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\CONTINuINgHEarTTOnefEAThaTsUnemIku.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\CONTINUING HEART.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "BLOwfIshSNorKelingphONonISRaELStrom",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\353 - blowfish snorkeling",
         "tjaFilesPath": [
@@ -9134,6 +9164,35 @@
         },
         "chartAudioFilePath": "preview\\changeyourminddogthingmusicfeatlukacolinchartdogthingiscolinandcoliniswhochartedthis.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND\\CHANGE YOUR MIND.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "yoAkENoVOyageCoMeT10tEl",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\368 - Yoake no Voyage Comet",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\368 - Yoake no Voyage Comet\\uniqueID.json",
+            "08 OpenTaiko Chapter VIII\\368 - Yoake no Voyage Comet\\Yoake no Voyage Comet.ogg",
+            "08 OpenTaiko Chapter VIII\\368 - Yoake no Voyage Comet\\Yoake no Voyage Comet.tja"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "cd70c684a3ef66824b119467b8637737",
+        "chartSize": 4.78,
+        "chartTitle": "Yoake no Voyage Comet",
+        "chartSubtitle": "10tel",
+        "chartDifficulties": {
+            "Oni": 10.2,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\yoAkENoVOyageCoMeT10tEl.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
@@ -14634,6 +14693,29 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "swtowerGeometryAnomaly",
+        "tjaFolderPath": "S2 Taiko Towers\\01 - Sweet\\TSW14 - Geometry Anomaly",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\01 - Sweet\\TSW14 - Geometry Anomaly\\Geometric Anomaly.ogg",
+            "S2 Taiko Towers\\01 - Sweet\\TSW14 - Geometry Anomaly\\Geometric Anomaly.tja",
+            "S2 Taiko Towers\\01 - Sweet\\TSW14 - Geometry Anomaly\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "8643abc1a0d823c8ec7484dcef4a46f6",
+        "chartSize": 6.84,
+        "chartTitle": "Geometric Anomaly",
+        "chartSubtitle": "BlastiX & Oksuu & MoeCore & Yutsuri",
+        "chartDifficulties": {
+            "Tower": 7
+        },
+        "chartMakers": {
+            "Tower": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\swtowerGeometryAnomaly.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "tower16ttsrfssfes",
         "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP01 - OpTk Tower 1",
         "tjaFilesPath": [
@@ -14940,6 +15022,29 @@
         },
         "chartAudioFilePath": "preview\\sptowerSolaris.ogg",
         "chartJacketFilePath": "S2 Taiko Towers\\02 - Spicy\\TSP13 - Solaris\\Solaris.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "sptowerGeometryAnomaly",
+        "tjaFolderPath": "S2 Taiko Towers\\02 - Spicy\\TSP14 - Geometry Anomaly",
+        "tjaFilesPath": [
+            "S2 Taiko Towers\\02 - Spicy\\TSP14 - Geometry Anomaly\\Geometric Anomaly.ogg",
+            "S2 Taiko Towers\\02 - Spicy\\TSP14 - Geometry Anomaly\\Geometric Anomaly.tja",
+            "S2 Taiko Towers\\02 - Spicy\\TSP14 - Geometry Anomaly\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "d3d08aa16dadd93ca80444326202f497",
+        "chartSize": 6.85,
+        "chartTitle": "Geometric Anomaly",
+        "chartSubtitle": "BlastiX & Oksuu & MoeCore & Yutsuri",
+        "chartDifficulties": {
+            "Tower": 10.7
+        },
+        "chartMakers": {
+            "Tower": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\sptowerGeometryAnomaly.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

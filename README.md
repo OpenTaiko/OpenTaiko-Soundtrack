@@ -342,6 +342,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 340 - Unending Freedom ~Dashy's 3-Piece Infinitus~ : Tatsuoto reversed by Dashy, (Chart by DiamondN1nja)
 
 342 - To Feel Alive : Phantoskii ft. Adachi Rei - https://www.youtube.com/channel/UCf5X18JsK5n6pK-8GMftOzw (Chart by BeaniCraft)
+343 - CONTINUING HEART : TONE feat. Hatsune Miku - https://youtu.be/d5TlLbK8Fd0?si=Va0Vg0JX8jYRnbql https://open.spotify.com/track/4SX6Jr69psIHVYzFlcvWAJ (Chart by Dashy)
 
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
 354 - Pat Metheny Remix : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by YSTAR-T)
@@ -354,6 +355,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 361 - Lunar⧸⧸Fragment : qloudpatch - https://soundcloud.com/qloudpatch (Chart by YSTAR-T)
 362 - Full Combo, All Perfect Even : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by Komi)
 363 - CHANGE YOUR MIND : dogthing feat. Luka Megurine - https://www.youtube.com/@dogthingmusic (Chart by Colin)
+
+368 - 夜明けのヴォヤージュコメット : てんてる - https://youtu.be/9Wq8SsOqWvU?si=_EUVSpLp0OGG5arv (Chart by Komi)
 ```
 
 Tower-exclusive songs:
@@ -363,6 +366,7 @@ TSW05/TSP09 - PYRΔMiD (ΣXTΣND MiX) : TFD500 - https://www.youtube.com/channel
 TSW08/TSP08 - 888 Tower ~Until the sky turns black~ : OPTK Sound Team "Dashy" - https://www.youtube.com/c/DashyDesu (Chart by Dashy)
 TSW11/TSP11 - TOKYO RHYTHM No.524 : フォ㍊ aka. FALL - https://www.likeside.net/ (Chart by DragonRatTiger)
 TSW13/TSP13 - Solaris: Tempo Doesn't Exist : Catonieca - https://www.youtube.com/@CatoniecaCH (Chart by DiamondN1nja)
+TSW14/TSP14 - Geometric Anomaly : BlastiX & Oksuu & MoeCore & Yutsuri - https://www.youtube.com/watch?v=Aw2Rphoofl0 (Chart by YSTAR-T)
 ```
 
 ### Visuals

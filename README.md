@@ -338,11 +338,13 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 335 - Midsummer Midnight : Bit Lie - https://www.youtube.com/@bit_lie_1024 (Chart by sadkay and YSTAR-T)
 336 - BERRY FEVER : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by Komi)
+337 - ELEDREAM : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by せきあき)
 
 340 - Unending Freedom ~Dashy's 3-Piece Infinitus~ : Tatsuoto reversed by Dashy, (Chart by DiamondN1nja)
 
 342 - To Feel Alive : Phantoskii ft. Adachi Rei - https://www.youtube.com/channel/UCf5X18JsK5n6pK-8GMftOzw (Chart by BeaniCraft)
 343 - CONTINUING HEART : TONE feat. Hatsune Miku - https://youtu.be/d5TlLbK8Fd0?si=Va0Vg0JX8jYRnbql https://open.spotify.com/track/4SX6Jr69psIHVYzFlcvWAJ (Chart by Dashy)
+344 - Adventurous Legend of Hilled Amethyst : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by IID)
 
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
 354 - Pat Metheny Remix : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by YSTAR-T)
@@ -420,6 +422,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 306 - Melpomene's Cry : Chegg/chocobogamer
 331 - pikopiko☆parade : poss4m
 336 - BERRY FEVER : toofless
+337 - ELEDREAM : poss4m
 356 - re:iteration = NULL (Calm Version of "they remember her memory" World) : MONOHALLS
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO

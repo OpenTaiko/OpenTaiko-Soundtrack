@@ -8777,6 +8777,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "ElEDreAmtoNyFEatHATsUneMikU",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\337 - ELEDREAM",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\337 - ELEDREAM\\ELEDREAM.ogg",
+            "08 OpenTaiko Chapter VIII\\337 - ELEDREAM\\ELEDREAM.png",
+            "08 OpenTaiko Chapter VIII\\337 - ELEDREAM\\ELEDREAM.tja",
+            "08 OpenTaiko Chapter VIII\\337 - ELEDREAM\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "7009ae05ae15df92ef49593c355a8a86",
+        "chartSize": 5.31,
+        "chartTitle": "ELEDREAM",
+        "chartSubtitle": "tony feat. Hatsune Miku",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "\u305b\u304d\u3042\u304d",
+            "Hard": "\u305b\u304d\u3042\u304d",
+            "Normal": "\u305b\u304d\u3042\u304d",
+            "Easy": "\u305b\u304d\u3042\u304d"
+        },
+        "chartAudioFilePath": "preview\\ElEDreAmtoNyFEatHATsUneMikU.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\337 - ELEDREAM\\ELEDREAM.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "unendiNGFreeDomdashYs3PIEcEINFInitustatSUotOrEveRSedbYDAshy",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\340 - Unending Freedom Dashy",
         "tjaFilesPath": [
@@ -8864,6 +8894,36 @@
         },
         "chartAudioFilePath": "preview\\CONTINuINgHEarTTOnefEAThaTsUnemIku.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\CONTINUING HEART.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "AdVenTUROuSlEGEndOFHiLlEdAmethySTOffIcialAZ3",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\344 - Adventurous Legend of Hilled Amethyst",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\344 - Adventurous Legend of Hilled Amethyst\\Adventurous Legend of Hilled Amethyst.ogg",
+            "08 OpenTaiko Chapter VIII\\344 - Adventurous Legend of Hilled Amethyst\\Adventurous Legend of Hilled Amethyst.png",
+            "08 OpenTaiko Chapter VIII\\344 - Adventurous Legend of Hilled Amethyst\\Adventurous Legend of Hilled Amethyst.tja",
+            "08 OpenTaiko Chapter VIII\\344 - Adventurous Legend of Hilled Amethyst\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "4d41e8d435a9d99f94b59c97483ab8f7",
+        "chartSize": 4.47,
+        "chartTitle": "Adventurous Legend of Hilled Amethyst",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "preview\\AdVenTUROuSlEGEndOFHiLlEdAmethySTOffIcialAZ3.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\344 - Adventurous Legend of Hilled Amethyst\\Adventurous Legend of Hilled Amethyst.png",
         "chartHoFRanks": {}
     },
     {

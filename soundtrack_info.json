@@ -630,17 +630,19 @@
             "01 OpenTaiko Chapter I\\028 - Katharsis\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "bc10b5ae55b6d63b8440c75209230473",
+        "tjaMD5": "b0ef598ea93b83802f59081e6b749306",
         "chartSize": 2.5,
         "chartTitle": "Katharsis",
         "chartSubtitle": "9C",
         "chartDifficulties": {
+            "Edit": 8,
             "Oni": 8,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
         },
         "chartMakers": {
+            "Edit": "Komi",
             "Oni": "Komi",
             "Hard": "Komi",
             "Normal": "Komi",

@@ -6975,17 +6975,19 @@
             "06 OpenTaiko Chapter VI\\268 - EvanisceantiA\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "caba52d3c381790f13180012ab67f6fb",
-        "chartSize": 5.11,
+        "tjaMD5": "2b6bd42fc7a8ee8ce2d056338a70c950",
+        "chartSize": 5.13,
         "chartTitle": "\u018evanisce:\u0259ntiA",
         "chartSubtitle": "f2",
         "chartDifficulties": {
+            "Edit": 11.2,
             "Oni": 10.5,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5
         },
         "chartMakers": {
+            "Edit": "DiamondN1nja",
             "Oni": "DiamondN1nja",
             "Hard": "DiamondN1nja",
             "Normal": "DiamondN1nja",

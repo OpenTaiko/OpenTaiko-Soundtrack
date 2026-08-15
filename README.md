@@ -345,6 +345,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 342 - To Feel Alive : Phantoskii ft. Adachi Rei - https://www.youtube.com/channel/UCf5X18JsK5n6pK-8GMftOzw (Chart by BeaniCraft)
 343 - CONTINUING HEART : TONE feat. Hatsune Miku - https://youtu.be/d5TlLbK8Fd0?si=Va0Vg0JX8jYRnbql https://open.spotify.com/track/4SX6Jr69psIHVYzFlcvWAJ (Chart by Dashy)
 344 - Adventurous Legend of Hilled Amethyst : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by IID)
+345 - Nightmares destroy you, The field of dreams forgotten, We shall help you sleep. - Dreamseeker Paku : Catonieca - https://www.youtube.com/@CatoniecaCH (Chart by YSTAR-T)
 
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
 354 - Pat Metheny Remix : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by YSTAR-T)
@@ -357,8 +358,13 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 361 - Lunar⧸⧸Fragment : qloudpatch - https://soundcloud.com/qloudpatch (Chart by YSTAR-T)
 362 - Full Combo, All Perfect Even : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by Komi)
 363 - CHANGE YOUR MIND : dogthing feat. Luka Megurine - https://www.youtube.com/@dogthingmusic (Chart by Colin)
+364 - Peace After Stormy Times (Game Ver) : Bit Lie (RhyX7hm) - https://www.youtube.com/@bit_lie_1024 (Chart by YSTAR-T)
 
+367 - «EnTeR-SaMaS-AsTeRaMaS» (Game Edit) : NaRouDaK - https://soundcloud.com/naroudak (Chart by sadkay and DiamondN1nja)
 368 - 夜明けのヴォヤージュコメット : てんてる - https://youtu.be/9Wq8SsOqWvU?si=_EUVSpLp0OGG5arv (Chart by Komi)
+369 - Xross Imperium : BlastiX & XorɅ - https://www.youtube.com/watch?v=H-b7YmPNBPo (Chart by Makotora)
+
+377 - 100 Carat Smoke Point : BilliumMoto - https://soundcloud.com/billiummoto (Chart by Komi and AsPho)
 ```
 
 Tower-exclusive songs:

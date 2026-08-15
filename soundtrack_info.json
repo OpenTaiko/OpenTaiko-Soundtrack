@@ -3300,12 +3300,12 @@
             "03 OpenTaiko Chapter III\\137 - Tsol Niameri\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "369a29ef9883c792439a9689c687ffd9",
+        "tjaMD5": "f3942983538e778b60286712331fd941",
         "chartSize": 5.77,
         "chartTitle": "??? ~ T'soL Niamer-I ~",
         "chartSubtitle": "YLN0 feat. The Second Truth",
         "chartDifficulties": {
-            "Edit": 11.5,
+            "Edit": 11.7,
             "Oni": 10.7,
             "Hard": 8,
             "Normal": 7,
@@ -7037,12 +7037,12 @@
             "06 OpenTaiko Chapter VI\\270 - the world of periwinkle\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "5e139a4500b47c2ce768ca7d741601b7",
+        "tjaMD5": "0d9d4db56421ae08078d0c7816415df3",
         "chartSize": 9.46,
         "chartTitle": "the world of periwinkle",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
-            "Edit": 11.5,
+            "Edit": 11.6,
             "Oni": 10.5,
             "Hard": 8,
             "Normal": 7,
@@ -9208,12 +9208,12 @@
             "08 OpenTaiko Chapter VIII\\362 - FC AP Even\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "e44c13ff540e7c371cdd67ab9350d05f",
+        "tjaMD5": "a2a23861774d57c5d0fd456f17bc6e1f",
         "chartSize": 2.68,
         "chartTitle": "Full Combo, All Perfect Even",
         "chartSubtitle": "Tatsuoto",
         "chartDifficulties": {
-            "Oni": 11.3,
+            "Oni": 11.2,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5

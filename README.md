@@ -349,17 +349,18 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
 354 - Pat Metheny Remix : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by YSTAR-T)
-
+355 - carousel horse : phonon feat. benjamin francis - https://www.youtube.com/@ijandphonon/videos (Chart by bol)
 356 - re:iteration = NULL (Calm Version of "they remember her memory" World) : endofsystem - https://soundcloud.com/endofsystem/reiteration-null-calm (Chart by YSTAR-T and Komi)
 357 - Extraterrestrial Kobold from the Moon : qloudpatch - https://soundcloud.com/qloudpatch (Chart by sadkay)
 358 - passage : DevTheFox - https://www.youtube.com/devthefox (Chart by DiamondN1nja)
 359 - Hypersurface : Grigori Poincaré - https://soundcloud.com/billiummoto (Chart by sadkay)
-360 - No Concision, Full Deception : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by sadkay)
+360 - No Concision, Full Deception : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by sadkay and YSTAR-T)
 361 - Lunar⧸⧸Fragment : qloudpatch - https://soundcloud.com/qloudpatch (Chart by YSTAR-T)
 362 - Full Combo, All Perfect Even : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by Komi)
 363 - CHANGE YOUR MIND : dogthing feat. Luka Megurine - https://www.youtube.com/@dogthingmusic (Chart by Colin)
 364 - Peace After Stormy Times (Game Ver) : Bit Lie (RhyX7hm) - https://www.youtube.com/@bit_lie_1024 (Chart by YSTAR-T)
 
+366 - Raven=Meteorite : Lalot. - https://soundcloud.com/lalotofficial/raven_meteorite https://www.youtube.com/watch?v=tA_rNUYj5Aw (Chart by sadkay)
 367 - «EnTeR-SaMaS-AsTeRaMaS» (Game Edit) : NaRouDaK - https://soundcloud.com/naroudak (Chart by sadkay and DiamondN1nja)
 368 - 夜明けのヴォヤージュコメット : てんてる - https://youtu.be/9Wq8SsOqWvU?si=_EUVSpLp0OGG5arv (Chart by Komi)
 369 - Xross Imperium : BlastiX & XorɅ - https://www.youtube.com/watch?v=H-b7YmPNBPo (Chart by Makotora)

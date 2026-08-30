@@ -9019,6 +9019,35 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "caRouselhorsePHONoNfEAtbENjaMiNFranciS",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\355 - carousel horse",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\355 - carousel horse\\carousel horse.ogg",
+            "08 OpenTaiko Chapter VIII\\355 - carousel horse\\carousel horse.tja",
+            "08 OpenTaiko Chapter VIII\\355 - carousel horse\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "abaced6b2d0dc499f6293ef8819fe9a5",
+        "chartSize": 3.47,
+        "chartTitle": "carousel horse",
+        "chartSubtitle": "phonon feat. benjamin francis",
+        "chartDifficulties": {
+            "Oni": 11.9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 6
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\caRouselhorsePHONoNfEAtbENjaMiNFranciS.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "ReiteRaTionNUlLENdoFsYSTem",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\356 - reiteration null",
         "tjaFilesPath": [
@@ -9150,17 +9179,19 @@
             "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "249b61152bdc0bbe27e255000892a21b",
-        "chartSize": 4.12,
+        "tjaMD5": "196ed357ce602a6027f5178c2edd128b",
+        "chartSize": 4.13,
         "chartTitle": "No Concision, Full Deception",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
+            "Edit": 10.5,
             "Oni": 8,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
         },
         "chartMakers": {
+            "Edit": "YSTAR-T",
             "Oni": "sadkay",
             "Hard": "sadkay",
             "Normal": "sadkay",
@@ -9290,6 +9321,36 @@
         },
         "chartAudioFilePath": "preview\\PeaCEAFteRStORMyTiMeSGAMEverSionbITLiERHYX7Hm.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\364 - PAST\\PAST.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "RAVEnMETeOrItElAlOT",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\366 - Raven=Meteorite",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\366 - Raven=Meteorite\\Raven=Meteorite.jpg",
+            "08 OpenTaiko Chapter VIII\\366 - Raven=Meteorite\\Raven=Meteorite.ogg",
+            "08 OpenTaiko Chapter VIII\\366 - Raven=Meteorite\\Raven=Meteorite.tja",
+            "08 OpenTaiko Chapter VIII\\366 - Raven=Meteorite\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "447c35ac1782c305ecc206070e769ae8",
+        "chartSize": 5.08,
+        "chartTitle": "Raven=Meteorite",
+        "chartSubtitle": "Lalot.",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\RAVEnMETeOrItElAlOT.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\366 - Raven=Meteorite\\Raven=Meteorite.jpg",
         "chartHoFRanks": {}
     },
     {

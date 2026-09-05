@@ -434,6 +434,11 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 T07 - Abyss : LeoO
 T10 - Disintegrated Laevatein : LeoO
 P06 - Zealous Seeker : Michikoiku
+X01 - Phantasia★Meteor : Akanari (MusicFracturer (https://x.com/BachThienVanDL))
+X02 - Sugarpunk!! : Maydonotlabour
+X03 - EVOLVE@Electrophorus : Foodbot
+X04 - Apollyon's Embrace : NEONTEEF
+X05 - Apollyon's Embrace (Super-Ultra-Hyper-Over-OVER-Cute Remix) : NEONTEEF & TheBlockiest
 ```
 
 The visuals mentionned below have confirmed usage of AI generated assets
@@ -592,6 +597,20 @@ Gap Moe ☆ - gentu https://www.youtube.com/@gentu (Chart by Taichenko)
 生命の二刀流 - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko and Komi)
 ```
 Songs that are not specified under the 'Songs with specific licenses' section are under the OpenTaiko Default Licence
+
+## Extraordinary Fates
+
+Extraordinary Fates is a fan-hosted (unofficial) EX-XDRiVER tournament co-hosted by Crashnaught and Dubstep298:
+https://www.youtube.com/channel/UCX-BKaxnc96oPCSd-3mf6Yw
+
+The included songs are :
+```
+Phantasia★Meteor - FrankleAnkles https://www.youtube.com/@FrankleAnkles, https://soundcloud.com/franky-171214264 (Chart by Diamond and Crashnaught)
+Sugarpunk!! - Irissu https://soundcloud.com/irissu (Chart by TheBlockiest)
+EVOLVE@Electrophorus - Zoomlight https://soundcloud.com/zoomlight (Chimeratio x Cryptovolans) (Chart by IID)
+Apollyon's Embrace - Tatsuoto vs. FrankleAnkles vs. Marilette https://soundcloud.com/panasonic-cat/apollyons-embrace (Chart by bol, H5 and DiamondN1nja)
+Apollyon's Embrace (Super-Ultra-Hyper-Over-OVER-Cute Remix) - Marilette and Mr Neko https://soundcloud.com/panasonic-cat/super-ultra-hyper-over-over-cute (Chart by Tatsuoto, Komi and DiamondN1nja)
+```
 
 ## Charts
 

@@ -12725,6 +12725,160 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "exfa01",
+        "tjaFolderPath": "L1 Collaborations\\C07 Extraordinary Fates\\X01 - Phantasia Meteor",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C07 Extraordinary Fates\\X01 - Phantasia Meteor\\Phantasia Meteor.ogg",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X01 - Phantasia Meteor\\Phantasia Meteor.png",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X01 - Phantasia Meteor\\Phantasia Meteor.tja",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X01 - Phantasia Meteor\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C07 Extraordinary Fates",
+        "tjaMD5": "fe77d7441842169b2effa38490b3f872",
+        "chartSize": 4.98,
+        "chartTitle": "Phantasia\u2605Meteor",
+        "chartSubtitle": "FrankleAnkles / Extraordinary Fates",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja,Crashnaught",
+            "Hard": "DiamondN1nja,Crashnaught",
+            "Normal": "DiamondN1nja,Crashnaught",
+            "Easy": "DiamondN1nja,Crashnaught"
+        },
+        "chartAudioFilePath": "preview\\exfa01.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C07 Extraordinary Fates\\X01 - Phantasia Meteor\\Phantasia Meteor.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "exfa02",
+        "tjaFolderPath": "L1 Collaborations\\C07 Extraordinary Fates\\X02 - Sugarpunk",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C07 Extraordinary Fates\\X02 - Sugarpunk\\Sugarpunk.ogg",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X02 - Sugarpunk\\Sugarpunk.png",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X02 - Sugarpunk\\Sugarpunk.tja",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X02 - Sugarpunk\\SugarpunkPV.mp4",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X02 - Sugarpunk\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C07 Extraordinary Fates",
+        "tjaMD5": "d2bf7a89a16351aafcdc57349ffedf13",
+        "chartSize": 9.59,
+        "chartTitle": "Sugarpunk!!",
+        "chartSubtitle": "Irissu / Extraordinary Fates",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Easy": 3,
+            "Normal": 6,
+            "Hard": 7
+        },
+        "chartMakers": {
+            "Oni": "TheBlockiest",
+            "Easy": "TheBlockiest",
+            "Normal": "TheBlockiest",
+            "Hard": "TheBlockiest"
+        },
+        "chartAudioFilePath": "preview\\exfa02.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C07 Extraordinary Fates\\X02 - Sugarpunk\\Sugarpunk.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "exfa03",
+        "tjaFolderPath": "L1 Collaborations\\C07 Extraordinary Fates\\X03 - EVOLVE Electrophorus",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C07 Extraordinary Fates\\X03 - EVOLVE Electrophorus\\EVOLVE Electrophorus.ogg",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X03 - EVOLVE Electrophorus\\EVOLVE Electrophorus.png",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X03 - EVOLVE Electrophorus\\EVOLVE Electrophorus.tja",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X03 - EVOLVE Electrophorus\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C07 Extraordinary Fates",
+        "tjaMD5": "de7ae2e7f0ccdadbaccfe8f621859a37",
+        "chartSize": 6.9,
+        "chartTitle": "EVOLVE@Electrophorus",
+        "chartSubtitle": "Zoomlight (Chimeratio x Cryptovolans) / Extraordinary Fates",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "IID",
+            "Hard": "IID",
+            "Normal": "IID",
+            "Easy": "IID"
+        },
+        "chartAudioFilePath": "preview\\exfa03.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C07 Extraordinary Fates\\X03 - EVOLVE Electrophorus\\EVOLVE Electrophorus.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "exfa04",
+        "tjaFolderPath": "L1 Collaborations\\C07 Extraordinary Fates\\X04 - Apollyon's Embrace",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C07 Extraordinary Fates\\X04 - Apollyon's Embrace\\Apollyon's Embrace.ogg",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X04 - Apollyon's Embrace\\Apollyon's Embrace.png",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X04 - Apollyon's Embrace\\Apollyon's Embrace.tja",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X04 - Apollyon's Embrace\\ApollyonPV.mp4",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X04 - Apollyon's Embrace\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C07 Extraordinary Fates",
+        "tjaMD5": "f5dfbc1058d29401515b0da759377eb0",
+        "chartSize": 21.03,
+        "chartTitle": "Apollyon's Embrace",
+        "chartSubtitle": "Tatsuoto vs. FrankleAnkles vs. Marilette / Extraordinary Fates",
+        "chartDifficulties": {
+            "Normal": 7,
+            "Hard": 9,
+            "Oni": 10.1,
+            "Easy": 5,
+            "Edit": 11.2
+        },
+        "chartMakers": {
+            "Normal": "H5",
+            "Hard": "H5",
+            "Oni": "DiamondN1nja",
+            "Easy": "DiamondN1nja",
+            "Edit": "bol,bol's unfortunate hug"
+        },
+        "chartAudioFilePath": "preview\\exfa04.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C07 Extraordinary Fates\\X04 - Apollyon's Embrace\\Apollyon's Embrace.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "exfa05",
+        "tjaFolderPath": "L1 Collaborations\\C07 Extraordinary Fates\\X05 - Apollyon's Remix",
+        "tjaFilesPath": [
+            "L1 Collaborations\\C07 Extraordinary Fates\\X05 - Apollyon's Remix\\Apollyon's Remix.ogg",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X05 - Apollyon's Remix\\Apollyon's Remix.png",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X05 - Apollyon's Remix\\Apollyon's Remix.tja",
+            "L1 Collaborations\\C07 Extraordinary Fates\\X05 - Apollyon's Remix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "C07 Extraordinary Fates",
+        "tjaMD5": "ab915032bb92d417515565cff5601a8b",
+        "chartSize": 6.87,
+        "chartTitle": "Apollyon's Embrace (Super-Ultra-Hyper-Over-OVER-Cute Remix)",
+        "chartSubtitle": "Marilette and Mr Neko / Extraordinary Fates",
+        "chartDifficulties": {
+            "Oni": 11.2,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Tatsuoto,DiamondN1nja",
+            "Hard": "Komi,DiamondN1nja",
+            "Normal": "Komi,DiamondN1nja",
+            "Easy": "Komi,DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\exfa05.ogg",
+        "chartJacketFilePath": "L1 Collaborations\\C07 Extraordinary Fates\\X05 - Apollyon's Remix\\Apollyon's Remix.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu",
         "tjaFilesPath": [

@@ -9,7 +9,7 @@
             "01 OpenTaiko Chapter I\\001 - CITYSCAPE\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "21c855692f9a606ebca0c6e615680a5a",
+        "tjaMD5": "73bf005f2e401b51a5a0feb32282a67a",
         "chartSize": 3.19,
         "chartTitle": "cityscape",
         "chartSubtitle": "Makotora",
@@ -17,7 +17,7 @@
             "Edit": 9,
             "Oni": 6,
             "Hard": 6,
-            "Normal": 5,
+            "Normal": 4,
             "Easy": 3
         },
         "chartMakers": {
@@ -136,16 +136,16 @@
             "01 OpenTaiko Chapter I\\006 - Athazagoraphobia\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "ff5fa1e927f0dac3013603a9fb5f0424",
+        "tjaMD5": "d30c896439239c4760deec7eddd91b19",
         "chartSize": 3.1,
         "chartTitle": "Athazagoraphobia",
         "chartSubtitle": "Derpikarp",
         "chartDifficulties": {
             "Edit": 10.6,
             "Oni": 8,
-            "Hard": 6,
-            "Normal": 6,
-            "Easy": 4
+            "Hard": 7,
+            "Normal": 7,
+            "Easy": 5
         },
         "chartMakers": {
             "Edit": "bol,Colin,Komi",
@@ -199,7 +199,7 @@
             "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "b05a97e9f50f15ecd4a53ac73cc90c52",
+        "tjaMD5": "572ce882f59598176d57d0e0e4844bcd",
         "chartSize": 3.29,
         "chartTitle": "DON'T LOOK BACK",
         "chartSubtitle": "TFD500",
@@ -208,7 +208,7 @@
             "Oni": 10.7,
             "Hard": 8,
             "Normal": 7,
-            "Easy": 5
+            "Easy": 6
         },
         "chartMakers": {
             "Edit": "bol",
@@ -261,14 +261,14 @@
             "01 OpenTaiko Chapter I\\011 - Liberation\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "848ebaa08b49c9bae4c76cb396ea0740",
+        "tjaMD5": "6365c6744972e41229f31ccc95f8f36e",
         "chartSize": 3.05,
         "chartTitle": "Liberation",
         "chartSubtitle": "DeBisco",
         "chartDifficulties": {
             "Edit": 9,
             "Oni": 8,
-            "Hard": 5,
+            "Hard": 6,
             "Normal": 4,
             "Easy": 3
         },
@@ -293,7 +293,7 @@
             "01 OpenTaiko Chapter I\\013 - Corrupted_Angel\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "067c322db7abdf8de81b14cdd2b6364a",
+        "tjaMD5": "c18c82eda248ed3e8e4ae31c4c0bf9b6",
         "chartSize": 3.49,
         "chartTitle": "Corrupted Angel",
         "chartSubtitle": "TFD500",
@@ -301,7 +301,7 @@
             "Oni": 8,
             "Hard": 5,
             "Normal": 5,
-            "Easy": 4
+            "Easy": 5
         },
         "chartMakers": {
             "Oni": "bol",
@@ -323,14 +323,14 @@
             "01 OpenTaiko Chapter I\\014 - Startup Parade!\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "1dbf7ad905aaa66f7dad36b9bf32e8e2",
+        "tjaMD5": "528ffffbb338ee821226014cd208c16b",
         "chartSize": 1.2,
         "chartTitle": "Startup Parade!",
         "chartSubtitle": "Ryuto Setsujin",
         "chartDifficulties": {
             "Oni": 5,
             "Hard": 3,
-            "Normal": 3,
+            "Normal": 2,
             "Easy": 1
         },
         "chartMakers": {
@@ -383,15 +383,15 @@
             "01 OpenTaiko Chapter I\\016 - Summer Overload!\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "bbf27dba6688e263010f53eb7203b000",
+        "tjaMD5": "6cb1d075c47716ad643bc4832beabffb",
         "chartSize": 2.99,
         "chartTitle": "Summer Overload!",
         "chartSubtitle": "Akako Hinami",
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
-            "Normal": 5,
-            "Easy": 4
+            "Normal": 6,
+            "Easy": 5
         },
         "chartMakers": {
             "Oni": "bol",
@@ -444,14 +444,14 @@
             "01 OpenTaiko Chapter I\\019 - Back Where I'm From\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "33c5450651b4885611518e9055ab06e5",
+        "tjaMD5": "eaabbf2bc1cac660e1a19dc623426f34",
         "chartSize": 2.79,
         "chartTitle": "Back Where I'm From",
         "chartSubtitle": "NetroAki",
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 7,
-            "Normal": 7,
+            "Normal": 6,
             "Easy": 3
         },
         "chartMakers": {
@@ -473,16 +473,16 @@
             "01 OpenTaiko Chapter I\\020 - Slayer of\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "9b34fd46a342685c97097a254cc1dc53",
+        "tjaMD5": "df0e4e869dfd9ed9ec1d3dfc83bb4967",
         "chartSize": 1.26,
         "chartTitle": "Slayer of.",
         "chartSubtitle": "Aden Mayo",
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.5,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 4
+            "Hard": 9,
+            "Normal": 8,
+            "Easy": 6
         },
         "chartMakers": {
             "Edit": "bol",
@@ -569,13 +569,13 @@
             "01 OpenTaiko Chapter I\\023 - Stereotype\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "5ccb182e1059a4188558fa9e0b6e9970",
+        "tjaMD5": "5d1e4b1aa0731213ae1b313fb5fee8d4",
         "chartSize": 8.14,
         "chartTitle": "Stereotype",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
-            "Oni": 10.4,
-            "Hard": 8,
+            "Oni": 10.2,
+            "Hard": 7,
             "Normal": 6,
             "Easy": 4
         },
@@ -789,7 +789,7 @@
             "01 OpenTaiko Chapter I\\034 - The World of Our Past\\world.tja"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "f5f8aca7151f17518ed74770fc365de9",
+        "tjaMD5": "8f7e7f7e9c247fad08a4ba03f4780e51",
         "chartSize": 10.0,
         "chartTitle": "The World of Our Past",
         "chartSubtitle": "DashyDesu & rainfall",
@@ -820,16 +820,16 @@
             "01 OpenTaiko Chapter I\\035 - ENDOMANCER\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "578800b0d5e599716ca15777edc9a66c",
+        "tjaMD5": "94cb53b3cb6fe7de64a17a6602da4e0c",
         "chartSize": 3.05,
         "chartTitle": "ENDOMANCER",
         "chartSubtitle": "Zovi",
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 6,
-            "Normal": 4,
+            "Normal": 5,
             "Easy": 1,
-            "Edit": 10.1
+            "Edit": 10.3
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -852,7 +852,7 @@
             "01 OpenTaiko Chapter I\\036 - RUiNED GLORY\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "0bfba3c188297df766ffd320f51b6b0c",
+        "tjaMD5": "098409538d69f7e0afe2e28bb730eeb9",
         "chartSize": 2.36,
         "chartTitle": "RUiNED GLORY",
         "chartSubtitle": "Sukima Altera",
@@ -860,8 +860,8 @@
             "Edit": 11.0,
             "Oni": 9,
             "Hard": 8,
-            "Normal": 5,
-            "Easy": 4
+            "Normal": 6,
+            "Easy": 5
         },
         "chartMakers": {
             "Edit": "Komi,bol",
@@ -1073,12 +1073,12 @@
             "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "8fc9e041975df3cb71738b645e2fdb27",
+        "tjaMD5": "30d8150be89fcbf15620b508b407845a",
         "chartSize": 5.76,
         "chartTitle": "WE ARE OPTK!!",
         "chartSubtitle": "DashyDesu / 2022 Submission Memorial Medley",
         "chartDifficulties": {
-            "Oni": 10.2,
+            "Oni": 10.4,
             "Hard": 8,
             "Normal": 7,
             "Easy": 5

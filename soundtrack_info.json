@@ -9518,7 +9518,7 @@
             "C10 Deceiver's Defiances\\009 - Deceiver\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "b7bc0d0b4d593d28cf1d9108dbb0af52",
+        "tjaMD5": "55b43227a0eb5bb0d8a4bd0c0b2340de",
         "chartSize": 1.88,
         "chartTitle": "Deceiver",
         "chartSubtitle": "H5",
@@ -9526,7 +9526,7 @@
             "Oni": 7,
             "Edit": 8,
             "Hard": 6,
-            "Normal": 3,
+            "Normal": 5,
             "Easy": 3
         },
         "chartMakers": {
@@ -9641,7 +9641,7 @@
             "C10 Deceiver's Defiances\\134 - Decever's Revenge\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "83b6f025b9afec43586666bd1f5262f5",
+        "tjaMD5": "464da6c30516ef0673e26bf378592893",
         "chartSize": 5.28,
         "chartTitle": "Deceiver's Revenge",
         "chartSubtitle": "H5",
@@ -9649,7 +9649,7 @@
             "Oni": 10.4,
             "Hard": 8,
             "Normal": 6,
-            "Easy": 4
+            "Easy": 5
         },
         "chartMakers": {
             "Oni": "bol",

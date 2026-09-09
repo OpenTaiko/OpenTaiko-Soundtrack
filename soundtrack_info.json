@@ -9,12 +9,12 @@
             "01 OpenTaiko Chapter I\\001 - CITYSCAPE\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "73bf005f2e401b51a5a0feb32282a67a",
+        "tjaMD5": "14d182e7180d2d9836cd8703d38f960c",
         "chartSize": 3.19,
         "chartTitle": "cityscape",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.3,
             "Oni": 6,
             "Hard": 6,
             "Normal": 4,
@@ -41,13 +41,13 @@
             "01 OpenTaiko Chapter I\\002 - Zerst\u00f6ren\\Zerst\u00f6ren.tja"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "6ab257e08cacebfee6446b132be1bd2d",
+        "tjaMD5": "3df7a72702ca00e22c9e5ee3fb2641f6",
         "chartSize": 6.13,
         "chartTitle": "Zerst\u00f6ren",
         "chartSubtitle": "Sukima Altera",
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 7,
             "Normal": 6,
             "Easy": 3
@@ -73,13 +73,13 @@
             "01 OpenTaiko Chapter I\\003 - Breaking Point\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "abac04ac91f220515bc073daf2a15260",
+        "tjaMD5": "755451ad61055fe3d3b3d40ed466301a",
         "chartSize": 4.74,
         "chartTitle": "Breaking Point",
         "chartSubtitle": "Yonokid",
         "chartDifficulties": {
             "Edit": 10.4,
-            "Oni": 9,
+            "Oni": 9.2,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -105,13 +105,13 @@
             "01 OpenTaiko Chapter I\\005 - WTF\\wtf.png"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "f3a9ee4f04f37d7d76f09d217575df82",
+        "tjaMD5": "6088dea65a2e5743a534d7a35569f5df",
         "chartSize": 3.2,
         "chartTitle": "WTF?!",
         "chartSubtitle": "Moox",
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -136,16 +136,16 @@
             "01 OpenTaiko Chapter I\\006 - Athazagoraphobia\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "d30c896439239c4760deec7eddd91b19",
+        "tjaMD5": "1521542607d0fc87392d0e22ffa4a999",
         "chartSize": 3.1,
         "chartTitle": "Athazagoraphobia",
         "chartSubtitle": "Derpikarp",
         "chartDifficulties": {
             "Edit": 10.6,
-            "Oni": 8,
+            "Oni": 8.8,
             "Hard": 7,
-            "Normal": 7,
-            "Easy": 5
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "bol,Colin,Komi",
@@ -168,12 +168,12 @@
             "01 OpenTaiko Chapter I\\007 - Gewissenbisse\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "ee420302fa754c782928c005b39f229a",
+        "tjaMD5": "0f3e449863451f62f1a8c28604b799ed",
         "chartSize": 2.89,
         "chartTitle": "Gewissenbisse",
         "chartSubtitle": "Sukima Altera vs ALTERNATiVE THEORY",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.5,
             "Hard": 7,
             "Normal": 4,
             "Easy": 2
@@ -199,16 +199,16 @@
             "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "572ce882f59598176d57d0e0e4844bcd",
+        "tjaMD5": "a1e18f3ce624af65067cdd8d4a1c5129",
         "chartSize": 3.29,
         "chartTitle": "DON'T LOOK BACK",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
             "Edit": 12.2,
             "Oni": 10.7,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 6
+            "Hard": 8.5,
+            "Normal": 7.0,
+            "Easy": 6.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -231,15 +231,15 @@
             "01 OpenTaiko Chapter I\\010 - BassBoL\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "61bd5cd524be282b7e185c3deb71794f",
+        "tjaMD5": "ad04fc521c44aad691f1354054cb3527",
         "chartSize": 6.86,
         "chartTitle": "BassBoL",
         "chartSubtitle": "InterChan",
         "chartDifficulties": {
             "Oni": 10.9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -261,13 +261,13 @@
             "01 OpenTaiko Chapter I\\011 - Liberation\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "6365c6744972e41229f31ccc95f8f36e",
+        "tjaMD5": "bea61841a835f4c9061e0ff3bfb12bb0",
         "chartSize": 3.05,
         "chartTitle": "Liberation",
         "chartSubtitle": "DeBisco",
         "chartDifficulties": {
-            "Edit": 9,
-            "Oni": 8,
+            "Edit": 9.5,
+            "Oni": 8.5,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -293,15 +293,15 @@
             "01 OpenTaiko Chapter I\\013 - Corrupted_Angel\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "c18c82eda248ed3e8e4ae31c4c0bf9b6",
+        "tjaMD5": "556fd4339e671cecd9d735f674c28f88",
         "chartSize": 3.49,
         "chartTitle": "Corrupted Angel",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 5,
             "Normal": 5,
-            "Easy": 5
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "bol",
@@ -353,14 +353,14 @@
             "01 OpenTaiko Chapter I\\015 - White Heart\\White-Heart_Jacket-ARt.png"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "3170f5c70f0306e8abc225ebfdba7194",
-        "chartSize": 3.19,
+        "tjaMD5": "0c9f787e10ca3e562263d61b2cd5153f",
+        "chartSize": 3.2,
         "chartTitle": "White Heart",
         "chartSubtitle": "9C feat. Cusi",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 7,
+            "Oni": 9.8,
+            "Hard": 8.0,
+            "Normal": 7.0,
             "Easy": 4
         },
         "chartMakers": {
@@ -383,15 +383,15 @@
             "01 OpenTaiko Chapter I\\016 - Summer Overload!\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "6cb1d075c47716ad643bc4832beabffb",
+        "tjaMD5": "5093853814f278dcd50d9b2fbc3e8b1d",
         "chartSize": 2.99,
         "chartTitle": "Summer Overload!",
         "chartSubtitle": "Akako Hinami",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.6,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -413,15 +413,15 @@
             "01 OpenTaiko Chapter I\\017 - Halcyon\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "886580445cc7dfc46354d265c65e7d32",
+        "tjaMD5": "9a1fee494d0f8aac874750b495046017",
         "chartSize": 3.06,
         "chartTitle": "Halcyon",
         "chartSubtitle": "Akako Hinami",
         "chartDifficulties": {
             "Oni": 10.7,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "bol",
@@ -444,12 +444,12 @@
             "01 OpenTaiko Chapter I\\019 - Back Where I'm From\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "eaabbf2bc1cac660e1a19dc623426f34",
+        "tjaMD5": "425964cd239d50ca7845d661dff07e54",
         "chartSize": 2.79,
         "chartTitle": "Back Where I'm From",
         "chartSubtitle": "NetroAki",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.6,
             "Hard": 7,
             "Normal": 6,
             "Easy": 3
@@ -473,16 +473,16 @@
             "01 OpenTaiko Chapter I\\020 - Slayer of\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "df0e4e869dfd9ed9ec1d3dfc83bb4967",
+        "tjaMD5": "4c96810775a20c4db1336ec6e61e614f",
         "chartSize": 1.26,
         "chartTitle": "Slayer of.",
         "chartSubtitle": "Aden Mayo",
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.5,
-            "Hard": 9,
-            "Normal": 8,
-            "Easy": 6
+            "Hard": 9.0,
+            "Normal": 8.0,
+            "Easy": 6.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -505,14 +505,14 @@
             "01 OpenTaiko Chapter I\\021 - Welcome To The Cafe\\WelcomeToTheCafe1.jpg"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "e5acd81fcbce8d10066c47432ee62cf5",
+        "tjaMD5": "63a53fcd339a89679d6a5c0db5d39570",
         "chartSize": 3.13,
         "chartTitle": "Welcome To The Cafe",
         "chartSubtitle": "Sukima Altera feat. ALTERNATiVE THEORY",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.1,
             "Edit": 7,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -537,15 +537,15 @@
             "01 OpenTaiko Chapter I\\022 - Seismic Shake\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "0123629facfe74ecaaf337f4a7666d5a",
+        "tjaMD5": "14b749a5733360f69e41c42460fd855d",
         "chartSize": 7.65,
         "chartTitle": "Seismic Shake",
         "chartSubtitle": "DeBisco",
         "chartDifficulties": {
             "Oni": 10.6,
             "Edit": 10.5,
-            "Hard": 9,
-            "Normal": 7,
+            "Hard": 9.0,
+            "Normal": 7.0,
             "Easy": 3
         },
         "chartMakers": {
@@ -598,12 +598,12 @@
             "01 OpenTaiko Chapter I\\025 - Fearless\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "514d733ccb66265bea752840dc3438f5",
+        "tjaMD5": "5457aa5d032c709dd6263ca1a7b232fb",
         "chartSize": 2.89,
         "chartTitle": "Fearless",
         "chartSubtitle": "Ash Electric",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.2,
             "Oni": 7,
             "Hard": 5,
             "Normal": 3,
@@ -630,13 +630,13 @@
             "01 OpenTaiko Chapter I\\028 - Katharsis\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "b0ef598ea93b83802f59081e6b749306",
+        "tjaMD5": "e58d0a4d1e306a78e46a4cc5507f4c4d",
         "chartSize": 2.5,
         "chartTitle": "Katharsis",
         "chartSubtitle": "9C",
         "chartDifficulties": {
-            "Edit": 8,
-            "Oni": 8,
+            "Edit": 8.4,
+            "Oni": 8.7,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -695,14 +695,14 @@
             "01 OpenTaiko Chapter I\\030 - Yami\\YamiAlbum.jpg"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "8897d67546f64457fa098399c1a17040",
+        "tjaMD5": "d183ae82338b18d517c0c0b730c53546",
         "chartSize": 8.49,
         "chartTitle": "Yami",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
             "Edit": 11.1,
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.3,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 3
         },
@@ -727,15 +727,15 @@
             "01 OpenTaiko Chapter I\\031 - Mischief Madness\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "18a3dba8d789532916af88816ebcc259",
+        "tjaMD5": "26c93d642b98ec3734a41b21ae828180",
         "chartSize": 3.3,
         "chartTitle": "mischief madness",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
             "Oni": 10.5,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 6
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 6.5
         },
         "chartMakers": {
             "Oni": "Makotora",
@@ -757,13 +757,13 @@
             "01 OpenTaiko Chapter I\\033 - Alonebirthday\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "04c46a01b02d0d4d86d5ec2251fdc279",
+        "tjaMD5": "4afae0864bacb67de33006a4e779c782",
         "chartSize": 8.72,
         "chartTitle": "Alonebirthday",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -789,12 +789,12 @@
             "01 OpenTaiko Chapter I\\034 - The World of Our Past\\world.tja"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "8f7e7f7e9c247fad08a4ba03f4780e51",
+        "tjaMD5": "c2add8b6694b6e4026ab201d32a65e89",
         "chartSize": 10.0,
         "chartTitle": "The World of Our Past",
         "chartSubtitle": "DashyDesu & rainfall",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.5,
             "Hard": 7,
             "Normal": 4,
             "Easy": 3
@@ -820,12 +820,12 @@
             "01 OpenTaiko Chapter I\\035 - ENDOMANCER\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "94cb53b3cb6fe7de64a17a6602da4e0c",
+        "tjaMD5": "6b69d01367f94bece2687cc7592dd574",
         "chartSize": 3.05,
         "chartTitle": "ENDOMANCER",
         "chartSubtitle": "Zovi",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.6,
             "Hard": 6,
             "Normal": 5,
             "Easy": 1,
@@ -852,16 +852,16 @@
             "01 OpenTaiko Chapter I\\036 - RUiNED GLORY\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "098409538d69f7e0afe2e28bb730eeb9",
+        "tjaMD5": "56f8fa51aa81196529e8ee51bc4c175e",
         "chartSize": 2.36,
         "chartTitle": "RUiNED GLORY",
         "chartSubtitle": "Sukima Altera",
         "chartDifficulties": {
             "Edit": 11.0,
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.6,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Komi,bol",
@@ -884,13 +884,13 @@
             "01 OpenTaiko Chapter I\\037 - Yukianesa ~Azure of Ice~\\yukianesa.jpg"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "ff0baf9b2e2ae7f4f67b2db8f0c86902",
+        "tjaMD5": "ed11f29b12dcd68d8a14cd7248053656",
         "chartSize": 5.95,
         "chartTitle": "Yukianesa ~Azure of Ice~",
         "chartSubtitle": "Sukima Altera",
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 7,
             "Normal": 5,
             "Easy": 3
@@ -916,12 +916,12 @@
             "01 OpenTaiko Chapter I\\040 - Every Night\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "794885b13b65d2f2a8f9ff09fc5be333",
+        "tjaMD5": "af1490ac0b97c906265fd8ed392baa5c",
         "chartSize": 7.87,
         "chartTitle": "Every Night",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 6,
             "Normal": 6,
             "Easy": 3
@@ -978,7 +978,7 @@
             "01 OpenTaiko Chapter I\\042 - Shockwave\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "fb84fdf37e366dbc076c74bdedf3d5ab",
+        "tjaMD5": "f3b05a1034100f8416b65e7b8fc019b4",
         "chartSize": 2.8,
         "chartTitle": "Shockwave",
         "chartSubtitle": "Yonokid",
@@ -986,7 +986,7 @@
             "Oni": 10.7,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -1009,12 +1009,12 @@
             "01 OpenTaiko Chapter I\\043 - TRIPLE HELIX\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "81c65599d5a304270ee9a4e3d65b436b",
+        "tjaMD5": "1c00f998e09e33510366991138508c41",
         "chartSize": 4.91,
         "chartTitle": "TRIPLE HELIX",
         "chartSubtitle": "Yonokid",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.2,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2,
@@ -1041,14 +1041,14 @@
             "01 OpenTaiko Chapter I\\044 - Memory\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "413154387ee8dbddc675063b520fd024",
+        "tjaMD5": "5485cdc7d3f859221149dfd1f4250b2b",
         "chartSize": 2.5,
         "chartTitle": "Memory",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Edit": 11.2,
             "Oni": 10.1,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 4,
             "Easy": 2
         },
@@ -1073,15 +1073,15 @@
             "01 OpenTaiko Chapter I\\CH1 - WE ARE OPTK\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "30d8150be89fcbf15620b508b407845a",
+        "tjaMD5": "6ebf44e2ba7b8bde7cd6cca9a94beff3",
         "chartSize": 5.76,
         "chartTitle": "WE ARE OPTK!!",
         "chartSubtitle": "DashyDesu / 2022 Submission Memorial Medley",
         "chartDifficulties": {
             "Oni": 10.4,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Chapter I Megamix",
@@ -1103,12 +1103,12 @@
             "02 OpenTaiko Chapter II\\045 - Nanja Korya\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "b4dd91c2c5682b8cacb6f84309cf2d6b",
+        "tjaMD5": "dbf0ff8a1da98173dcf42739290d67d5",
         "chartSize": 1.75,
         "chartTitle": "nanja korya ?!",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.4,
             "Oni": 6,
             "Hard": 5,
             "Normal": 4,
@@ -1135,16 +1135,16 @@
             "02 OpenTaiko Chapter II\\046 - Exile\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "8a2f02f408e2da8225845dca04fc386a",
+        "tjaMD5": "03e01f70c71b95c779e8901abc6ee9d8",
         "chartSize": 2.09,
         "chartTitle": "\u03a3xil\u018e",
         "chartSubtitle": "mrcool909090",
         "chartDifficulties": {
             "Edit": 11.6,
-            "Oni": 9,
-            "Hard": 9,
+            "Oni": 9.5,
+            "Hard": 9.5,
             "Normal": 6,
-            "Easy": 6
+            "Easy": 6.0
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -1166,13 +1166,13 @@
             "02 OpenTaiko Chapter II\\047 - Pixelated Angel\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "5d8ac3af507927d75da732743addf2f3",
+        "tjaMD5": "01a963fb391e24fc3163faa4a0d8b59e",
         "chartSize": 4.04,
         "chartTitle": "Pixelated Angel",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
             "Oni": 10.0,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -1195,12 +1195,12 @@
             "02 OpenTaiko Chapter II\\048 - The Nostalgic Messenger\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "45334fb1360a6d004e9535839e923ffa",
+        "tjaMD5": "033f87ad0e63f751a43ac9caede8a41d",
         "chartSize": 2.1,
         "chartTitle": "The Nostalgic Messenger",
         "chartSubtitle": "CuZi",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.1,
             "Hard": 4,
             "Normal": 4,
             "Easy": 4
@@ -1225,13 +1225,13 @@
             "02 OpenTaiko Chapter II\\049 - Overclocked\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "cf8af8efcb4339e7d23e885dba9985ee",
+        "tjaMD5": "54032b3c560cf87e4d379092dfd87862",
         "chartSize": 14.1,
         "chartTitle": "Overclocked (Pocket Size)",
         "chartSubtitle": "DeBisco",
         "chartDifficulties": {
-            "Edit": 8,
-            "Oni": 8,
+            "Edit": 8.8,
+            "Oni": 8.5,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2
@@ -1257,16 +1257,16 @@
             "02 OpenTaiko Chapter II\\050 - Annihilation\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "e588d43dfa25cd7cc4e02e111642699b",
+        "tjaMD5": "66f752c947bfafd45c65096db598f650",
         "chartSize": 5.44,
         "chartTitle": "Annihilation",
         "chartSubtitle": "H5",
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.6,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -1288,12 +1288,12 @@
             "02 OpenTaiko Chapter II\\051 - 650 HP\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "a7ee3a68c42b3fbf18b0818befedbbfb",
+        "tjaMD5": "ff1c87152601c851f632d9c473013f86",
         "chartSize": 1.81,
         "chartTitle": "650 HP",
         "chartSubtitle": "Akako Hinami",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 7,
             "Normal": 6,
             "Easy": 3
@@ -1318,12 +1318,12 @@
             "02 OpenTaiko Chapter II\\053 - Pyramid\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "a8a1f85e7edaf94559eae7ac3a8c33a8",
+        "tjaMD5": "c86d8bcf760b39ac9629b368122c28ff",
         "chartSize": 5.79,
         "chartTitle": "PYR\u0394MiD",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.2,
             "Hard": 6,
             "Normal": 5,
             "Easy": 2
@@ -1348,14 +1348,14 @@
             "02 OpenTaiko Chapter II\\054 - Synthsea\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "1069108b005e467a8c841f9f8d2c8f1a",
+        "tjaMD5": "9cb1c2ad6f8d3d6bcc276746c47c780d",
         "chartSize": 19.69,
         "chartTitle": "Synthsea",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Oni": 10.5,
-            "Hard": 9,
-            "Normal": 7,
+            "Hard": 9.0,
+            "Normal": 7.0,
             "Easy": 2
         },
         "chartMakers": {
@@ -1378,14 +1378,14 @@
             "02 OpenTaiko Chapter II\\055 - NEKROS\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "6b7d6abc102e17722ebdf87fe9ff1e97",
+        "tjaMD5": "cb619e760b11516c9cbed70ff2a1d43e",
         "chartSize": 1.98,
         "chartTitle": "NEKROS",
         "chartSubtitle": "GRYSCL",
         "chartDifficulties": {
             "Edit": 10.9,
             "Oni": 10.0,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -1410,15 +1410,15 @@
             "02 OpenTaiko Chapter II\\058 - pipie\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "6143a920d6b03665dcd61102f57c34ec",
+        "tjaMD5": "98774cb64fa81933da0d93699ebc76b6",
         "chartSize": 7.83,
         "chartTitle": "pipie",
         "chartSubtitle": "goldenyoshi22",
         "chartDifficulties": {
             "Oni": 11.8,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "goldenyoshi22,Komi",
@@ -1439,12 +1439,12 @@
             "02 OpenTaiko Chapter II\\059 - Hero's March\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "446faa5d79c36b6cd00b7f39afc1f45e",
+        "tjaMD5": "92c77eff143c620298b499ec3f52dfa8",
         "chartSize": 2.58,
         "chartTitle": "Hero's March",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.2,
             "Oni": 5,
             "Hard": 5,
             "Normal": 4,
@@ -1471,16 +1471,16 @@
             "02 OpenTaiko Chapter II\\060 - lost in the cityscape\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "f49f53ff45dd332488cd86432ab6ada1",
+        "tjaMD5": "e62783f6f8db8a2afec75f214024da5e",
         "chartSize": 3.36,
         "chartTitle": "lost in the cityscape",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.2,
             "Oni": 7,
             "Hard": 5,
             "Normal": 5,
-            "Easy": 5
+            "Easy": 4
         },
         "chartMakers": {
             "Edit": "Makotora",
@@ -1503,15 +1503,15 @@
             "02 OpenTaiko Chapter II\\061 - The Abyss\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "82d6c25e4845fc49da853d6ef40a88f8",
+        "tjaMD5": "c40dd07f73fb1201f06ab5cda101457b",
         "chartSize": 4.02,
         "chartTitle": "The Abyss",
         "chartSubtitle": "ok cheez",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 7,
+            "Oni": 9.4,
+            "Hard": 6,
             "Normal": 3,
-            "Easy": 4
+            "Easy": 3
         },
         "chartMakers": {
             "Oni": "Colin",
@@ -1533,12 +1533,12 @@
             "02 OpenTaiko Chapter II\\062 - next-level cityscape\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "8980f748d7767f89b83ff4981a4833d9",
+        "tjaMD5": "c447244a53957e6be956cecfa4d1040c",
         "chartSize": 2.25,
         "chartTitle": "next-level cityscape",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.7,
             "Oni": 7,
             "Hard": 5,
             "Normal": 5,
@@ -1627,16 +1627,16 @@
             "02 OpenTaiko Chapter II\\065 - Bounded Quietude\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "f8b9945bbe127899a9911c0d1416d5a7",
+        "tjaMD5": "b59fd86016e74b9168819e319a1ca58e",
         "chartSize": 3.69,
         "chartTitle": "Bounded Quietude",
         "chartSubtitle": "SiLiS vs Finite Limit",
         "chartDifficulties": {
             "Edit": 11.5,
             "Oni": 10.2,
-            "Hard": 9,
-            "Normal": 8,
-            "Easy": 7
+            "Hard": 9.0,
+            "Normal": 8.0,
+            "Easy": 7.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -1659,7 +1659,7 @@
             "02 OpenTaiko Chapter II\\066 - Heating up\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "487245b1c2b9e4444afb49a86e48bb98",
+        "tjaMD5": "0086823d54f57f457c77314f8f4ca2c1",
         "chartSize": 2.78,
         "chartTitle": "Heating Up",
         "chartSubtitle": "RachelTypeX",
@@ -1667,7 +1667,7 @@
             "Easy": 4,
             "Normal": 5,
             "Hard": 6,
-            "Oni": 8
+            "Oni": 8.4
         },
         "chartMakers": {
             "Easy": "Shoxk",
@@ -1690,13 +1690,13 @@
             "02 OpenTaiko Chapter II\\067 - Liar Prison\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "2dc4b258a2db8e920f8cfaa4e4e4aa34",
+        "tjaMD5": "932ebd9cd1fb04fa9662cd2763802401",
         "chartSize": 4.15,
         "chartTitle": "Liar Prison",
         "chartSubtitle": "SiLiS ft. Karin Natsuki",
         "chartDifficulties": {
             "Edit": 10.0,
-            "Oni": 8,
+            "Oni": 8.1,
             "Hard": 6,
             "Easy": 2,
             "Normal": 4
@@ -1722,15 +1722,15 @@
             "02 OpenTaiko Chapter II\\069 - Vanaheimr\\Vanaheimr.tja"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "51a7b25fb1da9cb15e1870663c407d29",
+        "tjaMD5": "d3e061d74c49d0601cc13ffa5b77560a",
         "chartSize": 2.75,
         "chartTitle": "Vanaheimr",
         "chartSubtitle": "SiLiS",
         "chartDifficulties": {
             "Edit": 11.6,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 4,
+            "Hard": 9.0,
+            "Normal": 7.5,
+            "Easy": 5.0,
             "Oni": 10.6
         },
         "chartMakers": {
@@ -1753,16 +1753,16 @@
             "02 OpenTaiko Chapter II\\070 - Kernschmelze 256\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "c921120e903f16221dc087f83f0939a8",
+        "tjaMD5": "a1907c33a45fc97ab1c7fc1e696ad0f4",
         "chartSize": 4.44,
         "chartTitle": "Kernschmelze 256",
         "chartSubtitle": "funkyzukin-Q",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.8,
             "Oni": 10.7,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "DragonRatTiger",
@@ -1785,15 +1785,15 @@
             "02 OpenTaiko Chapter II\\072 - Scarlet Soul\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "8f59d21033bc8e317bc21d977da9d2f3",
+        "tjaMD5": "b6b7d9f9416994bd0e9db8d0416a0f84",
         "chartSize": 3.48,
         "chartTitle": "Scarlet Soul",
         "chartSubtitle": "Cusi vs 9C",
         "chartDifficulties": {
             "Oni": 11.4,
-            "Hard": 9,
-            "Normal": 8,
-            "Easy": 6
+            "Hard": 9.0,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "bol,Komi",
@@ -1815,7 +1815,7 @@
             "02 OpenTaiko Chapter II\\074 - Spatium Cursu\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "d419510e43a42db9a394c116f9ec18ee",
+        "tjaMD5": "2840c789793d9deeec8ab41dddc27133",
         "chartSize": 2.54,
         "chartTitle": "Spatium Cursu",
         "chartSubtitle": "X3ll3n",
@@ -1823,7 +1823,7 @@
             "Oni": 7,
             "Hard": 5,
             "Normal": 3,
-            "Easy": 1
+            "Easy": 2
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -1845,13 +1845,13 @@
             "02 OpenTaiko Chapter II\\075 - 640x480\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "58b9ad8295e1719b8bccfbfea6d1a873",
+        "tjaMD5": "b2df923a489f4c507f70496d35125749",
         "chartSize": 2.51,
         "chartTitle": "640x480",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
             "Edit": 7,
-            "Oni": 9,
+            "Oni": 9.1,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2
@@ -1877,13 +1877,13 @@
             "02 OpenTaiko Chapter II\\077 - Meowmetic\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "967c0a17f5e839538cb2930891aa333b",
+        "tjaMD5": "3fb6e3d70ea64e563356b1c2e86ca2a7",
         "chartSize": 4.87,
         "chartTitle": "Meowmetic",
         "chartSubtitle": "HHS",
         "chartDifficulties": {
-            "Easy": 2,
-            "Normal": 3,
+            "Easy": 1,
+            "Normal": 2,
             "Hard": 4,
             "Oni": 7
         },
@@ -1935,7 +1935,7 @@
             "02 OpenTaiko Chapter II\\079 - MECHANICAL GOD\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "b9df9afa46d60cfb8f5d5d35f127eac8",
+        "tjaMD5": "76d9d978d2e6d9ffaf4007e1deebf055",
         "chartSize": 1.56,
         "chartTitle": "MECHANICAL GOD",
         "chartSubtitle": "AZALI \u00d7 Crow",
@@ -1943,7 +1943,7 @@
             "Easy": 2,
             "Normal": 4,
             "Hard": 6,
-            "Oni": 8,
+            "Oni": 8.6,
             "Edit": 10.4
         },
         "chartMakers": {
@@ -1967,7 +1967,7 @@
             "02 OpenTaiko Chapter II\\081 - Taikonitos\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "c1d253e9b24eb409ade3ae078b324fd2",
+        "tjaMD5": "02515b231653c7340907427acd392d56",
         "chartSize": 8.26,
         "chartTitle": "Taikonitos",
         "chartSubtitle": "Moox",
@@ -1975,7 +1975,7 @@
             "Easy": 3,
             "Normal": 5,
             "Hard": 7,
-            "Oni": 8
+            "Oni": 8.7
         },
         "chartMakers": {
             "Easy": "DragonRatTiger",
@@ -1996,7 +1996,7 @@
             "02 OpenTaiko Chapter II\\082 - Comma\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "9d7a2cb92d542c830427bf9ffadd4ef1",
+        "tjaMD5": "d55b72befcb4cf9a878b91d3e3059e12",
         "chartSize": 2.6,
         "chartTitle": "Comma, ~ Imi to Kouzou no Bunri",
         "chartSubtitle": "Sparxe",
@@ -2004,7 +2004,7 @@
             "Easy": 4,
             "Normal": 5,
             "Hard": 7,
-            "Oni": 9,
+            "Oni": 9.7,
             "Edit": 10.6
         },
         "chartMakers": {
@@ -2027,15 +2027,15 @@
             "02 OpenTaiko Chapter II\\083 - Bracket\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "d3ab2cdf4436a27f028edb294fe9942c",
+        "tjaMD5": "84ad83a512f395b13236b70ac7ab3128",
         "chartSize": 1.85,
         "chartTitle": "<Bracket> \uff5eDuplicate of Chaos and Destruction\uff5e",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
             "Oni": 10.9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -2056,12 +2056,12 @@
             "02 OpenTaiko Chapter II\\084 - Next To You\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "f263528db72801d061d566b912d1e10a",
+        "tjaMD5": "ab67bba7e97194fdb9f0e2129a717f1d",
         "chartSize": 4.22,
         "chartTitle": "Next To You",
         "chartSubtitle": "Astedroid & X3ll3n",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.4,
             "Oni": 6,
             "Hard": 5,
             "Normal": 3,
@@ -2087,14 +2087,14 @@
             "02 OpenTaiko Chapter II\\085 - Very long title\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "0965d18bd212f4256daf45213c449e29",
+        "tjaMD5": "65c5d252698a34e0f825e42137055350",
         "chartSize": 2.38,
         "chartTitle": "i don't want to see the people i love see me in pain so i sometimes just wanna be left alone to cry in the dark",
         "chartSubtitle": "Sukima Altera",
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
-            "Hard": 8,
+            "Hard": 7,
             "Oni": 10.2
         },
         "chartMakers": {
@@ -2117,15 +2117,15 @@
             "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "369769089091cca58ca4e3ff64c36f05",
+        "tjaMD5": "0766ad6a13d553f65c80862d548fd455",
         "chartSize": 6.38,
         "chartTitle": "Resentment ~The Whittling of Fragmented Dreams~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Edit": 11.7,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5,
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 5.5,
             "Oni": 10.2
         },
         "chartMakers": {
@@ -2179,7 +2179,7 @@
             "02 OpenTaiko Chapter II\\089 - FunkBoi\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "69f4928d5152eeb0789a2ebae9d7dc4f",
+        "tjaMD5": "29a355985db027243dfbd29dea7b5ed3",
         "chartSize": 1.77,
         "chartTitle": "FunkBoi",
         "chartSubtitle": "SenPi",
@@ -2187,7 +2187,7 @@
             "Easy": 2,
             "Normal": 6,
             "Hard": 7,
-            "Oni": 9,
+            "Oni": 9.6,
             "Edit": 10.6
         },
         "chartMakers": {
@@ -2210,14 +2210,14 @@
             "02 OpenTaiko Chapter II\\090 - The Beat\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "7e805ecb7781111377bc66c6155864be",
+        "tjaMD5": "009b28392f745fc548a78e80941d3cb0",
         "chartSize": 2.11,
         "chartTitle": "The Beat",
         "chartSubtitle": "MesoPhunk",
         "chartDifficulties": {
-            "Easy": 5,
+            "Easy": 4,
             "Normal": 6,
-            "Hard": 8,
+            "Hard": 8.0,
             "Oni": 10.2
         },
         "chartMakers": {
@@ -2240,15 +2240,15 @@
             "02 OpenTaiko Chapter II\\091 - thumb wrestling\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "3a693af5d96396d27ce37efa3baf453f",
+        "tjaMD5": "482891cf2736d1065bc64d50594287e7",
         "chartSize": 7.36,
         "chartTitle": "thumb wrestling",
         "chartSubtitle": "ok cheez",
         "chartDifficulties": {
             "Oni": 10.1,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",

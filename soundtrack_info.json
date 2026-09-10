@@ -3334,12 +3334,12 @@
             "04 OpenTaiko Chapter IV\\138 - Startup Parade Remix\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "a1e9592e2aae143029c5f5c63c64c69a",
+        "tjaMD5": "a257242482f1b5e301be208efeaf14ba",
         "chartSize": 2.52,
         "chartTitle": "Startup Parade! (Ryuto Setsujin + Makotora Remix)",
         "chartSubtitle": "Ryuto Setsujin + Makotora",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 4,
             "Normal": 2,
             "Easy": 2
@@ -3364,12 +3364,12 @@
             "04 OpenTaiko Chapter IV\\139 - euphoric eruption\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "6584590f2eade7563a21cf6bb898b366",
+        "tjaMD5": "2ea5e770aa7ebdcee20ffd0a8c853b0f",
         "chartSize": 2.03,
         "chartTitle": "euphoric eruption",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.2,
             "Oni": 6,
             "Hard": 4,
             "Normal": 3,
@@ -3428,12 +3428,12 @@
             "04 OpenTaiko Chapter IV\\141 - AQUAMARINE\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "0e430c938025ac2ca9887283cbd354dd",
+        "tjaMD5": "e10c0421529351cce7822fd2749b940e",
         "chartSize": 4.29,
         "chartTitle": "AQUAMARINE",
         "chartSubtitle": "McBoiled",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 7,
             "Normal": 5,
             "Easy": 3
@@ -3457,12 +3457,12 @@
             "04 OpenTaiko Chapter IV\\142 - floatfobia\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "83970c5c921c998283f89e499e5e6f5a",
+        "tjaMD5": "64518c3b9c28c9a72a0acf12df00263e",
         "chartSize": 1.7,
         "chartTitle": "floatfobia",
         "chartSubtitle": "",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.5,
             "Hard": 6,
             "Normal": 6,
             "Easy": 4
@@ -3486,14 +3486,14 @@
             "04 OpenTaiko Chapter IV\\143 - you ruined me with your lies\\you ruined me with your lies.tja"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "e64d167cc16fe012909c4015e61bc868",
+        "tjaMD5": "42b7856ed0e54f44a80d07b4ca4dddd2",
         "chartSize": 2.4,
         "chartTitle": "you ruined me with your lies",
         "chartSubtitle": "Teocore",
         "chartDifficulties": {
             "Oni": 10.8,
-            "Hard": 8,
-            "Normal": 7,
+            "Hard": 8.5,
+            "Normal": 7.5,
             "Easy": 1
         },
         "chartMakers": {
@@ -3516,15 +3516,15 @@
             "04 OpenTaiko Chapter IV\\144 - i'll be there\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "5ce3bc8b66f9ad4c3e3b2379c913c250",
+        "tjaMD5": "9133e1206caeecdbd7f713a756a0faeb",
         "chartSize": 5.94,
         "chartTitle": "i'll be there",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 7,
-            "Normal": 7,
-            "Easy": 5
+            "Normal": 7.0,
+            "Easy": 6.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -3576,15 +3576,15 @@
             "04 OpenTaiko Chapter IV\\146 - frenzy fever\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "cd312160af6ec91465f05846aeca75e5",
+        "tjaMD5": "7d3813d9129714dd89e4c84d9353900a",
         "chartSize": 3.12,
         "chartTitle": "frenzy fever",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.6,
             "Hard": 5,
             "Normal": 5,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -3606,14 +3606,14 @@
             "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "df4a6fbb528f0048f456b42dfc2112de",
+        "tjaMD5": "b8ff62b73e97deaadb18c2e8c0c046ec",
         "chartSize": 2.46,
         "chartTitle": "Starlight Traveler (Game Edit)",
         "chartSubtitle": "Sukima Altera",
         "chartDifficulties": {
             "Oni": 10.3,
-            "Hard": 8,
-            "Normal": 7,
+            "Hard": 8.0,
+            "Normal": 6,
             "Easy": 4
         },
         "chartMakers": {
@@ -3636,12 +3636,12 @@
             "04 OpenTaiko Chapter IV\\148 - tiny windows\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "48a1c403de115182ff22d13e818e07c9",
+        "tjaMD5": "0a2b251b542b4b5551f0d6726e76e592",
         "chartSize": 2.91,
         "chartTitle": "tiny windows",
         "chartSubtitle": "Frizk x Tanger",
         "chartDifficulties": {
-            "Oni": 7,
+            "Oni": 8.1,
             "Hard": 5,
             "Normal": 4,
             "Easy": 2
@@ -3666,16 +3666,16 @@
             "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "027adfaec3ad45facfe88103f7322deb",
+        "tjaMD5": "ea794f5a1e86c12bdd29f717dc1aa139",
         "chartSize": 3.33,
         "chartTitle": "\u2200NARCHIC LIGHT",
         "chartSubtitle": "ro\u0259r",
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 6,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "DiamondN1nja",
@@ -3697,16 +3697,16 @@
             "04 OpenTaiko Chapter IV\\150 - Miracle Castle\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "0b4303466c001d1f855edb8e05cdee0e",
+        "tjaMD5": "cc4e55a0f26bd0b82e45356108f97c8e",
         "chartSize": 2.17,
         "chartTitle": "Miracle\u2606Castle",
         "chartSubtitle": "Pirendora & ro\u0259r",
         "chartDifficulties": {
             "Edit": 11.1,
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Oni": 9.8,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "bol",
@@ -3730,7 +3730,7 @@
             "04 OpenTaiko Chapter IV\\151 - 15 NIGHT RIDER\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "b189699cb2722f8b4748b413d4307e90",
+        "tjaMD5": "da9f1b1b5a23563a52052fcfc59aa31f",
         "chartSize": 3.63,
         "chartTitle": "15 NIGHT RIDER",
         "chartSubtitle": "FALL (ELE-RabBits)",
@@ -3738,7 +3738,7 @@
             "Easy": 2,
             "Normal": 4,
             "Hard": 5,
-            "Oni": 8
+            "Oni": 8.7
         },
         "chartMakers": {
             "Easy": "Colin",
@@ -3760,13 +3760,13 @@
             "04 OpenTaiko Chapter IV\\152 - nante kotta\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "94d3c97e19dacfdd6fda170efd6c2922",
+        "tjaMD5": "6e2ab82b0776f8619ac28642692a414f",
         "chartSize": 3.56,
         "chartTitle": "nante kotta?!",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
             "Edit": 10.5,
-            "Oni": 9,
+            "Oni": 9.1,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -3792,16 +3792,16 @@
             "04 OpenTaiko Chapter IV\\153 - TOKYO RHYTHM No.524\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "6e31e6521f7aee7c311a3433c390baad",
+        "tjaMD5": "1f63be3061b43e4e6c656de17e4848d8",
         "chartSize": 1.53,
         "chartTitle": "TOKYO-RHYTHM No.524",
         "chartSubtitle": "FALL",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.6,
             "Hard": 5,
             "Normal": 5,
             "Easy": 4,
-            "Edit": 8
+            "Edit": 8.4
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -3885,15 +3885,15 @@
             "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "2ff32d4c68fb3fb6951393ded5b3bb9d",
+        "tjaMD5": "3bcc8acfeda60bcf8796099dec18b809",
         "chartSize": 3.72,
         "chartTitle": "Goodbye My Phantasia",
         "chartSubtitle": "FALL feat. yufu_sekka",
         "chartDifficulties": {
             "Oni": 11.3,
-            "Easy": 6,
-            "Normal": 7,
-            "Hard": 9,
+            "Easy": 6.0,
+            "Normal": 7.0,
+            "Hard": 9.0,
             "Edit": 11.2
         },
         "chartMakers": {
@@ -3917,15 +3917,15 @@
             "04 OpenTaiko Chapter IV\\161 - Donstrgus\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "30dac7859fca241b86ad972a655c4106",
+        "tjaMD5": "1529ae091f28cef860373e2aa08be370",
         "chartSize": 7.88,
         "chartTitle": "Donstrgus",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Oni": 11.4,
-            "Easy": 7,
-            "Normal": 8,
-            "Hard": 10
+            "Easy": 7.0,
+            "Normal": 8.0,
+            "Hard": 10.2
         },
         "chartMakers": {
             "Oni": "Taichenko",
@@ -3947,13 +3947,13 @@
             "04 OpenTaiko Chapter IV\\162 - linebreak\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "83f722b00c4e42f1e766b2e0605bc8b1",
+        "tjaMD5": "514a3afec96ff72ec111be8291b38e12",
         "chartSize": 2.26,
         "chartTitle": "linebreak",
         "chartSubtitle": "zqr",
         "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 8,
+            "Oni": 8.6,
+            "Hard": 7,
             "Normal": 6,
             "Easy": 4
         },
@@ -3977,15 +3977,15 @@
             "04 OpenTaiko Chapter IV\\165 - PSEUDOMONARCHIA\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "d74e802e6b7a94acf67eb7a526dd94ce",
+        "tjaMD5": "ca5b19c31c2867db2383899621de9d08",
         "chartSize": 4.68,
         "chartTitle": "PSEUDOMONARCHIA",
         "chartSubtitle": "Lilith (Lycanix vs Cusi)",
         "chartDifficulties": {
             "Oni": 10.7,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 9.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -4007,7 +4007,7 @@
             "04 OpenTaiko Chapter IV\\166 - Dolphin Diamond Raceway\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "20e9fa7bb3c705a4255cc896ac192c9f",
+        "tjaMD5": "4453e01272ccf991da09a29e07a1f0b7",
         "chartSize": 3.66,
         "chartTitle": "Dolphin Diamond Raceway",
         "chartSubtitle": "Baby Zionov",
@@ -4015,8 +4015,8 @@
             "Easy": 2,
             "Normal": 3,
             "Hard": 5,
-            "Oni": 9,
-            "Edit": 9
+            "Oni": 9.3,
+            "Edit": 9.5
         },
         "chartMakers": {
             "Easy": "Shoxk",
@@ -4039,13 +4039,13 @@
             "04 OpenTaiko Chapter IV\\167 - Before it ends\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "72f95787c1e280483cff4b3e14df8637",
+        "tjaMD5": "3629c2a98975de9bc3d809eec445f526",
         "chartSize": 3.9,
         "chartTitle": "Before It Ends",
         "chartSubtitle": "BilliumMoto",
         "chartDifficulties": {
             "Edit": 10.9,
-            "Oni": 9,
+            "Oni": 9.5,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -4070,12 +4070,12 @@
             "04 OpenTaiko Chapter IV\\168 - Collapse of the Surface\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "67263bda6159e868ef5a515326748a5f",
+        "tjaMD5": "ecb7cb9459494d6e7823663e88b418e7",
         "chartSize": 2.79,
         "chartTitle": "C\u00f8llapse of the Surface",
         "chartSubtitle": "OpenTaiko Sound Team \"Dashy\"",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -4099,12 +4099,12 @@
             "04 OpenTaiko Chapter IV\\169 - Corruption of the Soul\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "785c81c3e957055270ce6eac2a8549d5",
+        "tjaMD5": "803c6734c42081cb0f5f29204c64aa73",
         "chartSize": 2.94,
         "chartTitle": "C\u00f8rruption of the S\u00f8ul",
         "chartSubtitle": "OpenTaiko Sound Team \"Ag\u00f8ny\"",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.9,
             "Hard": 4,
             "Normal": 3,
             "Easy": 2
@@ -4130,16 +4130,16 @@
             "04 OpenTaiko Chapter IV\\170 - Collapse of the Soul\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "05ffa4d3b3e2d2f37e8a6d09a0759c01",
+        "tjaMD5": "5c01ff6cd6422fe5ea7c745b5c44d347",
         "chartSize": 8.73,
         "chartTitle": "C\u00f8llapse of the S\u00f8ul",
         "chartSubtitle": "H888. (H5 + DashyDesu)",
         "chartDifficulties": {
             "Edit": 12.4,
             "Oni": 10.8,
-            "Hard": 9,
-            "Normal": 8,
-            "Easy": 5
+            "Hard": 9.0,
+            "Normal": 8.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Komi,bol",
@@ -4162,7 +4162,7 @@
             "04 OpenTaiko Chapter IV\\171 - Wildcard\\Wildcard.tja"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "cccefa5fa418edbd3d4942b60d2247ea",
+        "tjaMD5": "73ec70eba565067b5fa60189edc23857",
         "chartSize": 2.92,
         "chartTitle": "Wildcard",
         "chartSubtitle": "Y.W",
@@ -4171,7 +4171,7 @@
             "Hard": 6,
             "Normal": 6,
             "Easy": 4,
-            "Oni": 9
+            "Oni": 9.3
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -4194,12 +4194,12 @@
             "04 OpenTaiko Chapter IV\\172 - Freshness Vacation\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "dbfa3a78d0142bba3f3280350513dd05",
+        "tjaMD5": "68bb06621eb1cb4dcee6863a771f5e3d",
         "chartSize": 4.32,
         "chartTitle": "Freshness Vacation",
         "chartSubtitle": "Y.W",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.8,
             "Hard": 7,
             "Normal": 5,
             "Easy": 3
@@ -4224,12 +4224,12 @@
             "04 OpenTaiko Chapter IV\\173 - Celestsoul Aurora\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "48cf6ac67335f820b692526ef92fb57c",
+        "tjaMD5": "67213ab85cb87902ea86cc6368fa5590",
         "chartSize": 4.08,
         "chartTitle": "Celestsoul Aurora",
         "chartSubtitle": "Whitetail",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.8,
             "Hard": 7,
             "Normal": 6,
             "Easy": 3
@@ -4254,13 +4254,13 @@
             "04 OpenTaiko Chapter IV\\174 - Visionary\\Visionary.tja"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "4642062e60ecd9450c98de72f68be013",
+        "tjaMD5": "a2474f467a1b6d9af0d41ee08804a862",
         "chartSize": 3.36,
         "chartTitle": "Visionary",
         "chartSubtitle": "xtkakeru & RachelTypeX",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.4,
+            "Hard": 7,
             "Normal": 6,
             "Easy": 4
         },
@@ -4286,12 +4286,12 @@
             "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "cfb75dddf9ff7d80354b94c9817e2fce",
+        "tjaMD5": "2ef9c2f8111eae999d8fe0c0dd5fe86c",
         "chartSize": 60.76,
         "chartTitle": "Nostalgic Magic",
         "chartSubtitle": "TAK aka. Tokky feat. Otome Ame",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.1,
             "Hard": 5,
             "Normal": 4,
             "Easy": 3
@@ -4316,15 +4316,15 @@
             "04 OpenTaiko Chapter IV\\176 - Sim-plex\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "357d832ab41901b641ad60a5004b7b60",
+        "tjaMD5": "1be5f09356411833ed3af9bc8e4514df",
         "chartSize": 4.7,
         "chartTitle": "Sim-plex",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
             "Oni": 10.4,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -4346,15 +4346,15 @@
             "04 OpenTaiko Chapter IV\\177 - the world of scarlet\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "c234ef0c2d60dfb13913794b3d4cdea6",
+        "tjaMD5": "475b89f42598b65d42899767185ff499",
         "chartSize": 10.56,
         "chartTitle": "the world of scarlet",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
             "Oni": 10.3,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -4407,7 +4407,7 @@
             "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "ef4c7685eebeb00db519a89c626f50d2",
+        "tjaMD5": "038c457a29add0bb46e7463955f50df2",
         "chartSize": 26.45,
         "chartTitle": "Authentic (Game Mix)",
         "chartSubtitle": "dogthing ft. Teto Kasane",
@@ -4415,7 +4415,7 @@
             "Easy": 2,
             "Normal": 3,
             "Hard": 6,
-            "Oni": 8
+            "Oni": 8.4
         },
         "chartMakers": {
             "Easy": "Colin",

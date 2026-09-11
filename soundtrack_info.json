@@ -4437,12 +4437,12 @@
             "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "4198874f7d260bc7295a078edcb48b9f",
+        "tjaMD5": "ade73b9c23f7a9d95e01e68e48c73f44",
         "chartSize": 2.79,
         "chartTitle": "Katharsis (9C + Makotora Remix)",
         "chartSubtitle": "9C + Makotora",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.8,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -4467,12 +4467,12 @@
             "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "2720f5755cebbfa9c18ebc5b1a2f55f5",
+        "tjaMD5": "22038ba29abaa27589890843e9490670",
         "chartSize": 5.37,
         "chartTitle": "Nostalgic Magic (Magical Jazzy Chip-Dance Mix)",
         "chartSubtitle": "Dashy, thanks to TAK aka. Tokky and Otome Ame",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -4497,14 +4497,14 @@
             "05 OpenTaiko Chapter V\\182 - dreamscape\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "3de1eff976c34b473a54806657ba22ed",
+        "tjaMD5": "5c0e5ef3a74280ca8b31f76d78510978",
         "chartSize": 2.48,
         "chartTitle": "dreamscape",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 6,
-            "Normal": 6,
+            "Normal": 5,
             "Easy": 4
         },
         "chartMakers": {
@@ -4527,15 +4527,15 @@
             "05 OpenTaiko Chapter V\\183 - junket\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "7f9360b8eebf6d65b0d83eb9086d229c",
+        "tjaMD5": "8b244da4582ec82f7751f795aba4897a",
         "chartSize": 2.4,
         "chartTitle": "junket",
         "chartSubtitle": "Salted",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 5,
             "Normal": 3,
-            "Easy": 2
+            "Easy": 3
         },
         "chartMakers": {
             "Oni": "Makotora",
@@ -4557,16 +4557,16 @@
             "05 OpenTaiko Chapter V\\184 - Limelite\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "423ef177afc286dab2a0c3ff970f519d",
+        "tjaMD5": "8ef77b3e73ca86c76528d6c407df7599",
         "chartSize": 2.41,
         "chartTitle": "Limelite",
         "chartSubtitle": "Attoclef",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Normal": 7,
-            "Easy": 5,
-            "Oni": 9,
-            "Hard": 8
+            "Normal": 7.0,
+            "Easy": 5.0,
+            "Oni": 9.7,
+            "Hard": 8.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -4589,15 +4589,15 @@
             "05 OpenTaiko Chapter V\\185 - CoNTRoL\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "e6544492c04798cc0067146fbe94c17e",
+        "tjaMD5": "285989f7ff6843fdcee96418a5a0a027",
         "chartSize": 3.86,
         "chartTitle": "CoNTRoL",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.5,
             "Hard": 6,
             "Normal": 4,
-            "Easy": 3
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -4619,7 +4619,7 @@
             "05 OpenTaiko Chapter V\\186 - Skyfall\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "a8ec80f379281369d1ab7fbdd3a76b05",
+        "tjaMD5": "f50547863304e4cc4c67ec48291fc8b3",
         "chartSize": 3.09,
         "chartTitle": "Skyfall",
         "chartSubtitle": "chronon",
@@ -4628,7 +4628,7 @@
             "Hard": 6,
             "Normal": 5,
             "Easy": 3,
-            "Edit": 9
+            "Edit": 9.3
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -4680,12 +4680,12 @@
             "05 OpenTaiko Chapter V\\189 - Candy Girl\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "e7def67dc1950d4c1728b91f84f1ff18",
+        "tjaMD5": "4dc56ab772a23b28aec2a861335ebd05",
         "chartSize": 16.54,
         "chartTitle": "Candy Girl",
         "chartSubtitle": "Otome Ame (Composition: kani)",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.2,
             "Normal": 4,
             "Easy": 3,
             "Hard": 6
@@ -4710,12 +4710,12 @@
             "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "8b730cc88a9f64e2bc0847ee006aa6f0",
+        "tjaMD5": "584fef935e74d4963347603fa12c7fdd",
         "chartSize": 4.87,
         "chartTitle": "Niji wa Kirai",
         "chartSubtitle": "Otome Ame (Composition: Shitsudo Kei)",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.4,
             "Hard": 4,
             "Normal": 3,
             "Easy": 2,
@@ -4742,16 +4742,16 @@
             "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "90523c05996aaf0f70d590555922e976",
+        "tjaMD5": "735ff94c829f31830588d1d314df2ea1",
         "chartSize": 4.69,
         "chartTitle": "Purgatory of the OOTD",
         "chartSubtitle": "Masamune vs. H5",
         "chartDifficulties": {
             "Edit": 11.1,
             "Oni": 10.4,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "bol,lob",
@@ -4773,13 +4773,13 @@
             "05 OpenTaiko Chapter V\\192 - Warm Winter Wish\\WWW.tja"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "049c6e413f0d70f3ab5af213bef03a39",
+        "tjaMD5": "7512099fe470335d0beda654f85187d0",
         "chartSize": 9.07,
         "chartTitle": "Warm Winter Wish",
         "chartSubtitle": "Whimsical Winter World's Maestros",
         "chartDifficulties": {
             "Easy": 4,
-            "Normal": 7,
+            "Normal": 7.0,
             "Hard": 7,
             "Oni": 10.3,
             "Edit": 10.5
@@ -4805,15 +4805,15 @@
             "05 OpenTaiko Chapter V\\193 - Diverging Duality\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "6c36f96fee8d9bbe2e2846ad8a4236d6",
+        "tjaMD5": "af91d17e525565c97f9b0a0a16e96f51",
         "chartSize": 3.22,
         "chartTitle": "Diverging Duality",
         "chartSubtitle": "Riprider",
         "chartDifficulties": {
             "Oni": 10.2,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -4834,15 +4834,15 @@
             "05 OpenTaiko Chapter V\\194 - FEEL IT ALL\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "6890167296f39cdbdd7aaaffde9e5b1e",
+        "tjaMD5": "0d42c05979f7448822bb4e3995e42ac4",
         "chartSize": 2.77,
         "chartTitle": "FEEL IT ALL (Game Edit)",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.5,
             "Hard": 5,
-            "Normal": 5,
-            "Easy": 3
+            "Normal": 6,
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -4864,7 +4864,7 @@
             "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "c9760591cf9c4c98376d33f8ffdf847e",
+        "tjaMD5": "6562b27bc7bcfd41de99d450e0a42b77",
         "chartSize": 3.87,
         "chartTitle": "Labyrinth from Another World",
         "chartSubtitle": "MoushiKomi",
@@ -4872,7 +4872,7 @@
             "Oni": 5,
             "Hard": 2,
             "Normal": 2,
-            "Edit": 8,
+            "Edit": 8.1,
             "Easy": 1
         },
         "chartMakers": {
@@ -4895,12 +4895,12 @@
             "05 OpenTaiko Chapter V\\196 - Zutto\\Zutto.tja"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "349ab25c2cfe2ae497675b6aa45510e0",
+        "tjaMD5": "1272afd5990f39b7352fd008984c3c01",
         "chartSize": 2.58,
         "chartTitle": "Zutto",
         "chartSubtitle": "Hexacube",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.7,
             "Hard": 7,
             "Normal": 6,
             "Easy": 4
@@ -4925,16 +4925,16 @@
             "05 OpenTaiko Chapter V\\197 - Lovetonight\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "37c70b7b51b863f3aab1f64db5518553",
+        "tjaMD5": "2098bc284638e50416c6aa62e6a4997b",
         "chartSize": 3.65,
         "chartTitle": "Lovetonight",
         "chartSubtitle": "Hexacube",
         "chartDifficulties": {
             "Edit": 10.1,
-            "Oni": 9,
-            "Easy": 4,
+            "Oni": 9.4,
+            "Easy": 5.0,
             "Hard": 7,
-            "Normal": 4
+            "Normal": 5
         },
         "chartMakers": {
             "Edit": "bol",
@@ -4956,15 +4956,15 @@
             "05 OpenTaiko Chapter V\\198 - SUPER-ENTHUSIASTIC!!\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "aa25fc7179c7a8e3d60f9a08f20b15f2",
+        "tjaMD5": "0140dc57964e71705a271278ef862e93",
         "chartSize": 2.52,
         "chartTitle": "SUPER-ENTHUSIASTIC!!",
         "chartSubtitle": "Hexacube",
         "chartDifficulties": {
             "Oni": 10.9,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 9.0,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -4986,12 +4986,12 @@
             "05 OpenTaiko Chapter V\\199 - HYPERSONIC\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "062be541824bda914c04bc03cdb96029",
+        "tjaMD5": "6f01a1524a6679ac0a84424259ce1317",
         "chartSize": 3.49,
         "chartTitle": "HYPER-SONIC-",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.2,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -5016,12 +5016,12 @@
             "05 OpenTaiko Chapter V\\200 - A Perfect Beginning\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "90b3a7090850ad844f872db8085e5a45",
+        "tjaMD5": "c79c2b4200dff4090b5c034ad140d933",
         "chartSize": 5.37,
         "chartTitle": "A Perfect Beginning (\"BMS o takusan tsukuru ze'25\" VIP)",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 5,
             "Normal": 3,
             "Easy": 2
@@ -5045,7 +5045,7 @@
             "05 OpenTaiko Chapter V\\201 - Future Fragments\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "cdacb649f1775c0b9e2811c7b211b52c",
+        "tjaMD5": "e86ba30926e848abc720ec21cc4748f6",
         "chartSize": 5.96,
         "chartTitle": "Future Fragments",
         "chartSubtitle": "Yozu C",
@@ -5053,7 +5053,7 @@
             "Oni": 10.2,
             "Hard": 7,
             "Normal": 5,
-            "Easy": 3
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -5108,7 +5108,7 @@
             "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "65651df02d3e71a9cc82e36c68a87fb7",
+        "tjaMD5": "4e356ab158b84fdd91abbb5efe174fe6",
         "chartSize": 14.31,
         "chartTitle": "If Life Were a Loop",
         "chartSubtitle": "dogthing ft. Hatsune Miku",
@@ -5116,7 +5116,7 @@
             "Easy": 2,
             "Normal": 3,
             "Hard": 6,
-            "Oni": 8
+            "Oni": 8.6
         },
         "chartMakers": {
             "Easy": "Colin",
@@ -5138,15 +5138,15 @@
             "05 OpenTaiko Chapter V\\204 - Why Are All The Girls Sick\\Why Are All The Girls Sick (OpenTaiko Edit).tja"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "1b99dcc45f29c35a9a71b68baf75f495",
+        "tjaMD5": "5c8f3e81741e794928b25472f2bf5f8e",
         "chartSize": 4.85,
         "chartTitle": "Why Are All The Girls Sick? (OpenTaiko Edit)",
         "chartSubtitle": "Stu Cupid",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.0,
             "Hard": 6,
             "Normal": 5,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -5168,13 +5168,13 @@
             "05 OpenTaiko Chapter V\\205 - Departure to Copacabana\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "7b5d6e847423acd95fb272268e7f8eff",
+        "tjaMD5": "93f0ba5aa55128eda880e315921cef68",
         "chartSize": 6.62,
         "chartTitle": "Departure to Copacabana (OpenTaiko Edit)",
         "chartSubtitle": "Stu Cupid feat. Rhiannon Moushall",
         "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 7,
+            "Oni": 8.2,
+            "Hard": 6,
             "Normal": 5,
             "Easy": 4
         },
@@ -5197,14 +5197,14 @@
             "05 OpenTaiko Chapter V\\206 - Eitchfaivest\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "2eab093a2cf43895fb026b738adb132a",
+        "tjaMD5": "73529c5ddff0f1b79f5e83f339c1df85",
         "chartSize": 4.51,
         "chartTitle": "Eitchfaivest",
         "chartSubtitle": "OpenTaiko Sound Team \"Masamune\"",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 7,
-            "Normal": 7,
+            "Normal": 7.0,
             "Easy": 4
         },
         "chartMakers": {
@@ -5227,13 +5227,13 @@
             "05 OpenTaiko Chapter V\\207 - FORTALiCE\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "ef373f46b20b16e8a8fec5e37d4144aa",
+        "tjaMD5": "76c68baa7d36b258ae4620cf65826149",
         "chartSize": 2.99,
         "chartTitle": "FORTALiCE",
         "chartSubtitle": "ZxNX",
         "chartDifficulties": {
             "Oni": 10.1,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -5257,12 +5257,12 @@
             "05 OpenTaiko Chapter V\\208 - FANTASY\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "4c2a7999b501fe80e03b1863dcc42382",
+        "tjaMD5": "53fcf84c89c852ab8567794dfa1a5bca",
         "chartSize": 6.27,
         "chartTitle": "FANTASY*",
         "chartSubtitle": "Drifterr!! feat. Dashy,",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.1,
             "Hard": 7,
             "Normal": 4,
             "Easy": 3
@@ -5287,12 +5287,12 @@
             "05 OpenTaiko Chapter V\\209 - Bannerbomb\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "753c24332bf2aa3f65db4e67bc7885e7",
+        "tjaMD5": "3bb578f3ec13671195873b0de8870070",
         "chartSize": 4.67,
         "chartTitle": "Bannerbomb (OpenTaiko Edit)",
         "chartSubtitle": "Stu Cupid",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.9,
             "Oni": 10.2,
             "Hard": 6,
             "Normal": 5,
@@ -5319,13 +5319,13 @@
             "05 OpenTaiko Chapter V\\211 - Wellspring\\Wellspring.tja"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "79b38c14efa1881571e14e47012b101d",
+        "tjaMD5": "73ba3d33e56c37156ca0239e2331678b",
         "chartSize": 5.61,
         "chartTitle": "Wellspring",
         "chartSubtitle": "veggerhogger",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Oni": 8,
+            "Oni": 8.8,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -5351,16 +5351,16 @@
             "05 OpenTaiko Chapter V\\213 - ANXiETY\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "8553ac5b10033c2058af20fe90a76c78",
+        "tjaMD5": "5f0b2f2cbf0a9724f3906a4ab334a6c7",
         "chartSize": 2.64,
         "chartTitle": "ANXiETY",
         "chartSubtitle": "Aspid Cat",
         "chartDifficulties": {
             "Edit": 11.0,
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "DiamondN1nja",
@@ -5382,16 +5382,16 @@
             "05 OpenTaiko Chapter V\\214 - Neptune's Lullaby\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "3d2097dafb539f8aefa425c7e3d204ff",
+        "tjaMD5": "f53222c96f2bdde42b3c5b2b0e7bd62c",
         "chartSize": 1.97,
         "chartTitle": "Neptune's Lullaby",
         "chartSubtitle": "OpenTaiko Sound Team \"H5\"",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.9,
             "Oni": 10.2,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -5413,15 +5413,15 @@
             "05 OpenTaiko Chapter V\\215 - nicotine\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "9296868bf5a8119430976ce9d1038b5a",
+        "tjaMD5": "4746cd2e65b03d654204e01733b5d8f9",
         "chartSize": 3.03,
         "chartTitle": "nicotine (Teocore Remix)",
         "chartSubtitle": "jackuw & Teocore",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.0,
             "Hard": 5,
             "Normal": 4,
-            "Easy": 4
+            "Easy": 3
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -5443,13 +5443,13 @@
             "05 OpenTaiko Chapter V\\216 - Constellation\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "b474cee395ff511190aec4334ea0e1a0",
+        "tjaMD5": "094e9b318391b5af4a6a1258317404ab",
         "chartSize": 3.56,
         "chartTitle": "Constellation ~The Guiding Giant's Journey~",
         "chartSubtitle": "Mr. Hikaru, and the Infinite Galaxy Ensemble",
         "chartDifficulties": {
             "Edit": 10.4,
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -5475,15 +5475,15 @@
             "05 OpenTaiko Chapter V\\217 - Lazy Me\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "6400322131550bbb44b69f23c7fa8105",
+        "tjaMD5": "132a63957cff057f1f1c5190f2847478",
         "chartSize": 3.71,
         "chartTitle": "Lazy Me (Remastered Version)",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 5,
+            "Easy": 5.0,
             "Edit": 10.5
         },
         "chartMakers": {
@@ -5507,15 +5507,15 @@
             "05 OpenTaiko Chapter V\\218 - Octans Cel Grift\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "0412a9cb0173005c4dd2006c547dfe4d",
+        "tjaMD5": "9abb14aded45fdcf8eec167e0285ae4b",
         "chartSize": 3.44,
         "chartTitle": "Octans Cel Grift",
         "chartSubtitle": "BilliumMoto",
         "chartDifficulties": {
             "Edit": 11.0,
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 6,
+            "Oni": 9.6,
+            "Hard": 7,
+            "Normal": 5,
             "Easy": 4
         },
         "chartMakers": {
@@ -5540,15 +5540,15 @@
             "05 OpenTaiko Chapter V\\219 - nevergod\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "7ce76fc364e6c31068623f6a86d12222",
+        "tjaMD5": "1cfabeb4bad333bc9096077b3f24e443",
         "chartSize": 42.55,
         "chartTitle": "\u03c0evergod",
         "chartSubtitle": "nm-y",
         "chartDifficulties": {
             "Easy": 3,
-            "Normal": 5,
-            "Hard": 8,
-            "Oni": 9,
+            "Normal": 4,
+            "Hard": 7,
+            "Oni": 9.3,
             "Edit": 11.7
         },
         "chartMakers": {
@@ -5574,16 +5574,16 @@
             "05 OpenTaiko Chapter V\\220 - Discarded Disruption\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "dfc920469139ece0b14b55b85d226793",
+        "tjaMD5": "882304d6c438be4ef04c8268f6f9ffd1",
         "chartSize": 13.32,
         "chartTitle": "\u300cDISCARDED_DISRUPTION\u300d",
         "chartSubtitle": "BeaniCraft",
         "chartDifficulties": {
             "Edit": 11.8,
             "Oni": 10.3,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -5608,16 +5608,16 @@
             "05 OpenTaiko Chapter V\\221 - ORTU5 5OLI5\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "b9b0d68990ec6eaa5093af9746818ef7",
+        "tjaMD5": "94087cc8ba37b26a6ed50d1111edc857",
         "chartSize": 65.04,
         "chartTitle": "ORTU5 5OLI5",
         "chartSubtitle": "Dashy, vs. H5 vs. Taichenko vs. YLNO vs. Masamune",
         "chartDifficulties": {
             "Edit": 12.9,
             "Oni": 10.9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "bol",

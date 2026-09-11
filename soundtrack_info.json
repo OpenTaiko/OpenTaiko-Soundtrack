@@ -5673,12 +5673,12 @@
             "06 OpenTaiko Chapter VI\\222 - glide through a sky\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "e6d57083b8ef255bd73929c987e543e3",
+        "tjaMD5": "ed840f11945f5df4be2ebb17a2383672",
         "chartSize": 4.25,
         "chartTitle": "glide through a sky",
         "chartSubtitle": "Dashy, / OpenTaiko Gleaming Sky Theme Song",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.2,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -5704,12 +5704,12 @@
             "06 OpenTaiko Chapter VI\\223 - Hearts in Motion\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "c1be21f3d8a35c711f9aa94f5764afc0",
+        "tjaMD5": "78f2f5030b4f7e6b1e3c32e6cb9deb33",
         "chartSize": 4.72,
         "chartTitle": "Hearts in Motion (Game Edit)",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Edit": 8,
+            "Edit": 8.4,
             "Oni": 5,
             "Hard": 3,
             "Normal": 2,
@@ -5735,12 +5735,12 @@
             "06 OpenTaiko Chapter VI\\224 - SPDRN\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "28fca3eac133ca00001fe2ed878be632",
+        "tjaMD5": "73f11ceef91d221ac7ed18219c77ac55",
         "chartSize": 3.3,
         "chartTitle": "SPDRN",
         "chartSubtitle": "Yozu C",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3
@@ -5827,12 +5827,12 @@
             "06 OpenTaiko Chapter VI\\227 - Beach Race\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "f6d881c245598c4f078023338df6d1bd",
+        "tjaMD5": "dff8e95e8fab6d272975836b8a8a3ed4",
         "chartSize": 2.69,
         "chartTitle": "Beach Race",
         "chartSubtitle": "Snikio & X3ll3n",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.7,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2
@@ -5857,15 +5857,15 @@
             "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "30257c6b006bd50a3ccd56cee1e46661",
+        "tjaMD5": "f81f6f31650fcc92688e925e61b72b8e",
         "chartSize": 4.06,
         "chartTitle": "Hi Voltage",
         "chartSubtitle": "3Kado_ feat. Clozzo",
         "chartDifficulties": {
             "Oni": 10.1,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -5887,13 +5887,13 @@
             "06 OpenTaiko Chapter VI\\229 - cityscape ruins\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "ee3a8de7060700f13aa394ce840dc01a",
+        "tjaMD5": "77f88c192cd84ca5ef5e7bfa5227d895",
         "chartSize": 3.24,
         "chartTitle": "cityscape\u2215\u2215RUiNsS",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 6,
+            "Oni": 9.7,
+            "Hard": 7,
             "Normal": 5,
             "Easy": 3
         },
@@ -5917,15 +5917,15 @@
             "06 OpenTaiko Chapter VI\\230 - Broken Bond\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "479def1bcdc1af8a868c2b6e9cc44202",
+        "tjaMD5": "f8235fd941e5a147c2e8be060046a823",
         "chartSize": 4.09,
         "chartTitle": "Broken Bond",
         "chartSubtitle": "dogthing",
         "chartDifficulties": {
-            "Easy": 3,
-            "Normal": 5,
-            "Hard": 6,
-            "Oni": 9
+            "Easy": 2,
+            "Normal": 4,
+            "Hard": 7,
+            "Oni": 9.8
         },
         "chartMakers": {
             "Easy": "Colin",
@@ -5946,7 +5946,7 @@
             "06 OpenTaiko Chapter VI\\231 - We Fight (Short Ver.)\\We Fight (Short Ver.).tja"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "e1fb9566faec3e8241d494fff48289d9",
+        "tjaMD5": "33352516c7041ea2b2e3736ee5498de5",
         "chartSize": 1.8,
         "chartTitle": "We Fight (Short Ver.)",
         "chartSubtitle": "Yozu C",
@@ -5954,7 +5954,7 @@
             "Easy": 4,
             "Normal": 6,
             "Hard": 7,
-            "Oni": 9,
+            "Oni": 9.4,
             "Edit": 10.2
         },
         "chartMakers": {
@@ -5978,12 +5978,12 @@
             "06 OpenTaiko Chapter VI\\232 - Blessing of Endurance\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "1fcd8021fec5711a39f9d377918954dd",
+        "tjaMD5": "47394a5ddbf34c281ed0218d0c74772f",
         "chartSize": 5.84,
         "chartTitle": "Blessing of Endurance",
         "chartSubtitle": "Narwhalle",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.6,
             "Oni": 7,
             "Hard": 5,
             "Normal": 3,
@@ -6039,15 +6039,15 @@
             "06 OpenTaiko Chapter VI\\234 - REfragment\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "4c8776ba94474080eaf32fcd61830a70",
+        "tjaMD5": "3f274e1270f05d0a776018d1a6d7d0e3",
         "chartSize": 7.0,
         "chartTitle": "RE:fragment",
         "chartSubtitle": "Ariz Kayaba",
         "chartDifficulties": {
             "Oni": 10.5,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -6069,16 +6069,16 @@
             "06 OpenTaiko Chapter VI\\235 - Unfortunate Utopia\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "bfd4a25f80d8f8bc542ecc89558248c9",
+        "tjaMD5": "9f851391dd3f78b0d127bc92003e4f17",
         "chartSize": 5.01,
         "chartTitle": "Unfortunate Utopia",
         "chartSubtitle": "Wyvren vs. Marilette Aokisama",
         "chartDifficulties": {
             "Edit": 11.9,
             "Oni": 10.6,
-            "Hard": 9,
-            "Normal": 8,
-            "Easy": 6
+            "Hard": 9.5,
+            "Normal": 8.0,
+            "Easy": 6.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -6102,16 +6102,16 @@
             "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "ff2fa0ff7bfa254a81256ca98db7c6c6",
+        "tjaMD5": "a405b3ce4957899728c47a5d7c6d7398",
         "chartSize": 66.47,
         "chartTitle": "BUTCHER VANITY",
         "chartSubtitle": "FLAVOR FOLEY ft. Yi Xi",
         "chartDifficulties": {
             "Easy": 2,
-            "Normal": 4,
+            "Normal": 3,
             "Hard": 4,
             "Oni": 6,
-            "Edit": 8
+            "Edit": 8.1
         },
         "chartMakers": {
             "Easy": "Colin",
@@ -6135,15 +6135,15 @@
             "06 OpenTaiko Chapter VI\\237 - weathergirl\\weathergirl.tja"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "763c41f78c690ad7681d0c434eead004",
+        "tjaMD5": "db0f90015dde7ec94459ab4de217b97a",
         "chartSize": 27.43,
         "chartTitle": "weathergirl",
         "chartSubtitle": "FLAVOR FOLEY ft. Eleanor Forte",
         "chartDifficulties": {
             "Easy": 3,
-            "Normal": 4,
+            "Normal": 3,
             "Hard": 5,
-            "Oni": 8
+            "Oni": 8.2
         },
         "chartMakers": {
             "Easy": "Colin",
@@ -6167,15 +6167,15 @@
             "06 OpenTaiko Chapter VI\\238 - Static\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "b74149de2d4f0c7d4879f93698838540",
+        "tjaMD5": "448c12eea3bc6084f603c3a296daa619",
         "chartSize": 86.39,
         "chartTitle": "Static",
         "chartSubtitle": "FLAVOR FOLEY ft. Hatsune Miku",
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
-            "Hard": 7,
-            "Oni": 9
+            "Hard": 6,
+            "Oni": 9.3
         },
         "chartMakers": {
             "Easy": "Dashy",
@@ -6197,12 +6197,12 @@
             "06 OpenTaiko Chapter VI\\239 - SHADOW DRIVER\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "85b4d293292edccbf8dbcb36b85c8428",
+        "tjaMD5": "df07e70b8c151bcde1044aca1c4a8200",
         "chartSize": 4.6,
         "chartTitle": "SHADOW DRIVER",
         "chartSubtitle": "D'elf",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.0,
             "Hard": 7,
             "Normal": 4,
             "Easy": 2
@@ -6227,13 +6227,13 @@
             "06 OpenTaiko Chapter VI\\243 - Adamant Apathy\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "aa0681fdc63c81c6b2282c2d4a4eb78a",
+        "tjaMD5": "adcd4f53d785c79886de4c2eb836ff01",
         "chartSize": 4.66,
         "chartTitle": "Adamant Apathy",
         "chartSubtitle": "f2",
         "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 6,
+            "Oni": 8.3,
+            "Hard": 5,
             "Normal": 5,
             "Easy": 3
         },
@@ -6258,12 +6258,12 @@
             "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "fb82a172909340dff5a958ea05682e0a",
+        "tjaMD5": "a06787f6ed4a5a1a92c359956d116572",
         "chartSize": 2.54,
         "chartTitle": "Kakurine no Midori",
         "chartSubtitle": "Pinktoe feat. Haramori Yoshina",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.4,
             "Oni": 7,
             "Hard": 6,
             "Normal": 4,
@@ -6291,13 +6291,13 @@
             "06 OpenTaiko Chapter VI\\245 - Gray Canary\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "a752f79549819c0b1a639715bc39e698",
+        "tjaMD5": "8259612eb3746ee6ea1e60c0384664fa",
         "chartSize": 4.42,
         "chartTitle": "Gray Canary (So that I still keep flying)",
         "chartSubtitle": "Nijiiro Karasu (ume & a-m)",
         "chartDifficulties": {
-            "Edit": 9,
-            "Oni": 8,
+            "Edit": 9.7,
+            "Oni": 8.2,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -6324,7 +6324,7 @@
             "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "99f649aea9e4b8b67f4bcaadcfe4f1de",
+        "tjaMD5": "247bc77f214c2cc5bdf1f072b1c0ddb5",
         "chartSize": 3.18,
         "chartTitle": "ARIGATO!",
         "chartSubtitle": "LLRK feat. Miyamai Moka",
@@ -6333,7 +6333,7 @@
             "Hard": 5,
             "Normal": 4,
             "Easy": 3,
-            "Edit": 8
+            "Edit": 8.3
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -6356,12 +6356,12 @@
             "06 OpenTaiko Chapter VI\\247 - Gocha-maze my treasures!\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "b45ede1c548b4e672227e417f23d04f8",
+        "tjaMD5": "a67c5d67abcead4528c3c61f37d42465",
         "chartSize": 4.53,
         "chartTitle": "Gocha-maze my treasures!",
         "chartSubtitle": "LLRK",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -6387,15 +6387,15 @@
             "06 OpenTaiko Chapter VI\\248 - Cochroach Cooking\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "0210a90b8ab5e190e88aca990c39e856",
+        "tjaMD5": "737827dfe4d2653cc3a6f2f1dc220cea",
         "chartSize": 21.9,
         "chartTitle": "Cockroach Cooking",
         "chartSubtitle": "Yosk!",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.6,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "Ryuto Setsujin",
@@ -6417,13 +6417,13 @@
             "06 OpenTaiko Chapter VI\\249 - Perpetual Exploration -Game Cut-\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "05e72790536a05eb862aac545c53b9ee",
+        "tjaMD5": "faf7986116968ea575c658d3c4bad949",
         "chartSize": 5.32,
         "chartTitle": "Perpetual Exploration -Game Cut-",
         "chartSubtitle": "Desjul20",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Oni": 8,
+            "Oni": 8.7,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -6449,15 +6449,15 @@
             "06 OpenTaiko Chapter VI\\250 - holicchoco\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "aec715c939dd89b8271612abde4463e0",
+        "tjaMD5": "7de52750964fc2cca7f66f79e528dbdb",
         "chartSize": 3.9,
         "chartTitle": "holicchoco",
         "chartSubtitle": "Du Vel Mat Te",
         "chartDifficulties": {
             "Oni": 10.6,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "sadkay",
@@ -6479,16 +6479,16 @@
             "06 OpenTaiko Chapter VI\\251 - Assimilation\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "91dfcc23d9794977a40394a7058a0669",
+        "tjaMD5": "5e7cb6b8b5ffec08f2adf42dc6f665ee",
         "chartSize": 3.47,
         "chartTitle": "Assimilation",
         "chartSubtitle": "Tatsuoto vs. Ouroboros",
         "chartDifficulties": {
             "Edit": 10.8,
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Oni": 9.1,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -6511,7 +6511,7 @@
             "06 OpenTaiko Chapter VI\\252 - Unending Freedom\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "d738ced6e1ebf9b9534b8189c37b212b",
+        "tjaMD5": "13923e04cd40d5f941dab279b546d45f",
         "chartSize": 4.19,
         "chartTitle": "Unending Freedom",
         "chartSubtitle": "Tatsuoto",
@@ -6519,7 +6519,7 @@
             "Edit": 10.7,
             "Oni": 11.2,
             "Hard": 7,
-            "Normal": 8,
+            "Normal": 8.0,
             "Easy": 1
         },
         "chartMakers": {
@@ -6573,7 +6573,7 @@
             "06 OpenTaiko Chapter VI\\254 - Sligo Maid\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "ef93ebef1ac932a9d0f16ffe587502b4",
+        "tjaMD5": "6d8888f0068b072fff2d3bd4c3118572",
         "chartSize": 2.87,
         "chartTitle": "The Sligo Maid",
         "chartSubtitle": "Baby Zionov",
@@ -6581,7 +6581,7 @@
             "Oni": 10.4,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -6603,16 +6603,16 @@
             "06 OpenTaiko Chapter VI\\256 - Alternate Reality\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "d94e0ec5ea4f49fde307bc603206981e",
+        "tjaMD5": "6152f113d064aae5f33f1f9da853c95b",
         "chartSize": 2.64,
         "chartTitle": "Another Reality",
         "chartSubtitle": "H5",
         "chartDifficulties": {
             "Edit": 2,
-            "Oni": 9,
+            "Oni": 9.8,
             "Hard": 7,
             "Normal": 5,
-            "Easy": 3
+            "Easy": 4
         },
         "chartMakers": {
             "Edit": "bol",
@@ -6667,16 +6667,16 @@
             "06 OpenTaiko Chapter VI\\258 - ROTTERDAM KITCHEN\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "87f0a3cdeb14678a97bb16b920e25325",
+        "tjaMD5": "c6723eab04eb217b452c8eec548f6e7f",
         "chartSize": 1.41,
         "chartTitle": "ROTTERDAM KITCHEN",
         "chartSubtitle": "freesia",
         "chartDifficulties": {
             "Edit": 10.8,
-            "Oni": 8,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Oni": 8.8,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -6699,14 +6699,14 @@
             "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "00ba0872df1e357a95889fcdc92e2f7b",
+        "tjaMD5": "4140ff54f4f3e35aa1076072a9d557cb",
         "chartSize": 7.17,
         "chartTitle": "Mechanical Heart",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Edit": 10.7,
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.6,
+            "Hard": 8.0,
             "Normal": 5,
             "Easy": 2
         },
@@ -6730,16 +6730,16 @@
             "06 OpenTaiko Chapter VI\\260 - ABUNAI\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "6b7dead6af10bf509c2ac166620031b4",
+        "tjaMD5": "c34e25882c28636ea369e8bca4a69ca3",
         "chartSize": 3.62,
         "chartTitle": "ABUNAI!!!",
         "chartSubtitle": "gentu",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.4,
+            "Hard": 7,
             "Normal": 6,
-            "Easy": 4
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "AsPho",
@@ -6762,12 +6762,12 @@
             "06 OpenTaiko Chapter VI\\261 - Sango Domain\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "e65ff8110a42342da7b5b6de97a49872",
+        "tjaMD5": "17280c40814691c733248fe2c0cf053d",
         "chartSize": 1.58,
         "chartTitle": "Sango Domain",
         "chartSubtitle": "6CHA9N",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.0,
             "Hard": 5,
             "Normal": 3,
             "Easy": 2
@@ -6793,12 +6793,12 @@
             "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "c28bd5474017584347edba50b719e549",
+        "tjaMD5": "f9af2e51674d6ac18ea3aab276e8956a",
         "chartSize": 3.07,
         "chartTitle": "Iemonogatari",
         "chartSubtitle": "K4Y5",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.9,
             "Hard": 7,
             "Normal": 6,
             "Easy": 4
@@ -6823,15 +6823,15 @@
             "06 OpenTaiko Chapter VI\\263 - Railgun\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "9e8d41494ce3a71a70c4e901333257b3",
+        "tjaMD5": "cc8d3074ac2c75949d65933b18c7f446",
         "chartSize": 4.03,
         "chartTitle": "Railgun",
         "chartSubtitle": "Meram1n",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.5,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 3
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -6854,15 +6854,15 @@
             "06 OpenTaiko Chapter VI\\264 - Summer Eden\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "144dc995d34c5c0de1e6365d2e7335e7",
+        "tjaMD5": "b8eab9ebcbff90fcb393bae578564b53",
         "chartSize": 3.86,
         "chartTitle": "Ito hiku natsu no eden ni te.",
         "chartSubtitle": "Setca. feat. Karin Natsuki",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.6,
             "Hard": 6,
             "Normal": 4,
-            "Easy": 2
+            "Easy": 3
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -6884,13 +6884,13 @@
             "06 OpenTaiko Chapter VI\\265 - Kodoku naru Jiai to Gasei yuru Yuuai\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "fe26e2c495e244c76552bcb3f4232579",
+        "tjaMD5": "f989520412a45e5898021499969b54df",
         "chartSize": 3.14,
         "chartTitle": "Kodoku naru Jiai to Gasei yuru Yuuai",
         "chartSubtitle": "lufm",
         "chartDifficulties": {
             "Edit": 10.8,
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 7,
             "Normal": 6,
             "Easy": 4
@@ -6915,15 +6915,15 @@
             "06 OpenTaiko Chapter VI\\266 - Roar Dazed\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "b0864f3457b88ffac5f76d5961f0ef4d",
+        "tjaMD5": "2a403b5111613369ea989231fe9cfde2",
         "chartSize": 12.17,
         "chartTitle": "Roar Dazed",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Oni": 10.6,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 6,
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "Taichenko",
@@ -6945,16 +6945,16 @@
             "06 OpenTaiko Chapter VI\\267 - across the luminescent sky\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "2a75b514406be2803ad246151e326e13",
+        "tjaMD5": "2e37c0af48c1923c522d3f5ad6e6c05f",
         "chartSize": 4.95,
         "chartTitle": "across the luminescent sky",
         "chartSubtitle": "f2",
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.3,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -6977,16 +6977,16 @@
             "06 OpenTaiko Chapter VI\\268 - EvanisceantiA\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "2b6bd42fc7a8ee8ce2d056338a70c950",
+        "tjaMD5": "2d96a2f542a8a1768c3796109a7d0320",
         "chartSize": 5.13,
         "chartTitle": "\u018evanisce:\u0259ntiA",
         "chartSubtitle": "f2",
         "chartDifficulties": {
             "Edit": 11.2,
             "Oni": 10.5,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "DiamondN1nja",
@@ -7009,15 +7009,15 @@
             "06 OpenTaiko Chapter VI\\269 - Jonetsu Daegu\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "88103c8c64c7235304391a920f7bcfeb",
+        "tjaMD5": "402fc07821ed5d34fa99ceb3d3b57fdf",
         "chartSize": 3.09,
         "chartTitle": "Jonetsu Daegu",
         "chartSubtitle": "Qyubey",
         "chartDifficulties": {
             "Oni": 10.9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -7039,16 +7039,16 @@
             "06 OpenTaiko Chapter VI\\270 - the world of periwinkle\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "0d9d4db56421ae08078d0c7816415df3",
+        "tjaMD5": "3d0963e41ade46d4657c3caa86c1e142",
         "chartSize": 9.46,
         "chartTitle": "the world of periwinkle",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
             "Edit": 11.6,
             "Oni": 10.5,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "bol",
@@ -7071,15 +7071,15 @@
             "06 OpenTaiko Chapter VI\\275 - Summer Emotion\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "d22d1dafae6d89a0c1d9cbbc6cd3fca7",
+        "tjaMD5": "f33093ac2e7ebf8be01acbef795c1b5a",
         "chartSize": 3.77,
         "chartTitle": "Summer Emotion",
         "chartSubtitle": "motz",
         "chartDifficulties": {
             "Edit": 12.1,
             "Oni": 10.7,
-            "Hard": 9,
-            "Normal": 7,
+            "Hard": 9.0,
+            "Normal": 7.0,
             "Easy": 4
         },
         "chartMakers": {
@@ -7102,15 +7102,15 @@
             "06 OpenTaiko Chapter VI\\CH6 - and soar through the universe\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "68d4b5e88ab05884a63444c604b9cdaf",
+        "tjaMD5": "7b3aa083a5708707a536b9d84f2bc029",
         "chartSize": 2.86,
         "chartTitle": "and soar through the universe",
         "chartSubtitle": "Dashy,",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.7,
             "Hard": 6,
-            "Normal": 5,
-            "Easy": 4
+            "Normal": 6,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",

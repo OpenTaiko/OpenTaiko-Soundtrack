@@ -7131,12 +7131,12 @@
             "07 OpenTaiko Chapter VII\\276 - The Shining Amber of the Forest\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "32d5cd390dbbe9f64753eee77fdec288",
+        "tjaMD5": "51f5430539b832ba4eeb297efa856553",
         "chartSize": 3.02,
         "chartTitle": "The Shining Amber of the Forest",
         "chartSubtitle": "Kohaku (Arr. Dashy, 2023)",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.2,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -7190,12 +7190,12 @@
             "07 OpenTaiko Chapter VII\\278 - CHARGE BEAM\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "ab4ccd5552027bb379f4ea5c5298062a",
+        "tjaMD5": "f6d48ee2edb0315d0744b22ac73213f3",
         "chartSize": 6.98,
         "chartTitle": "CHARGE BEAM (Game Edit)",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.2,
             "Hard": 5,
             "Normal": 4,
             "Easy": 3
@@ -7220,12 +7220,12 @@
             "07 OpenTaiko Chapter VII\\279 - Nostajue\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "24bb7d69fd4a945f37b2d64a00f4cf99",
+        "tjaMD5": "330ba8259c2bf1ab8f666f980a194031",
         "chartSize": 7.4,
         "chartTitle": "Nostajue",
         "chartSubtitle": "OfficialAz3 (From Yobimo Entertainment)",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 5,
             "Normal": 3,
             "Easy": 2
@@ -7251,12 +7251,12 @@
             "07 OpenTaiko Chapter VII\\280 - MADRUGADA -vem no pique-\\yah - Makotora.png"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "f0c5b8dfa7ee4e1436fcf987e58d2c93",
+        "tjaMD5": "3c1f65b861b03db39b66cc526aa7ff80",
         "chartSize": 2.71,
         "chartTitle": "MADRUGADA -vem no pique-",
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.5,
             "Oni": 7,
             "Hard": 6,
             "Normal": 5,
@@ -7282,12 +7282,12 @@
             "07 OpenTaiko Chapter VII\\281 - Chatoyancy ni Kuchidzuke wo\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "f447d83c02a93a9389b70a6326d8e01c",
+        "tjaMD5": "984157b765fea3bfdf8981249806dadb",
         "chartSize": 2.6,
         "chartTitle": "Chatoyancy ni Kuchidzuke wo",
         "chartSubtitle": "Rner",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.6,
             "Hard": 7,
             "Normal": 6,
             "Easy": 4
@@ -7312,13 +7312,13 @@
             "07 OpenTaiko Chapter VII\\282 - Palette Lab\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "b2cc5ba940ebd40a7130cba915cc4794",
+        "tjaMD5": "321459351f14999d4312e6ba8ccbde5d",
         "chartSize": 1.89,
         "chartTitle": "Palette Lab",
         "chartSubtitle": "Kanzaki Shion",
         "chartDifficulties": {
             "Oni": 10.4,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 5,
             "Easy": 3
         },
@@ -7341,15 +7341,15 @@
             "07 OpenTaiko Chapter VII\\283 - Midnight Freeway\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "c01c2cba2991de719e31763d4e68e553",
+        "tjaMD5": "ddac2bc5ecbedb465bbc5b3b1087a230",
         "chartSize": 4.63,
         "chartTitle": "Midnight Freeway",
         "chartSubtitle": "Snikio & X3ll3n",
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 5,
-            "Normal": 3,
-            "Easy": 2
+            "Normal": 4,
+            "Easy": 3
         },
         "chartMakers": {
             "Oni": "IID",
@@ -7403,13 +7403,13 @@
             "07 OpenTaiko Chapter VII\\285 - R-ast GaMES\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "17d0ef11be9da1c51bb3d7208235534a",
+        "tjaMD5": "e5c4fe66978dbcc88b1832821e1b2391",
         "chartSize": 4.65,
         "chartTitle": "\"R\"ast GaMES!!",
         "chartSubtitle": "3Kado_ vs Yuruka",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.5,
+            "Hard": 8.0,
             "Normal": 5,
             "Easy": 3
         },
@@ -7433,15 +7433,15 @@
             "07 OpenTaiko Chapter VII\\286 - seven states of dreamscapes\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "da335c1a62d34152dfd2f1663df607a3",
+        "tjaMD5": "d2b34d7619ffd0c3f05a050f812af6c5",
         "chartSize": 6.32,
         "chartTitle": "seven states of dreamscapes",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
             "Oni": 10.2,
             "Hard": 7,
-            "Normal": 7,
-            "Easy": 5
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -7463,13 +7463,13 @@
             "07 OpenTaiko Chapter VII\\287 - Iridescent Beauty\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "a48f2fc27f560ada2112f12b6d7a00d3",
+        "tjaMD5": "94315e2f047e274270c6dd59410e67ad",
         "chartSize": 5.52,
         "chartTitle": "Iridescent Beauty (Game Edit)",
         "chartSubtitle": "Sukima Altera",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3
@@ -7495,16 +7495,16 @@
             "07 OpenTaiko Chapter VII\\289 - ravage reign\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "d40b28ce7338f1c9a5ca1fad0b3fb590",
+        "tjaMD5": "319bcf2444148dd1387cf89236a01df7",
         "chartSize": 7.27,
         "chartTitle": "ravage reign",
         "chartSubtitle": "Makotora",
         "chartDifficulties": {
             "Edit": 10.5,
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 7,
-            "Normal": 4,
-            "Easy": 3
+            "Normal": 5,
+            "Easy": 4
         },
         "chartMakers": {
             "Edit": "IID",
@@ -7527,16 +7527,16 @@
             "07 OpenTaiko Chapter VII\\290 - Collapse\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "b2e20e8fcac291da0d585116a1a69ae5",
+        "tjaMD5": "7e9639f7ade09eed902ce8dbfd0782dc",
         "chartSize": 4.32,
         "chartTitle": "Collapse.",
         "chartSubtitle": "Pandemonium.",
         "chartDifficulties": {
             "Edit": 11.4,
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Oni": 9.4,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -7559,13 +7559,13 @@
             "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "5917fc8acb6e26e86f49c16d6f81ee22",
+        "tjaMD5": "986e641bddc7cf0ebb2cd2ec2a67fe80",
         "chartSize": 4.43,
         "chartTitle": "Nijibana no Yaiba",
         "chartSubtitle": "Yue",
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 7,
             "Normal": 5,
             "Easy": 3
@@ -7591,12 +7591,12 @@
             "07 OpenTaiko Chapter VII\\292 - Tears of Denial\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "9edb426e7f5e674ce7643c36488e0192",
+        "tjaMD5": "93bdda2c75d58f3d46d7002d02983cd7",
         "chartSize": 4.74,
         "chartTitle": "Tears of Denial",
         "chartSubtitle": "OfficialAz3 feat. Echa & Hodong (from VOX Factory)",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.6,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -7621,15 +7621,15 @@
             "07 OpenTaiko Chapter VII\\293 - Sayawan Brasilero\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "f0831cd4bcd95c46ad1f82ede57a5b30",
+        "tjaMD5": "6ba5d0748ee872774f2ddf1e1edfc84e",
         "chartSize": 2.94,
         "chartTitle": "Sayawan Brasilero (OpenTaiko ver.)",
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.5,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "DragonRatTiger",
@@ -7651,12 +7651,12 @@
             "07 OpenTaiko Chapter VII\\294 - Do (Not) Break\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "729ac58ff382c353fa213272c44d592b",
+        "tjaMD5": "9268ddedca8dbae6ab967815a56298f9",
         "chartSize": 5.05,
         "chartTitle": "Do (Not) Break",
         "chartSubtitle": "imseeking",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.1,
             "Hard": 5,
             "Normal": 3,
             "Easy": 1
@@ -7682,13 +7682,13 @@
             "07 OpenTaiko Chapter VII\\295 - You've Got Mail!\\You've Got Mail!.vtt"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "f0fd11e91c98d338f5c90e548cab688c",
+        "tjaMD5": "60ca70d576f7e83fc78343ee7189cb7f",
         "chartSize": 3.94,
         "chartTitle": "You've Got Mail!",
         "chartSubtitle": "Phantoskii",
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 8,
+            "Oni": 8.5,
             "Hard": 6,
             "Normal": 6,
             "Easy": 2
@@ -7714,7 +7714,7 @@
             "07 OpenTaiko Chapter VII\\296 - BIRKIE\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "00b1ca880cddd61c55e7c6a152241841",
+        "tjaMD5": "9fd03753b96484f09aa8cb0ebed7f8ec",
         "chartSize": 2.19,
         "chartTitle": "BIRKIE",
         "chartSubtitle": "oratoruk",
@@ -7722,7 +7722,7 @@
             "Edit": 10.3,
             "Normal": 6,
             "Easy": 2,
-            "Oni": 8,
+            "Oni": 8.7,
             "Hard": 7
         },
         "chartMakers": {
@@ -7746,16 +7746,16 @@
             "07 OpenTaiko Chapter VII\\297 - SHAPESHIFTER\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "f6b03d14a05f4d35490226100debfdf5",
+        "tjaMD5": "696728287cc6b2c735afad9c724a7700",
         "chartSize": 5.2,
         "chartTitle": "SHAPESHIFTER",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
             "Edit": 10.7,
             "Oni": 10.5,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "sadkay",
@@ -7778,12 +7778,12 @@
             "07 OpenTaiko Chapter VII\\298 - Ruby\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "4d59aff906a0357dc01d170962ce5bad",
+        "tjaMD5": "746addd71d37e4497c9014d83fb022d4",
         "chartSize": 4.48,
         "chartTitle": "Ruby",
         "chartSubtitle": "BilliumMoto",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 7,
             "Normal": 5,
             "Easy": 2
@@ -7809,16 +7809,16 @@
             "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "050257a6c91db2fbcf45c631fed2205d",
+        "tjaMD5": "ea580c2d6a7eea952890792a3ef45461",
         "chartSize": 2.88,
         "chartTitle": "Mahou de Kaeru ni Natchattamitai!",
         "chartSubtitle": "sharkyo ft. Kasane Teto",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.1,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2,
-            "Edit": 8
+            "Edit": 8.3
         },
         "chartMakers": {
             "Oni": "Ryuto Setsujin",
@@ -7841,12 +7841,12 @@
             "07 OpenTaiko Chapter VII\\300 - Oniric\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "2ddeaf8acad73af3521ba9566ab4a3b5",
+        "tjaMD5": "b1e5ddcaf7be7b6c1a84a8952a349f3f",
         "chartSize": 7.5,
         "chartTitle": "Oniric",
         "chartSubtitle": "BlastiX & X3ll3n",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.7,
             "Hard": 7,
             "Normal": 5,
             "Easy": 3
@@ -7871,15 +7871,15 @@
             "07 OpenTaiko Chapter VII\\301 - I'll bee damned\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "d3dd3f3e3cb9fcc3c14bc76a7343c5df",
+        "tjaMD5": "55ca1c0374e448813badee05710216bf",
         "chartSize": 5.33,
         "chartTitle": "I'll bee damned",
         "chartSubtitle": "THE BEAT WIZARD",
         "chartDifficulties": {
             "Oni": 10.2,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 6
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 6.0
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -7900,13 +7900,13 @@
             "07 OpenTaiko Chapter VII\\302 - Prelude No.2 in A Minor (Toccata), Op.33\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "e56955bd4a2696b7febde3e9fe7dc87c",
+        "tjaMD5": "f0f386dd33215ccaad453668415d2730",
         "chartSize": 1.93,
         "chartTitle": "Prelude No.2 in A Minor, Op.33",
         "chartSubtitle": "Steven Wan",
         "chartDifficulties": {
             "Oni": 10.5,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 5
         },
@@ -7962,16 +7962,16 @@
             "07 OpenTaiko Chapter VII\\304 - Against the Dragon\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "0bdf71154a16c4ceb845fdb6a73126e1",
+        "tjaMD5": "0940bf4f0febd3551240b7b093917c07",
         "chartSize": 4.37,
         "chartTitle": "Against the Dragon",
         "chartSubtitle": "Aspid Cat",
         "chartDifficulties": {
             "Edit": 11.0,
             "Oni": 10.6,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -7995,7 +7995,7 @@
             "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "0021707fb7538b4f99a0d1144dd1416d",
+        "tjaMD5": "04fac05c8b5e0bb5af74bef192a111a1",
         "chartSize": 10.26,
         "chartTitle": "Heart of the Cards",
         "chartSubtitle": "dogthing feat. Miku Hatsune",
@@ -8004,7 +8004,7 @@
             "Normal": 4,
             "Hard": 5,
             "Oni": 6,
-            "Edit": 9
+            "Edit": 9.5
         },
         "chartMakers": {
             "Easy": "Komi",
@@ -8027,13 +8027,13 @@
             "07 OpenTaiko Chapter VII\\306 - Melpomene's Cry\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "70ba84a9e5863d9eb606160583f17ab6",
+        "tjaMD5": "db8526046ffd554fa4b87772e73a4313",
         "chartSize": 7.78,
         "chartTitle": "Melpomene's Cry",
         "chartSubtitle": "FrankleAnkles",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Oni": 8,
+            "Oni": 8.6,
             "Hard": 7,
             "Normal": 6,
             "Easy": 4
@@ -8058,12 +8058,12 @@
             "07 OpenTaiko Chapter VII\\307 - A Cadence of the Lotuses\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "86d3b52d835e038ec384007666d2fa8d",
+        "tjaMD5": "78048e0d43bee59c580ab92db81aa010",
         "chartSize": 3.56,
         "chartTitle": "A Cadence of the Lotuses",
         "chartSubtitle": "FrankleAnkles",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.8,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2
@@ -8088,12 +8088,12 @@
             "07 OpenTaiko Chapter VII\\308 - RIP OFF\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "4d43c87b44258dd3daa16839e3c628ee",
+        "tjaMD5": "38f25a514328265d52e49804999aa9a8",
         "chartSize": 4.77,
         "chartTitle": "RIP \u2215\u2215 OFF",
         "chartSubtitle": "Lucky & Silence",
         "chartDifficulties": {
-            "Edit": 9,
+            "Edit": 9.3,
             "Oni": 10.3,
             "Hard": 5,
             "Normal": 4,
@@ -8120,15 +8120,15 @@
             "07 OpenTaiko Chapter VII\\309 - opia\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "3c5dccaf1318c74514d76970aed793af",
+        "tjaMD5": "99b98e6d279f397dbef85816d2e9973a",
         "chartSize": 5.68,
         "chartTitle": "opia",
         "chartSubtitle": "rN",
         "chartDifficulties": {
             "Oni": 10.5,
-            "Hard": 8,
-            "Normal": 8,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 8.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -8150,16 +8150,16 @@
             "07 OpenTaiko Chapter VII\\310 - SaSaYaKi\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "175732178c83cc37c2dca0bb6f7d1184",
+        "tjaMD5": "1153c7c339c2e4e40883d8eeb023b8a6",
         "chartSize": 5.84,
         "chartTitle": "SaSaYaKi",
         "chartSubtitle": "NaRouDaK",
         "chartDifficulties": {
             "Edit": 10.7,
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.6,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Makotora",
@@ -8182,13 +8182,13 @@
             "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "4a56eb051bc81a1776bffa8f7d51f06c",
+        "tjaMD5": "93178acdd1880a29c4c722d8110da783",
         "chartSize": 1.89,
         "chartTitle": "Lost Petal's Wander",
         "chartSubtitle": "RB.H \u00d7 lixound \u00d7 Setsunan",
         "chartDifficulties": {
             "Oni": 10.7,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -8211,16 +8211,16 @@
             "07 OpenTaiko Chapter VII\\312 - Starry Reservoir\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "d84a8a44c9f13c933b57fc0ce7668607",
+        "tjaMD5": "dfd3cfad930d0fbf971fe4c583e2914e",
         "chartSize": 3.48,
         "chartTitle": "Starry Reservoir",
         "chartSubtitle": "FrankleAnkles",
         "chartDifficulties": {
             "Edit": 10.2,
-            "Oni": 8,
+            "Oni": 8.3,
             "Hard": 5,
-            "Normal": 4,
-            "Easy": 3
+            "Normal": 5,
+            "Easy": 4
         },
         "chartMakers": {
             "Edit": "bol",
@@ -8242,13 +8242,13 @@
             "07 OpenTaiko Chapter VII\\313 - Chapter of a Dragon\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "20aa34c6a8735bbe000870db8cdf6962",
+        "tjaMD5": "f5c4224e66607bd11ec13dbf1f793244",
         "chartSize": 3.5,
         "chartTitle": "Chapter of a Dragon",
         "chartSubtitle": "qloudpatch",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -8271,12 +8271,12 @@
             "07 OpenTaiko Chapter VII\\314 - REPRISAL\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "2185fe38774136c4fbca2ef4245c6fc2",
+        "tjaMD5": "39b9b8738082e3801061a740a262f255",
         "chartSize": 3.89,
         "chartTitle": "REPRIS\u0245L",
         "chartSubtitle": "Tatsuoto",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.6,
             "Hard": 7,
             "Normal": 6,
             "Easy": 4
@@ -8359,15 +8359,15 @@
             "07 OpenTaiko Chapter VII\\317 - Dropping Packets\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "03858b7ee9e8e09370f7f149a9173531",
+        "tjaMD5": "5f8a36e142ee111aa88f6e609bd43dbb",
         "chartSize": 3.03,
         "chartTitle": "Dropping Packets",
         "chartSubtitle": "DeBisco",
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Oni": 9.9,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "sadkay",
@@ -8389,15 +8389,15 @@
             "07 OpenTaiko Chapter VII\\318 - REITERATION\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "6ede9c0533f3f613911c0cfdb855ec8d",
+        "tjaMD5": "54be935a85138ad78bb01e83e78ffacf",
         "chartSize": 7.17,
         "chartTitle": "RE:ITERATION",
         "chartSubtitle": "BlastiX & ione",
         "chartDifficulties": {
             "Oni": 11.2,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -8419,7 +8419,7 @@
             "07 OpenTaiko Chapter VII\\319 - Moonlight Frequency\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "2041389106674922eb1945e5f2aacad0",
+        "tjaMD5": "09e0ad01280b7653fdb863ee889b84d7",
         "chartSize": 5.91,
         "chartTitle": "Moonlight Frequency",
         "chartSubtitle": "Kaizu",
@@ -8427,7 +8427,7 @@
             "Easy": 4,
             "Normal": 5,
             "Hard": 7,
-            "Oni": 8,
+            "Oni": 8.2,
             "Edit": 11.3
         },
         "chartMakers": {
@@ -8451,16 +8451,16 @@
             "07 OpenTaiko Chapter VII\\320 - queen of destruction\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "4bf9f9e0acf59e6333bf9abb3d06180f",
+        "tjaMD5": "e197076590a7fcbcda23d9b0c2641067",
         "chartSize": 6.5,
         "chartTitle": "queen of destruction",
         "chartSubtitle": "zqr",
         "chartDifficulties": {
             "Edit": 11.9,
             "Oni": 10.6,
-            "Hard": 9,
-            "Easy": 6,
-            "Normal": 8
+            "Hard": 9.0,
+            "Easy": 6.0,
+            "Normal": 8.0
         },
         "chartMakers": {
             "Edit": "sadkay",
@@ -8482,15 +8482,15 @@
             "07 OpenTaiko Chapter VII\\321 - Grand Fantasy after Motifs\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "adb011e9dfcbddef8996cb9b0ff9394c",
+        "tjaMD5": "ba47dee55711612675eb65f313b52239",
         "chartSize": 12.89,
         "chartTitle": "Grand Fantasy after Motifs from the Operetta \"La Partita\", Op. 26",
         "chartSubtitle": "Steven Wan",
         "chartDifficulties": {
             "Oni": 11.4,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 9.0,
+            "Normal": 7.5,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -8512,16 +8512,16 @@
             "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "1554cc8ec89fdf5dfcfb8d2dabe651cb",
+        "tjaMD5": "937639d102815dff0c20e972637f484f",
         "chartSize": 8.04,
         "chartTitle": "BURDENED-\u2200EGIS",
         "chartSubtitle": "Xeveir and Xeron",
         "chartDifficulties": {
             "Edit": 12.6,
             "Oni": 10.7,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 9.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Komi",
@@ -8546,13 +8546,13 @@
             "07 OpenTaiko Chapter VII\\CH7 - OPTK Syndrome\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "7b097c8f019feabbcaf7cd6c1b7e424e",
+        "tjaMD5": "653113dfd9b4850f7bf976254623c940",
         "chartSize": 39.41,
         "chartTitle": "OPTK Syndrome",
         "chartSubtitle": "Sincerely, Dashy",
         "chartDifficulties": {
             "Edit": 10.0,
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4

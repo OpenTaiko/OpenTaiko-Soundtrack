@@ -8577,12 +8577,12 @@
             "08 OpenTaiko Chapter VIII\\328 - Apeiroscopy\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "d56ab035c79733f38e2fd5abcab15d4d",
+        "tjaMD5": "71d21611eb07360ddf3b40511163528f",
         "chartSize": 2.79,
         "chartTitle": "Apeiroscopy",
         "chartSubtitle": "Dashy,",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.8,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -8607,12 +8607,12 @@
             "08 OpenTaiko Chapter VIII\\329 - Tara!\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "4475f83484352822dc334ae5f2a47e0d",
+        "tjaMD5": "b59b8afd67e5f02cb4679caf4a2a6a01",
         "chartSize": 3.88,
         "chartTitle": "Tara!",
         "chartSubtitle": "OfficialAz3 feat. Hodong (from VOX Factory)",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.1,
             "Hard": 6,
             "Normal": 6,
             "Easy": 4
@@ -8699,12 +8699,12 @@
             "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "346480ea9d5fb3c8c4c13e858022cffb",
+        "tjaMD5": "c05324437f2b3fcb43770c1493ef729c",
         "chartSize": 2.1,
         "chartTitle": "MTG IMPACTA",
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.2,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3
@@ -8728,12 +8728,12 @@
             "08 OpenTaiko Chapter VIII\\335 - Midsummer Midnight\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "d6afb342f75c84e8d3cccdd5b5347b2c",
+        "tjaMD5": "598caf0a06671830bfe23c7a93a6feeb",
         "chartSize": 2.66,
         "chartTitle": "Midsummer Midnight (Game Cut.)",
         "chartSubtitle": "Bit Lie",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.3,
             "Edit": 7,
             "Hard": 4,
             "Normal": 4,
@@ -8760,12 +8760,12 @@
             "08 OpenTaiko Chapter VIII\\336 - BERRY FEVER\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "70fa2e9f8d395a3778c0cd10108fd335",
+        "tjaMD5": "52be55189c5e37eb0987beae8d0e60d8",
         "chartSize": 3.42,
         "chartTitle": "BERRY FEVER",
         "chartSubtitle": "tony feat. Hatsune Miku",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.1,
             "Hard": 4,
             "Normal": 3,
             "Easy": 2
@@ -8790,12 +8790,12 @@
             "08 OpenTaiko Chapter VIII\\337 - ELEDREAM\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "7009ae05ae15df92ef49593c355a8a86",
+        "tjaMD5": "dd26a8bbd9a340436e63ce581108bf3f",
         "chartSize": 5.4,
         "chartTitle": "ELEDREAM",
         "chartSubtitle": "tony feat. Hatsune Miku",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.0,
             "Hard": 6,
             "Normal": 5,
             "Easy": 4
@@ -8819,15 +8819,15 @@
             "08 OpenTaiko Chapter VIII\\340 - Unending Freedom Dashy\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "2ca1050e1d4924ae2aeabfd64b7e3341",
+        "tjaMD5": "ae420cfcded7e93fe1b480a12167872f",
         "chartSize": 3.16,
         "chartTitle": "Unending Freedom ~Dashy's 3-Piece Infinitus~",
         "chartSubtitle": "Tatsuoto reversed by Dashy,",
         "chartDifficulties": {
             "Oni": 10.7,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -8850,12 +8850,12 @@
             "08 OpenTaiko Chapter VIII\\342 - To Feel Alive\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "e9a8952da3c48154162d93d372a0d878",
+        "tjaMD5": "dc7cfe78ebed6f36ce46c1fc255a843a",
         "chartSize": 3.6,
         "chartTitle": "To Feel Alive",
         "chartSubtitle": "Phantoskii ft. Adachi Rei",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 6,
             "Normal": 5,
             "Easy": 2
@@ -8880,12 +8880,12 @@
             "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "71240cda5dd62039f97bf159906bb054",
+        "tjaMD5": "d42d3659ebc8b228404291103db08de5",
         "chartSize": 5.35,
         "chartTitle": "CONTINUING HEART",
         "chartSubtitle": "TONE feat. Hatsune Miku",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.2,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -8910,12 +8910,12 @@
             "08 OpenTaiko Chapter VIII\\344 - Adventurous Legend of Hilled Amethyst\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "4d41e8d435a9d99f94b59c97483ab8f7",
+        "tjaMD5": "f213c2e41aa7d9fa762671a6c475e1f0",
         "chartSize": 4.47,
         "chartTitle": "Adventurous Legend of Hilled Amethyst",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.8,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -8940,12 +8940,12 @@
             "08 OpenTaiko Chapter VIII\\345 - Paku very long\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "0afab798148827a7be16a9436440bd9a",
+        "tjaMD5": "460f2ca9869d3c131f96f2b2d872942b",
         "chartSize": 5.9,
         "chartTitle": "Nightmares destroy you, The field of dreams forgotten, We shall help you sleep. - Dreamseeker Paku",
         "chartSubtitle": "Catonieca",
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.4,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -8969,12 +8969,12 @@
             "08 OpenTaiko Chapter VIII\\353 - blowfish snorkeling\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "20c88ffae057bfa07234958c138326e8",
+        "tjaMD5": "649220e91dac792c24b1bea03e97d130",
         "chartSize": 6.54,
         "chartTitle": "blowfish snorkeling",
         "chartSubtitle": "phonon & Israel Strom",
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.6,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2
@@ -8998,15 +8998,15 @@
             "08 OpenTaiko Chapter VIII\\354 - Pat Metheny Remix\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "af9d3794c500dd274accab9fbd5899e5",
+        "tjaMD5": "7672ee375ff068e8aa5fe58bb8a1a3cf",
         "chartSize": 8.66,
         "chartTitle": "Pat Metheny Remix",
         "chartSubtitle": "phonon & Israel Strom",
         "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Oni": 8.6,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "YSTAR-T",
@@ -9027,15 +9027,15 @@
             "08 OpenTaiko Chapter VIII\\355 - carousel horse\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "abaced6b2d0dc499f6293ef8819fe9a5",
+        "tjaMD5": "8368a0df21bca3481fbacc3d5037fff8",
         "chartSize": 3.47,
         "chartTitle": "carousel horse",
         "chartSubtitle": "phonon feat. benjamin francis",
         "chartDifficulties": {
             "Oni": 11.9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 6
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 6.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -9057,7 +9057,7 @@
             "08 OpenTaiko Chapter VIII\\356 - reiteration null\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "4adcd83ccb3e8836a0334a364a2b8e75",
+        "tjaMD5": "60afcf8cb69e2cfc09f9684c87379f49",
         "chartSize": 3.69,
         "chartTitle": "re:iteration = NULL",
         "chartSubtitle": "endofsystem",
@@ -9066,7 +9066,7 @@
             "Normal": 4,
             "Hard": 6,
             "Oni": 7,
-            "Edit": 8
+            "Edit": 8.2
         },
         "chartMakers": {
             "Easy": "YSTAR-T",
@@ -9089,12 +9089,12 @@
             "08 OpenTaiko Chapter VIII\\357 - Extraterrestrial Kobold from the Moon\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "e4161aafaa53b8ae414a594cc1b7ae03",
+        "tjaMD5": "b4badbd8d0a1eedbd6e8fd02057f246e",
         "chartSize": 4.42,
         "chartTitle": "Extraterrestrial Kobold from the Moon",
         "chartSubtitle": "qloudpatch",
         "chartDifficulties": {
-            "Easy": 5,
+            "Easy": 5.0,
             "Normal": 6,
             "Hard": 7,
             "Oni": 10.2
@@ -9119,15 +9119,15 @@
             "08 OpenTaiko Chapter VIII\\358 - passage\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "50d1ab10cc778e9aa2643e78cecb1c23",
+        "tjaMD5": "1316cac114b087b2713a177ca0c678b1",
         "chartSize": 4.27,
         "chartTitle": "passage",
         "chartSubtitle": "DevTheFox",
         "chartDifficulties": {
             "Oni": 10.3,
             "Easy": 4,
-            "Normal": 7,
-            "Hard": 8
+            "Normal": 7.0,
+            "Hard": 8.0
         },
         "chartMakers": {
             "Oni": "DiamondN1nja",
@@ -9149,7 +9149,7 @@
             "08 OpenTaiko Chapter VIII\\359 - Hypersurface\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "4bc70dd7df753ea296db993aafa1175f",
+        "tjaMD5": "b87361fd0f55ec93aabfb088ffe4ca11",
         "chartSize": 5.26,
         "chartTitle": "Hypersurface",
         "chartSubtitle": "Grigori Poincar\u00e9",
@@ -9157,7 +9157,7 @@
             "Oni": 10.2,
             "Normal": 4,
             "Hard": 7,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "sadkay",
@@ -9179,13 +9179,13 @@
             "08 OpenTaiko Chapter VIII\\360 - No Concision Full Deception\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "196ed357ce602a6027f5178c2edd128b",
+        "tjaMD5": "827a82aafce977fbf0371d9ed796f692",
         "chartSize": 4.13,
         "chartTitle": "No Concision, Full Deception",
         "chartSubtitle": "OfficialAz3",
         "chartDifficulties": {
             "Edit": 10.5,
-            "Oni": 8,
+            "Oni": 8.5,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -9211,15 +9211,15 @@
             "08 OpenTaiko Chapter VIII\\361 - Lunar Fragment\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "9d15043079a13501b5ef84f532518448",
+        "tjaMD5": "632c07bdf40083ff7a86ef263d8cf434",
         "chartSize": 3.39,
         "chartTitle": "Lunar\u2215\u2215Fragment",
         "chartSubtitle": "qloudpatch",
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 5,
-            "Hard": 8,
-            "Oni": 9
+            "Hard": 8.0,
+            "Oni": 9.3
         },
         "chartMakers": {
             "Easy": "YSTAR-T,Fragment 0",
@@ -9241,15 +9241,15 @@
             "08 OpenTaiko Chapter VIII\\362 - FC AP Even\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "a2a23861774d57c5d0fd456f17bc6e1f",
+        "tjaMD5": "a2e62cc9f82048d43ec00c221d3b1121",
         "chartSize": 2.68,
         "chartTitle": "Full Combo, All Perfect Even",
         "chartSubtitle": "Tatsuoto",
         "chartDifficulties": {
             "Oni": 11.2,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -9363,13 +9363,13 @@
             "08 OpenTaiko Chapter VIII\\367 - ESA\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "a5836165b7b8d4ca459b97b324b8506b",
+        "tjaMD5": "59aeeffb4cf0a583089e8886762c4fbc",
         "chartSize": 3.52,
         "chartTitle": "\u00abEnTeR-SaMaS-AsTeRaMaS\u00bb (Game Edit)",
         "chartSubtitle": "NaRouDaK",
         "chartDifficulties": {
             "Edit": 10.1,
-            "Oni": 9,
+            "Oni": 9.4,
             "Easy": 3,
             "Normal": 4,
             "Hard": 5
@@ -9394,15 +9394,15 @@
             "08 OpenTaiko Chapter VIII\\368 - Yoake no Voyage Comet\\Yoake no Voyage Comet.tja"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "cd70c684a3ef66824b119467b8637737",
+        "tjaMD5": "7622e652966047b193f23db2e47e09c2",
         "chartSize": 4.78,
         "chartTitle": "Yoake no Voyage Comet",
         "chartSubtitle": "10tel",
         "chartDifficulties": {
             "Oni": 10.2,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -9424,16 +9424,16 @@
             "08 OpenTaiko Chapter VIII\\369 - Xross Imperium\\Xross Imperium.tja"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "0a357d23e65106cfc0afd40f3d62413e",
+        "tjaMD5": "f8bfd50f5a5bbddd5df1ff7566d3f0e3",
         "chartSize": 5.13,
         "chartTitle": "Xross Imperium",
         "chartSubtitle": "BlastiX & Xor\u0245",
         "chartDifficulties": {
             "Edit": 10.6,
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 7,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Makotora",
@@ -9456,16 +9456,16 @@
             "08 OpenTaiko Chapter VIII\\377 - 100 Carat Smoke Point\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "54b9d02fd43d5b765abbf99f0b06bf5c",
+        "tjaMD5": "7d26718ee8e7901a3cef4710c92694d0",
         "chartSize": 6.65,
         "chartTitle": "100 Carat Smoke Point",
         "chartSubtitle": "BilliumMoto",
         "chartDifficulties": {
             "Edit": 11.8,
             "Oni": 10.4,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 6
+            "Easy": 6.0
         },
         "chartMakers": {
             "Edit": "Komi",

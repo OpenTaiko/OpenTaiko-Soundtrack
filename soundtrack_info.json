@@ -12,7 +12,9 @@
         "tjaMD5": "14d182e7180d2d9836cd8703d38f960c",
         "chartSize": 3.19,
         "chartTitle": "cityscape",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.3,
             "Oni": 6,
@@ -44,7 +46,9 @@
         "tjaMD5": "3df7a72702ca00e22c9e5ee3fb2641f6",
         "chartSize": 6.13,
         "chartTitle": "Zerst\u00f6ren",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 8.3,
@@ -76,7 +80,9 @@
         "tjaMD5": "755451ad61055fe3d3b3d40ed466301a",
         "chartSize": 4.74,
         "chartTitle": "Breaking Point",
+        "chartTitles": {},
         "chartSubtitle": "Yonokid",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.4,
             "Oni": 9.2,
@@ -108,7 +114,9 @@
         "tjaMD5": "6088dea65a2e5743a534d7a35569f5df",
         "chartSize": 3.2,
         "chartTitle": "WTF?!",
+        "chartTitles": {},
         "chartSubtitle": "Moox",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 8.4,
@@ -139,7 +147,9 @@
         "tjaMD5": "1521542607d0fc87392d0e22ffa4a999",
         "chartSize": 3.1,
         "chartTitle": "Athazagoraphobia",
+        "chartTitles": {},
         "chartSubtitle": "Derpikarp",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.6,
             "Oni": 8.8,
@@ -171,7 +181,9 @@
         "tjaMD5": "0f3e449863451f62f1a8c28604b799ed",
         "chartSize": 2.89,
         "chartTitle": "Gewissenbisse",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera vs ALTERNATiVE THEORY",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.5,
             "Hard": 7,
@@ -202,7 +214,9 @@
         "tjaMD5": "a1e18f3ce624af65067cdd8d4a1c5129",
         "chartSize": 3.29,
         "chartTitle": "DON'T LOOK BACK",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 12.2,
             "Oni": 10.7,
@@ -234,7 +248,9 @@
         "tjaMD5": "ad04fc521c44aad691f1354054cb3527",
         "chartSize": 6.86,
         "chartTitle": "BassBoL",
+        "chartTitles": {},
         "chartSubtitle": "InterChan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.9,
             "Hard": 8.0,
@@ -264,7 +280,9 @@
         "tjaMD5": "bea61841a835f4c9061e0ff3bfb12bb0",
         "chartSize": 3.05,
         "chartTitle": "Liberation",
+        "chartTitles": {},
         "chartSubtitle": "DeBisco",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.5,
             "Oni": 8.5,
@@ -296,7 +314,9 @@
         "tjaMD5": "556fd4339e671cecd9d735f674c28f88",
         "chartSize": 3.49,
         "chartTitle": "Corrupted Angel",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 5,
@@ -326,7 +346,13 @@
         "tjaMD5": "528ffffbb338ee821226014cd208c16b",
         "chartSize": 1.2,
         "chartTitle": "Startup Parade!",
+        "chartTitles": {
+            "JA": "Startup Parade!"
+        },
         "chartSubtitle": "Ryuto Setsujin",
+        "chartSubtitles": {
+            "JA": "\u30ea\u30e5\u30c8\u30bb\u30c4\u30b8\u30f3"
+        },
         "chartDifficulties": {
             "Oni": 5,
             "Hard": 3,
@@ -356,7 +382,9 @@
         "tjaMD5": "0c9f787e10ca3e562263d61b2cd5153f",
         "chartSize": 3.2,
         "chartTitle": "White Heart",
+        "chartTitles": {},
         "chartSubtitle": "9C feat. Cusi",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.8,
             "Hard": 8.0,
@@ -386,7 +414,9 @@
         "tjaMD5": "5093853814f278dcd50d9b2fbc3e8b1d",
         "chartSize": 2.99,
         "chartTitle": "Summer Overload!",
+        "chartTitles": {},
         "chartSubtitle": "Akako Hinami",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.6,
             "Hard": 7,
@@ -416,7 +446,9 @@
         "tjaMD5": "9a1fee494d0f8aac874750b495046017",
         "chartSize": 3.06,
         "chartTitle": "Halcyon",
+        "chartTitles": {},
         "chartSubtitle": "Akako Hinami",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.7,
             "Hard": 8.5,
@@ -447,7 +479,9 @@
         "tjaMD5": "425964cd239d50ca7845d661dff07e54",
         "chartSize": 2.79,
         "chartTitle": "Back Where I'm From",
+        "chartTitles": {},
         "chartSubtitle": "NetroAki",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 7,
@@ -476,7 +510,9 @@
         "tjaMD5": "4c96810775a20c4db1336ec6e61e614f",
         "chartSize": 1.26,
         "chartTitle": "Slayer of.",
+        "chartTitles": {},
         "chartSubtitle": "Aden Mayo",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.5,
@@ -508,7 +544,9 @@
         "tjaMD5": "63a53fcd339a89679d6a5c0db5d39570",
         "chartSize": 3.13,
         "chartTitle": "Welcome To The Cafe",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera feat. ALTERNATiVE THEORY",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.1,
             "Edit": 7,
@@ -540,7 +578,9 @@
         "tjaMD5": "14b749a5733360f69e41c42460fd855d",
         "chartSize": 7.65,
         "chartTitle": "Seismic Shake",
+        "chartTitles": {},
         "chartSubtitle": "DeBisco",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.6,
             "Edit": 10.5,
@@ -572,7 +612,9 @@
         "tjaMD5": "5d1e4b1aa0731213ae1b313fb5fee8d4",
         "chartSize": 8.14,
         "chartTitle": "Stereotype",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.2,
             "Hard": 7,
@@ -601,7 +643,9 @@
         "tjaMD5": "5457aa5d032c709dd6263ca1a7b232fb",
         "chartSize": 2.89,
         "chartTitle": "Fearless",
+        "chartTitles": {},
         "chartSubtitle": "Ash Electric",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.2,
             "Oni": 7,
@@ -633,7 +677,9 @@
         "tjaMD5": "e58d0a4d1e306a78e46a4cc5507f4c4d",
         "chartSize": 2.5,
         "chartTitle": "Katharsis",
+        "chartTitles": {},
         "chartSubtitle": "9C",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.4,
             "Oni": 8.7,
@@ -666,7 +712,13 @@
         "tjaMD5": "490bb323bc793635c42a73ad5dc57ebf",
         "chartSize": 2.63,
         "chartTitle": "2-Steppin' Love",
+        "chartTitles": {
+            "JA": "2-Steppin' Love"
+        },
         "chartSubtitle": "FUNKYZUKIN ft. Hatsune Miku",
+        "chartSubtitles": {
+            "JA": "FUNKYZUKIN ft. \u521d\u97f3\u30df\u30af"
+        },
         "chartDifficulties": {
             "Edit": 7,
             "Oni": 7,
@@ -698,7 +750,11 @@
         "tjaMD5": "d183ae82338b18d517c0c0b730c53546",
         "chartSize": 8.49,
         "chartTitle": "Yami",
+        "chartTitles": {
+            "JA": "\u95c7"
+        },
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.1,
             "Oni": 9.3,
@@ -730,7 +786,9 @@
         "tjaMD5": "26c93d642b98ec3734a41b21ae828180",
         "chartSize": 3.3,
         "chartTitle": "mischief madness",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 8.0,
@@ -760,7 +818,9 @@
         "tjaMD5": "4afae0864bacb67de33006a4e779c782",
         "chartSize": 8.72,
         "chartTitle": "Alonebirthday",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 9.4,
@@ -792,7 +852,9 @@
         "tjaMD5": "c2add8b6694b6e4026ab201d32a65e89",
         "chartSize": 10.0,
         "chartTitle": "The World of Our Past",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu & rainfall",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.5,
             "Hard": 7,
@@ -823,7 +885,9 @@
         "tjaMD5": "6b69d01367f94bece2687cc7592dd574",
         "chartSize": 3.05,
         "chartTitle": "ENDOMANCER",
+        "chartTitles": {},
         "chartSubtitle": "Zovi",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 6,
@@ -855,7 +919,9 @@
         "tjaMD5": "56f8fa51aa81196529e8ee51bc4c175e",
         "chartSize": 2.36,
         "chartTitle": "RUiNED GLORY",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.0,
             "Oni": 9.6,
@@ -887,7 +953,9 @@
         "tjaMD5": "ed11f29b12dcd68d8a14cd7248053656",
         "chartSize": 5.95,
         "chartTitle": "Yukianesa ~Azure of Ice~",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 8.4,
@@ -919,7 +987,9 @@
         "tjaMD5": "af1490ac0b97c906265fd8ed392baa5c",
         "chartSize": 7.87,
         "chartTitle": "Every Night",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 6,
@@ -949,7 +1019,9 @@
         "tjaMD5": "95d1639c15095000bf0bdb3823305631",
         "chartSize": 2.33,
         "chartTitle": "beyond the cityscape",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.1,
             "Oni": 7,
@@ -981,7 +1053,9 @@
         "tjaMD5": "f3b05a1034100f8416b65e7b8fc019b4",
         "chartSize": 2.8,
         "chartTitle": "Shockwave",
+        "chartTitles": {},
         "chartSubtitle": "Yonokid",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.7,
             "Hard": 7,
@@ -1012,7 +1086,9 @@
         "tjaMD5": "1c00f998e09e33510366991138508c41",
         "chartSize": 4.91,
         "chartTitle": "TRIPLE HELIX",
+        "chartTitles": {},
         "chartSubtitle": "Yonokid",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.2,
             "Hard": 6,
@@ -1044,7 +1120,9 @@
         "tjaMD5": "5485cdc7d3f859221149dfd1f4250b2b",
         "chartSize": 2.5,
         "chartTitle": "Memory",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.2,
             "Oni": 10.1,
@@ -1076,7 +1154,9 @@
         "tjaMD5": "6ebf44e2ba7b8bde7cd6cca9a94beff3",
         "chartSize": 5.76,
         "chartTitle": "WE ARE OPTK!!",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu / 2022 Submission Memorial Medley",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 8.0,
@@ -1106,7 +1186,9 @@
         "tjaMD5": "dbf0ff8a1da98173dcf42739290d67d5",
         "chartSize": 1.75,
         "chartTitle": "nanja korya ?!",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.4,
             "Oni": 6,
@@ -1138,7 +1220,9 @@
         "tjaMD5": "03e01f70c71b95c779e8901abc6ee9d8",
         "chartSize": 2.09,
         "chartTitle": "\u03a3xil\u018e",
+        "chartTitles": {},
         "chartSubtitle": "mrcool909090",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.6,
             "Oni": 9.5,
@@ -1169,7 +1253,9 @@
         "tjaMD5": "01a963fb391e24fc3163faa4a0d8b59e",
         "chartSize": 4.04,
         "chartTitle": "Pixelated Angel",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.0,
             "Hard": 8.0,
@@ -1198,7 +1284,9 @@
         "tjaMD5": "033f87ad0e63f751a43ac9caede8a41d",
         "chartSize": 2.1,
         "chartTitle": "The Nostalgic Messenger",
+        "chartTitles": {},
         "chartSubtitle": "CuZi",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.1,
             "Hard": 4,
@@ -1228,7 +1316,9 @@
         "tjaMD5": "54032b3c560cf87e4d379092dfd87862",
         "chartSize": 14.1,
         "chartTitle": "Overclocked (Pocket Size)",
+        "chartTitles": {},
         "chartSubtitle": "DeBisco",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.8,
             "Oni": 8.5,
@@ -1260,7 +1350,9 @@
         "tjaMD5": "66f752c947bfafd45c65096db598f650",
         "chartSize": 5.44,
         "chartTitle": "Annihilation",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.6,
@@ -1291,7 +1383,9 @@
         "tjaMD5": "ff1c87152601c851f632d9c473013f86",
         "chartSize": 1.81,
         "chartTitle": "650 HP",
+        "chartTitles": {},
         "chartSubtitle": "Akako Hinami",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.4,
             "Hard": 7,
@@ -1321,7 +1415,9 @@
         "tjaMD5": "c86d8bcf760b39ac9629b368122c28ff",
         "chartSize": 5.79,
         "chartTitle": "PYR\u0394MiD",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.2,
             "Hard": 6,
@@ -1351,7 +1447,9 @@
         "tjaMD5": "9cb1c2ad6f8d3d6bcc276746c47c780d",
         "chartSize": 19.69,
         "chartTitle": "Synthsea",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 9.0,
@@ -1381,7 +1479,9 @@
         "tjaMD5": "cb619e760b11516c9cbed70ff2a1d43e",
         "chartSize": 1.98,
         "chartTitle": "NEKROS",
+        "chartTitles": {},
         "chartSubtitle": "GRYSCL",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.9,
             "Oni": 10.0,
@@ -1413,7 +1513,9 @@
         "tjaMD5": "98774cb64fa81933da0d93699ebc76b6",
         "chartSize": 7.83,
         "chartTitle": "pipie",
+        "chartTitles": {},
         "chartSubtitle": "goldenyoshi22",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.8,
             "Hard": 8.5,
@@ -1442,7 +1544,9 @@
         "tjaMD5": "92c77eff143c620298b499ec3f52dfa8",
         "chartSize": 2.58,
         "chartTitle": "Hero's March",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.2,
             "Oni": 5,
@@ -1474,7 +1578,9 @@
         "tjaMD5": "e62783f6f8db8a2afec75f214024da5e",
         "chartSize": 3.36,
         "chartTitle": "lost in the cityscape",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.2,
             "Oni": 7,
@@ -1506,7 +1612,13 @@
         "tjaMD5": "c40dd07f73fb1201f06ab5cda101457b",
         "chartSize": 4.02,
         "chartTitle": "The Abyss",
+        "chartTitles": {
+            "JA": "The Abyss"
+        },
         "chartSubtitle": "ok cheez",
+        "chartSubtitles": {
+            "JA": "ok cheez"
+        },
         "chartDifficulties": {
             "Oni": 9.4,
             "Hard": 6,
@@ -1536,7 +1648,9 @@
         "tjaMD5": "c447244a53957e6be956cecfa4d1040c",
         "chartSize": 2.25,
         "chartTitle": "next-level cityscape",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.7,
             "Oni": 7,
@@ -1568,7 +1682,9 @@
         "tjaMD5": "c186611a09e1bdf0179a817d886eba7f",
         "chartSize": 2.59,
         "chartTitle": "away",
+        "chartTitles": {},
         "chartSubtitle": "rainfall",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Easy": 1,
@@ -1598,7 +1714,9 @@
         "tjaMD5": "549a988cc64a6decac989c519be8f157",
         "chartSize": 2.94,
         "chartTitle": "PLANETES",
+        "chartTitles": {},
         "chartSubtitle": "SiLiS",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Edit": 10.4,
@@ -1630,7 +1748,9 @@
         "tjaMD5": "b59fd86016e74b9168819e319a1ca58e",
         "chartSize": 3.69,
         "chartTitle": "Bounded Quietude",
+        "chartTitles": {},
         "chartSubtitle": "SiLiS vs Finite Limit",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.5,
             "Oni": 10.2,
@@ -1662,7 +1782,9 @@
         "tjaMD5": "0086823d54f57f457c77314f8f4ca2c1",
         "chartSize": 2.78,
         "chartTitle": "Heating Up",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 5,
@@ -1693,7 +1815,13 @@
         "tjaMD5": "932ebd9cd1fb04fa9662cd2763802401",
         "chartSize": 4.15,
         "chartTitle": "Liar Prison",
+        "chartTitles": {
+            "JA": "\u3089\u3044\u3042\u30fc\u3077\u308a\u305a\u3093"
+        },
         "chartSubtitle": "SiLiS ft. Karin Natsuki",
+        "chartSubtitles": {
+            "JA": "SiLiS ft. \u590f\u8272\u82b1\u68a8"
+        },
         "chartDifficulties": {
             "Edit": 10.0,
             "Oni": 8.1,
@@ -1725,7 +1853,9 @@
         "tjaMD5": "d3e061d74c49d0601cc13ffa5b77560a",
         "chartSize": 2.75,
         "chartTitle": "Vanaheimr",
+        "chartTitles": {},
         "chartSubtitle": "SiLiS",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.6,
             "Hard": 9.0,
@@ -1756,7 +1886,13 @@
         "tjaMD5": "a1907c33a45fc97ab1c7fc1e696ad0f4",
         "chartSize": 4.44,
         "chartTitle": "Kernschmelze 256",
+        "chartTitles": {
+            "JA": "\u30b1\u30fc\u30f3\u30b7\u30e5\u30e1\u30eb\u30b6 256"
+        },
         "chartSubtitle": "funkyzukin-Q",
+        "chartSubtitles": {
+            "JA": "funkyzukin-Q"
+        },
         "chartDifficulties": {
             "Edit": 9.8,
             "Oni": 10.7,
@@ -1788,7 +1924,9 @@
         "tjaMD5": "b6b7d9f9416994bd0e9db8d0416a0f84",
         "chartSize": 3.48,
         "chartTitle": "Scarlet Soul",
+        "chartTitles": {},
         "chartSubtitle": "Cusi vs 9C",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.4,
             "Hard": 9.0,
@@ -1818,7 +1956,9 @@
         "tjaMD5": "2840c789793d9deeec8ab41dddc27133",
         "chartSize": 2.54,
         "chartTitle": "Spatium Cursu",
+        "chartTitles": {},
         "chartSubtitle": "X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -1848,7 +1988,9 @@
         "tjaMD5": "b2df923a489f4c507f70496d35125749",
         "chartSize": 2.51,
         "chartTitle": "640x480",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 7,
             "Oni": 9.1,
@@ -1880,7 +2022,9 @@
         "tjaMD5": "3fb6e3d70ea64e563356b1c2e86ca2a7",
         "chartSize": 4.87,
         "chartTitle": "Meowmetic",
+        "chartTitles": {},
         "chartSubtitle": "HHS",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 1,
             "Normal": 2,
@@ -1909,7 +2053,9 @@
         "tjaMD5": "367a2de66ed7ffe4c6f8640ea4696745",
         "chartSize": 1.16,
         "chartTitle": "the garden",
+        "chartTitles": {},
         "chartSubtitle": "AZALI",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 1,
             "Normal": 2,
@@ -1938,7 +2084,9 @@
         "tjaMD5": "76d9d978d2e6d9ffaf4007e1deebf055",
         "chartSize": 1.56,
         "chartTitle": "MECHANICAL GOD",
+        "chartTitles": {},
         "chartSubtitle": "AZALI \u00d7 Crow",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 4,
@@ -1970,7 +2118,9 @@
         "tjaMD5": "02515b231653c7340907427acd392d56",
         "chartSize": 8.26,
         "chartTitle": "Taikonitos",
+        "chartTitles": {},
         "chartSubtitle": "Moox",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
@@ -1999,7 +2149,13 @@
         "tjaMD5": "d55b72befcb4cf9a878b91d3e3059e12",
         "chartSize": 2.6,
         "chartTitle": "Comma, ~ Imi to Kouzou no Bunri",
+        "chartTitles": {
+            "JA": "Comma, \uff5e \u610f\u5473\u30c8\u69cb\u9020\u30ce\u5206\u96e2"
+        },
         "chartSubtitle": "Sparxe",
+        "chartSubtitles": {
+            "JA": "Sparxe"
+        },
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 5,
@@ -2030,7 +2186,13 @@
         "tjaMD5": "84ad83a512f395b13236b70ac7ab3128",
         "chartSize": 1.85,
         "chartTitle": "<Bracket> \uff5eDuplicate of Chaos and Destruction\uff5e",
+        "chartTitles": {
+            "JA": "<Bracket> \uff5e\u7834\u58ca\u30c8\u6df7\u6c8c\u30ce\u8907\u88fd\uff5e"
+        },
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {
+            "JA": "TFD500"
+        },
         "chartDifficulties": {
             "Oni": 10.9,
             "Hard": 8.5,
@@ -2059,7 +2221,9 @@
         "tjaMD5": "ab67bba7e97194fdb9f0e2129a717f1d",
         "chartSize": 4.22,
         "chartTitle": "Next To You",
+        "chartTitles": {},
         "chartSubtitle": "Astedroid & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.4,
             "Oni": 6,
@@ -2090,7 +2254,9 @@
         "tjaMD5": "65c5d252698a34e0f825e42137055350",
         "chartSize": 2.38,
         "chartTitle": "i don't want to see the people i love see me in pain so i sometimes just wanna be left alone to cry in the dark",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
@@ -2120,7 +2286,15 @@
         "tjaMD5": "0766ad6a13d553f65c80862d548fd455",
         "chartSize": 6.38,
         "chartTitle": "Resentment ~The Whittling of Fragmented Dreams~",
+        "chartTitles": {
+            "JA": "\u6028\u5ff5~\u6f38\u6e1b\u6b8b\u5922~",
+            "ZH": "\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {
+            "JA": "Taichenko",
+            "ZH": "Taichenko"
+        },
         "chartDifficulties": {
             "Edit": 11.7,
             "Hard": 8.5,
@@ -2152,7 +2326,9 @@
         "tjaMD5": "8fef2bc3977ce736ee89f9455d49c09f",
         "chartSize": 2.12,
         "chartTitle": "Hero's Treasure",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -2182,7 +2358,9 @@
         "tjaMD5": "29a355985db027243dfbd29dea7b5ed3",
         "chartSize": 1.77,
         "chartTitle": "FunkBoi",
+        "chartTitles": {},
         "chartSubtitle": "SenPi",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 6,
@@ -2213,7 +2391,9 @@
         "tjaMD5": "009b28392f745fc548a78e80941d3cb0",
         "chartSize": 2.11,
         "chartTitle": "The Beat",
+        "chartTitles": {},
         "chartSubtitle": "MesoPhunk",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 6,
@@ -2243,7 +2423,9 @@
         "tjaMD5": "482891cf2736d1065bc64d50594287e7",
         "chartSize": 7.36,
         "chartTitle": "thumb wrestling",
+        "chartTitles": {},
         "chartSubtitle": "ok cheez",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 8.0,
@@ -2274,7 +2456,13 @@
         "tjaMD5": "3c1302148c7669bb3c49eb07eeb466e8",
         "chartSize": 44.71,
         "chartTitle": "Dreaming to be with you",
+        "chartTitles": {
+            "EN": "Dreaming to be with you"
+        },
         "chartSubtitle": "Cusi ft. Kaeru from \u8679\u4fe1\u53f7",
+        "chartSubtitles": {
+            "EN": "Cusi ft. Kaeru from Rainbow Signal"
+        },
         "chartDifficulties": {
             "Edit": 8.2,
             "Oni": 6,
@@ -2307,7 +2495,13 @@
         "tjaMD5": "204d316496b8872212920ef0b8a97bcd",
         "chartSize": 5.47,
         "chartTitle": "Ohayo",
+        "chartTitles": {
+            "JA": "\u304a\u306f\u3088\u3046"
+        },
         "chartSubtitle": "Tanger ft. Hatsune Miku",
+        "chartSubtitles": {
+            "JA": "Tanger ft. \u521d\u97f3\u30df\u30af"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Easy": 2,
@@ -2337,7 +2531,9 @@
         "tjaMD5": "950f99bbeac3f5836f2a1433d0829173",
         "chartSize": 6.26,
         "chartTitle": "GET REAL (Game Size)",
+        "chartTitles": {},
         "chartSubtitle": "Underscore",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.3,
             "Oni": 8.0,
@@ -2369,7 +2565,9 @@
         "tjaMD5": "f13d1fc9c2da41080788cd57ba0b6469",
         "chartSize": 5.86,
         "chartTitle": "spliced",
+        "chartTitles": {},
         "chartSubtitle": "Tanger",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.8,
             "Oni": 8.1,
@@ -2401,7 +2599,13 @@
         "tjaMD5": "153a60b82ec1dbd7ca90aa45f799c318",
         "chartSize": 14.78,
         "chartTitle": "\u300811",
+        "chartTitles": {
+            "JA": "\u300811"
+        },
         "chartSubtitle": "Tanger ft. Hatsune Miku",
+        "chartSubtitles": {
+            "JA": "Tanger ft. \u521d\u97f3\u30df\u30af"
+        },
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 3,
@@ -2431,7 +2635,9 @@
         "tjaMD5": "1bcebe18ff7888eeae09855d68627f63",
         "chartSize": 14.5,
         "chartTitle": "CHAOTIC DIMENSION",
+        "chartTitles": {},
         "chartSubtitle": "Underscore",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.4,
             "Edit": 10.4,
@@ -2463,7 +2669,9 @@
         "tjaMD5": "76bb87b9d39b7f6c0327ac2deacd4bf5",
         "chartSize": 4.64,
         "chartTitle": "\uff1a3",
+        "chartTitles": {},
         "chartSubtitle": "Tanger",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 1,
             "Oni": 6,
@@ -2495,7 +2703,9 @@
         "tjaMD5": "a4dc9d57c3c5bfe932910841e186d6e7",
         "chartSize": 5.69,
         "chartTitle": "BONUS",
+        "chartTitles": {},
         "chartSubtitle": "Tanger",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -2525,7 +2735,9 @@
         "tjaMD5": "f94b8fd19007b301f98a79330bdd9c48",
         "chartSize": 2.65,
         "chartTitle": "FINAL HOPE",
+        "chartTitles": {},
         "chartSubtitle": "Underscore",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 8.5,
@@ -2555,7 +2767,9 @@
         "tjaMD5": "83369b1edaeae5bea158f3292838be70",
         "chartSize": 8.15,
         "chartTitle": "SUGARUSH~!!!",
+        "chartTitles": {},
         "chartSubtitle": "Tanger",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.1,
             "Hard": 7,
@@ -2587,7 +2801,9 @@
         "tjaMD5": "65a1ad4deac49ab514786f9cfc6b2681",
         "chartSize": 12.3,
         "chartTitle": "ETHEREAL VELOCITY (Game Size)",
+        "chartTitles": {},
         "chartSubtitle": "Underscore",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
@@ -2619,7 +2835,9 @@
         "tjaMD5": "b314be85f53360ff131a37f0cd8ef280",
         "chartSize": 10.84,
         "chartTitle": "2024 BPM IS NOT ENOUGH",
+        "chartTitles": {},
         "chartSubtitle": "Underscore",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 6,
@@ -2651,7 +2869,13 @@
         "tjaMD5": "fac641c96e23d5fc7a7787dadea14b7f",
         "chartSize": 48.61,
         "chartTitle": "POGO is ready!!",
+        "chartTitles": {
+            "JA": "\u30dd\u30b4\u306f\u3082\u3046\u5f85\u3066\u306a\u3044\uff01"
+        },
         "chartSubtitle": "TAK a.k.a. Tokky",
+        "chartSubtitles": {
+            "JA": "\u6258 a.k.a. Tokky"
+        },
         "chartDifficulties": {
             "Oni": 8.4,
             "Hard": 7,
@@ -2682,7 +2906,13 @@
         "tjaMD5": "9dfb1d682e5417fd28072451df6a8010",
         "chartSize": 6.24,
         "chartTitle": "Souzou shiku naru",
+        "chartTitles": {
+            "JA": "\u9a12\u3005\u3057\u304f\u306a\u308b"
+        },
         "chartSubtitle": "TAK a.k.a. Tokky",
+        "chartSubtitles": {
+            "JA": "\u6258 a.k.a. Tokky"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -2712,7 +2942,13 @@
         "tjaMD5": "31ed2b52b8f94321ee7f465316522205",
         "chartSize": 1.68,
         "chartTitle": "pretty kitty, yes?",
+        "chartTitles": {
+            "JA": "pretty kitty, yes\uff1f"
+        },
         "chartSubtitle": "Y.W",
+        "chartSubtitles": {
+            "JA": "Y.W"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -2744,7 +2980,13 @@
         "tjaMD5": "1166b4c0e210413319bc0f073a680b56",
         "chartSize": 1.84,
         "chartTitle": "Shoubu Biyori",
+        "chartTitles": {
+            "JA": "\u83d6\u84b2\u65e5\u548c"
+        },
         "chartSubtitle": "Y.W",
+        "chartSubtitles": {
+            "JA": "Y.W"
+        },
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 5,
@@ -2776,7 +3018,13 @@
         "tjaMD5": "bd1d9ab4ebabcdfad5fd16b0b96adb1a",
         "chartSize": 1.95,
         "chartTitle": "Sotsugyou 2000",
+        "chartTitles": {
+            "JA": "\u5352\u696d2000"
+        },
         "chartSubtitle": "Y.W",
+        "chartSubtitles": {
+            "JA": "Y.W"
+        },
         "chartDifficulties": {
             "Edit": 10.6,
             "Oni": 7,
@@ -2808,7 +3056,9 @@
         "tjaMD5": "67b24a5608729802d469045dabd86a2e",
         "chartSize": 1.7,
         "chartTitle": "M_\u300aJi\uff1a\u00dc\u300b",
+        "chartTitles": {},
         "chartSubtitle": "Masamune",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
             "Hard": 8.0,
@@ -2838,7 +3088,9 @@
         "tjaMD5": "c26346a6374a692bc5398440aaf7d641",
         "chartSize": 3.39,
         "chartTitle": "Froggy Forest Raceway",
+        "chartTitles": {},
         "chartSubtitle": "Baby Zionov",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 6,
@@ -2870,7 +3122,9 @@
         "tjaMD5": "d322b8efdfad8a5b49a3be3812dbfb5c",
         "chartSize": 26.11,
         "chartTitle": "Fractured Eternity",
+        "chartTitles": {},
         "chartSubtitle": "ro\u0259r & Toneix",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 6.0,
             "Hard": 9.0,
@@ -2902,7 +3156,9 @@
         "tjaMD5": "ceafb4854cd5df73bcfbae386c962be0",
         "chartSize": 3.83,
         "chartTitle": "the infinite cityscape",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 4,
@@ -2934,7 +3190,9 @@
         "tjaMD5": "7e64d8bb436f31513f2aab08e9270964",
         "chartSize": 4.44,
         "chartTitle": "PARANOiA Perpetuality",
+        "chartTitles": {},
         "chartSubtitle": "funkyzukin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 6,
@@ -2966,7 +3224,9 @@
         "tjaMD5": "5fa3693c2d58c719d6cb9142c90e5246",
         "chartSize": 3.44,
         "chartTitle": "Incoherent Hysteria",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.5,
             "Oni": 9.4,
@@ -2998,7 +3258,9 @@
         "tjaMD5": "e2d2244651e46cb0e329aa5cbb2612e4",
         "chartSize": 7.62,
         "chartTitle": "HEAT CONDUCTORS",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.7,
             "Hard": 6,
@@ -3030,7 +3292,9 @@
         "tjaMD5": "834730b0d8e4639ca2a7b03647fe77cb",
         "chartSize": 2.74,
         "chartTitle": "five states of weirdness",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 5,
@@ -3060,7 +3324,9 @@
         "tjaMD5": "2832906405e27c23594dd95f9237fdac",
         "chartSize": 2.79,
         "chartTitle": "MajETCMAT",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.1,
             "Oni": 10.3,
@@ -3091,7 +3357,9 @@
         "tjaMD5": "c835fb1abae7513ee72da5c5b821baaf",
         "chartSize": 1.67,
         "chartTitle": "BLACK DIAMOND",
+        "chartTitles": {},
         "chartSubtitle": "Thomas Dingwall a.k.a. td ft. MEIKO",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 7,
@@ -3121,7 +3389,13 @@
         "tjaMD5": "f4f7c2653423011551ef948fa9db78cc",
         "chartSize": 3.69,
         "chartTitle": "A symphony of a million years",
+        "chartTitles": {
+            "JA": "A symphony of a million years"
+        },
         "chartSubtitle": "oxoplasmaP ft. Defoko",
+        "chartSubtitles": {
+            "JA": "oxoplasmaP ft. \u5504\u97f3\u30a6\u30bf"
+        },
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 5,
@@ -3153,7 +3427,9 @@
         "tjaMD5": "612906971b4ba4d7882be00a45787232",
         "chartSize": 5.77,
         "chartTitle": "Mayhem",
+        "chartTitles": {},
         "chartSubtitle": "X3ll3n & Benji-G",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.2,
             "Hard": 6,
@@ -3183,7 +3459,9 @@
         "tjaMD5": "592cadd4d8773922b101037cf99ed7df",
         "chartSize": 4.69,
         "chartTitle": "Cybernetic Pressure",
+        "chartTitles": {},
         "chartSubtitle": "X3ll3n & BARY",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -3212,7 +3490,9 @@
         "tjaMD5": "00ea8527423a17fbd77bcc3848245223",
         "chartSize": 2.09,
         "chartTitle": "The Minotaur",
+        "chartTitles": {},
         "chartSubtitle": "X3ll3n & Benji-G",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -3242,7 +3522,9 @@
         "tjaMD5": "dbb067d382707fb61402ee0107ef93c6",
         "chartSize": 2.29,
         "chartTitle": "CIRCUNFERENCIA",
+        "chartTitles": {},
         "chartSubtitle": "ULKO",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 7.0,
@@ -3273,7 +3555,11 @@
         "tjaMD5": "042bce0c32c87bac59d9f5226d815353",
         "chartSize": 5.88,
         "chartTitle": "Fungus Night Carnival ~ Rhythm of the war",
+        "chartTitles": {
+            "ZH": "\u83cc\u5b62\u591c\u796d ~ \u6218\u594f"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.0,
             "Edit": 9.2,
@@ -3305,7 +3591,9 @@
         "tjaMD5": "c4fea50f189009833b7be78ca67475bc",
         "chartSize": 5.77,
         "chartTitle": "??? ~ T'soL Niamer-I ~",
+        "chartTitles": {},
         "chartSubtitle": "YLN0 feat. The Second Truth",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.7,
             "Oni": 10.7,
@@ -3337,7 +3625,9 @@
         "tjaMD5": "a257242482f1b5e301be208efeaf14ba",
         "chartSize": 2.52,
         "chartTitle": "Startup Parade! (Ryuto Setsujin + Makotora Remix)",
+        "chartTitles": {},
         "chartSubtitle": "Ryuto Setsujin + Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 4,
@@ -3367,7 +3657,9 @@
         "tjaMD5": "2ea5e770aa7ebdcee20ffd0a8c853b0f",
         "chartSize": 2.03,
         "chartTitle": "euphoric eruption",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.2,
             "Oni": 6,
@@ -3399,7 +3691,11 @@
         "tjaMD5": "b434094df32a7257203b4b0983d55b14",
         "chartSize": 3.67,
         "chartTitle": "NOVA's Night!!",
+        "chartTitles": {
+            "JA": "NOVA\u306e\u591c"
+        },
         "chartSubtitle": "alden",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 7,
             "Oni": 6,
@@ -3431,7 +3727,9 @@
         "tjaMD5": "e10c0421529351cce7822fd2749b940e",
         "chartSize": 4.29,
         "chartTitle": "AQUAMARINE",
+        "chartTitles": {},
         "chartSubtitle": "McBoiled",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.4,
             "Hard": 7,
@@ -3460,7 +3758,9 @@
         "tjaMD5": "64518c3b9c28c9a72a0acf12df00263e",
         "chartSize": 1.7,
         "chartTitle": "floatfobia",
+        "chartTitles": {},
         "chartSubtitle": "",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.5,
             "Hard": 6,
@@ -3489,7 +3789,9 @@
         "tjaMD5": "42b7856ed0e54f44a80d07b4ca4dddd2",
         "chartSize": 2.4,
         "chartTitle": "you ruined me with your lies",
+        "chartTitles": {},
         "chartSubtitle": "Teocore",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
             "Hard": 8.5,
@@ -3519,7 +3821,9 @@
         "tjaMD5": "9133e1206caeecdbd7f713a756a0faeb",
         "chartSize": 5.94,
         "chartTitle": "i'll be there",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 7,
@@ -3549,7 +3853,9 @@
         "tjaMD5": "12df4292ec4e75151979b1a0e29349f3",
         "chartSize": 3.22,
         "chartTitle": "parking spot",
+        "chartTitles": {},
         "chartSubtitle": "alden",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 4,
@@ -3579,7 +3885,9 @@
         "tjaMD5": "7d3813d9129714dd89e4c84d9353900a",
         "chartSize": 3.12,
         "chartTitle": "frenzy fever",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 5,
@@ -3609,7 +3917,9 @@
         "tjaMD5": "b8ff62b73e97deaadb18c2e8c0c046ec",
         "chartSize": 2.46,
         "chartTitle": "Starlight Traveler (Game Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.3,
             "Hard": 8.0,
@@ -3639,7 +3949,9 @@
         "tjaMD5": "0a2b251b542b4b5551f0d6726e76e592",
         "chartSize": 2.91,
         "chartTitle": "tiny windows",
+        "chartTitles": {},
         "chartSubtitle": "Frizk x Tanger",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.1,
             "Hard": 5,
@@ -3669,7 +3981,9 @@
         "tjaMD5": "ea794f5a1e86c12bdd29f717dc1aa139",
         "chartSize": 3.33,
         "chartTitle": "\u2200NARCHIC LIGHT",
+        "chartTitles": {},
         "chartSubtitle": "ro\u0259r",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 9.3,
@@ -3700,7 +4014,11 @@
         "tjaMD5": "cc4e55a0f26bd0b82e45356108f97c8e",
         "chartSize": 2.17,
         "chartTitle": "Miracle\u2606Castle",
+        "chartTitles": {},
         "chartSubtitle": "Pirendora & ro\u0259r",
+        "chartSubtitles": {
+            "JA": "\u3074\u308c\u3093\u3069\u3089\u30fc & ro\u0259r"
+        },
         "chartDifficulties": {
             "Edit": 11.1,
             "Oni": 9.8,
@@ -3733,7 +4051,13 @@
         "tjaMD5": "da9f1b1b5a23563a52052fcfc59aa31f",
         "chartSize": 3.63,
         "chartTitle": "15 NIGHT RIDER",
+        "chartTitles": {
+            "JA": "\u30b8\u30e5\u30a6\u30b4\u30e4\u30e9\u30a4\u30c0\u30fc"
+        },
         "chartSubtitle": "FALL (ELE-RabBits)",
+        "chartSubtitles": {
+            "JA": "FALL (\u30a8\u30ec\u30e9\u30d3\u30c3\u30c4)"
+        },
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 4,
@@ -3763,7 +4087,9 @@
         "tjaMD5": "6e2ab82b0776f8619ac28642692a414f",
         "chartSize": 3.56,
         "chartTitle": "nante kotta?!",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.5,
             "Oni": 9.1,
@@ -3795,7 +4121,11 @@
         "tjaMD5": "1f63be3061b43e4e6c656de17e4848d8",
         "chartSize": 1.53,
         "chartTitle": "TOKYO-RHYTHM No.524",
+        "chartTitles": {},
         "chartSubtitle": "FALL",
+        "chartSubtitles": {
+            "JA": "\u30d5\u30a9\u334a a.k.a FALL"
+        },
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 5,
@@ -3826,7 +4156,9 @@
         "tjaMD5": "d86aaa376525d9d2d8f0b88baf554705",
         "chartSize": 1.7,
         "chartTitle": "Stormrider's Bolt",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 7,
@@ -3856,7 +4188,11 @@
         "tjaMD5": "ab818c22760be63419a1e4770a01b4d9",
         "chartSize": 2.88,
         "chartTitle": "Music for Life",
+        "chartTitles": {},
         "chartSubtitle": "FALL feat. elu_amaga",
+        "chartSubtitles": {
+            "JA": "FALL feat. \u96e8\u6b4c\u30a8\u30eb"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Edit": 7,
@@ -3888,7 +4224,13 @@
         "tjaMD5": "3bcc8acfeda60bcf8796099dec18b809",
         "chartSize": 3.72,
         "chartTitle": "Goodbye My Phantasia",
+        "chartTitles": {
+            "JA": "\u30b0\u30c3\u30d0\u30a4\u30de\u30a4\u30d5\u30a1\u30f3\u30bf\u30b8\u30a2"
+        },
         "chartSubtitle": "FALL feat. yufu_sekka",
+        "chartSubtitles": {
+            "JA": "FALL feat. \u96ea\u6b4c\u30e6\u30d5"
+        },
         "chartDifficulties": {
             "Oni": 11.3,
             "Easy": 6.0,
@@ -3920,7 +4262,9 @@
         "tjaMD5": "1529ae091f28cef860373e2aa08be370",
         "chartSize": 7.88,
         "chartTitle": "Donstrgus",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.4,
             "Easy": 7.0,
@@ -3950,7 +4294,9 @@
         "tjaMD5": "514a3afec96ff72ec111be8291b38e12",
         "chartSize": 2.26,
         "chartTitle": "linebreak",
+        "chartTitles": {},
         "chartSubtitle": "zqr",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 7,
@@ -3980,7 +4326,9 @@
         "tjaMD5": "ca5b19c31c2867db2383899621de9d08",
         "chartSize": 4.68,
         "chartTitle": "PSEUDOMONARCHIA",
+        "chartTitles": {},
         "chartSubtitle": "Lilith (Lycanix vs Cusi)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.7,
             "Hard": 9.0,
@@ -4010,7 +4358,9 @@
         "tjaMD5": "4453e01272ccf991da09a29e07a1f0b7",
         "chartSize": 3.66,
         "chartTitle": "Dolphin Diamond Raceway",
+        "chartTitles": {},
         "chartSubtitle": "Baby Zionov",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 3,
@@ -4042,7 +4392,9 @@
         "tjaMD5": "3629c2a98975de9bc3d809eec445f526",
         "chartSize": 3.9,
         "chartTitle": "Before It Ends",
+        "chartTitles": {},
         "chartSubtitle": "BilliumMoto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.9,
             "Oni": 9.5,
@@ -4073,7 +4425,9 @@
         "tjaMD5": "ecb7cb9459494d6e7823663e88b418e7",
         "chartSize": 2.79,
         "chartTitle": "C\u00f8llapse of the Surface",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Dashy\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.4,
             "Hard": 6,
@@ -4102,7 +4456,9 @@
         "tjaMD5": "803c6734c42081cb0f5f29204c64aa73",
         "chartSize": 2.94,
         "chartTitle": "C\u00f8rruption of the S\u00f8ul",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Ag\u00f8ny\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.9,
             "Hard": 4,
@@ -4133,7 +4489,9 @@
         "tjaMD5": "5c01ff6cd6422fe5ea7c745b5c44d347",
         "chartSize": 8.73,
         "chartTitle": "C\u00f8llapse of the S\u00f8ul",
+        "chartTitles": {},
         "chartSubtitle": "H888. (H5 + DashyDesu)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 12.4,
             "Oni": 10.8,
@@ -4165,7 +4523,9 @@
         "tjaMD5": "73ec70eba565067b5fa60189edc23857",
         "chartSize": 2.92,
         "chartTitle": "Wildcard",
+        "chartTitles": {},
         "chartSubtitle": "Y.W",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Hard": 6,
@@ -4197,7 +4557,9 @@
         "tjaMD5": "68bb06621eb1cb4dcee6863a771f5e3d",
         "chartSize": 4.32,
         "chartTitle": "Freshness Vacation",
+        "chartTitles": {},
         "chartSubtitle": "Y.W",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.8,
             "Hard": 7,
@@ -4227,7 +4589,9 @@
         "tjaMD5": "67213ab85cb87902ea86cc6368fa5590",
         "chartSize": 4.08,
         "chartTitle": "Celestsoul Aurora",
+        "chartTitles": {},
         "chartSubtitle": "Whitetail",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.8,
             "Hard": 7,
@@ -4257,7 +4621,9 @@
         "tjaMD5": "a2474f467a1b6d9af0d41ee08804a862",
         "chartSize": 3.36,
         "chartTitle": "Visionary",
+        "chartTitles": {},
         "chartSubtitle": "xtkakeru & RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.4,
             "Hard": 7,
@@ -4289,7 +4655,13 @@
         "tjaMD5": "2ef9c2f8111eae999d8fe0c0dd5fe86c",
         "chartSize": 60.76,
         "chartTitle": "Nostalgic Magic",
+        "chartTitles": {
+            "JA": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30de\u30b8\u30c3\u30af"
+        },
         "chartSubtitle": "TAK aka. Tokky feat. Otome Ame",
+        "chartSubtitles": {
+            "JA": "\u6258 aka. Tokky feat. \u4e59\u5973\u96e8"
+        },
         "chartDifficulties": {
             "Oni": 8.1,
             "Hard": 5,
@@ -4319,7 +4691,9 @@
         "tjaMD5": "1be5f09356411833ed3af9bc8e4514df",
         "chartSize": 4.7,
         "chartTitle": "Sim-plex",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 8.0,
@@ -4349,7 +4723,9 @@
         "tjaMD5": "475b89f42598b65d42899767185ff499",
         "chartSize": 10.56,
         "chartTitle": "the world of scarlet",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.3,
             "Hard": 8.0,
@@ -4378,7 +4754,9 @@
         "tjaMD5": "15c607c460695513ac0f99f2881bdf9f",
         "chartSize": 2.74,
         "chartTitle": "PARANO1A",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 7,
@@ -4410,7 +4788,13 @@
         "tjaMD5": "038c457a29add0bb46e7463955f50df2",
         "chartSize": 26.45,
         "chartTitle": "Authentic (Game Mix)",
+        "chartTitles": {
+            "JA": "Authentic (Game Mix)"
+        },
         "chartSubtitle": "dogthing ft. Teto Kasane",
+        "chartSubtitles": {
+            "JA": "dogthing ft. \u91cd\u97f3\u30c6\u30c8"
+        },
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 3,
@@ -4440,7 +4824,9 @@
         "tjaMD5": "ade73b9c23f7a9d95e01e68e48c73f44",
         "chartSize": 2.79,
         "chartTitle": "Katharsis (9C + Makotora Remix)",
+        "chartTitles": {},
         "chartSubtitle": "9C + Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.8,
             "Hard": 7,
@@ -4470,7 +4856,13 @@
         "tjaMD5": "22038ba29abaa27589890843e9490670",
         "chartSize": 5.37,
         "chartTitle": "Nostalgic Magic (Magical Jazzy Chip-Dance Mix)",
+        "chartTitles": {
+            "JA": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30de\u30b8\u30c3\u30af (Magical Jazzy Chip-Dance Mix)"
+        },
         "chartSubtitle": "Dashy, thanks to TAK aka. Tokky and Otome Ame",
+        "chartSubtitles": {
+            "JA": "Dashy, \u6258 a.k.a. Tokky\u3068\u4e59\u5973\u96e8\u306e\u304a\u304b\u3052\u3067"
+        },
         "chartDifficulties": {
             "Oni": 9.4,
             "Hard": 6,
@@ -4500,7 +4892,9 @@
         "tjaMD5": "5c0e5ef3a74280ca8b31f76d78510978",
         "chartSize": 2.48,
         "chartTitle": "dreamscape",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 6,
@@ -4530,7 +4924,9 @@
         "tjaMD5": "8b244da4582ec82f7751f795aba4897a",
         "chartSize": 2.4,
         "chartTitle": "junket",
+        "chartTitles": {},
         "chartSubtitle": "Salted",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.4,
             "Hard": 5,
@@ -4560,7 +4956,9 @@
         "tjaMD5": "8ef77b3e73ca86c76528d6c407df7599",
         "chartSize": 2.41,
         "chartTitle": "Limelite",
+        "chartTitles": {},
         "chartSubtitle": "Attoclef",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Normal": 7.0,
@@ -4592,7 +4990,9 @@
         "tjaMD5": "285989f7ff6843fdcee96418a5a0a027",
         "chartSize": 3.86,
         "chartTitle": "CoNTRoL",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.5,
             "Hard": 6,
@@ -4622,7 +5022,9 @@
         "tjaMD5": "f50547863304e4cc4c67ec48291fc8b3",
         "chartSize": 3.09,
         "chartTitle": "Skyfall",
+        "chartTitles": {},
         "chartSubtitle": "chronon",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 6,
@@ -4653,7 +5055,9 @@
         "tjaMD5": "f25d21af6e6792f1ed381140b8284e1c",
         "chartSize": 3.88,
         "chartTitle": "Insignia Breaker",
+        "chartTitles": {},
         "chartSubtitle": "CuZi",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -4683,7 +5087,13 @@
         "tjaMD5": "4dc56ab772a23b28aec2a861335ebd05",
         "chartSize": 16.54,
         "chartTitle": "Candy Girl",
+        "chartTitles": {
+            "JA": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30ac\u30fc\u30eb"
+        },
         "chartSubtitle": "Otome Ame (Composition: kani)",
+        "chartSubtitles": {
+            "JA": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1akani\uff09"
+        },
         "chartDifficulties": {
             "Oni": 8.2,
             "Normal": 4,
@@ -4713,7 +5123,13 @@
         "tjaMD5": "584fef935e74d4963347603fa12c7fdd",
         "chartSize": 4.87,
         "chartTitle": "Niji wa Kirai",
+        "chartTitles": {
+            "JA": "\u8679\u306f\u30ad\u30e9\u30a4"
+        },
         "chartSubtitle": "Otome Ame (Composition: Shitsudo Kei)",
+        "chartSubtitles": {
+            "JA": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1a\u6e7f\u5ea6\u30b1\u30a4\uff09"
+        },
         "chartDifficulties": {
             "Edit": 8.4,
             "Hard": 4,
@@ -4745,7 +5161,13 @@
         "tjaMD5": "735ff94c829f31830588d1d314df2ea1",
         "chartSize": 4.69,
         "chartTitle": "Purgatory of the OOTD",
+        "chartTitles": {
+            "JA": "\u7149\u7344\u306eOOTD"
+        },
         "chartSubtitle": "Masamune vs. H5",
+        "chartSubtitles": {
+            "JA": "Masamune vs. H5"
+        },
         "chartDifficulties": {
             "Edit": 11.1,
             "Oni": 10.4,
@@ -4776,7 +5198,9 @@
         "tjaMD5": "7512099fe470335d0beda654f85187d0",
         "chartSize": 9.07,
         "chartTitle": "Warm Winter Wish",
+        "chartTitles": {},
         "chartSubtitle": "Whimsical Winter World's Maestros",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 7.0,
@@ -4808,7 +5232,9 @@
         "tjaMD5": "af91d17e525565c97f9b0a0a16e96f51",
         "chartSize": 3.22,
         "chartTitle": "Diverging Duality",
+        "chartTitles": {},
         "chartSubtitle": "Riprider",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.2,
             "Hard": 8.0,
@@ -4837,7 +5263,9 @@
         "tjaMD5": "0d42c05979f7448822bb4e3995e42ac4",
         "chartSize": 2.77,
         "chartTitle": "FEEL IT ALL (Game Edit)",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.5,
             "Hard": 5,
@@ -4867,7 +5295,13 @@
         "tjaMD5": "6562b27bc7bcfd41de99d450e0a42b77",
         "chartSize": 3.87,
         "chartTitle": "Labyrinth from Another World",
+        "chartTitles": {
+            "JA": "\u58fa\u4e2d\u306e\u8ff7\u8def"
+        },
         "chartSubtitle": "MoushiKomi",
+        "chartSubtitles": {
+            "JA": "\u7533\u3057\u30b3\u30df"
+        },
         "chartDifficulties": {
             "Oni": 5,
             "Hard": 2,
@@ -4898,7 +5332,9 @@
         "tjaMD5": "1272afd5990f39b7352fd008984c3c01",
         "chartSize": 2.58,
         "chartTitle": "Zutto",
+        "chartTitles": {},
         "chartSubtitle": "Hexacube",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.7,
             "Hard": 7,
@@ -4928,7 +5364,9 @@
         "tjaMD5": "2098bc284638e50416c6aa62e6a4997b",
         "chartSize": 3.65,
         "chartTitle": "Lovetonight",
+        "chartTitles": {},
         "chartSubtitle": "Hexacube",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.1,
             "Oni": 9.4,
@@ -4959,7 +5397,9 @@
         "tjaMD5": "0140dc57964e71705a271278ef862e93",
         "chartSize": 2.52,
         "chartTitle": "SUPER-ENTHUSIASTIC!!",
+        "chartTitles": {},
         "chartSubtitle": "Hexacube",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.9,
             "Hard": 9.0,
@@ -4989,7 +5429,9 @@
         "tjaMD5": "6f01a1524a6679ac0a84424259ce1317",
         "chartSize": 3.49,
         "chartTitle": "HYPER-SONIC-",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.2,
             "Hard": 6,
@@ -5019,7 +5461,13 @@
         "tjaMD5": "c79c2b4200dff4090b5c034ad140d933",
         "chartSize": 5.37,
         "chartTitle": "A Perfect Beginning (\"BMS o takusan tsukuru ze'25\" VIP)",
+        "chartTitles": {
+            "JA": "A Perfect Beginning (BMS\u3092\u305f\u304f\u3055\u3093\u4f5c\u308b\u305c'25 VIP)"
+        },
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {
+            "JA": "OfficialAz3"
+        },
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 5,
@@ -5048,7 +5496,9 @@
         "tjaMD5": "e86ba30926e848abc720ec21cc4748f6",
         "chartSize": 5.96,
         "chartTitle": "Future Fragments",
+        "chartTitles": {},
         "chartSubtitle": "Yozu C",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.2,
             "Hard": 7,
@@ -5078,7 +5528,9 @@
         "tjaMD5": "7aa3b43e3c81fb34c7ba44e346205634",
         "chartSize": 4.26,
         "chartTitle": "Pico Summit",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3 (from Yobimo Entertainment)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 3,
@@ -5111,7 +5563,13 @@
         "tjaMD5": "4e356ab158b84fdd91abbb5efe174fe6",
         "chartSize": 14.31,
         "chartTitle": "If Life Were a Loop",
+        "chartTitles": {
+            "JA": "\u4eba\u751f\u306f\u30eb\u30fc\u30d7\u3060\u3063\u305f\u3089"
+        },
         "chartSubtitle": "dogthing ft. Hatsune Miku",
+        "chartSubtitles": {
+            "JA": "dogthing ft. \u521d\u97f3\u30df\u30af"
+        },
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 3,
@@ -5141,7 +5599,9 @@
         "tjaMD5": "5c8f3e81741e794928b25472f2bf5f8e",
         "chartSize": 4.85,
         "chartTitle": "Why Are All The Girls Sick? (OpenTaiko Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Stu Cupid",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.0,
             "Hard": 6,
@@ -5171,7 +5631,9 @@
         "tjaMD5": "93f0ba5aa55128eda880e315921cef68",
         "chartSize": 6.62,
         "chartTitle": "Departure to Copacabana (OpenTaiko Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Stu Cupid feat. Rhiannon Moushall",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.2,
             "Hard": 6,
@@ -5200,7 +5662,9 @@
         "tjaMD5": "73529c5ddff0f1b79f5e83f339c1df85",
         "chartSize": 4.51,
         "chartTitle": "Eitchfaivest",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Masamune\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.4,
             "Hard": 7,
@@ -5230,7 +5694,9 @@
         "tjaMD5": "76c68baa7d36b258ae4620cf65826149",
         "chartSize": 2.99,
         "chartTitle": "FORTALiCE",
+        "chartTitles": {},
         "chartSubtitle": "ZxNX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 8.0,
@@ -5260,7 +5726,9 @@
         "tjaMD5": "53fcf84c89c852ab8567794dfa1a5bca",
         "chartSize": 6.27,
         "chartTitle": "FANTASY*",
+        "chartTitles": {},
         "chartSubtitle": "Drifterr!! feat. Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.1,
             "Hard": 7,
@@ -5290,7 +5758,9 @@
         "tjaMD5": "3bb578f3ec13671195873b0de8870070",
         "chartSize": 4.67,
         "chartTitle": "Bannerbomb (OpenTaiko Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Stu Cupid",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.9,
             "Oni": 10.2,
@@ -5322,7 +5792,9 @@
         "tjaMD5": "73ba3d33e56c37156ca0239e2331678b",
         "chartSize": 5.61,
         "chartTitle": "Wellspring",
+        "chartTitles": {},
         "chartSubtitle": "veggerhogger",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 8.8,
@@ -5354,7 +5826,9 @@
         "tjaMD5": "5f0b2f2cbf0a9724f3906a4ab334a6c7",
         "chartSize": 2.64,
         "chartTitle": "ANXiETY",
+        "chartTitles": {},
         "chartSubtitle": "Aspid Cat",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.0,
             "Oni": 9.3,
@@ -5385,7 +5859,9 @@
         "tjaMD5": "f53222c96f2bdde42b3c5b2b0e7bd62c",
         "chartSize": 1.97,
         "chartTitle": "Neptune's Lullaby",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"H5\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.9,
             "Oni": 10.2,
@@ -5416,7 +5892,9 @@
         "tjaMD5": "4746cd2e65b03d654204e01733b5d8f9",
         "chartSize": 3.03,
         "chartTitle": "nicotine (Teocore Remix)",
+        "chartTitles": {},
         "chartSubtitle": "jackuw & Teocore",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.0,
             "Hard": 5,
@@ -5446,7 +5924,11 @@
         "tjaMD5": "094e9b318391b5af4a6a1258317404ab",
         "chartSize": 3.56,
         "chartTitle": "Constellation ~The Guiding Giant's Journey~",
+        "chartTitles": {
+            "JA": "\u30b3\u30f3\u30b9\u30c6\u30ec\u30fc\u30b7\u30e7\u30f3 ~\u5c0e\u304d\u306e\u5de8\u4eba\u306e\u65c5\u306b~"
+        },
         "chartSubtitle": "Mr. Hikaru, and the Infinite Galaxy Ensemble",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.4,
             "Oni": 8.3,
@@ -5478,7 +5960,9 @@
         "tjaMD5": "132a63957cff057f1f1c5190f2847478",
         "chartSize": 3.71,
         "chartTitle": "Lazy Me (Remastered Version)",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.3,
             "Hard": 7,
@@ -5510,7 +5994,9 @@
         "tjaMD5": "9abb14aded45fdcf8eec167e0285ae4b",
         "chartSize": 3.44,
         "chartTitle": "Octans Cel Grift",
+        "chartTitles": {},
         "chartSubtitle": "BilliumMoto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.0,
             "Oni": 9.6,
@@ -5543,7 +6029,9 @@
         "tjaMD5": "1cfabeb4bad333bc9096077b3f24e443",
         "chartSize": 42.55,
         "chartTitle": "\u03c0evergod",
+        "chartTitles": {},
         "chartSubtitle": "nm-y",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 4,
@@ -5577,7 +6065,9 @@
         "tjaMD5": "882304d6c438be4ef04c8268f6f9ffd1",
         "chartSize": 13.32,
         "chartTitle": "\u300cDISCARDED_DISRUPTION\u300d",
+        "chartTitles": {},
         "chartSubtitle": "BeaniCraft",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.8,
             "Oni": 10.3,
@@ -5611,7 +6101,9 @@
         "tjaMD5": "94087cc8ba37b26a6ed50d1111edc857",
         "chartSize": 65.04,
         "chartTitle": "ORTU5 5OLI5",
+        "chartTitles": {},
         "chartSubtitle": "Dashy, vs. H5 vs. Taichenko vs. YLNO vs. Masamune",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 12.9,
             "Oni": 10.9,
@@ -5645,7 +6137,9 @@
         "tjaMD5": "f472fb7164bba01d829dc5187804ec4a",
         "chartSize": 92.52,
         "chartTitle": "V-ENTURE",
+        "chartTitles": {},
         "chartSubtitle": "Sincerely, Dashy",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 1,
             "Oni": 5,
@@ -5676,7 +6170,11 @@
         "tjaMD5": "ed840f11945f5df4be2ebb17a2383672",
         "chartSize": 4.25,
         "chartTitle": "glide through a sky",
+        "chartTitles": {},
         "chartSubtitle": "Dashy, / OpenTaiko Gleaming Sky Theme Song",
+        "chartSubtitles": {
+            "JA": "Dashy, \u300cOpenTaiko Gleaming Sky\u300d\u30c6\u30fc\u30de\u30bd\u30f3\u30b0"
+        },
         "chartDifficulties": {
             "Oni": 8.2,
             "Hard": 6,
@@ -5707,7 +6205,9 @@
         "tjaMD5": "78f2f5030b4f7e6b1e3c32e6cb9deb33",
         "chartSize": 4.72,
         "chartTitle": "Hearts in Motion (Game Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8.4,
             "Oni": 5,
@@ -5738,7 +6238,9 @@
         "tjaMD5": "73f11ceef91d221ac7ed18219c77ac55",
         "chartSize": 3.3,
         "chartTitle": "SPDRN",
+        "chartTitles": {},
         "chartSubtitle": "Yozu C",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 6,
@@ -5768,7 +6270,9 @@
         "tjaMD5": "72cf654d29c3c9d3ac8e72654e877e07",
         "chartSize": 2.15,
         "chartTitle": "Nitro",
+        "chartTitles": {},
         "chartSubtitle": "Snikio & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -5799,7 +6303,13 @@
         "tjaMD5": "6dd1ad12738c98d93673aa70d3be73e7",
         "chartSize": 4.75,
         "chartTitle": "Continue 100 Million Times",
+        "chartTitles": {
+            "JA": "\u30b3\u30f3\u30c6\u30cb\u30e5\u30fc1\u5104\u4e07\u56de"
+        },
         "chartSubtitle": "ZomB Ko with TAK aka. Tokky (prod. Asakura Mori)",
+        "chartSubtitles": {
+            "JA": "\u30be\u30f3B\u5b50 with \u6258 a.k.a. Tokky\uff08prod.\u6d45\u5009\u68ee\uff09"
+        },
         "chartDifficulties": {
             "Edit": 7,
             "Oni": 6,
@@ -5830,7 +6340,9 @@
         "tjaMD5": "dff8e95e8fab6d272975836b8a8a3ed4",
         "chartSize": 2.69,
         "chartTitle": "Beach Race",
+        "chartTitles": {},
         "chartSubtitle": "Snikio & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.7,
             "Hard": 6,
@@ -5860,7 +6372,9 @@
         "tjaMD5": "f81f6f31650fcc92688e925e61b72b8e",
         "chartSize": 4.06,
         "chartTitle": "Hi Voltage",
+        "chartTitles": {},
         "chartSubtitle": "3Kado_ feat. Clozzo",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 8.0,
@@ -5890,7 +6404,9 @@
         "tjaMD5": "77f88c192cd84ca5ef5e7bfa5227d895",
         "chartSize": 3.24,
         "chartTitle": "cityscape\u2215\u2215RUiNsS",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.7,
             "Hard": 7,
@@ -5920,7 +6436,9 @@
         "tjaMD5": "f8235fd941e5a147c2e8be060046a823",
         "chartSize": 4.09,
         "chartTitle": "Broken Bond",
+        "chartTitles": {},
         "chartSubtitle": "dogthing",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 4,
@@ -5949,7 +6467,9 @@
         "tjaMD5": "33352516c7041ea2b2e3736ee5498de5",
         "chartSize": 1.8,
         "chartTitle": "We Fight (Short Ver.)",
+        "chartTitles": {},
         "chartSubtitle": "Yozu C",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 6,
@@ -5981,7 +6501,9 @@
         "tjaMD5": "47394a5ddbf34c281ed0218d0c74772f",
         "chartSize": 5.84,
         "chartTitle": "Blessing of Endurance",
+        "chartTitles": {},
         "chartSubtitle": "Narwhalle",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.6,
             "Oni": 7,
@@ -6012,7 +6534,9 @@
         "tjaMD5": "88f6914430e192849df51f72baa1c746",
         "chartSize": 3.29,
         "chartTitle": "Momenta Mori (OpenTaiko Cut)",
+        "chartTitles": {},
         "chartSubtitle": "X3ll3n & Benji-G",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.3,
             "Hard": 6,
@@ -6042,7 +6566,9 @@
         "tjaMD5": "3f274e1270f05d0a776018d1a6d7d0e3",
         "chartSize": 7.0,
         "chartTitle": "RE:fragment",
+        "chartTitles": {},
         "chartSubtitle": "Ariz Kayaba",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 8.0,
@@ -6072,7 +6598,9 @@
         "tjaMD5": "9f851391dd3f78b0d127bc92003e4f17",
         "chartSize": 5.01,
         "chartTitle": "Unfortunate Utopia",
+        "chartTitles": {},
         "chartSubtitle": "Wyvren vs. Marilette Aokisama",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.9,
             "Oni": 10.6,
@@ -6105,7 +6633,13 @@
         "tjaMD5": "a405b3ce4957899728c47a5d7c6d7398",
         "chartSize": 66.47,
         "chartTitle": "BUTCHER VANITY",
+        "chartTitles": {
+            "ZH": "\u865a\u8363\u5c60\u592b"
+        },
         "chartSubtitle": "FLAVOR FOLEY ft. Yi Xi",
+        "chartSubtitles": {
+            "ZH": "FLAVOR FOLEY ft. \u5955\u5915"
+        },
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 3,
@@ -6138,7 +6672,13 @@
         "tjaMD5": "db0f90015dde7ec94459ab4de217b97a",
         "chartSize": 27.43,
         "chartTitle": "weathergirl",
+        "chartTitles": {
+            "JA": "weathergirl"
+        },
         "chartSubtitle": "FLAVOR FOLEY ft. Eleanor Forte",
+        "chartSubtitles": {
+            "JA": "FLAVOR FOLEY ft. \u30a8\u30ec\u30ce\u30a2\u30fb\u30d5\u30a9\u30eb\u30c6"
+        },
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 3,
@@ -6170,7 +6710,13 @@
         "tjaMD5": "448c12eea3bc6084f603c3a296daa619",
         "chartSize": 86.39,
         "chartTitle": "Static",
+        "chartTitles": {
+            "JA": "Static"
+        },
         "chartSubtitle": "FLAVOR FOLEY ft. Hatsune Miku",
+        "chartSubtitles": {
+            "JA": "FLAVOR FOLEY ft. \u521d\u97f3\u30df\u30af"
+        },
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
@@ -6200,7 +6746,9 @@
         "tjaMD5": "df07e70b8c151bcde1044aca1c4a8200",
         "chartSize": 4.6,
         "chartTitle": "SHADOW DRIVER",
+        "chartTitles": {},
         "chartSubtitle": "D'elf",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.0,
             "Hard": 7,
@@ -6230,7 +6778,9 @@
         "tjaMD5": "adcd4f53d785c79886de4c2eb836ff01",
         "chartSize": 4.66,
         "chartTitle": "Adamant Apathy",
+        "chartTitles": {},
         "chartSubtitle": "f2",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 5,
@@ -6261,7 +6811,13 @@
         "tjaMD5": "a06787f6ed4a5a1a92c359956d116572",
         "chartSize": 2.54,
         "chartTitle": "Kakurine no Midori",
+        "chartTitles": {
+            "JA": "\u5e7d\u97f3\u306e\u7fe0"
+        },
         "chartSubtitle": "Pinktoe feat. Haramori Yoshina",
+        "chartSubtitles": {
+            "JA": "Pinktoe feat.\u306f\u3089\u3082\u308a\u3088\u3057\u306a"
+        },
         "chartDifficulties": {
             "Edit": 9.4,
             "Oni": 7,
@@ -6294,7 +6850,13 @@
         "tjaMD5": "8259612eb3746ee6ea1e60c0384664fa",
         "chartSize": 4.42,
         "chartTitle": "Gray Canary (So that I still keep flying)",
+        "chartTitles": {
+            "JA": "\u7070\u8272\u30ab\u30ca\u30ea\u30a2\uff08\u50d5\u304c\u307e\u3060\u98db\u3073\u7d9a\u3051\u308b\u305f\u3081\u306e\uff09"
+        },
         "chartSubtitle": "Nijiiro Karasu (ume & a-m)",
+        "chartSubtitles": {
+            "JA": "\u8679\u8272\u9d09\uff08ume & a-m\uff09"
+        },
         "chartDifficulties": {
             "Edit": 9.7,
             "Oni": 8.2,
@@ -6327,7 +6889,13 @@
         "tjaMD5": "247bc77f214c2cc5bdf1f072b1c0ddb5",
         "chartSize": 3.18,
         "chartTitle": "ARIGATO!",
+        "chartTitles": {
+            "JA": "ARIGATO!"
+        },
         "chartSubtitle": "LLRK feat. Miyamai Moka",
+        "chartSubtitles": {
+            "JA": "LLRK feat. \u5bae\u821e\u30e2\u30ab"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -6359,7 +6927,9 @@
         "tjaMD5": "a67c5d67abcead4528c3c61f37d42465",
         "chartSize": 4.53,
         "chartTitle": "Gocha-maze my treasures!",
+        "chartTitles": {},
         "chartSubtitle": "LLRK",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.3,
             "Hard": 7,
@@ -6390,7 +6960,9 @@
         "tjaMD5": "737827dfe4d2653cc3a6f2f1dc220cea",
         "chartSize": 21.9,
         "chartTitle": "Cockroach Cooking",
+        "chartTitles": {},
         "chartSubtitle": "Yosk!",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.6,
             "Hard": 8.0,
@@ -6420,7 +6992,9 @@
         "tjaMD5": "faf7986116968ea575c658d3c4bad949",
         "chartSize": 5.32,
         "chartTitle": "Perpetual Exploration -Game Cut-",
+        "chartTitles": {},
         "chartSubtitle": "Desjul20",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 8.7,
@@ -6452,7 +7026,13 @@
         "tjaMD5": "7de52750964fc2cca7f66f79e528dbdb",
         "chartSize": 3.9,
         "chartTitle": "holicchoco",
+        "chartTitles": {
+            "JA": "holic\u30c1\u30e7\u30b3"
+        },
         "chartSubtitle": "Du Vel Mat Te",
+        "chartSubtitles": {
+            "JA": "Du Vel Mat Te"
+        },
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 8.0,
@@ -6482,7 +7062,9 @@
         "tjaMD5": "5e7cb6b8b5ffec08f2adf42dc6f665ee",
         "chartSize": 3.47,
         "chartTitle": "Assimilation",
+        "chartTitles": {},
         "chartSubtitle": "Tatsuoto vs. Ouroboros",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 9.1,
@@ -6514,7 +7096,9 @@
         "tjaMD5": "13923e04cd40d5f941dab279b546d45f",
         "chartSize": 4.19,
         "chartTitle": "Unending Freedom",
+        "chartTitles": {},
         "chartSubtitle": "Tatsuoto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.7,
             "Oni": 11.2,
@@ -6546,7 +7130,9 @@
         "tjaMD5": "d6b63a00d9b5f63eaeff948c943b6a4d",
         "chartSize": 3.13,
         "chartTitle": "PJ Princess (BMS Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Baby Zionov feat. Moody V",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 3,
@@ -6576,7 +7162,9 @@
         "tjaMD5": "6d8888f0068b072fff2d3bd4c3118572",
         "chartSize": 2.87,
         "chartTitle": "The Sligo Maid",
+        "chartTitles": {},
         "chartSubtitle": "Baby Zionov",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 7,
@@ -6606,7 +7194,9 @@
         "tjaMD5": "6152f113d064aae5f33f1f9da853c95b",
         "chartSize": 2.64,
         "chartTitle": "Another Reality",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 2,
             "Oni": 9.8,
@@ -6638,7 +7228,9 @@
         "tjaMD5": "3806e9d2510461783fd3a6b76a1dce5c",
         "chartSize": 6.44,
         "chartTitle": "False Pretenses (Game Edit)",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
@@ -6670,7 +7262,9 @@
         "tjaMD5": "c6723eab04eb217b452c8eec548f6e7f",
         "chartSize": 1.41,
         "chartTitle": "ROTTERDAM KITCHEN",
+        "chartTitles": {},
         "chartSubtitle": "freesia",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 8.8,
@@ -6702,7 +7296,11 @@
         "tjaMD5": "4140ff54f4f3e35aa1076072a9d557cb",
         "chartSize": 7.17,
         "chartTitle": "Mechanical Heart",
+        "chartTitles": {
+            "ZH": "\u673a\u68b0\u4e4b\u5fc3"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.7,
             "Oni": 9.6,
@@ -6733,7 +7331,9 @@
         "tjaMD5": "c34e25882c28636ea369e8bca4a69ca3",
         "chartSize": 3.62,
         "chartTitle": "ABUNAI!!!",
+        "chartTitles": {},
         "chartSubtitle": "gentu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 9.4,
@@ -6765,7 +7365,11 @@
         "tjaMD5": "17280c40814691c733248fe2c0cf053d",
         "chartSize": 1.58,
         "chartTitle": "Sango Domain",
+        "chartTitles": {},
         "chartSubtitle": "6CHA9N",
+        "chartSubtitles": {
+            "JA": "\u308a\u3087\u304f\u3061\u3083\u304f\u3093"
+        },
         "chartDifficulties": {
             "Oni": 8.0,
             "Hard": 5,
@@ -6796,7 +7400,11 @@
         "tjaMD5": "f9af2e51674d6ac18ea3aab276e8956a",
         "chartSize": 3.07,
         "chartTitle": "Iemonogatari",
+        "chartTitles": {
+            "JA": "\u5bb6\u7269\u8a9e"
+        },
         "chartSubtitle": "K4Y5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.9,
             "Hard": 7,
@@ -6826,7 +7434,9 @@
         "tjaMD5": "cc8d3074ac2c75949d65933b18c7f446",
         "chartSize": 4.03,
         "chartTitle": "Railgun",
+        "chartTitles": {},
         "chartSubtitle": "Meram1n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.5,
             "Hard": 7,
@@ -6857,7 +7467,13 @@
         "tjaMD5": "b8eab9ebcbff90fcb393bae578564b53",
         "chartSize": 3.86,
         "chartTitle": "Ito hiku natsu no eden ni te.",
+        "chartTitles": {
+            "JA": "\u7cf8\u5f15\u304f\u590f\u306e\u30a8\u30c7\u30f3\u306b\u3066\u3002"
+        },
         "chartSubtitle": "Setca. feat. Karin Natsuki",
+        "chartSubtitles": {
+            "JA": "Setca. feat. \u590f\u8272\u82b1\u68a8"
+        },
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 6,
@@ -6887,7 +7503,13 @@
         "tjaMD5": "f989520412a45e5898021499969b54df",
         "chartSize": 3.14,
         "chartTitle": "Kodoku naru Jiai to Gasei yuru Yuuai",
+        "chartTitles": {
+            "JA": "\u5b64\u72ec\u306a\u308b\u6148\u611b\u3068\u82bd\u751f\u3086\u308b\u53cb\u611b"
+        },
         "chartSubtitle": "lufm",
+        "chartSubtitles": {
+            "JA": "\u3089\u3075\u3080"
+        },
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 9.3,
@@ -6918,7 +7540,9 @@
         "tjaMD5": "2a403b5111613369ea989231fe9cfde2",
         "chartSize": 12.17,
         "chartTitle": "Roar Dazed",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 8.0,
@@ -6948,7 +7572,9 @@
         "tjaMD5": "2e37c0af48c1923c522d3f5ad6e6c05f",
         "chartSize": 4.95,
         "chartTitle": "across the luminescent sky",
+        "chartTitles": {},
         "chartSubtitle": "f2",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.3,
@@ -6980,7 +7606,9 @@
         "tjaMD5": "2d96a2f542a8a1768c3796109a7d0320",
         "chartSize": 5.13,
         "chartTitle": "\u018evanisce:\u0259ntiA",
+        "chartTitles": {},
         "chartSubtitle": "f2",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.2,
             "Oni": 10.5,
@@ -7012,7 +7640,13 @@
         "tjaMD5": "402fc07821ed5d34fa99ceb3d3b57fdf",
         "chartSize": 3.09,
         "chartTitle": "Jonetsu Daegu",
+        "chartTitles": {
+            "JA": "\u60c5\u71b1\u5927\u90b1",
+            "KO": "\u60c5\u71b1\u5927\u90b1",
+            "ZH": "\u60c5\u71b1\u5927\u90b1"
+        },
         "chartSubtitle": "Qyubey",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.9,
             "Hard": 8.5,
@@ -7042,7 +7676,9 @@
         "tjaMD5": "3d0963e41ade46d4657c3caa86c1e142",
         "chartSize": 9.46,
         "chartTitle": "the world of periwinkle",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.6,
             "Oni": 10.5,
@@ -7074,7 +7710,9 @@
         "tjaMD5": "f33093ac2e7ebf8be01acbef795c1b5a",
         "chartSize": 3.77,
         "chartTitle": "Summer Emotion",
+        "chartTitles": {},
         "chartSubtitle": "motz",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 12.1,
             "Oni": 10.7,
@@ -7105,7 +7743,9 @@
         "tjaMD5": "7b3aa083a5708707a536b9d84f2bc029",
         "chartSize": 2.86,
         "chartTitle": "and soar through the universe",
+        "chartTitles": {},
         "chartSubtitle": "Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.7,
             "Hard": 6,
@@ -7134,7 +7774,9 @@
         "tjaMD5": "51f5430539b832ba4eeb297efa856553",
         "chartSize": 3.02,
         "chartTitle": "The Shining Amber of the Forest",
+        "chartTitles": {},
         "chartSubtitle": "Kohaku (Arr. Dashy, 2023)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.2,
             "Hard": 6,
@@ -7163,7 +7805,9 @@
         "tjaMD5": "5735a488f484fcbb89e289f29aad099d",
         "chartSize": 2.44,
         "chartTitle": "Ashes in the Gearbox",
+        "chartTitles": {},
         "chartSubtitle": "Snikio & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -7193,7 +7837,9 @@
         "tjaMD5": "f6d48ee2edb0315d0744b22ac73213f3",
         "chartSize": 6.98,
         "chartTitle": "CHARGE BEAM (Game Edit)",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.2,
             "Hard": 5,
@@ -7223,7 +7869,9 @@
         "tjaMD5": "330ba8259c2bf1ab8f666f980a194031",
         "chartSize": 7.4,
         "chartTitle": "Nostajue",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3 (From Yobimo Entertainment)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Hard": 5,
@@ -7254,7 +7902,9 @@
         "tjaMD5": "bbd78aa0a1dd65dbe9148773be4af2ed",
         "chartSize": 2.71,
         "chartTitle": "MADRUGADA -vem no pique-",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.4,
             "Oni": 7,
@@ -7285,7 +7935,11 @@
         "tjaMD5": "984157b765fea3bfdf8981249806dadb",
         "chartSize": 2.6,
         "chartTitle": "Chatoyancy ni Kuchidzuke wo",
+        "chartTitles": {
+            "JA": "\u30b7\u30e3\u30c8\u30e4\u30f3\u30b7\u30fc\u306b\u304f\u3061\u3065\u3051\u3092"
+        },
         "chartSubtitle": "Rner",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.6,
             "Hard": 7,
@@ -7315,7 +7969,11 @@
         "tjaMD5": "321459351f14999d4312e6ba8ccbde5d",
         "chartSize": 1.89,
         "chartTitle": "Palette Lab",
+        "chartTitles": {},
         "chartSubtitle": "Kanzaki Shion",
+        "chartSubtitles": {
+            "JA": "\u304b\u3093\u3056\u304d\u3057\u304a\u3093"
+        },
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 8.0,
@@ -7344,7 +8002,9 @@
         "tjaMD5": "ddac2bc5ecbedb465bbc5b3b1087a230",
         "chartSize": 4.63,
         "chartTitle": "Midnight Freeway",
+        "chartTitles": {},
         "chartSubtitle": "Snikio & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 5,
@@ -7374,7 +8034,9 @@
         "tjaMD5": "b02eba9fe15d8656c0628aceb65ca174",
         "chartSize": 2.1,
         "chartTitle": "Baby",
+        "chartTitles": {},
         "chartSubtitle": "r",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.1,
             "Oni": 7,
@@ -7406,7 +8068,9 @@
         "tjaMD5": "e5c4fe66978dbcc88b1832821e1b2391",
         "chartSize": 4.65,
         "chartTitle": "\"R\"ast GaMES!!",
+        "chartTitles": {},
         "chartSubtitle": "3Kado_ vs Yuruka",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.5,
             "Hard": 8.0,
@@ -7436,7 +8100,9 @@
         "tjaMD5": "d2b34d7619ffd0c3f05a050f812af6c5",
         "chartSize": 6.32,
         "chartTitle": "seven states of dreamscapes",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.2,
             "Hard": 7,
@@ -7466,7 +8132,9 @@
         "tjaMD5": "94315e2f047e274270c6dd59410e67ad",
         "chartSize": 5.52,
         "chartTitle": "Iridescent Beauty (Game Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 8.4,
@@ -7498,7 +8166,9 @@
         "tjaMD5": "319bcf2444148dd1387cf89236a01df7",
         "chartSize": 7.27,
         "chartTitle": "ravage reign",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.5,
             "Oni": 9.3,
@@ -7530,7 +8200,9 @@
         "tjaMD5": "7e9639f7ade09eed902ce8dbfd0782dc",
         "chartSize": 4.32,
         "chartTitle": "Collapse.",
+        "chartTitles": {},
         "chartSubtitle": "Pandemonium.",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.4,
             "Oni": 9.4,
@@ -7562,7 +8234,13 @@
         "tjaMD5": "986e641bddc7cf0ebb2cd2ec2a67fe80",
         "chartSize": 4.43,
         "chartTitle": "Nijibana no Yaiba",
+        "chartTitles": {
+            "JA": "\u8679\u83ef\u306e\u5203"
+        },
         "chartSubtitle": "Yue",
+        "chartSubtitles": {
+            "JA": "\u60a0\u6c5f"
+        },
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 8.4,
@@ -7594,7 +8272,9 @@
         "tjaMD5": "93bdda2c75d58f3d46d7002d02983cd7",
         "chartSize": 4.74,
         "chartTitle": "Tears of Denial",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3 feat. Echa & Hodong (from VOX Factory)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 6,
@@ -7624,7 +8304,9 @@
         "tjaMD5": "a4218d1c8d8b946c35856f923c16061e",
         "chartSize": 2.94,
         "chartTitle": "Sayawan Brasilero (OpenTaiko ver.)",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.3,
             "Hard": 8.0,
@@ -7654,7 +8336,9 @@
         "tjaMD5": "9268ddedca8dbae6ab967815a56298f9",
         "chartSize": 5.05,
         "chartTitle": "Do (Not) Break",
+        "chartTitles": {},
         "chartSubtitle": "imseeking",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.1,
             "Hard": 5,
@@ -7685,7 +8369,9 @@
         "tjaMD5": "60ca70d576f7e83fc78343ee7189cb7f",
         "chartSize": 3.94,
         "chartTitle": "You've Got Mail!",
+        "chartTitles": {},
         "chartSubtitle": "Phantoskii",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 8.5,
@@ -7717,7 +8403,9 @@
         "tjaMD5": "9fd03753b96484f09aa8cb0ebed7f8ec",
         "chartSize": 2.19,
         "chartTitle": "BIRKIE",
+        "chartTitles": {},
         "chartSubtitle": "oratoruk",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Normal": 6,
@@ -7749,7 +8437,9 @@
         "tjaMD5": "696728287cc6b2c735afad9c724a7700",
         "chartSize": 5.2,
         "chartTitle": "SHAPESHIFTER",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.7,
             "Oni": 10.5,
@@ -7781,7 +8471,9 @@
         "tjaMD5": "746addd71d37e4497c9014d83fb022d4",
         "chartSize": 4.48,
         "chartTitle": "Ruby",
+        "chartTitles": {},
         "chartSubtitle": "BilliumMoto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.4,
             "Hard": 7,
@@ -7812,7 +8504,13 @@
         "tjaMD5": "ea580c2d6a7eea952890792a3ef45461",
         "chartSize": 2.88,
         "chartTitle": "Mahou de Kaeru ni Natchattamitai!",
+        "chartTitles": {
+            "JA": "\u9b54\u6cd5\u3067\u30ab\u30a8\u30eb\u306b\u306a\u3063\u3061\u3083\u3063\u305f\u307f\u305f\u3044\uff01"
+        },
         "chartSubtitle": "sharkyo ft. Kasane Teto",
+        "chartSubtitles": {
+            "JA": "sharkyo ft. \u91cd\u97f3\u30c6\u30c8"
+        },
         "chartDifficulties": {
             "Oni": 8.1,
             "Hard": 6,
@@ -7844,7 +8542,9 @@
         "tjaMD5": "b1e5ddcaf7be7b6c1a84a8952a349f3f",
         "chartSize": 7.5,
         "chartTitle": "Oniric",
+        "chartTitles": {},
         "chartSubtitle": "BlastiX & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.7,
             "Hard": 7,
@@ -7874,7 +8574,9 @@
         "tjaMD5": "55ca1c0374e448813badee05710216bf",
         "chartSize": 5.33,
         "chartTitle": "I'll bee damned",
+        "chartTitles": {},
         "chartSubtitle": "THE BEAT WIZARD",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.2,
             "Hard": 8.0,
@@ -7903,7 +8605,9 @@
         "tjaMD5": "f0f386dd33215ccaad453668415d2730",
         "chartSize": 1.93,
         "chartTitle": "Prelude No.2 in A Minor, Op.33",
+        "chartTitles": {},
         "chartSubtitle": "Steven Wan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 8.0,
@@ -7933,7 +8637,13 @@
         "tjaMD5": "23425c0d0462fdf79ea1ceac1edf7400",
         "chartSize": 4.04,
         "chartTitle": "Yami (Makotora Remix)",
+        "chartTitles": {
+            "JA": "\u95c7 (Makotora Remix)"
+        },
         "chartSubtitle": "TFD500 + Makotora (from TONE::FURY)",
+        "chartSubtitles": {
+            "JA": "TFD500 + Makotora (TONE::FURY\u3088\u308a)"
+        },
         "chartDifficulties": {
             "Edit": 10.6,
             "Oni": 10.5,
@@ -7965,7 +8675,9 @@
         "tjaMD5": "0940bf4f0febd3551240b7b093917c07",
         "chartSize": 4.37,
         "chartTitle": "Against the Dragon",
+        "chartTitles": {},
         "chartSubtitle": "Aspid Cat",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.0,
             "Oni": 10.6,
@@ -7998,7 +8710,13 @@
         "tjaMD5": "04fac05c8b5e0bb5af74bef192a111a1",
         "chartSize": 10.26,
         "chartTitle": "Heart of the Cards",
+        "chartTitles": {
+            "JA": "Heart of the Cards"
+        },
         "chartSubtitle": "dogthing feat. Miku Hatsune",
+        "chartSubtitles": {
+            "JA": "dogthing feat. \u521d\u97f3\u30df\u30af"
+        },
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 4,
@@ -8030,7 +8748,9 @@
         "tjaMD5": "db8526046ffd554fa4b87772e73a4313",
         "chartSize": 7.78,
         "chartTitle": "Melpomene's Cry",
+        "chartTitles": {},
         "chartSubtitle": "FrankleAnkles",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 8.6,
@@ -8061,7 +8781,9 @@
         "tjaMD5": "78048e0d43bee59c580ab92db81aa010",
         "chartSize": 3.56,
         "chartTitle": "A Cadence of the Lotuses",
+        "chartTitles": {},
         "chartSubtitle": "FrankleAnkles",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.8,
             "Hard": 6,
@@ -8091,7 +8813,9 @@
         "tjaMD5": "38f25a514328265d52e49804999aa9a8",
         "chartSize": 4.77,
         "chartTitle": "RIP \u2215\u2215 OFF",
+        "chartTitles": {},
         "chartSubtitle": "Lucky & Silence",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9.3,
             "Oni": 10.3,
@@ -8123,7 +8847,9 @@
         "tjaMD5": "99b98e6d279f397dbef85816d2e9973a",
         "chartSize": 5.68,
         "chartTitle": "opia",
+        "chartTitles": {},
         "chartSubtitle": "rN",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 8.5,
@@ -8153,7 +8879,13 @@
         "tjaMD5": "1153c7c339c2e4e40883d8eeb023b8a6",
         "chartSize": 5.84,
         "chartTitle": "SaSaYaKi",
+        "chartTitles": {
+            "JA": "\u300c\u3055\u3055\u3084\u304d\u300d"
+        },
         "chartSubtitle": "NaRouDaK",
+        "chartSubtitles": {
+            "JA": "NaRouDaK"
+        },
         "chartDifficulties": {
             "Edit": 10.7,
             "Oni": 9.6,
@@ -8185,7 +8917,11 @@
         "tjaMD5": "93178acdd1880a29c4c722d8110da783",
         "chartSize": 1.89,
         "chartTitle": "Lost Petal's Wander",
+        "chartTitles": {},
         "chartSubtitle": "RB.H \u00d7 lixound \u00d7 Setsunan",
+        "chartSubtitles": {
+            "ZH": "RB.H \u00d7 lixound \u00d7 \u859b\u5357"
+        },
         "chartDifficulties": {
             "Oni": 10.7,
             "Hard": 8.0,
@@ -8214,7 +8950,9 @@
         "tjaMD5": "dfd3cfad930d0fbf971fe4c583e2914e",
         "chartSize": 3.48,
         "chartTitle": "Starry Reservoir",
+        "chartTitles": {},
         "chartSubtitle": "FrankleAnkles",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 8.3,
@@ -8245,7 +8983,9 @@
         "tjaMD5": "f5c4224e66607bd11ec13dbf1f793244",
         "chartSize": 3.5,
         "chartTitle": "Chapter of a Dragon",
+        "chartTitles": {},
         "chartSubtitle": "qloudpatch",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.8,
             "Hard": 8.0,
@@ -8274,7 +9014,9 @@
         "tjaMD5": "39b9b8738082e3801061a740a262f255",
         "chartSize": 3.89,
         "chartTitle": "REPRIS\u0245L",
+        "chartTitles": {},
         "chartSubtitle": "Tatsuoto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.6,
             "Hard": 7,
@@ -8303,7 +9045,9 @@
         "tjaMD5": "8ac6725a624fdee0c877f45aa4504323",
         "chartSize": 3.73,
         "chartTitle": "challenge32",
+        "chartTitles": {},
         "chartSubtitle": "phonon & Israel Strom",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 7,
@@ -8333,7 +9077,9 @@
         "tjaMD5": "fb62686f39f795b7c3aa0e79bd5f93ed",
         "chartSize": 4.27,
         "chartTitle": "#GOTO",
+        "chartTitles": {},
         "chartSubtitle": "NASA",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.7,
             "Hard": 7,
@@ -8362,7 +9108,9 @@
         "tjaMD5": "5f8a36e142ee111aa88f6e609bd43dbb",
         "chartSize": 3.03,
         "chartTitle": "Dropping Packets",
+        "chartTitles": {},
         "chartSubtitle": "DeBisco",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.9,
             "Hard": 8.0,
@@ -8392,7 +9140,9 @@
         "tjaMD5": "54be935a85138ad78bb01e83e78ffacf",
         "chartSize": 7.17,
         "chartTitle": "RE:ITERATION",
+        "chartTitles": {},
         "chartSubtitle": "BlastiX & ione",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.2,
             "Hard": 8.0,
@@ -8422,7 +9172,9 @@
         "tjaMD5": "09e0ad01280b7653fdb863ee889b84d7",
         "chartSize": 5.91,
         "chartTitle": "Moonlight Frequency",
+        "chartTitles": {},
         "chartSubtitle": "Kaizu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 5,
@@ -8454,7 +9206,9 @@
         "tjaMD5": "e197076590a7fcbcda23d9b0c2641067",
         "chartSize": 6.5,
         "chartTitle": "queen of destruction",
+        "chartTitles": {},
         "chartSubtitle": "zqr",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.9,
             "Oni": 10.6,
@@ -8485,7 +9239,9 @@
         "tjaMD5": "ba47dee55711612675eb65f313b52239",
         "chartSize": 12.89,
         "chartTitle": "Grand Fantasy after Motifs from the Operetta \"La Partita\", Op. 26",
+        "chartTitles": {},
         "chartSubtitle": "Steven Wan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.4,
             "Hard": 9.0,
@@ -8515,7 +9271,9 @@
         "tjaMD5": "8ddf4a361d046cc9a855c1fa38a2e4fd",
         "chartSize": 8.04,
         "chartTitle": "BURDENED-\u2200EGIS",
+        "chartTitles": {},
         "chartSubtitle": "Xeveir and Xeron",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 12.7,
             "Oni": 10.7,
@@ -8549,7 +9307,9 @@
         "tjaMD5": "653113dfd9b4850f7bf976254623c940",
         "chartSize": 39.41,
         "chartTitle": "OPTK Syndrome",
+        "chartTitles": {},
         "chartSubtitle": "Sincerely, Dashy",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.0,
             "Oni": 8.4,
@@ -8580,7 +9340,9 @@
         "tjaMD5": "71d21611eb07360ddf3b40511163528f",
         "chartSize": 2.79,
         "chartTitle": "Apeiroscopy",
+        "chartTitles": {},
         "chartSubtitle": "Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.8,
             "Hard": 6,
@@ -8610,7 +9372,9 @@
         "tjaMD5": "b59b8afd67e5f02cb4679caf4a2a6a01",
         "chartSize": 3.88,
         "chartTitle": "Tara!",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3 feat. Hodong (from VOX Factory)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.1,
             "Hard": 6,
@@ -8640,7 +9404,9 @@
         "tjaMD5": "44bae58dccca45ebc2811f5bb88b1df3",
         "chartSize": 3.22,
         "chartTitle": "Sparkle On!",
+        "chartTitles": {},
         "chartSubtitle": "Discoholic feat. Vampires Love Sunny",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -8670,7 +9436,9 @@
         "tjaMD5": "9da2132ee8c5898602ca309794a3efd4",
         "chartSize": 2.73,
         "chartTitle": "pikopiko\u2606parade",
+        "chartTitles": {},
         "chartSubtitle": "tony feat. Hatsune Miku",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 7,
             "Oni": 6,
@@ -8702,7 +9470,9 @@
         "tjaMD5": "c05324437f2b3fcb43770c1493ef729c",
         "chartSize": 2.1,
         "chartTitle": "MTG IMPACTA",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.2,
             "Hard": 6,
@@ -8731,7 +9501,9 @@
         "tjaMD5": "598caf0a06671830bfe23c7a93a6feeb",
         "chartSize": 2.66,
         "chartTitle": "Midsummer Midnight (Game Cut.)",
+        "chartTitles": {},
         "chartSubtitle": "Bit Lie",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.3,
             "Edit": 7,
@@ -8763,7 +9535,9 @@
         "tjaMD5": "52be55189c5e37eb0987beae8d0e60d8",
         "chartSize": 3.42,
         "chartTitle": "BERRY FEVER",
+        "chartTitles": {},
         "chartSubtitle": "tony feat. Hatsune Miku",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.1,
             "Hard": 4,
@@ -8793,7 +9567,9 @@
         "tjaMD5": "dd26a8bbd9a340436e63ce581108bf3f",
         "chartSize": 5.4,
         "chartTitle": "ELEDREAM",
+        "chartTitles": {},
         "chartSubtitle": "tony feat. Hatsune Miku",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.0,
             "Hard": 6,
@@ -8822,7 +9598,9 @@
         "tjaMD5": "ae420cfcded7e93fe1b480a12167872f",
         "chartSize": 3.16,
         "chartTitle": "Unending Freedom ~Dashy's 3-Piece Infinitus~",
+        "chartTitles": {},
         "chartSubtitle": "Tatsuoto reversed by Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.7,
             "Hard": 8.0,
@@ -8853,7 +9631,9 @@
         "tjaMD5": "dc7cfe78ebed6f36ce46c1fc255a843a",
         "chartSize": 3.6,
         "chartTitle": "To Feel Alive",
+        "chartTitles": {},
         "chartSubtitle": "Phantoskii ft. Adachi Rei",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.4,
             "Hard": 6,
@@ -8883,7 +9663,11 @@
         "tjaMD5": "d42d3659ebc8b228404291103db08de5",
         "chartSize": 5.35,
         "chartTitle": "CONTINUING HEART",
+        "chartTitles": {},
         "chartSubtitle": "TONE feat. Hatsune Miku",
+        "chartSubtitles": {
+            "JA": "TONE feat. \u521d\u97f3\u30df\u30af"
+        },
         "chartDifficulties": {
             "Oni": 8.2,
             "Hard": 6,
@@ -8913,7 +9697,9 @@
         "tjaMD5": "f213c2e41aa7d9fa762671a6c475e1f0",
         "chartSize": 4.47,
         "chartTitle": "Adventurous Legend of Hilled Amethyst",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.8,
             "Hard": 6,
@@ -8943,7 +9729,9 @@
         "tjaMD5": "460f2ca9869d3c131f96f2b2d872942b",
         "chartSize": 5.9,
         "chartTitle": "Nightmares destroy you, The field of dreams forgotten, We shall help you sleep. - Dreamseeker Paku",
+        "chartTitles": {},
         "chartSubtitle": "Catonieca",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.4,
             "Hard": 7,
@@ -8972,7 +9760,9 @@
         "tjaMD5": "649220e91dac792c24b1bea03e97d130",
         "chartSize": 6.54,
         "chartTitle": "blowfish snorkeling",
+        "chartTitles": {},
         "chartSubtitle": "phonon & Israel Strom",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.6,
             "Hard": 6,
@@ -9001,7 +9791,9 @@
         "tjaMD5": "7672ee375ff068e8aa5fe58bb8a1a3cf",
         "chartSize": 8.66,
         "chartTitle": "Pat Metheny Remix",
+        "chartTitles": {},
         "chartSubtitle": "phonon & Israel Strom",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8.6,
             "Hard": 8.0,
@@ -9030,7 +9822,9 @@
         "tjaMD5": "8368a0df21bca3481fbacc3d5037fff8",
         "chartSize": 3.47,
         "chartTitle": "carousel horse",
+        "chartTitles": {},
         "chartSubtitle": "phonon feat. benjamin francis",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.9,
             "Hard": 8.5,
@@ -9060,7 +9854,9 @@
         "tjaMD5": "60afcf8cb69e2cfc09f9684c87379f49",
         "chartSize": 3.69,
         "chartTitle": "re:iteration = NULL",
+        "chartTitles": {},
         "chartSubtitle": "endofsystem",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 1,
             "Normal": 4,
@@ -9092,7 +9888,9 @@
         "tjaMD5": "b4badbd8d0a1eedbd6e8fd02057f246e",
         "chartSize": 4.42,
         "chartTitle": "Extraterrestrial Kobold from the Moon",
+        "chartTitles": {},
         "chartSubtitle": "qloudpatch",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 5.0,
             "Normal": 6,
@@ -9122,7 +9920,9 @@
         "tjaMD5": "1316cac114b087b2713a177ca0c678b1",
         "chartSize": 4.27,
         "chartTitle": "passage",
+        "chartTitles": {},
         "chartSubtitle": "DevTheFox",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.3,
             "Easy": 4,
@@ -9152,7 +9952,9 @@
         "tjaMD5": "b87361fd0f55ec93aabfb088ffe4ca11",
         "chartSize": 5.26,
         "chartTitle": "Hypersurface",
+        "chartTitles": {},
         "chartSubtitle": "Grigori Poincar\u00e9",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.2,
             "Normal": 4,
@@ -9182,7 +9984,9 @@
         "tjaMD5": "827a82aafce977fbf0371d9ed796f692",
         "chartSize": 4.13,
         "chartTitle": "No Concision, Full Deception",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.5,
             "Oni": 8.5,
@@ -9214,7 +10018,9 @@
         "tjaMD5": "632c07bdf40083ff7a86ef263d8cf434",
         "chartSize": 3.39,
         "chartTitle": "Lunar\u2215\u2215Fragment",
+        "chartTitles": {},
         "chartSubtitle": "qloudpatch",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 5,
@@ -9244,7 +10050,9 @@
         "tjaMD5": "a2e62cc9f82048d43ec00c221d3b1121",
         "chartSize": 2.68,
         "chartTitle": "Full Combo, All Perfect Even",
+        "chartTitles": {},
         "chartSubtitle": "Tatsuoto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.2,
             "Hard": 8.5,
@@ -9274,7 +10082,13 @@
         "tjaMD5": "500db1c3e2ce50b384a7a3e8b01e0701",
         "chartSize": 3.53,
         "chartTitle": "CHANGE YOUR MIND",
+        "chartTitles": {
+            "JA": "CHANGE YOUR MIND"
+        },
         "chartSubtitle": "dogthing feat. Luka Megurine",
+        "chartSubtitles": {
+            "JA": "dogthing feat. \u5de1\u97f3\u30eb\u30ab"
+        },
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 3,
@@ -9304,7 +10118,9 @@
         "tjaMD5": "542769a59d61e3d9761bdea5fd2448d6",
         "chartSize": 6.89,
         "chartTitle": "Peace After Stormy Times (Game Ver)",
+        "chartTitles": {},
         "chartSubtitle": "Bit Lie (RhyX7hm)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Edit": 5,
@@ -9336,7 +10152,9 @@
         "tjaMD5": "3654f19697c0afe88065772ef168952c",
         "chartSize": 2.75,
         "chartTitle": "against the world",
+        "chartTitles": {},
         "chartSubtitle": "DynGMD vs. TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9.8,
             "Hard": 7,
@@ -9366,7 +10184,9 @@
         "tjaMD5": "447c35ac1782c305ecc206070e769ae8",
         "chartSize": 5.08,
         "chartTitle": "Raven=Meteorite",
+        "chartTitles": {},
         "chartSubtitle": "Lalot.",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 7,
@@ -9396,7 +10216,9 @@
         "tjaMD5": "59aeeffb4cf0a583089e8886762c4fbc",
         "chartSize": 3.52,
         "chartTitle": "\u00abEnTeR-SaMaS-AsTeRaMaS\u00bb (Game Edit)",
+        "chartTitles": {},
         "chartSubtitle": "NaRouDaK",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.1,
             "Oni": 9.4,
@@ -9427,7 +10249,13 @@
         "tjaMD5": "7622e652966047b193f23db2e47e09c2",
         "chartSize": 4.78,
         "chartTitle": "Yoake no Voyage Comet",
+        "chartTitles": {
+            "JA": "\u591c\u660e\u3051\u306e\u30f4\u30a9\u30e4\u30fc\u30b8\u30e5\u30b3\u30e1\u30c3\u30c8"
+        },
         "chartSubtitle": "10tel",
+        "chartSubtitles": {
+            "JA": "\u3066\u3093\u3066\u308b"
+        },
         "chartDifficulties": {
             "Oni": 10.2,
             "Hard": 8.0,
@@ -9457,7 +10285,9 @@
         "tjaMD5": "61ea189819ffda58cd9f916aec2e0503",
         "chartSize": 5.13,
         "chartTitle": "Xross Imperium",
+        "chartTitles": {},
         "chartSubtitle": "BlastiX & Xor\u0245",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 9.4,
@@ -9489,7 +10319,9 @@
         "tjaMD5": "39281d6d5dd0c3b9c08ef6b00d3b1c76",
         "chartSize": 3.9,
         "chartTitle": "Dayglass [lite.]",
+        "chartTitles": {},
         "chartSubtitle": "ferretdot",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.4,
             "Oni": 8.7,
@@ -9520,7 +10352,11 @@
         "tjaMD5": "b541c19d957e768dd753eb1eac136f48",
         "chartSize": 3.66,
         "chartTitle": "Subwoofer Carnival",
+        "chartTitles": {},
         "chartSubtitle": "Limefruit.",
+        "chartSubtitles": {
+            "JA": "Limefruit.Bt~"
+        },
         "chartDifficulties": {
             "Oni": 10.8,
             "Hard": 8,
@@ -9550,7 +10386,9 @@
         "tjaMD5": "7d26718ee8e7901a3cef4710c92694d0",
         "chartSize": 6.65,
         "chartTitle": "100 Carat Smoke Point",
+        "chartTitles": {},
         "chartSubtitle": "BilliumMoto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.8,
             "Oni": 10.4,
@@ -9581,7 +10419,9 @@
         "tjaMD5": "1f335dc88b03333f527fe4350e533e9a",
         "chartSize": 1.97,
         "chartTitle": "Deceiving the Deceiver",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9,
             "Oni": 8,
@@ -9612,7 +10452,9 @@
         "tjaMD5": "55b43227a0eb5bb0d8a4bd0c0b2340de",
         "chartSize": 1.88,
         "chartTitle": "Deceiver",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Edit": 8,
@@ -9643,7 +10485,9 @@
         "tjaMD5": "469ced8ae88a0f13531579852dd55466",
         "chartSize": 11.23,
         "chartTitle": "Deceiver's Terminus",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 8,
@@ -9673,7 +10517,9 @@
         "tjaMD5": "889bbb371e94d0f52bcd53aebc6710dd",
         "chartSize": 5.45,
         "chartTitle": "Re\uff1aC\u00f8llapse",
+        "chartTitles": {},
         "chartSubtitle": "H888. (H5 + DashyDesu)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.2,
             "Oni": 10.6,
@@ -9704,7 +10550,9 @@
         "tjaMD5": "c3d74628c24b9297412d9809f0de480d",
         "chartSize": 4.49,
         "chartTitle": "Emily",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 12.0,
             "Oni": 7,
@@ -9735,7 +10583,9 @@
         "tjaMD5": "464da6c30516ef0673e26bf378592893",
         "chartSize": 5.28,
         "chartTitle": "Deceiver's Revenge",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 8,
@@ -9765,7 +10615,9 @@
         "tjaMD5": "f82434faf093ce223a290ad74b066da0",
         "chartSize": 3.67,
         "chartTitle": "Chasing the Wind",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 9,
@@ -9798,7 +10650,9 @@
         "tjaMD5": "6096b57bd81846ddec0472a8d1e643de",
         "chartSize": 35.79,
         "chartTitle": "Lost Emotion.",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 8,
@@ -9828,7 +10682,9 @@
         "tjaMD5": "a4154cf5c1351b798df39bcc1d83399b",
         "chartSize": 4.69,
         "chartTitle": "Broken Metronome",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.4,
@@ -9862,7 +10718,9 @@
         "tjaMD5": "fb2bb4018c5e55b12f71075dc64d91ee",
         "chartSize": 39.57,
         "chartTitle": "Dear Stars",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9,
             "Oni": 9,
@@ -9896,7 +10754,9 @@
         "tjaMD5": "08c5a3609adbfab78266c4eccd8dc6c9",
         "chartSize": 42.05,
         "chartTitle": "Forever Fading Away",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.7,
             "Oni": 9,
@@ -9929,7 +10789,9 @@
         "tjaMD5": "5c27441c985961963c45a237f8c9ec4e",
         "chartSize": 3.0,
         "chartTitle": "Scarlet Mirage",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.3,
             "Hard": 9,
@@ -9959,7 +10821,9 @@
         "tjaMD5": "ae7ff428aabee9c6c5a94c4c7231a0b8",
         "chartSize": 4.6,
         "chartTitle": "I'll Still Be Me",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 5,
@@ -9989,7 +10853,9 @@
         "tjaMD5": "9b2c1d7dfda7b9d391df30c9f9c6d62b",
         "chartSize": 3.98,
         "chartTitle": "Stories of your negative past",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 6,
@@ -10019,7 +10885,9 @@
         "tjaMD5": "b2e58169fe1bdc2cbcaf16e39c1f45cd",
         "chartSize": 5.5,
         "chartTitle": "Unlucky Rain",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9,
             "Oni": 9,
@@ -10052,7 +10920,9 @@
         "tjaMD5": "ed3d1c7927fa32927a89898a6d1b2055",
         "chartSize": 5.43,
         "chartTitle": "When will the end arrive, I wonder?",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.4,
             "Oni": 9,
@@ -10085,7 +10955,9 @@
         "tjaMD5": "85a5cf73e6d5a91d5880fc44518b187d",
         "chartSize": 2.84,
         "chartTitle": "I WANT TO BL00000000M",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
             "Hard": 8,
@@ -10116,7 +10988,9 @@
         "tjaMD5": "ad8a3ca5d283586c2743dbe0815835df",
         "chartSize": 72.29,
         "chartTitle": "II (Game Cut)",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 6,
@@ -10146,7 +11020,9 @@
         "tjaMD5": "9fea7d4852b24a67b8f105f1ac8394d9",
         "chartSize": 7.65,
         "chartTitle": "Puzzle of \"The End.\"",
+        "chartTitles": {},
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.1,
             "Oni": 9,
@@ -10180,7 +11056,11 @@
         "tjaMD5": "f9b1ae49a6731195cd3544ab6983138b",
         "chartSize": 55.92,
         "chartTitle": "Trapped Passion",
+        "chartTitles": {
+            "JA": "\u56da\u308f\u308c\u3057\u5fc3"
+        },
         "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.0,
             "Oni": 7,
@@ -10212,7 +11092,11 @@
         "tjaMD5": "0437b9f0ee965e983daa1ac9013e4a0b",
         "chartSize": 5.61,
         "chartTitle": "Dash and the Revolt of the Beasts",
+        "chartTitles": {
+            "JA": "\u30c0\u30c3\u30b7\u30e5\u3068\u7363\u305f\u3061\u306e\u53cd\u4e71"
+        },
         "chartSubtitle": "Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.3,
             "Hard": 7,
@@ -10242,7 +11126,11 @@
         "tjaMD5": "2979200bca5e9b59f2824a5ec1f0264c",
         "chartSize": 3.77,
         "chartTitle": "Mr. Raven",
+        "chartTitles": {
+            "JA": "\u30ab\u30e9\u30b9\u3055\u3093"
+        },
         "chartSubtitle": "Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 4,
@@ -10273,7 +11161,9 @@
         "tjaMD5": "c8216fc0b8cd38d1ca08f0826e7cc2e0",
         "chartSize": 4.58,
         "chartTitle": "Own,",
+        "chartTitles": {},
         "chartSubtitle": "Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.5,
             "Hard": 7,
@@ -10305,7 +11195,11 @@
         "tjaMD5": "1a7ac145393e98bc5b40a8c1aa721949",
         "chartSize": 5.54,
         "chartTitle": "Reverie XXIII - Miracle of the 23rd",
+        "chartTitles": {
+            "JA": "\u5922\u60f3XXIII - 2\u670823\u65e5\u306e\u5947\u8de1"
+        },
         "chartSubtitle": "Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 4,
@@ -10337,7 +11231,9 @@
         "tjaMD5": "96d3e9c8310066cdb4d49eb7d0c0c9ef",
         "chartSize": 4.46,
         "chartTitle": "Own, (Tatsuoto Rearrangement)",
+        "chartTitles": {},
         "chartSubtitle": "Dashy, (Rearranged by Tatsuoto)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
             "Hard": 8,
@@ -10367,7 +11263,9 @@
         "tjaMD5": "a7261236bbc286a769b472fc566c2254",
         "chartSize": 4.66,
         "chartTitle": "cocoa break",
+        "chartTitles": {},
         "chartSubtitle": "Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 8,
@@ -10397,7 +11295,11 @@
         "tjaMD5": "172f471bdf1d81a15dbcae45e705d442",
         "chartSize": 7.31,
         "chartTitle": "Rainy Night",
+        "chartTitles": {
+            "ZH": "\u96e8\u591c"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 4,
@@ -10427,7 +11329,12 @@
         "tjaMD5": "7776ef1d8bf1a60113f99182d1e314bf",
         "chartSize": 8.59,
         "chartTitle": "Rainy Night ~Dispelled~",
+        "chartTitles": {
+            "JA": "Rainy Night ~\u96f2\u98db\u9727\u6563~",
+            "ZH": "\u96e8\u591c ~\u4e91\u98de\u96fe\u6563~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 8,
@@ -10457,7 +11364,12 @@
         "tjaMD5": "7e51a614a346e5d5cf0317f84e42bdac",
         "chartSize": 8.9,
         "chartTitle": "Rainy Night ~Dream Fantasy~",
+        "chartTitles": {
+            "JA": "Rainy Night ~\u5922\u5e7b\u60f3~",
+            "ZH": "\u96e8\u591c ~\u68a6\u5883\u5e7b\u60f3~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.0,
             "Oni": 9,
@@ -10489,7 +11401,11 @@
         "tjaMD5": "a1978241689bf62d6740976bf05ab2e7",
         "chartSize": 13.23,
         "chartTitle": "Rainy Night II",
+        "chartTitles": {
+            "ZH": "\u96e8\u591c II"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 6,
@@ -10519,7 +11435,12 @@
         "tjaMD5": "925d3df77ba0cb2c5966099e75f06b89",
         "chartSize": 10.91,
         "chartTitle": "Rainy Night II ~Forest of Lost Trust~",
+        "chartTitles": {
+            "JA": "Rainy Night II ~\u7121\u4fe1\u306e\u68ee~",
+            "ZH": "\u96e8\u591c II ~\u5931\u4fe1\u8005\u4e4b\u68ee~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 6,
@@ -10549,7 +11470,12 @@
         "tjaMD5": "36be1714eb0d76b47d6ac753e3e816d9",
         "chartSize": 9.94,
         "chartTitle": "Rainy Night II ~Condensation~",
+        "chartTitles": {
+            "JA": "Rainy Night II ~\u6c34\u51dd\u7d50~",
+            "ZH": "\u96e8\u591c II ~\u6c34\u51dd\u7ed3~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 8,
@@ -10579,7 +11505,11 @@
         "tjaMD5": "49f2ce6ea00eb4d9bd8b05f0da1ac11d",
         "chartSize": 12.98,
         "chartTitle": "Rainy Night III",
+        "chartTitles": {
+            "ZH": "\u96e8\u591c III"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
             "Hard": 8,
@@ -10609,7 +11539,12 @@
         "tjaMD5": "63b6a1ce50819710d2e885eda2b4e509",
         "chartSize": 9.93,
         "chartTitle": "Rainy Night III ~Unreal Rainbow~",
+        "chartTitles": {
+            "JA": "Rainy Night III ~\u5e7b\u8679~",
+            "ZH": "\u96e8\u591c III ~\u865a\u8679\u5e7b\u5f69~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 6,
@@ -10641,7 +11576,12 @@
         "tjaMD5": "c22ba506c86eb085a848b08119f65377",
         "chartSize": 10.29,
         "chartTitle": "Rainy Night III ~Samsara~",
+        "chartTitles": {
+            "JA": "Rainy Night III ~\u8f2a\u56de~",
+            "ZH": "\u96e8\u591c III ~\u8f6e\u56de~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.3,
             "Hard": 9,
@@ -10671,7 +11611,11 @@
         "tjaMD5": "c477de79072a86a599bb92fecd42091b",
         "chartSize": 9.53,
         "chartTitle": "Rainy Tear",
+        "chartTitles": {
+            "ZH": "\u96e8\u6cea"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.7,
             "Hard": 8,
@@ -10700,7 +11644,9 @@
         "tjaMD5": "64b505dfa659285313801f674f8559d9",
         "chartSize": 2.95,
         "chartTitle": "NEP0\uff1aMATSUR1\u30b8\u30b1\u30f3",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0125",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
             "Oni": 9,
@@ -10731,7 +11677,9 @@
         "tjaMD5": "78f389dc04ab45bc0ba3d552cd3472a5",
         "chartSize": 2.61,
         "chartTitle": "NEP0\uff1aFR02EN\u30ed\u30a6\u30ab",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0125",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 6,
@@ -10762,7 +11710,9 @@
         "tjaMD5": "1e7913e60a412fe8162060e7c0007632",
         "chartSize": 3.22,
         "chartTitle": "NEP0\uff1aN3PHTHYS\u30b8\u30e6",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0125",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 6,
@@ -10793,7 +11743,9 @@
         "tjaMD5": "492a85a9affa53e5e86721382039cac1",
         "chartSize": 3.04,
         "chartTitle": "NEP0\uff1aTHELASTC4LL\u30d5\u30a7\u30e9\u30eb",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0117",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.3,
             "Hard": 1,
@@ -10824,7 +11776,9 @@
         "tjaMD5": "f5de457719ebd958b8e774086c5d1b11",
         "chartSize": 3.71,
         "chartTitle": "NEP0\uff1aMY5TERIOUS\u30bb\u30c3\u30b7\u30e7\u30f3",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0003",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.5,
             "Oni": 9,
@@ -10855,7 +11809,9 @@
         "tjaMD5": "25c639026ce90d36bd0720e0bb440fd6",
         "chartSize": 3.2,
         "chartTitle": "NEP0\uff1aDANCIN6INTHECOLDRAIN\u30cf\u30fc\u30c8\u30ce\u30c3\u30c8",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL2514",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 8,
@@ -10886,7 +11842,9 @@
         "tjaMD5": "90ab02dff41679613695720ee4bddbc7",
         "chartSize": 2.77,
         "chartTitle": "NEP0\uff1aINA7UMA\u30e8\u30a6\u30ab\u30a4\u30e9\u30f3\u30d6",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL4700",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Edit": 10.0,
@@ -10917,7 +11875,9 @@
         "tjaMD5": "e2ac392035d4aee738e095ddd2f7ffba",
         "chartSize": 3.97,
         "chartTitle": "NEP0\uff1a8OOST\u30b6_\u30d6\u30ae\u30fc",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0170 ft. Dashy,",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 8,
             "Oni": 9,
@@ -10948,7 +11908,9 @@
         "tjaMD5": "a9bf358f0c237b8d589520999c18e9ab",
         "chartSize": 3.68,
         "chartTitle": "NEP0\uff1a9STATESOF\u30c7\u30a3\u30b9\u30c8\u30fc\u30b7\u30e7\u30f3",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL8117",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 11.2,
             "Oni": 10.2,
@@ -10979,7 +11941,9 @@
         "tjaMD5": "ade52aef077d52a90853986c8ad4a9a7",
         "chartSize": 5.49,
         "chartTitle": "NEP0\uff1aANUB12_S\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL3821",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.4,
             "Oni": 3,
@@ -11011,7 +11975,9 @@
         "tjaMD5": "6b7fa206b9fb5b09b26709921d65f8a1",
         "chartSize": 5.09,
         "chartTitle": "4elise",
+        "chartTitles": {},
         "chartSubtitle": "Makotora",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -11040,7 +12006,9 @@
         "tjaMD5": "2a80c8696eaeb9c3adfb7029f856c22d",
         "chartSize": 3.29,
         "chartTitle": "Mountain King",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 9,
             "Oni": 8,
@@ -11071,7 +12039,12 @@
         "tjaMD5": "438196a438c22b328cf0aaf529aa78d5",
         "chartSize": 4.57,
         "chartTitle": "Revival of a Withered Tree",
+        "chartTitles": {
+            "EN": "Revival of a Withered Tree",
+            "ZH": "\u67af\u6728\u9022\u6625"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 8,
@@ -11100,7 +12073,12 @@
         "tjaMD5": "92fca0b22729fa35cb1ee2c5632b3e87",
         "chartSize": 4.81,
         "chartTitle": "Galaxy Fall",
+        "chartTitles": {
+            "EN": "Galaxy Fall",
+            "ZH": "\u94f6\u6cb3\u5012\u6cfb"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 8,
@@ -11130,7 +12108,12 @@
         "tjaMD5": "6b78f84124388a41049e13c76df6dab2",
         "chartSize": 9.17,
         "chartTitle": "Ripple",
+        "chartTitles": {
+            "EN": "Ripple",
+            "ZH": "\u6f9c"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 8,
@@ -11161,7 +12144,11 @@
         "tjaMD5": "2881271d422e22a130830366211cda0c",
         "chartSize": 3.54,
         "chartTitle": "Relaxation Piece of Conclusion",
+        "chartTitles": {},
         "chartSubtitle": "Zenth / Project OutFox\uff1a Serenity",
+        "chartSubtitles": {
+            "JA": "Zenth \u300cProject OutFox\uff1a Serenity\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 5,
@@ -11192,7 +12179,13 @@
         "tjaMD5": "711533c7dcdbd63e5803bc70fc337c62",
         "chartSize": 2.05,
         "chartTitle": "B-Happy",
+        "chartTitles": {
+            "JA": "B-Happy"
+        },
         "chartSubtitle": "Ace of Beat / Project OutFox\uff1a Serenity",
+        "chartSubtitles": {
+            "JA": "Ace of Beat \u300cProject OutFox\uff1a Serenity\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 5,
@@ -11223,7 +12216,11 @@
         "tjaMD5": "3b12f8ae44adc2af4d8d681199e13a93",
         "chartSize": 3.67,
         "chartTitle": "What Year Is This (OutFox Edit)",
+        "chartTitles": {},
         "chartSubtitle": "Sevish / Project OutFox\uff1a Serenity",
+        "chartSubtitles": {
+            "JA": "Sevish\u300cProject OutFox\uff1a Serenity\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Edit": 10.2,
             "Oni": 8,
@@ -11256,7 +12253,13 @@
         "tjaMD5": "d530621f81c267b1379d49a2eb989b7d",
         "chartSize": 4.32,
         "chartTitle": "Eradication of Light",
+        "chartTitles": {
+            "JA": "Eradication of Light"
+        },
         "chartSubtitle": "Mintorment / Project OutFox\uff1a Serenity",
+        "chartSubtitles": {
+            "JA": "Mintorment \u300cProject OutFox\uff1a Serenity\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Easy": 5,
             "Normal": 6,
@@ -11287,7 +12290,13 @@
         "tjaMD5": "3154225d31a90870d176041363bff94f",
         "chartSize": 2.44,
         "chartTitle": "brokenHeart resurrection ~estelle~",
+        "chartTitles": {
+            "JA": "brokenHeart resurrection ~estelle~"
+        },
         "chartSubtitle": "RILEY / Project OutFox\uff1a Serenity",
+        "chartSubtitles": {
+            "JA": "RILEY \u300cProject OutFox\uff1a Serenity\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 7,
@@ -11317,7 +12326,14 @@
         "tjaMD5": "a879a0553aad376875c99b37084c0cad",
         "chartSize": 9.48,
         "chartTitle": "Evil Gala",
+        "chartTitles": {
+            "JA": "Evil Gala"
+        },
         "chartSubtitle": "Touhou Project Arrange / Moox",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000Moox",
+            "ZH": "\u4e1c\u65b9Project Arrange / Moox"
+        },
         "chartDifficulties": {
             "Easy": 3,
             "Normal": 4,
@@ -11348,7 +12364,14 @@
         "tjaMD5": "d7463b99c416f1c73f29cac00d17312b",
         "chartSize": 3.61,
         "chartTitle": "Spread My Wings",
+        "chartTitles": {
+            "JA": "Spread My Wings"
+        },
         "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Slothington",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000DJ Timotei ft. Slothington",
+            "ZH": "\u4e1c\u65b9Project Arrange / DJ Timotei ft. Slothington"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -11378,7 +12401,14 @@
         "tjaMD5": "6d8f2ede5ce5adc1c59f1f5a85cc0b15",
         "chartSize": 3.4,
         "chartTitle": "Remilia, Watashi no Kage ~ The Scarlet Fog Machine Incident",
+        "chartTitles": {
+            "JA": "\u30ec\u30df\u30ea\u30a2, \u79c1\u306e\u5f71 \uff5e \uff34\uff48\uff45 \uff33\uff43\uff41\uff52\uff4c\uff45\uff54 \uff26\uff4f\uff47 \uff2d\uff41\uff43\uff48\uff49\uff4e\uff45 \uff29\uff4e\uff43\uff49\uff44\uff45\uff4e\uff54"
+        },
         "chartSubtitle": "Touhou Project Arrange / Jezebel Ciccone",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000Jezebel Ciccone",
+            "ZH": "\u4e1c\u65b9Project Arrange / Jezebel Ciccone"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -11409,7 +12439,14 @@
         "tjaMD5": "a9150bde8ba7aa3f7085f25822579d47",
         "chartSize": 5.43,
         "chartTitle": "Confession",
+        "chartTitles": {
+            "JA": "Confession"
+        },
         "chartSubtitle": "Touhou Project Arrange / TTL ft. Kanata",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000TTL ft. Kanata",
+            "ZH": "\u4e1c\u65b9Project Arrange / TTL ft. Kanata"
+        },
         "chartDifficulties": {
             "Oni": 8,
             "Easy": 2,
@@ -11440,7 +12477,14 @@
         "tjaMD5": "9cb8d8666cc77571634997a76ee821aa",
         "chartSize": 3.07,
         "chartTitle": "War Zone",
+        "chartTitles": {
+            "JA": "War Zone"
+        },
         "chartSubtitle": "Touhou Project Arrange / WORLDWIDEWOLF feat. Timothy",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000WORLDWIDEWOLF feat. Timothy",
+            "ZH": "\u4e1c\u65b9Project Arrange / WORLDWIDEWOLF feat. Timothy"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -11471,7 +12515,14 @@
         "tjaMD5": "fb6bbdf72fcbf95875264a19d46f74e6",
         "chartSize": 5.48,
         "chartTitle": "Journey",
+        "chartTitles": {
+            "JA": "Journey"
+        },
         "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Tsuu",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000DJ Timotei ft. \u3064\u3045",
+            "ZH": "\u4e1c\u65b9Project Arrange / DJ Timotei ft. Tsuu"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 5,
@@ -11501,7 +12552,14 @@
         "tjaMD5": "844c5a37f9321929e63f0bda26ce50b3",
         "chartSize": 11.56,
         "chartTitle": "Abyss",
+        "chartTitles": {
+            "JA": "Abyss"
+        },
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -11531,7 +12589,14 @@
         "tjaMD5": "82f399038fda6d1912cb5c1e8a6077c6",
         "chartSize": 11.07,
         "chartTitle": "Exterminate",
+        "chartTitles": {
+            "JA": "Exterminate"
+        },
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+        },
         "chartDifficulties": {
             "Oni": 10.1,
             "Hard": 8,
@@ -11561,7 +12626,14 @@
         "tjaMD5": "969002c442de4c725aab67dbef33fc74",
         "chartSize": 3.79,
         "chartTitle": "Imperfect Cherry Blossom",
+        "chartTitles": {
+            "JA": "Imperfect Cherry Blossom"
+        },
         "chartSubtitle": "Touhou Project Arrange / Whitetail",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000Whitetail",
+            "ZH": "\u4e1c\u65b9Project Arrange / Whitetail"
+        },
         "chartDifficulties": {
             "Edit": 10.4,
             "Oni": 8,
@@ -11593,7 +12665,15 @@
         "tjaMD5": "e24e10ebdf41a6be38b6407dbcdef0ba",
         "chartSize": 11.99,
         "chartTitle": "Disintegrated Laevatein",
+        "chartTitles": {
+            "JA": "\u5d29\u58ca\u300c\u30ec\u30fc\u30f4\u30a1\u30c6\u30a4\u30f3\u300d",
+            "ZH": "\u5d29\u574f\u300c\u83b1\u74e6\u6c40\u300d"
+        },
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+        },
         "chartDifficulties": {
             "Edit": 10.7,
             "Oni": 9,
@@ -11624,7 +12704,12 @@
         "tjaMD5": "ab53a77527cc10e2c58111b7a1053f61",
         "chartSize": 1.57,
         "chartTitle": "Cirno in Quarantine",
+        "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / H5",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000H5",
+            "ZH": "\u4e1c\u65b9Project Arrange / H5"
+        },
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 7,
@@ -11655,7 +12740,14 @@
         "tjaMD5": "a52d3177772e242dc7702600acfbcf76",
         "chartSize": 5.13,
         "chartTitle": "BLINDED CRITICISM (OpenTaiko Edit)",
+        "chartTitles": {
+            "JA": "BLINDED CRITICISM (OpenTaiko Edit)"
+        },
         "chartSubtitle": "Touhou Project Arrange / DeBisco & Zovi",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000DeBisco & Zovi",
+            "ZH": "\u4e1c\u65b9Project Arrange / DeBisco & Zovi"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -11689,7 +12781,13 @@
         "tjaMD5": "b571534582d3b91d5ec9893081aa2c1c",
         "chartSize": 26.93,
         "chartTitle": "Victory Lap",
+        "chartTitles": {
+            "JA": "\u30f4\u30a3\u30af\u30c8\u30ea\u30fc\u30fb\u30e9\u30c3\u30d7"
+        },
         "chartSubtitle": "dogthing ft. GUMI / OpenTaiko Karting",
+        "chartSubtitles": {
+            "JA": "dogthing ft. GUMI \u300cOpenTaiko Karting\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Easy": 2,
             "Normal": 3,
@@ -11719,7 +12817,13 @@
         "tjaMD5": "a84179c2878f8f579e7e26587bba5894",
         "chartSize": 2.46,
         "chartTitle": "cityscape racers",
+        "chartTitles": {
+            "JA": "cityscape racers"
+        },
         "chartSubtitle": "Makotora / OpenTaiko Karting",
+        "chartSubtitles": {
+            "JA": "Makotora \u300cOpenTaiko Karting\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -11748,7 +12852,13 @@
         "tjaMD5": "8de3ba3b22f2577c3209d5bafbc13aae",
         "chartSize": 7.78,
         "chartTitle": "Fulminate",
+        "chartTitles": {
+            "JA": "Fulminate"
+        },
         "chartSubtitle": "Yozu C / OpenTaiko Karting",
+        "chartSubtitles": {
+            "JA": "Yozu C \u300cOpenTaiko Karting\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 7,
@@ -11778,7 +12888,13 @@
         "tjaMD5": "256852f679d528e6f7f59fff91ca1454",
         "chartSize": 4.04,
         "chartTitle": "PARTICLE ACCELERATOR",
+        "chartTitles": {
+            "JA": "PARTICLE ACCELERATOR"
+        },
         "chartSubtitle": "zqr / OpenTaiko Karting",
+        "chartSubtitles": {
+            "JA": "zqr \u300cOpenTaiko Karting\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 8,
@@ -11808,7 +12924,13 @@
         "tjaMD5": "232226fc429b77b2b4150b7cbe0f9b34",
         "chartSize": 4.84,
         "chartTitle": "BOOGER CART RACER",
+        "chartTitles": {
+            "JA": "BOOGER CART RACER"
+        },
         "chartSubtitle": "McBoiled / OpenTaiko Karting",
+        "chartSubtitles": {
+            "JA": "McBoiled \u300cOpenTaiko Karting\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 10.3,
             "Hard": 7,
@@ -11837,7 +12959,13 @@
         "tjaMD5": "61c4f4dfa20fd1c4e42156bdc72852b2",
         "chartSize": 1.76,
         "chartTitle": "stormrider's fork",
+        "chartTitles": {
+            "JA": "stormrider's fork"
+        },
         "chartSubtitle": "H5 DISrespected by OpenTaiko Team All Stars / OpenTaiko Karting",
+        "chartSubtitles": {
+            "JA": "H5 DISrespected by OpenTaiko Team All Stars \u300cOpenTaiko Karting\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Edit": 9,
             "Hard": 7,
@@ -11868,7 +12996,13 @@
         "tjaMD5": "fd5f12e9125ec600068bf90afbcf720f",
         "chartSize": 19.7,
         "chartTitle": "\u0394M\u0394L\u00bf",
+        "chartTitles": {
+            "JA": "\u0394M\u0394L\u00bf"
+        },
         "chartSubtitle": "Spring-Time Jester / OpenTaiko Karting",
+        "chartSubtitles": {
+            "JA": "Spring-Time Jester \u300cOpenTaiko Karting\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Edit": 12.888,
             "Easy": 8,
@@ -11900,7 +13034,11 @@
         "tjaMD5": "74a038a9bdd0ae3d52b08fca4b82af02",
         "chartSize": 3.43,
         "chartTitle": "PentRage",
+        "chartTitles": {},
         "chartSubtitle": "RachelTypeX / Project Pentjet",
+        "chartSubtitles": {
+            "JA": "RachelTypeX \u300cProject Pentjet\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Edit": 9,
             "Oni": 8,
@@ -11932,7 +13070,11 @@
         "tjaMD5": "b50383511e00b4e1e0dbec8acf6f47ed",
         "chartSize": 2.89,
         "chartTitle": "Star*Dust",
+        "chartTitles": {},
         "chartSubtitle": "CuZi / Project Pentjet",
+        "chartSubtitles": {
+            "JA": "CuZi \u300cProject Pentjet\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 7,
             "Hard": 5,
@@ -11962,7 +13104,11 @@
         "tjaMD5": "f1912c0e47d9025d9f05c9f8dee8c992",
         "chartSize": 2.77,
         "chartTitle": "Necrovis",
+        "chartTitles": {},
         "chartSubtitle": "St4rie / Project Pentjet",
+        "chartSubtitles": {
+            "JA": "St4rie \u300cProject Pentjet\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 6,
@@ -11992,7 +13138,11 @@
         "tjaMD5": "b635c2e2244db244118b12d5ea3ee417",
         "chartSize": 3.42,
         "chartTitle": "Jakarta EVOLUTION",
+        "chartTitles": {},
         "chartSubtitle": "KURORAK / Project Pentjet",
+        "chartSubtitles": {
+            "JA": "KURORAK \u300cProject Pentjet\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Edit": 10.4,
             "Oni": 8,
@@ -12024,7 +13174,13 @@
         "tjaMD5": "330649fcfb48ae3e56c5b5c4cf21bd89",
         "chartSize": 5.0,
         "chartTitle": "Yukisarashi",
+        "chartTitles": {
+            "JA": "\u96ea\u3055\u3089\u3057"
+        },
         "chartSubtitle": "SiLiS / Project Pentjet",
+        "chartSubtitles": {
+            "JA": "SiLiS \u300cProject Pentjet\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 8,
@@ -12055,7 +13211,9 @@
         "tjaMD5": "1f43d772ff21f4a6b89e4c72b18b82a1",
         "chartSize": 56.9,
         "chartTitle": "Zealous Seeker",
+        "chartTitles": {},
         "chartSubtitle": "zqr vs Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 9,
@@ -12086,7 +13244,12 @@
         "tjaMD5": "97aedbf2fff43d10ce0531d777a9e1e0",
         "chartSize": 3.77,
         "chartTitle": "Desire Drive (H2GO Remix)",
+        "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / TanChen",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 TanChen",
+            "ZH": "\u4e1c\u65b9Project Arrange / TanChen"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 8,
@@ -12115,7 +13278,12 @@
         "tjaMD5": "6154359e4c191bd2841deee1002c5e4e",
         "chartSize": 3.71,
         "chartTitle": "Far East Requiem",
+        "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / Masamune",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Masamune",
+            "ZH": "\u4e1c\u65b9Project Arrange / Masamune"
+        },
         "chartDifficulties": {
             "Oni": 10.8,
             "Hard": 8,
@@ -12145,7 +13313,12 @@
         "tjaMD5": "42c76de4c93f18c03f55ace36799972f",
         "chartSize": 13.07,
         "chartTitle": "Elusiveyoukai",
+        "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+        },
         "chartDifficulties": {
             "Oni": 10.6,
             "Hard": 8,
@@ -12175,7 +13348,12 @@
         "tjaMD5": "00740d7dd3fe5ec2f2fc5c9e851483db",
         "chartSize": 7.51,
         "chartTitle": "Rainy Right ? ~Fantasy Waterfall~",
+        "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+        },
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 6,
@@ -12205,7 +13383,12 @@
         "tjaMD5": "97b5f870fe62e73d6a1361a03ff58e5b",
         "chartSize": 8.0,
         "chartTitle": "Gap Moe \u2606",
+        "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / gentu",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 gentu",
+            "ZH": "\u4e1c\u65b9Project Arrange / gentu"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -12235,7 +13418,14 @@
         "tjaMD5": "333501510694950eda5def2e7082c633",
         "chartSize": 9.18,
         "chartTitle": "Seimei no Nitouryuu",
+        "chartTitles": {
+            "JA": "\u751f\u547d\u306e\u4e8c\u5200\u6d41"
+        },
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartSubtitles": {
+            "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+        },
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 8,
@@ -12269,7 +13459,9 @@
         "tjaMD5": "6056085c111fc0a085596dab3e1122f9",
         "chartSize": 31.82,
         "chartTitle": "April\u2605Heart!",
+        "chartTitles": {},
         "chartSubtitle": "O.W.Y.R.S.I.L.O.E Academy Theme Song",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 5,
             "Hard": 3,
@@ -12301,7 +13493,9 @@
         "tjaMD5": "13c3d26032831c84d0d5d5fe178b5531",
         "chartSize": 43.25,
         "chartTitle": "Connection, Op.19",
+        "chartTitles": {},
         "chartSubtitle": "Steven Wan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.67,
             "Oni": 8,
@@ -12336,7 +13530,9 @@
         "tjaMD5": "63c716575c580c3db8541a9506269358",
         "chartSize": 11.06,
         "chartTitle": "Wherever You Are",
+        "chartTitles": {},
         "chartSubtitle": "Ryuto Setsujin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 4,
@@ -12369,7 +13565,9 @@
         "tjaMD5": "047798bfb84d848d96f903155986abe1",
         "chartSize": 13.52,
         "chartTitle": "Blur",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\" with JUN Nocturne (SynthV)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 5,
@@ -12402,7 +13600,9 @@
         "tjaMD5": "dd4bd298800682d3d45bc6cd6a5a795d",
         "chartSize": 19.5,
         "chartTitle": "Pola\u042f\u2215\u2215iS",
+        "chartTitles": {},
         "chartSubtitle": "Eclipse_41",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.9,
             "Oni": 7,
@@ -12436,7 +13636,9 @@
         "tjaMD5": "ae3540c019f8b03358820100dca61353",
         "chartSize": 21.91,
         "chartTitle": "This might be a beachside drama",
+        "chartTitles": {},
         "chartSubtitle": "FrankleAnkles",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -12468,7 +13670,9 @@
         "tjaMD5": "9e03bc3092321e1acf0446d0124d62e3",
         "chartSize": 29.91,
         "chartTitle": "Valentine's day was 45 days ago",
+        "chartTitles": {},
         "chartSubtitle": "zqr",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 6,
             "Hard": 4,
@@ -12500,7 +13704,9 @@
         "tjaMD5": "ae3f283c8710ce790f460e1dd9c8b49d",
         "chartSize": 11.16,
         "chartTitle": "Denis ~an acapella treat~",
+        "chartTitles": {},
         "chartSubtitle": "gentu -respect for K-",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.67,
             "Edit": 10.41,
@@ -12535,7 +13741,9 @@
         "tjaMD5": "24e92c53980b175aaaf30511af6602d8",
         "chartSize": 16.26,
         "chartTitle": "romance of a lifetime",
+        "chartTitles": {},
         "chartSubtitle": "gentu as \"gentu with toast in his mouth\"",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 9,
             "Hard": 7,
@@ -12568,7 +13776,9 @@
         "tjaMD5": "730f940b61d238f3a6a7f19f6663ad23",
         "chartSize": 9.53,
         "chartTitle": "What a Wonderful Day!",
+        "chartTitles": {},
         "chartSubtitle": "OfficialAz3",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Easy": 6,
             "Normal": 8,
@@ -12601,7 +13811,9 @@
         "tjaMD5": "9c9fa684f9efb79e0fe0bfcb1d514a71",
         "chartSize": 26.32,
         "chartTitle": "Sands of Rizz",
+        "chartTitles": {},
         "chartSubtitle": "MoushiKomi feat. OpenTaiko All Stars",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 12.41,
             "Hard": 10,
@@ -12635,7 +13847,13 @@
         "tjaMD5": "f37555b5fd0efd72a61decd545edde92",
         "chartSize": 13.62,
         "chartTitle": "\"A dream that holds a thousand lives, and the hope that your love will return\"",
+        "chartTitles": {
+            "JA": "\u300c\u5343\u306e\u547d\u3092\u62b1\u304f\u5922\u3001\u305d\u3057\u3066\u3042\u306a\u305f\u306e\u611b\u304c\u623b\u3063\u3066\u304f\u308b\u5e0c\u671b\u300d"
+        },
         "chartSubtitle": "Tatsuoto has had this dream six or seven times.",
+        "chartSubtitles": {
+            "JA": "Tatsuoto\u306f\u3053\u306e\u5922\u30926\u30017\u56de\u898b\u305f\u3053\u3068\u304c\u3042\u308b\u3002"
+        },
         "chartDifficulties": {
             "Oni": 11.41,
             "Hard": 8,
@@ -12667,7 +13885,9 @@
         "tjaMD5": "ec0010f6782ce130789da649b1ab0dca",
         "chartSize": 28.35,
         "chartTitle": "Unlocking farewells of the Dimension of Emotion",
+        "chartTitles": {},
         "chartSubtitle": "You",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 4,
             "Hard": 1,
@@ -12798,7 +14018,13 @@
         "tjaMD5": "c9244157a0fff9c53c6f65e3e89fc4f2",
         "chartSize": 65.29,
         "chartTitle": "\u0394DULATIo\u03a0 \u03a9! ~Cheering for Dreamseeker~",
+        "chartTitles": {
+            "JA": "\u0394DULATIo\u03a0 \u03a9! ~\u30c9\u30ea\u30fc\u30e0\u30b7\u30fc\u30ab\u30fc\u3078\u306e\u5fdc\u63f4\u6b4c~"
+        },
         "chartSubtitle": "Spring-Time Jester, Dreamseeker Paku, and You feat. Dashy,",
+        "chartSubtitles": {
+            "JA": "Spring-Time Jester, \u30c9\u30ea\u30fc\u30e0\u30b7\u30fc\u30ab\u30fc\u3071\u304f, \u3068\u8cb4\u65b9 feat. Dashy,"
+        },
         "chartDifficulties": {
             "Oni": 11.41,
             "Hard": 8,
@@ -12828,7 +14054,11 @@
         "tjaMD5": "fe77d7441842169b2effa38490b3f872",
         "chartSize": 4.98,
         "chartTitle": "Phantasia\u2605Meteor",
+        "chartTitles": {},
         "chartSubtitle": "FrankleAnkles / Extraordinary Fates",
+        "chartSubtitles": {
+            "JA": "FrankleAnkles \u300cExtraordinary Fates\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 8,
             "Hard": 6,
@@ -12859,7 +14089,11 @@
         "tjaMD5": "d2bf7a89a16351aafcdc57349ffedf13",
         "chartSize": 8.16,
         "chartTitle": "Sugarpunk!!",
+        "chartTitles": {},
         "chartSubtitle": "Irissu / Extraordinary Fates",
+        "chartSubtitles": {
+            "JA": "Irissu \u300cExtraordinary Fates\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 9,
             "Easy": 3,
@@ -12889,7 +14123,11 @@
         "tjaMD5": "de7ae2e7f0ccdadbaccfe8f621859a37",
         "chartSize": 6.9,
         "chartTitle": "EVOLVE@Electrophorus",
+        "chartTitles": {},
         "chartSubtitle": "Zoomlight (Chimeratio x Cryptovolans) / Extraordinary Fates",
+        "chartSubtitles": {
+            "JA": "Zoomlight (Chimeratio x Cryptovolans) \u300cExtraordinary Fates\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 10.4,
             "Hard": 6,
@@ -12920,7 +14158,11 @@
         "tjaMD5": "f5dfbc1058d29401515b0da759377eb0",
         "chartSize": 21.03,
         "chartTitle": "Apollyon's Embrace",
+        "chartTitles": {},
         "chartSubtitle": "Tatsuoto vs. FrankleAnkles vs. Marilette / Extraordinary Fates",
+        "chartSubtitles": {
+            "JA": "Tatsuoto vs. FrankleAnkles vs. Marilette\u300cExtraordinary Fates\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Normal": 7,
             "Hard": 9,
@@ -12952,7 +14194,11 @@
         "tjaMD5": "ab915032bb92d417515565cff5601a8b",
         "chartSize": 6.87,
         "chartTitle": "Apollyon's Embrace (Super-Ultra-Hyper-Over-OVER-Cute Remix)",
+        "chartTitles": {},
         "chartSubtitle": "Marilette and Mr Neko / Extraordinary Fates",
+        "chartSubtitles": {
+            "JA": "Marilette and Mr Neko \u300cExtraordinary Fates\u300d\u3088\u308a"
+        },
         "chartDifficulties": {
             "Oni": 11.2,
             "Hard": 7,
@@ -12983,7 +14229,9 @@
         "tjaMD5": "e1e5da4ccb50c5650098497e0d9e900a",
         "chartSize": 15.26,
         "chartTitle": "\u521d\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Tenth Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 1
         },
@@ -13008,7 +14256,9 @@
         "tjaMD5": "a22c3b7ed0572a265b60d8b34b440bea",
         "chartSize": 12.25,
         "chartTitle": "\u4e5d\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Ninth Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 2
         },
@@ -13033,7 +14283,9 @@
         "tjaMD5": "2f0b130308e52b31cd2420bb5c1a9fc5",
         "chartSize": 12.16,
         "chartTitle": "\u516b\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Eighth Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 2
         },
@@ -13058,7 +14310,9 @@
         "tjaMD5": "0271db57d4be5e8510416bd0a297f06d",
         "chartSize": 11.55,
         "chartTitle": "\u4e03\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Seventh Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 3
         },
@@ -13083,7 +14337,9 @@
         "tjaMD5": "927e6b5c9859ef9e49718035cf20545b",
         "chartSize": 14.23,
         "chartTitle": "\u516d\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Sixth Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 3
         },
@@ -13108,7 +14364,9 @@
         "tjaMD5": "2c96af24d5aca34694c410cf861f3fea",
         "chartSize": 12.71,
         "chartTitle": "\u4e94\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Fifth Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 4
         },
@@ -13133,7 +14391,9 @@
         "tjaMD5": "36bd42fb4d011304ac8e7e35296a3ce6",
         "chartSize": 6.6,
         "chartTitle": "\u56db\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Fourth Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 4
         },
@@ -13158,7 +14418,9 @@
         "tjaMD5": "6437dae3db4951925dba11a243a28673",
         "chartSize": 9.13,
         "chartTitle": "\u4e09\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Third Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 5
         },
@@ -13183,7 +14445,9 @@
         "tjaMD5": "f7738814891b12ce75f2bbb3cb012b45",
         "chartSize": 7.13,
         "chartTitle": "\u4e8c\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Second Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 6
         },
@@ -13208,7 +14472,9 @@
         "tjaMD5": "7d20a4b53e7467d667d736887c740435",
         "chartSize": 11.46,
         "chartTitle": "\u4e00\u7d1a",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 First Kyuu",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 7
         },
@@ -13233,7 +14499,9 @@
         "tjaMD5": "d5354a06e72fcc82c028e17cb546b70e",
         "chartSize": 5.87,
         "chartTitle": "\u521d\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 First Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 6
         },
@@ -13258,7 +14526,9 @@
         "tjaMD5": "099031cdbeb6d2522e874b00347fbcb4",
         "chartSize": 8.33,
         "chartTitle": "\u4e8c\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Second Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 7
         },
@@ -13283,7 +14553,9 @@
         "tjaMD5": "989bbc2399e1acb8d2c85d228f794492",
         "chartSize": 12.26,
         "chartTitle": "\u4e09\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Third Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 8
         },
@@ -13308,7 +14580,9 @@
         "tjaMD5": "770fbc81281c0a6edd71c6f1c2b55f34",
         "chartSize": 6.68,
         "chartTitle": "\u56db\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Fourth Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 8
         },
@@ -13333,7 +14607,9 @@
         "tjaMD5": "fccc97679ab845373f8c0206f44da101",
         "chartSize": 9.8,
         "chartTitle": "\u4e94\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Fifth Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 8
         },
@@ -13358,7 +14634,9 @@
         "tjaMD5": "0f57e8d81cac4645b132e155415d6b3a",
         "chartSize": 15.08,
         "chartTitle": "\u516d\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Sixth Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 9
         },
@@ -13383,7 +14661,9 @@
         "tjaMD5": "8d9580eb3a750f711808a67b263c435b",
         "chartSize": 8.97,
         "chartTitle": "\u4e03\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Seventh Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 9
         },
@@ -13408,7 +14688,9 @@
         "tjaMD5": "fd92e96a4e5ca09279d239532144ad8d",
         "chartSize": 8.58,
         "chartTitle": "\u516b\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Eighth Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 9
         },
@@ -13433,7 +14715,9 @@
         "tjaMD5": "883330dd82d77ef3426c42feff7127ad",
         "chartSize": 12.02,
         "chartTitle": "\u4e5d\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Ninth Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13458,7 +14742,9 @@
         "tjaMD5": "5f5c2d5faf7a11362d1de6ceaf906832",
         "chartSize": 17.21,
         "chartTitle": "\u5341\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Tenth Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13484,7 +14770,9 @@
         "tjaMD5": "7320387a4775b8fec4f81530f939b196",
         "chartSize": 17.4,
         "chartTitle": "\u7384\u4eba",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Kurouto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13510,7 +14798,9 @@
         "tjaMD5": "47377a031dd029d157ae7599419f54e4",
         "chartSize": 14.17,
         "chartTitle": "\u540d\u4eba",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Meijin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13536,7 +14826,9 @@
         "tjaMD5": "f123aceed39c41cdf5dc7ac9b2d6bded",
         "chartSize": 15.8,
         "chartTitle": "\u8d85\u4eba",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Choujin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 11
         },
@@ -13563,7 +14855,9 @@
         "tjaMD5": "308191eecf01d279839862e1a7dedbc9",
         "chartSize": 13.49,
         "chartTitle": "\u9054\u4eba",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2023 Tatsujin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 12
         },
@@ -13588,7 +14882,13 @@
         "tjaMD5": "0f44f309688be9f359bf2d19df6c8e1e",
         "chartSize": 13.28,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Dragon's OpenTaiko Favorites",
+        "chartSubtitles": {
+            "JA": "\u30ea\u30e5\u30a6\u30b3\u3055\u3093\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u66f2"
+        },
         "chartDifficulties": {
             "Dan": 8
         },
@@ -13613,7 +14913,13 @@
         "tjaMD5": "a6ef30fc20adbe41bc8dc9a89a4ab342",
         "chartSize": 10.83,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Dashy's OpenTaiko Favorites",
+        "chartSubtitles": {
+            "JA": "\u30c0\u30c3\u30b7\u30fc\u3055\u3093\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u66f2"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13641,7 +14947,13 @@
         "tjaMD5": "a429fc8d3b371020346aeadc6e8f5c72",
         "chartSize": 16.01,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Komi's OpenTaiko Favorites",
+        "chartSubtitles": {
+            "JA": "\u30b3\u30df\u3055\u3093\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u66f2"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13666,7 +14978,13 @@
         "tjaMD5": "9650b017276e26756712f944ba143ae0",
         "chartSize": 10.33,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Bol's OpenTaiko Favorites",
+        "chartSubtitles": {
+            "JA": "Bol\u3055\u3093\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u66f2"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13691,7 +15009,13 @@
         "tjaMD5": "5292871819a97281848e1774904e2c45",
         "chartSize": 8.55,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Takkkom's OpenTaiko Favorites",
+        "chartSubtitles": {
+            "JA": "\u3053\u3081\u3055\u3089\u3060\u3055\u3093\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u66f2"
+        },
         "chartDifficulties": {
             "Dan": 11
         },
@@ -13716,7 +15040,13 @@
         "tjaMD5": "962603acb4115fdeb8a0595b36035199",
         "chartSize": 9.77,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "H5's OpenTaiko Favorites",
+        "chartSubtitles": {
+            "JA": "H5\u3055\u3093\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u66f2"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13741,7 +15071,13 @@
         "tjaMD5": "903a7538e374d1d33f53e84f0e80c749",
         "chartSize": 18.37,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "DeBisco's Mix",
+        "chartSubtitles": {
+            "JA": "DeBisco\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 2
         },
@@ -13766,7 +15102,13 @@
         "tjaMD5": "b4cbd87853e44f20089e017b8c361f73",
         "chartSize": 10.76,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Sukima Altera's Mix",
+        "chartSubtitles": {
+            "JA": "Sukima Altera\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 3
         },
@@ -13791,7 +15133,13 @@
         "tjaMD5": "5c7073b02520d6c5c6ce877711a4f98a",
         "chartSize": 11.51,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Yonokid's Mix",
+        "chartSubtitles": {
+            "JA": "\u30e8\u30ce\u30ad\u30c3\u30c9\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 5
         },
@@ -13816,7 +15164,13 @@
         "tjaMD5": "bbf1cd25855ff83e0a7e746d091ba667",
         "chartSize": 6.79,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Makotora's Mix",
+        "chartSubtitles": {
+            "JA": "Makotora\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 9
         },
@@ -13841,7 +15195,13 @@
         "tjaMD5": "d842f2dcbd572acef5adfce623dab8fc",
         "chartSize": 12.23,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "TFD500's Mix",
+        "chartSubtitles": {
+            "JA": "TFD500\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13866,7 +15226,13 @@
         "tjaMD5": "637deb4346666a5d3b768eb56639d8ec",
         "chartSize": 11.34,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "H5's Mix",
+        "chartSubtitles": {
+            "JA": "H5\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13891,7 +15257,13 @@
         "tjaMD5": "463daa5f6480b4f969da3a657bba8540",
         "chartSize": 16.97,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Taichenko's Mix",
+        "chartSubtitles": {
+            "JA": "Taichenko\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13916,7 +15288,13 @@
         "tjaMD5": "9c64977a1b791fdf53eee6c7f3243e3c",
         "chartSize": 7.08,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "Cusi's Mix",
+        "chartSubtitles": {
+            "JA": "9C\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -13941,7 +15319,13 @@
         "tjaMD5": "83390aadc0bc327e22a651355653dd5b",
         "chartSize": 5.87,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "SiLiS's Mix",
+        "chartSubtitles": {
+            "JA": "SiLiS\u3055\u3093\u306e\u4f5c\u66f2\u30df\u30c3\u30af\u30b9"
+        },
         "chartDifficulties": {
             "Dan": 11
         },
@@ -13971,7 +15355,13 @@
         "tjaMD5": "1d7113864bee655860d76060c258b86a",
         "chartSize": 22.34,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "888 Medley Challenge \u3010Sweet\u3011",
+        "chartSubtitles": {
+            "JA": "888\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u300e\u7518\u53e3\u300f"
+        },
         "chartDifficulties": {
             "Dan": 4
         },
@@ -14001,7 +15391,13 @@
         "tjaMD5": "c3df496233f082d7d81b2735fe1b59dd",
         "chartSize": 24.11,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {
+            "JA": "\u5916\u4f1d"
+        },
         "chartSubtitle": "888 Medley Challenge \u3010Spicy\u3011",
+        "chartSubtitles": {
+            "JA": "888\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u300e\u8f9b\u53e3\u300f"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14026,7 +15422,9 @@
         "tjaMD5": "4f369112ab3a59609073f6fae2998072",
         "chartSize": 9.53,
         "chartTitle": "\u521d\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 1st Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 7
         },
@@ -14051,7 +15449,9 @@
         "tjaMD5": "22fb9cad2ebdfe43382c4dccc5b5b0b5",
         "chartSize": 5.48,
         "chartTitle": "\u4e8c\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 2nd Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 7
         },
@@ -14076,7 +15476,9 @@
         "tjaMD5": "89368e0e6f62ab8a9ae2a83635b28fd0",
         "chartSize": 6.03,
         "chartTitle": "\u4e09\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 3rd Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 8
         },
@@ -14101,7 +15503,9 @@
         "tjaMD5": "64b0d3e2eba3e49694e83ac0a06cd010",
         "chartSize": 20.48,
         "chartTitle": "\u56db\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 4th Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 8
         },
@@ -14126,7 +15530,9 @@
         "tjaMD5": "4e179b34b7d3b502c465e1883ff6e50b",
         "chartSize": 6.51,
         "chartTitle": "\u4e94\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 5th Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 9
         },
@@ -14151,7 +15557,9 @@
         "tjaMD5": "866ad20e467e67e7586fb0634a4d5a8f",
         "chartSize": 19.59,
         "chartTitle": "\u516d\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 6th Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 9
         },
@@ -14176,7 +15584,9 @@
         "tjaMD5": "008ebbf9e3036460d5da1cd9d0a67a72",
         "chartSize": 7.2,
         "chartTitle": "\u4e03\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 7th Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 9
         },
@@ -14201,7 +15611,9 @@
         "tjaMD5": "176c035b379672bb32bc9ba22d8ad785",
         "chartSize": 15.6,
         "chartTitle": "\u516b\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 8th Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14226,7 +15638,9 @@
         "tjaMD5": "d195c22bc495af52e6293b7f93a1aefc",
         "chartSize": 16.89,
         "chartTitle": "\u4e5d\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 9th Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14251,7 +15665,9 @@
         "tjaMD5": "6abbfcf77a11143fb6461b531f4083d2",
         "chartSize": 5.34,
         "chartTitle": "\u5341\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 10th Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10.6
         },
@@ -14276,7 +15692,9 @@
         "tjaMD5": "7b617af869c8fc2ff38cf94e3052cfa8",
         "chartSize": 11.15,
         "chartTitle": "<c.#cd7f32>\u7384\u4eba</c>",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 Kurouto",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10.6
         },
@@ -14301,7 +15719,9 @@
         "tjaMD5": "f386665cbafc9bc958d92cbb74619e8b",
         "chartSize": 9.91,
         "chartTitle": "<c.#d3d3d3>\u540d\u4eba</c>",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 Meijin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 11.0
         },
@@ -14326,7 +15746,9 @@
         "tjaMD5": "72d295d340ae9d76c717bb9622f088e1",
         "chartSize": 7.65,
         "chartTitle": "<c.#ffd700>\u8d85\u4eba</c>",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 Choujin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 11.1
         },
@@ -14351,7 +15773,9 @@
         "tjaMD5": "0d772b79b908db59fc674c6a2b7125dd",
         "chartSize": 11.27,
         "chartTitle": "<c.#b9f2ff>\u9054\u4eba</c>",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko 2024 Tatsujin",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 12.2
         },
@@ -14376,7 +15800,9 @@
         "tjaMD5": "88ef6d6e5af4d9590bf52697951c087d",
         "chartSize": 29.16,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "bol\uff1athis is only the beginning",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14401,7 +15827,9 @@
         "tjaMD5": "2b3ac4e378abfcc73de7fe9daa5525b5",
         "chartSize": 29.18,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "bol\uff1atime to recall your skills",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 12
         },
@@ -14426,7 +15854,9 @@
         "tjaMD5": "02979718cf600f2d98caf1c2ead74823",
         "chartSize": 7.4,
         "chartTitle": "\u6b4c\u7df4",
+        "chartTitles": {},
         "chartSubtitle": "Singing Practice with Aoi!",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 8
         },
@@ -14451,7 +15881,11 @@
         "tjaMD5": "2ea8283ac0f8086bd0210b9868c9cccd",
         "chartSize": 10.34,
         "chartTitle": "\u732b\u796d",
+        "chartTitles": {},
         "chartSubtitle": "Neko Festival! (Sweet)",
+        "chartSubtitles": {
+            "JA": "\u732b\u796d\u308a\u3060\u306b\u3083\uff5e\uff01\uff08\u7518\u53e3\uff09"
+        },
         "chartDifficulties": {
             "Dan": 4
         },
@@ -14476,7 +15910,11 @@
         "tjaMD5": "811f56592972ded049a549f46784f317",
         "chartSize": 10.34,
         "chartTitle": "\u732b\u796d",
+        "chartTitles": {},
         "chartSubtitle": "Neko Festival! (Spicy)",
+        "chartSubtitles": {
+            "JA": "\u732b\u796d\u308a\u3060\u306b\u3083\uff5e\uff01\uff08\u8f9b\u53e3\uff09"
+        },
         "chartDifficulties": {
             "Dan": 7
         },
@@ -14499,7 +15937,9 @@
         "tjaMD5": "12dbbec267ccb45b52c3b3fc340aefd4",
         "chartSize": 7.4,
         "chartTitle": "\u03c0\u03c0",
+        "chartTitles": {},
         "chartSubtitle": "Oops, all pipie!",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 11
         },
@@ -14530,7 +15970,9 @@
         "tjaMD5": "61723a9325c2d08ef8ebb05ffaa46b26",
         "chartSize": 50.44,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "Komi's New Crazy Easy Gauntlet",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 6
         },
@@ -14561,7 +16003,9 @@
         "tjaMD5": "4696f0f7fe9fb201b5c111a8e7d7b72b",
         "chartSize": 45.13,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "Komi's New Crazy Normal Gauntlet",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 8
         },
@@ -14592,7 +16036,9 @@
         "tjaMD5": "60bdd86b8cdb1ef0058f013abb0f090c",
         "chartSize": 58.8,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "Komi's New Crazy Hard Gauntlet",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 9
         },
@@ -14619,7 +16065,9 @@
         "tjaMD5": "d1aa8b388ee0a5c17d724de37aa6973b",
         "chartSize": 10.48,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "Makotora's Cityscape Challenge!",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14644,7 +16092,9 @@
         "tjaMD5": "056eb131926738774ae66e89c8a47e73",
         "chartSize": 6.36,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Tenth Dan (sadkay Edition)",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14670,7 +16120,9 @@
         "tjaMD5": "9ea6c032ad3d9f409ca4187bb9160a87",
         "chartSize": 16.09,
         "chartTitle": "\u5916\u4f1d",
+        "chartTitles": {},
         "chartSubtitle": "Ryuto's Birthday Bash",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14695,7 +16147,11 @@
         "tjaMD5": "7a8329e777a5f0024aea1ccd4b2d6bd6",
         "chartSize": 8.73,
         "chartTitle": "\u898b\u8005",
+        "chartTitles": {},
         "chartSubtitle": "Spectator of the Past",
+        "chartSubtitles": {
+            "JA": "\u904e\u53bb\u306e\u898b\u8005"
+        },
         "chartDifficulties": {
             "Dan": 8
         },
@@ -14720,7 +16176,11 @@
         "tjaMD5": "a54d76ae19b342be8ad19bcac4388550",
         "chartSize": 10.8,
         "chartTitle": "\u6226\u58eb",
+        "chartTitles": {},
         "chartSubtitle": "Warrior of the Future",
+        "chartSubtitles": {
+            "JA": "\u672a\u6765\u306e\u6226\u58eb"
+        },
         "chartDifficulties": {
             "Dan": 9
         },
@@ -14745,7 +16205,11 @@
         "tjaMD5": "83e9c51fd013c95824071f242016fa94",
         "chartSize": 11.85,
         "chartTitle": "\u795e\u8a17",
+        "chartTitles": {},
         "chartSubtitle": "Oracle of the Eternity",
+        "chartSubtitles": {
+            "JA": "\u6c38\u9060\u306e\u795e\u8a17"
+        },
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14778,7 +16242,13 @@
         "tjaMD5": "a7ecd7afbf0e44f311c6002561068179",
         "chartSize": 89.39,
         "chartTitle": "\u8a18\u61b6",
+        "chartTitles": {
+            "JA": "\u8a18\u61b6"
+        },
         "chartSubtitle": "Memories of Time - \"888.\" Endurance Medley 2025 \u3010Sweet\u3011",
+        "chartSubtitles": {
+            "JA": "\u300c\u6642\u306e\u8a18\u61b6\u300d \u300e\u7518\u53e3\u300f"
+        },
         "chartDifficulties": {
             "Dan": 7
         },
@@ -14811,7 +16281,13 @@
         "tjaMD5": "0d72fdfd69917a9896f639c072b5d7dc",
         "chartSize": 92.23,
         "chartTitle": "\u9280\u6cb3",
+        "chartTitles": {
+            "JA": "\u9280\u6cb3"
+        },
         "chartSubtitle": "Nebula of Time - \"888.\" Endurance Medley 2025 \u3010Spicy\u3011",
+        "chartSubtitles": {
+            "JA": "\u300c\u6642\u306e\u9280\u6cb3\u300d\"888.\"\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8 - \uff12\uff10\uff12\uff15\u5e74\u300e\u8f9b\u53e3\u300f"
+        },
         "chartDifficulties": {
             "Dan": 8
         },
@@ -14846,7 +16322,13 @@
         "tjaMD5": "0c919cf74e21aa1d1d35364b1f75c08f",
         "chartSize": 98.29,
         "chartTitle": "\u5e7b\u5f71",
+        "chartTitles": {
+            "JA": "\u5e7b\u5f71"
+        },
         "chartSubtitle": "Phantom of Time - \"888.\" Endurance Medley 2025 \u3010Burning\u3011",
+        "chartSubtitles": {
+            "JA": "\u300c\u6642\u306e\u5e7b\u5f71\u300d\"888.\"\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8 - \uff12\uff10\uff12\uff15\u5e74\u300e\u6fc0\u8f9b\u300f"
+        },
         "chartDifficulties": {
             "Dan": 11.8
         },
@@ -14871,7 +16353,9 @@
         "tjaMD5": "d1214a638974cd1ebaf1abb75f188f3f",
         "chartSize": 8.55,
         "chartTitle": "\u4f8b\u6bb5",
+        "chartTitles": {},
         "chartSubtitle": "Example Dan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14900,7 +16384,9 @@
         "tjaMD5": "aa6fbb246a1eab408a83a6d87fced3a2",
         "chartSize": 21.04,
         "chartTitle": "\u4f8b2",
+        "chartTitles": {},
         "chartSubtitle": "Example Dan 2",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Dan": 10
         },
@@ -14923,7 +16409,13 @@
         "tjaMD5": "dedba5362cb7fcb1cd2d90de6dfa6aca",
         "chartSize": 5.03,
         "chartTitle": "Climb across the sky - #1",
+        "chartTitles": {
+            "JA": "\u5927\u7a7a\u3092\u3088\u3058\u767b\u308c \u305d\u306e\uff11"
+        },
         "chartSubtitle": "OPTK Sound Team \"Dashy\"",
+        "chartSubtitles": {
+            "JA": "OPTK Sound Team \u300cDashy\u300d"
+        },
         "chartDifficulties": {
             "Tower": 1
         },
@@ -14946,7 +16438,9 @@
         "tjaMD5": "5cf27bfa1f49e2fa3dd9f39202b0aba5",
         "chartSize": 4.21,
         "chartTitle": "Next To You",
+        "chartTitles": {},
         "chartSubtitle": "Astedroid & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 2
         },
@@ -14970,7 +16464,9 @@
         "tjaMD5": "ed054510ddb340c3ef41e575eb47caf7",
         "chartSize": 13.22,
         "chartTitle": "Rainy Night II",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 3
         },
@@ -14994,7 +16490,9 @@
         "tjaMD5": "6aebc57e08b2bbe00385378c105a151d",
         "chartSize": 6.12,
         "chartTitle": "Zerst\u00f6ren",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 4
         },
@@ -15018,7 +16516,9 @@
         "tjaMD5": "2894b699016f5d87a3f521e7f8ba5dd1",
         "chartSize": 6.33,
         "chartTitle": "PYR\u0394MiD (\u03a3XT\u03a3ND MiX)",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 4
         },
@@ -15041,7 +16541,9 @@
         "tjaMD5": "3eca090c9df7c5f1211d0ee1c7f936f9",
         "chartSize": 11.22,
         "chartTitle": "Deceiver's Terminus",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 5
         },
@@ -15065,7 +16567,9 @@
         "tjaMD5": "b4078be4ee986725a66e8422c4db9664",
         "chartSize": 19.68,
         "chartTitle": "Synthsea",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 5
         },
@@ -15090,7 +16594,13 @@
         "tjaMD5": "193201a5d20865486e53433b60320395",
         "chartSize": 9.59,
         "chartTitle": "888 Tower",
+        "chartTitles": {
+            "JA": "888\u306e\u30bf\u30ef\u30fc"
+        },
         "chartSubtitle": "~Until the sky turns black~",
+        "chartSubtitles": {
+            "JA": "~\u7a7a\u304c\u9ed2\u306b\u306a\u308b\u307e\u3067~"
+        },
         "chartDifficulties": {
             "Tower": 5
         },
@@ -15114,7 +16624,9 @@
         "tjaMD5": "c0c2c628e17a200b840caa0016c7a05f",
         "chartSize": 3.12,
         "chartTitle": "Welcome To The Cafe",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera feat. ALTERNATiVE THEORY",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 5
         },
@@ -15138,7 +16650,11 @@
         "tjaMD5": "d597bc6a0ee4ff4836102116d91e8606",
         "chartSize": 10.28,
         "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
+        "chartTitles": {
+            "EN": "Rainy Night III ~Samsara~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 6
         },
@@ -15162,7 +16678,13 @@
         "tjaMD5": "2d88f04cfd6de08a9de2a0a09ba79975",
         "chartSize": 3.64,
         "chartTitle": "TOKYO RHYTHM No.524",
+        "chartTitles": {
+            "JA": "TOKYO RHYTHM No.524"
+        },
         "chartSubtitle": "FALL",
+        "chartSubtitles": {
+            "JA": "\u30d5\u30a9\u334a aka. FALL"
+        },
         "chartDifficulties": {
             "Tower": 6
         },
@@ -15185,7 +16707,9 @@
         "tjaMD5": "12324c85c83ceee93215b3d2d9b52ad8",
         "chartSize": 12.71,
         "chartTitle": "Grand Fantasy after Motifs from the Operetta \"La Partita\", Op. 26",
+        "chartTitles": {},
         "chartSubtitle": "Steven Wan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 7
         },
@@ -15209,7 +16733,9 @@
         "tjaMD5": "56864747f25c0a6d1a70759cd7674308",
         "chartSize": 4.08,
         "chartTitle": "Solaris: Tempo Doesn't Exist",
+        "chartTitles": {},
         "chartSubtitle": "Catonieca",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 7
         },
@@ -15232,7 +16758,9 @@
         "tjaMD5": "8643abc1a0d823c8ec7484dcef4a46f6",
         "chartSize": 6.84,
         "chartTitle": "Geometric Anomaly",
+        "chartTitles": {},
         "chartSubtitle": "BlastiX & Oksuu & MoeCore & Yutsuri",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 7
         },
@@ -15255,7 +16783,13 @@
         "tjaMD5": "80a581b00e715f2371e67d9edc657485",
         "chartSize": 5.03,
         "chartTitle": "Climb across the sky - #1",
+        "chartTitles": {
+            "JA": "\u5927\u7a7a\u3092\u3088\u3058\u767b\u308c \u305d\u306e\uff11"
+        },
         "chartSubtitle": "OPTK Sound Team \"Dashy\"",
+        "chartSubtitles": {
+            "JA": "OPTK Sound Team \u300cDashy\u300d"
+        },
         "chartDifficulties": {
             "Tower": 6
         },
@@ -15279,7 +16813,9 @@
         "tjaMD5": "46ffe4e61a1cc04a77e6e6a1cf914ff8",
         "chartSize": 3.13,
         "chartTitle": "Welcome To The Cafe",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera feat. ALTERNATiVE THEORY",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 7
         },
@@ -15302,7 +16838,9 @@
         "tjaMD5": "b6eed1643e19b1355f743526f85570e6",
         "chartSize": 4.21,
         "chartTitle": "Next To You",
+        "chartTitles": {},
         "chartSubtitle": "Astedroid & X3ll3n",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 8
         },
@@ -15326,7 +16864,11 @@
         "tjaMD5": "51103a041c71d69a145e7b9384c4e2dd",
         "chartSize": 10.97,
         "chartTitle": "Rainy Night ~\u96f2\u98db\u9727\u6563~",
+        "chartTitles": {
+            "EN": "Rainy Night ~Dispelled~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 8
         },
@@ -15350,7 +16892,9 @@
         "tjaMD5": "bb821b235a21bfbf736ca1fe90bf7597",
         "chartSize": 2.89,
         "chartTitle": "Gewissenbisse",
+        "chartTitles": {},
         "chartSubtitle": "Sukima Altera vs ALTERNATiVE THEORY",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 9
         },
@@ -15373,7 +16917,9 @@
         "tjaMD5": "5d7708266fb00c3bb9e144b1c7944422",
         "chartSize": 11.23,
         "chartTitle": "Deceiver's Terminus",
+        "chartTitles": {},
         "chartSubtitle": "H5",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 10.1
         },
@@ -15397,7 +16943,9 @@
         "tjaMD5": "29e8a6a22689f5336a113a02ffa8a312",
         "chartSize": 19.68,
         "chartTitle": "Synthsea",
+        "chartTitles": {},
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 10.5
         },
@@ -15422,7 +16970,13 @@
         "tjaMD5": "7a6067116f00f5bc6bf01b919fae6838",
         "chartSize": 9.6,
         "chartTitle": "888 Tower",
+        "chartTitles": {
+            "JA": "888\u306e\u30bf\u30ef\u30fc"
+        },
         "chartSubtitle": "~Until the sky turns black~",
+        "chartSubtitles": {
+            "JA": "~\u7a7a\u304c\u9ed2\u306b\u306a\u308b\u307e\u3067~"
+        },
         "chartDifficulties": {
             "Tower": 10.8
         },
@@ -15446,7 +17000,9 @@
         "tjaMD5": "2bf6b67163013e77ece5cafc064315d8",
         "chartSize": 6.33,
         "chartTitle": "PYR\u0394MiD (\u03a3XT\u03a3ND MiX)",
+        "chartTitles": {},
         "chartSubtitle": "TFD500",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 10.9
         },
@@ -15470,7 +17026,11 @@
         "tjaMD5": "08336f101993163cb4fd3325ca6f71a4",
         "chartSize": 10.29,
         "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
+        "chartTitles": {
+            "EN": "Rainy Night III ~Samsara~"
+        },
         "chartSubtitle": "Taichenko",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 11.0
         },
@@ -15494,7 +17054,13 @@
         "tjaMD5": "4e771bfc4ab5c0ab32a36134f6d21a3f",
         "chartSize": 3.64,
         "chartTitle": "TOKYO RHYTHM No.524",
+        "chartTitles": {
+            "JA": "TOKYO RHYTHM No.524"
+        },
         "chartSubtitle": "FALL",
+        "chartSubtitles": {
+            "JA": "\u30d5\u30a9\u334a aka. FALL"
+        },
         "chartDifficulties": {
             "Tower": 8
         },
@@ -15517,7 +17083,9 @@
         "tjaMD5": "c2a04fcbdcf8931beb9449a4b233db2a",
         "chartSize": 12.72,
         "chartTitle": "Grand Fantasy after Motifs from the Operetta \"La Partita\", Op. 26",
+        "chartTitles": {},
         "chartSubtitle": "Steven Wan",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 11.4
         },
@@ -15541,7 +17109,9 @@
         "tjaMD5": "33bc7062e809b165fa84650e67f5db32",
         "chartSize": 4.08,
         "chartTitle": "Solaris: Tempo Doesn't Exist",
+        "chartTitles": {},
         "chartSubtitle": "Catonieca",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 11.8
         },
@@ -15564,7 +17134,9 @@
         "tjaMD5": "d3d08aa16dadd93ca80444326202f497",
         "chartSize": 6.85,
         "chartTitle": "Geometric Anomaly",
+        "chartTitles": {},
         "chartSubtitle": "BlastiX & Oksuu & MoeCore & Yutsuri",
+        "chartSubtitles": {},
         "chartDifficulties": {
             "Tower": 10.7
         },
@@ -15588,7 +17160,21 @@
         "tjaMD5": "d9099efb9141214b693b2d1e6a4726ee",
         "chartSize": 2.43,
         "chartTitle": "Rhythm Challenge Tower",
+        "chartTitles": {
+            "ES": "Torre de Desaf\u00edo de Ritmo",
+            "FR": "Tour du d\u00e9fi rythme",
+            "JA": "\u6311\u6226! \u30ea\u30ba\u30e0\u611f\u899a\u30c6\u30b9\u30c8!",
+            "RU": "\u0411\u0430\u0448\u043d\u044f \u0412\u044b\u0437\u043e\u0432\u0430 \u0420\u0438\u0442\u043c\u0443",
+            "ZH": "\u8282\u594f\u6311\u6218\u5854"
+        },
         "chartSubtitle": "OPTK Sound Team \"Dashy\"",
+        "chartSubtitles": {
+            "ES": "OPTK Sound Team \"Dashy\"",
+            "FR": "OPTK Sound Team \u00ab Dashy \u00bb",
+            "JA": "OPTK Sound Team \u300cDashy\u300d",
+            "RU": "OPTK Sound Team \u00ab\u0414\u044d\u0448\u0438\u00bb",
+            "ZH": "OPTK Sound Team \u201cDashy\u201d"
+        },
         "chartDifficulties": {
             "Tower": 6
         },

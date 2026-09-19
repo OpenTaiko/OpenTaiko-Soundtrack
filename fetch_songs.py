@@ -2,7 +2,11 @@ from pydub import AudioSegment
 import os
 import json
 import hashlib
+import re
 import chardet
+
+# Matches localized header tags such as TITLEJA / SUBTITLEZH, but not plain TITLE: / SUBTITLE:
+LOCALIZED_TAG = re.compile(r"^(TITLE|SUBTITLE)([A-Z]{2}):(.*)$")
 
 
 def create_audio_preview(file_path, name, start_sec):
@@ -73,6 +77,8 @@ def calculate_total_size(file_paths):
 def parse_tja_file(tja_file_path, base_path):
     chart_title = ""
     chart_subtitle = ""
+    chart_titles = {}
+    chart_subtitles = {}
     chart_audio_file = ""
     chart_jacket_file = ""
     chart_maker = ""
@@ -95,6 +101,16 @@ def parse_tja_file(tja_file_path, base_path):
                     # Remove "--" or "++" at the start of SUBTITLE
                     if chart_subtitle.startswith("--") or chart_subtitle.startswith("++"):
                         chart_subtitle = chart_subtitle[2:].strip()
+                elif LOCALIZED_TAG.match(line):
+                    tag, lang, value = LOCALIZED_TAG.match(line).groups()
+                    value = value.strip()
+                    if tag == "SUBTITLE":
+                        # Same "--"/"++" convention as the plain SUBTITLE tag
+                        if value.startswith("--") or value.startswith("++"):
+                            value = value[2:].strip()
+                        chart_subtitles[lang] = value
+                    else:
+                        chart_titles[lang] = value
                 elif line.startswith("WAVE:"):
                     chart_audio_file = line.split("WAVE:", 1)[1].strip()
                 elif line.startswith("PREIMAGE:"):
@@ -140,7 +156,9 @@ def parse_tja_file(tja_file_path, base_path):
 
     return {
         "chartTitle": chart_title,
+        "chartTitles": chart_titles,
         "chartSubtitle": chart_subtitle,
+        "chartSubtitles": chart_subtitles,
         "chartDifficulties": chart_difficulties,
         "chartAudioFilePath": chart_audio_file_path,
         "chartJacketFilePath": chart_jacket_file_path,
@@ -209,7 +227,9 @@ def process_tja_files(base_path):
                     "tjaMD5": tja_md5,
                     "chartSize": round(total_size_mb, 2),  # Size in MB, rounded to 2 decimal places
                     "chartTitle": tja_metadata.get("chartTitle"),
+                    "chartTitles": tja_metadata.get("chartTitles"),
                     "chartSubtitle": tja_metadata.get("chartSubtitle"),
+                    "chartSubtitles": tja_metadata.get("chartSubtitles"),
                     "chartDifficulties": tja_metadata.get("chartDifficulties"),
                     "chartMakers": tja_metadata.get("chartMakers"),
                     "chartAudioFilePath": preview_path,

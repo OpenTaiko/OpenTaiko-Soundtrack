@@ -359,11 +359,15 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 362 - Full Combo, All Perfect Even : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by Komi)
 363 - CHANGE YOUR MIND : dogthing feat. Luka Megurine - https://www.youtube.com/@dogthingmusic (Chart by Colin)
 364 - Peace After Stormy Times (Game Ver) : Bit Lie (RhyX7hm) - https://www.youtube.com/@bit_lie_1024 (Chart by YSTAR-T)
-
+365 - against the world : DynGMD vs. TFD500 - https://www.youtube.com/@DynGMDOfficial https://www.youtube.com/@TFD500Official (Chart by DynGMD and TFD500)
 366 - Raven=Meteorite : Lalot. - https://soundcloud.com/lalotofficial/raven_meteorite https://www.youtube.com/watch?v=tA_rNUYj5Aw (Chart by sadkay)
 367 - «EnTeR-SaMaS-AsTeRaMaS» (Game Edit) : NaRouDaK - https://soundcloud.com/naroudak (Chart by sadkay and DiamondN1nja)
 368 - 夜明けのヴォヤージュコメット : てんてる - https://youtu.be/9Wq8SsOqWvU?si=_EUVSpLp0OGG5arv (Chart by Komi)
 369 - Xross Imperium : BlastiX & XorɅ - https://www.youtube.com/watch?v=H-b7YmPNBPo (Chart by Makotora)
+
+371 - Dayglass [lite.] : ferretdot - https://soundcloud.com/ferretdot/dayglass-lite (Chart by YSTAR-T)
+
+375 - Subwoofer Carnival : Limefruit.ラィフル〜 - https://www.instagram.com/limefruit_1003s?stkn=dW04NXRzdWx0ejA1 https://youtube.com/@limefruit1234?si=4o62Y6sa7KW91fEP (Chart by bol)
 
 377 - 100 Carat Smoke Point : BilliumMoto - https://soundcloud.com/billiummoto (Chart by Komi and AsPho)
 ```

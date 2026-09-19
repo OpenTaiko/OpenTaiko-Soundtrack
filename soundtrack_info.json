@@ -2867,7 +2867,7 @@
             "03 OpenTaiko Chapter III\\119 - Fractured Eternity\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "65c1ac508bef849513a1a78bbfc110ba",
+        "tjaMD5": "d322b8efdfad8a5b49a3be3812dbfb5c",
         "chartSize": 26.11,
         "chartTitle": "Fractured Eternity",
         "chartSubtitle": "ro\u0259r & Toneix",
@@ -2876,7 +2876,7 @@
             "Hard": 9.0,
             "Normal": 8.0,
             "Oni": 11.5,
-            "Edit": 12.7
+            "Edit": 12.6
         },
         "chartMakers": {
             "Easy": "Komi",
@@ -8512,12 +8512,12 @@
             "07 OpenTaiko Chapter VII\\322 - BURDENED-AEGIS\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "937639d102815dff0c20e972637f484f",
+        "tjaMD5": "8ddf4a361d046cc9a855c1fa38a2e4fd",
         "chartSize": 8.04,
         "chartTitle": "BURDENED-\u2200EGIS",
         "chartSubtitle": "Xeveir and Xeron",
         "chartDifficulties": {
-            "Edit": 12.6,
+            "Edit": 12.7,
             "Oni": 10.7,
             "Hard": 9.0,
             "Normal": 7.0,
@@ -9324,6 +9324,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "aGaInsTthEWORlDdyNGmDVsTfD500",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\365 - against the world",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\365 - against the world\\against the world.ogg",
+            "08 OpenTaiko Chapter VIII\\365 - against the world\\against the world.png",
+            "08 OpenTaiko Chapter VIII\\365 - against the world\\against the world.tja",
+            "08 OpenTaiko Chapter VIII\\365 - against the world\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "3654f19697c0afe88065772ef168952c",
+        "chartSize": 2.75,
+        "chartTitle": "against the world",
+        "chartSubtitle": "DynGMD vs. TFD500",
+        "chartDifficulties": {
+            "Oni": 9.8,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "DynGMD,TFD500",
+            "Hard": "DynGMD,TFD500",
+            "Normal": "DynGMD,TFD500",
+            "Easy": "DynGMD,TFD500"
+        },
+        "chartAudioFilePath": "preview\\aGaInsTthEWORlDdyNGmDVsTfD500.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\365 - against the world\\against the world.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "RAVEnMETeOrItElAlOT",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\366 - Raven=Meteorite",
         "tjaFilesPath": [
@@ -9424,12 +9454,12 @@
             "08 OpenTaiko Chapter VIII\\369 - Xross Imperium\\Xross Imperium.tja"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "f8bfd50f5a5bbddd5df1ff7566d3f0e3",
+        "tjaMD5": "61ea189819ffda58cd9f916aec2e0503",
         "chartSize": 5.13,
         "chartTitle": "Xross Imperium",
         "chartSubtitle": "BlastiX & Xor\u0245",
         "chartDifficulties": {
-            "Edit": 10.6,
+            "Edit": 10.8,
             "Oni": 9.4,
             "Hard": 7,
             "Normal": 6,
@@ -9444,6 +9474,67 @@
         },
         "chartAudioFilePath": "preview\\xrosSImpeRIUmBLAStIXXOR.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\369 - Xross Imperium\\Xross Imperium.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "DAyGlasSlitEFErretdOT",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\371 - Dayglass",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\371 - Dayglass\\Dayglass.jpg",
+            "08 OpenTaiko Chapter VIII\\371 - Dayglass\\Dayglass.ogg",
+            "08 OpenTaiko Chapter VIII\\371 - Dayglass\\Dayglass.tja",
+            "08 OpenTaiko Chapter VIII\\371 - Dayglass\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "45c4067d4ac66b3a363d763949a55609",
+        "chartSize": 3.9,
+        "chartTitle": "Dayglass [lite.]",
+        "chartSubtitle": "ferretdot",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 8.7,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Edit": "YSTAR-T",
+            "Oni": "YSTAR-T",
+            "Hard": "YSTAR-T,Komi",
+            "Normal": "YSTAR-T,Komi",
+            "Easy": "YSTAR-T,Komi"
+        },
+        "chartAudioFilePath": "preview\\DAyGlasSlitEFErretdOT.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\371 - Dayglass\\Dayglass.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "SUBwOOFercARNIVAllIMefRuit",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\375 - Subwoofer Carnival",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\375 - Subwoofer Carnival\\Subwoofer Carnival.ogg",
+            "08 OpenTaiko Chapter VIII\\375 - Subwoofer Carnival\\Subwoofer Carnival.tja",
+            "08 OpenTaiko Chapter VIII\\375 - Subwoofer Carnival\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "b541c19d957e768dd753eb1eac136f48",
+        "chartSize": 3.66,
+        "chartTitle": "Subwoofer Carnival",
+        "chartSubtitle": "Limefruit.",
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "preview\\SUBwOOFercARNIVAllIMefRuit.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

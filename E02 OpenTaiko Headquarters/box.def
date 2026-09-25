@@ -3,6 +3,7 @@
 #TITLEFR:Siège social d'OpenTaiko
 #TITLERU:Штаб-квартира OpenTaiko
 #TITLEZH:OpenTaiko总部
+#TITLEZH_TW:OpenTaiko 總部
 #GENRE:OpenTaiko Headquarters
 #BOXEXPLANATION1:Greetings, from the OPTK-HQ channel,
 #BOXEXPLANATION2:broadcasting to you now!
@@ -19,6 +20,9 @@
 #BOXEXPLANATIONZH1:各位观众，大家好，这里是OPTK-HQ频道
 #BOXEXPLANATIONZH2:为您播出节目！
 #BOXEXPLANATIONZH3:现在请看今天给我们带来的内容……
+#BOXEXPLANATIONZH_TW1:您現在正在收看的是 OPTK-HQ 頻道，
+#BOXEXPLANATIONZH_TW2:今天將為您播出的內容是……
+#BOXEXPLANATIONZH_TW3:
 #BOXTYPE:9
 #BGTYPE:6
 #BOXCOLOR:#999999

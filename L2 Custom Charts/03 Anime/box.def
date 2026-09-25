@@ -3,6 +3,7 @@
 #TITLEFR:Anime
 #TITLERU:Аниме
 #TITLEZH:卡通动漫
+#TITLEZH_TW:卡通動畫音樂
 #GENRE:Anime
 #BOXEXPLANATION1:Play the songs from
 #BOXEXPLANATION2:your favorite animes !
@@ -14,6 +15,8 @@
 #BOXEXPLANATIONRU2:ваших любимых аниме!
 #BOXEXPLANATIONZH1:游玩来自喜欢的
 #BOXEXPLANATIONZH2:卡通动漫歌曲！
+#BOXEXPLANATIONZH_TW1:遊玩來自你所喜歡的
+#BOXEXPLANATIONZH_TW2:卡通動畫的歌曲！
 #BGTYPE:3
 #BGCOLOR:#fed4ff
 #BOXTYPE:0

@@ -3,6 +3,7 @@
 #TITLEFR:OpenTaiko Karting
 #TITLERU:OpenTaiko Картинг
 #TITLEZH:OpenTaiko卡丁车
+#TITLEZH_TW:OpenTaiko 賽車
 #GENRE:OpenTaiko Karting
 #GENREJP:OpenTaikoカート
 #BOXEXPLANATION1:This pack goes very fast!
@@ -23,6 +24,9 @@
 #BOXEXPLANATIONZH1:这个曲包进行得很快！
 #BOXEXPLANATIONZH2:请不要离开座位，享受
 #BOXEXPLANATIONZH3:OpenTaiko卡丁车原声带！
+#BOXEXPLANATIONZH_TW1:這個曲包速度很快！
+#BOXEXPLANATIONZH_TW2:不用離開座位也能欣賞
+#BOXEXPLANATIONZH_TW3:來自 OpenTaiko 賽車的原聲帶！
 #BGTYPE:3
 #BGCOLOR:#fff3cf
 #BOXTYPE:12

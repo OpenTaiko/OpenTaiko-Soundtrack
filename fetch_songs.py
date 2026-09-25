@@ -6,7 +6,7 @@ import re
 import chardet
 
 # Matches localized header tags such as TITLEJA / SUBTITLEZH, but not plain TITLE: / SUBTITLE:
-LOCALIZED_TAG = re.compile(r"^(TITLE|SUBTITLE)([A-Z]{2}):(.*)$")
+LOCALIZED_TAG = re.compile(r"^(TITLE|SUBTITLE)([A-Z]{2,3}(?:_[A-Z]{2,})*):(.*)$")
 
 
 def create_audio_preview(file_path, name, start_sec):

@@ -4,6 +4,7 @@
 #TITLEJA:太鼓タワー
 #TITLERU:Тайко Башни
 #TITLEZH:太鼓塔
+#TITLEZH_TW:太鼓塔
 #GENRE:太鼓タワー
 #BOXEXPLANATION1:Play long charts within a limited
 #BOXEXPLANATION2:count of lives and reach
@@ -23,6 +24,9 @@
 #BOXEXPLANATIONZH1:演奏长歌曲
 #BOXEXPLANATIONZH2:直冲塔顶过关！
 #BOXEXPLANATIONZH3:注意在此处失误将失去机会！
+#BOXEXPLANATIONZH_TW1:演奏完整版歌曲
+#BOXEXPLANATIONZH_TW2:直到到達塔項過關！
+#BOXEXPLANATIONZH_TW3:小心！失誤的話會扣除生命值！
 #BACKCOLOR:#222222
 #BOXCOLOR:#ffb300
 #BOXTYPE:0

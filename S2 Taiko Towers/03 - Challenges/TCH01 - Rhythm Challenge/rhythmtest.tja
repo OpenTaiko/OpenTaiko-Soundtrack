@@ -5,12 +5,14 @@ TITLEFR:Tour du défi rythme
 TITLEJA:挑戦! リズム感覚テスト!
 TITLERU:Башня Вызова Ритму
 TITLEZH:节奏挑战塔
+TITLEZH_TW:挑戰！節奏感的考驗！
 SUBTITLE:OPTK Sound Team "Dashy"
 SUBTITLEES:OPTK Sound Team "Dashy"
 SUBTITLEFR:OPTK Sound Team « Dashy »
 SUBTITLEJA:OPTK Sound Team 「Dashy」
 SUBTITLERU:OPTK Sound Team «Дэши»
 SUBTITLEZH:OPTK Sound Team “Dashy”
+SUBTITLEZH_TW:OPTK Sound Team 「Dashy」
 BPM:120
 WAVE:rhythmtest.ogg
 OFFSET:0

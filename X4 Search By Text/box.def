@@ -3,6 +3,7 @@
 #TITLEFR:Rechercher par texte
 #TITLERU:Поиск по тексту
 #TITLEZH:按文本搜索
+#TITLEZH_TW:依文字搜尋
 #GENRE:SearchT
 #FORECOLOR:#FFFFFF
 #BACKCOLOR:#213d18
@@ -16,6 +17,8 @@
 #BOXEXPLANATIONRU2:с помощью текстового поиска!
 #BOXEXPLANATIONZH1:按文本搜索您
 #BOXEXPLANATIONZH2:喜欢的歌曲！
+#BOXEXPLANATIONZH_TW1:依文字搜尋
+#BOXEXPLANATIONZH_TW2:你所喜歡的歌曲！
 #BGTYPE:1
 #BOXTYPE:0
 #BOXCOLOR:#5ac736

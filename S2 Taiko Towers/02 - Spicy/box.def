@@ -4,6 +4,7 @@
 #TITLEJA:辛口
 #TITLERU:Башни (Остро)
 #TITLEZH:太鼓塔（辣）
+#TITLEZH_TW:太鼓塔（辛口）
 #GENRE:太鼓タワー
 #BOXEXPLANATION1:Difficult Tower charts
 #BOXEXPLANATION2:for true champions !
@@ -17,6 +18,8 @@
 #BOXEXPLANATIONRU2:для настоящих чемпионов!
 #BOXEXPLANATIONZH1:困难太鼓塔谱面！
 #BOXEXPLANATIONZH2:争做真冠军！
+#BOXEXPLANATIONZH_TW1:困難模式！
+#BOXEXPLANATIONZH_TW2:給競技玩家的挑戰！
 #BACKCOLOR:#222222
 #BOXCOLOR:#ff5e00
 #BOXTYPE:0

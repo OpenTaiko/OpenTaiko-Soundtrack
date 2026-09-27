@@ -4,6 +4,7 @@
 #TITLEJA:コラボ・イベント曲
 #TITLERU:Сотрудничество и события
 #TITLEZH:联动与事件歌曲
+#TITLEZH_TW:合作、活動歌曲
 #GENRE:Collaborations and Events
 #BOXEXPLANATION1:Enjoy songs from projects
 #BOXEXPLANATION2:the OpenTaiko team
@@ -23,6 +24,9 @@
 #BOXEXPLANATIONZH1:游玩并享受
 #BOXEXPLANATIONZH2:同OpenTaiko团队联动的
 #BOXEXPLANATIONZH3:歌曲！
+#BOXEXPLANATIONZH_TW1:請享受來自
+#BOXEXPLANATIONZH_TW2:與 OpenTaiko 團隊合作的企畫
+#BOXEXPLANATIONZH_TW3:的歌曲！
 #BGTYPE:3
 #BGCOLOR:#a200ff
 #BOXTYPE:0

@@ -4,6 +4,7 @@
 #TITLEJA:むずかしさから探す
 #TITLERU:Поиск по трудности
 #TITLEZH:按难易度等级搜索
+#TITLEZH_TW:依難度星級搜尋
 #GENRE:SearchD
 #FORECOLOR:#FFFFFF
 #BACKCOLOR:#213d18
@@ -19,6 +20,9 @@
 #BOXEXPLANATIONRU2:соответствуют вашему уровню!
 #BOXEXPLANATIONZH1:按难易度和等级搜索并游玩合适水平的歌曲！
 #BOXEXPLANATIONZH2:非常方便！
+#BOXEXPLANATIONZH_TW1:依難度與星級搜尋與遊玩
+#BOXEXPLANATIONZH_TW2:適合你的程度的歌曲！
+#BOXEXPLANATIONZH_TW3:非常方便！
 #BGTYPE:1
 #BOXTYPE:0
 #BOXCOLOR:#5ac736

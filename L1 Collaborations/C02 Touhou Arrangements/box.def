@@ -4,6 +4,7 @@
 #TITLEJA:東方Projectアレンジ
 #TITLERU:Договоренности с Touhou
 #TITLEZH:东方Project改编
+#TITLEZH_TW:東方Project改編曲
 #GENRE:Touhou Arrangements
 #GENREJP:東方Projectアレンジ
 #BOXEXPLANATION1:Play awesome arrangements
@@ -24,6 +25,9 @@
 #BOXEXPLANATIONZH1:游玩基于东方Project
 #BOXEXPLANATIONZH2:改编的歌曲！
 #BOXEXPLANATIONZH3:
+#BOXEXPLANATIONZH_TW1:遊玩改編自
+#BOXEXPLANATIONZH_TW2:東方Project的歌曲！
+#BOXEXPLANATIONZH_TW3:
 #BGTYPE:3
 #BGCOLOR:#170A5C
 #BOXTYPE:7

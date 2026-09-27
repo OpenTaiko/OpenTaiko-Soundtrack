@@ -4,6 +4,7 @@
 #TITLEJA:OpenTaiko チャプター II
 #TITLERU:OpenTaiko Глава II
 #TITLEZH:OpenTaiko第II章
+#TITLEZH_TW:OpenTaiko 第II章
 #GENRE:OpenTaiko Chapter II
 #BOXEXPLANATION1:Play awesome community-
 #BOXEXPLANATION2:made songs submitted
@@ -23,6 +24,9 @@
 #BOXEXPLANATIONZH1:游玩
 #BOXEXPLANATIONZH2:OpenTaiko社区创作的
 #BOXEXPLANATIONZH3:精美歌曲！
+#BOXEXPLANATIONZH_TW1:遊玩由
+#BOXEXPLANATIONZH_TW2:OpenTaiko 社群創作的
+#BOXEXPLANATIONZH_TW3:精美歌曲！
 #BOXTYPE:4
 #BGTYPE:6
 #BOXCOLOR:#474ed6

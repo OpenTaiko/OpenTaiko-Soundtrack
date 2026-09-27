@@ -4,6 +4,7 @@
 #TITLEJA:クラシックアレンジ
 #TITLERU:Классические аранжировки
 #TITLEZH:古典音乐改编
+#TITLEZH_TW:古典音樂改編曲
 #GENRE:Classical Arrangements
 #GENREJP:クラシックアレンジ
 #BOXEXPLANATION1:Play beautiful arrangements
@@ -24,6 +25,9 @@
 #BOXEXPLANATIONZH1:游玩基于古典音乐
 #BOXEXPLANATIONZH2:改编的歌曲！
 #BOXEXPLANATIONZH3:
+#BOXEXPLANATIONZH_TW1:遊玩改編自古典音樂
+#BOXEXPLANATIONZH_TW2:的優美歌曲！
+#BOXEXPLANATIONZH_TW3:
 #BGTYPE:6
 #BACKCOLOR:#211a03
 #BOXTYPE:15

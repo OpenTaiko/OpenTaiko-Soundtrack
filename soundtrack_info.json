@@ -10416,15 +10416,15 @@
             "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "1f335dc88b03333f527fe4350e533e9a",
+        "tjaMD5": "c09c832afb75065b1dbf1c991ccd7e54",
         "chartSize": 1.97,
         "chartTitle": "Deceiving the Deceiver",
         "chartTitles": {},
         "chartSubtitle": "H5",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Edit": 9,
-            "Oni": 8,
+            "Edit": 9.6,
+            "Oni": 8.4,
             "Hard": 6,
             "Normal": 6,
             "Easy": 4
@@ -10449,7 +10449,7 @@
             "C10 Deceiver's Defiances\\009 - Deceiver\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "55b43227a0eb5bb0d8a4bd0c0b2340de",
+        "tjaMD5": "27e7e5db0369ca3a62e907ff99c48221",
         "chartSize": 1.88,
         "chartTitle": "Deceiver",
         "chartTitles": {},
@@ -10457,7 +10457,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 7,
-            "Edit": 8,
+            "Edit": 8.6,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3
@@ -10482,7 +10482,7 @@
             "C10 Deceiver's Defiances\\012 - Deceiver's Terminus\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "469ced8ae88a0f13531579852dd55466",
+        "tjaMD5": "69655d190d547c204fd003ced1c8c110",
         "chartSize": 11.23,
         "chartTitle": "Deceiver's Terminus",
         "chartTitles": {},
@@ -10490,9 +10490,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -10514,7 +10514,7 @@
             "C10 Deceiver's Defiances\\032 - ReCollapse\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "889bbb371e94d0f52bcd53aebc6710dd",
+        "tjaMD5": "fb5b4cb03f532f094c039c5d943ca913",
         "chartSize": 5.45,
         "chartTitle": "Re\uff1aC\u00f8llapse",
         "chartTitles": {},
@@ -10523,9 +10523,9 @@
         "chartDifficulties": {
             "Edit": 11.2,
             "Oni": 10.6,
-            "Hard": 8,
-            "Normal": 8,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 8.0,
+            "Easy": 5.5
         },
         "chartMakers": {
             "Edit": "Komi,bol",
@@ -10547,7 +10547,7 @@
             "C10 Deceiver's Defiances\\073 - Emily\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "c3d74628c24b9297412d9809f0de480d",
+        "tjaMD5": "e026ff4347d95ef0e9ff7e4e0d2d7d42",
         "chartSize": 4.49,
         "chartTitle": "Emily",
         "chartTitles": {},
@@ -10556,9 +10556,9 @@
         "chartDifficulties": {
             "Edit": 12.0,
             "Oni": 7,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 6
+            "Hard": 9.5,
+            "Normal": 7.0,
+            "Easy": 6.0
         },
         "chartMakers": {
             "Edit": "bol",
@@ -10580,7 +10580,7 @@
             "C10 Deceiver's Defiances\\134 - Decever's Revenge\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "464da6c30516ef0673e26bf378592893",
+        "tjaMD5": "84f1724a19ff4568e0f388342053fb09",
         "chartSize": 5.28,
         "chartTitle": "Deceiver's Revenge",
         "chartTitles": {},
@@ -10588,9 +10588,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "bol",
@@ -10612,7 +10612,7 @@
             "C12 Dashy's Secrets\\018 - Chasing the wind\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "f82434faf093ce223a290ad74b066da0",
+        "tjaMD5": "998fec8cb4d824a8c3099f54bf548300",
         "chartSize": 3.67,
         "chartTitle": "Chasing the Wind",
         "chartTitles": {},
@@ -10620,7 +10620,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 9,
+            "Oni": 9.5,
             "Hard": 7,
             "Normal": 5,
             "Easy": 3
@@ -10647,7 +10647,7 @@
             "C12 Dashy's Secrets\\026 - Lost Emotion\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "6096b57bd81846ddec0472a8d1e643de",
+        "tjaMD5": "48aaae13aacfd9deba7fabd128579e5b",
         "chartSize": 35.79,
         "chartTitle": "Lost Emotion.",
         "chartTitles": {},
@@ -10655,7 +10655,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.6,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -10679,7 +10679,7 @@
             "C12 Dashy's Secrets\\027 - Broken Metronome\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "a4154cf5c1351b798df39bcc1d83399b",
+        "tjaMD5": "1e0185fc9eef2eeeabda20a359598fe6",
         "chartSize": 4.69,
         "chartTitle": "Broken Metronome",
         "chartTitles": {},
@@ -10688,9 +10688,9 @@
         "chartDifficulties": {
             "Edit": 10.8,
             "Oni": 10.4,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Edit": "Dashy",
@@ -10715,15 +10715,15 @@
             "C12 Dashy's Secrets\\038 - Dear Stars\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "fb2bb4018c5e55b12f71075dc64d91ee",
+        "tjaMD5": "c0151ab2855c049bbba0ccf3f2a9fe83",
         "chartSize": 39.57,
         "chartTitle": "Dear Stars",
         "chartTitles": {},
         "chartSubtitle": "DashyDesu",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Edit": 9,
-            "Oni": 9,
+            "Edit": 9.6,
+            "Oni": 9.2,
             "Hard": 7,
             "Normal": 5,
             "Easy": 3
@@ -10751,7 +10751,7 @@
             "C12 Dashy's Secrets\\039 - Forever Fading Away\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "08c5a3609adbfab78266c4eccd8dc6c9",
+        "tjaMD5": "3c263589ea877937e9e9ec17ddfab71c",
         "chartSize": 42.05,
         "chartTitle": "Forever Fading Away",
         "chartTitles": {},
@@ -10759,7 +10759,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.7,
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 7,
             "Normal": 6,
             "Easy": 3
@@ -10786,7 +10786,7 @@
             "C12 Dashy's Secrets\\052 - Scarlet Mirage\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "5c27441c985961963c45a237f8c9ec4e",
+        "tjaMD5": "e24a510ddf512624d5d93ec3af11c98c",
         "chartSize": 3.0,
         "chartTitle": "Scarlet Mirage",
         "chartTitles": {},
@@ -10794,9 +10794,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.3,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 9.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Dashy",
@@ -10850,14 +10850,14 @@
             "C12 Dashy's Secrets\\057 - the stories of your negative past\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "9b2c1d7dfda7b9d391df30c9f9c6d62b",
+        "tjaMD5": "922753f5b815263ec719adb7a9d3ca55",
         "chartSize": 3.98,
         "chartTitle": "Stories of your negative past",
         "chartTitles": {},
         "chartSubtitle": "DashyDesu",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3
@@ -10882,17 +10882,17 @@
             "C12 Dashy's Secrets\\068 - Unlucky Rain\\unlucky.tja"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "b2e58169fe1bdc2cbcaf16e39c1f45cd",
+        "tjaMD5": "f14c0b16a126e82f37cdd3b1a289c7e3",
         "chartSize": 5.5,
         "chartTitle": "Unlucky Rain",
         "chartTitles": {},
         "chartSubtitle": "DashyDesu",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Edit": 9,
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 7,
+            "Edit": 9.7,
+            "Oni": 9.4,
+            "Hard": 8.0,
+            "Normal": 7.0,
             "Easy": 4
         },
         "chartMakers": {
@@ -10917,7 +10917,7 @@
             "C12 Dashy's Secrets\\071 - When will the end arrive i wonder\\when.vtt"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "ed3d1c7927fa32927a89898a6d1b2055",
+        "tjaMD5": "4894954773bc6a15e18be21f5e0ce398",
         "chartSize": 5.43,
         "chartTitle": "When will the end arrive, I wonder?",
         "chartTitles": {},
@@ -10925,7 +10925,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.4,
-            "Oni": 9,
+            "Oni": 9.6,
             "Hard": 7,
             "Normal": 4,
             "Easy": 4
@@ -10952,7 +10952,7 @@
             "C12 Dashy's Secrets\\080 - I want to bloom\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "85a5cf73e6d5a91d5880fc44518b187d",
+        "tjaMD5": "fbbada63c0c5077bbdda142c5b7ac522",
         "chartSize": 2.84,
         "chartTitle": "I WANT TO BL00000000M",
         "chartTitles": {},
@@ -10960,9 +10960,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
-            "Easy": 5
+            "Easy": 5.5
         },
         "chartMakers": {
             "Oni": "Dashy",
@@ -10985,14 +10985,14 @@
             "C12 Dashy's Secrets\\088 - II\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "ad8a3ca5d283586c2743dbe0815835df",
+        "tjaMD5": "553f31fa19fa3c24a1f1f578929757a9",
         "chartSize": 72.29,
         "chartTitle": "II (Game Cut)",
         "chartTitles": {},
         "chartSubtitle": "DashyDesu",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.8,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3
@@ -11017,7 +11017,7 @@
             "C12 Dashy's Secrets\\100 - Puzzles of The End\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "9fea7d4852b24a67b8f105f1ac8394d9",
+        "tjaMD5": "ba402ec528369323d34099da477985fe",
         "chartSize": 7.65,
         "chartTitle": "Puzzle of \"The End.\"",
         "chartTitles": {},
@@ -11025,7 +11025,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.1,
-            "Oni": 9,
+            "Oni": 9.1,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3
@@ -11158,7 +11158,7 @@
             "C12 Dashy's Secrets\\241 - Own,\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "c8216fc0b8cd38d1ca08f0826e7cc2e0",
+        "tjaMD5": "d6191c5722f670d943a6b454ca3b930c",
         "chartSize": 4.58,
         "chartTitle": "Own,",
         "chartTitles": {},
@@ -11169,7 +11169,7 @@
             "Hard": 7,
             "Normal": 5,
             "Easy": 3,
-            "Oni": 9
+            "Oni": 9.2
         },
         "chartMakers": {
             "Edit": "Dashy",
@@ -11192,7 +11192,7 @@
             "C12 Dashy's Secrets\\242 - Reverie XXIII\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "1a7ac145393e98bc5b40a8c1aa721949",
+        "tjaMD5": "8dffa95457e2e2223c0e748ff7f2b02e",
         "chartSize": 5.54,
         "chartTitle": "Reverie XXIII - Miracle of the 23rd",
         "chartTitles": {
@@ -11205,7 +11205,7 @@
             "Hard": 4,
             "Normal": 4,
             "Easy": 2,
-            "Edit": 9
+            "Edit": 9.1
         },
         "chartMakers": {
             "Oni": "Dashy",
@@ -11228,7 +11228,7 @@
             "C12 Dashy's Secrets\\255 - Own, Tatsuoto Arrangement\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "96d3e9c8310066cdb4d49eb7d0c0c9ef",
+        "tjaMD5": "eeb884e91033c02ebe4f0ca86f05675b",
         "chartSize": 4.46,
         "chartTitle": "Own, (Tatsuoto Rearrangement)",
         "chartTitles": {},
@@ -11236,7 +11236,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -11260,7 +11260,7 @@
             "C12 Dashy's Secrets\\288 - cocoa break\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "a7261236bbc286a769b472fc566c2254",
+        "tjaMD5": "3a8c6c14842583d5bcf9eae4359fa24b",
         "chartSize": 4.66,
         "chartTitle": "cocoa break",
         "chartTitles": {},
@@ -11268,7 +11268,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.1,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -11326,7 +11326,7 @@
             "E01 Rainy Memories\\RM02 - 094 - Rainy Night ~Dispelled~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "7776ef1d8bf1a60113f99182d1e314bf",
+        "tjaMD5": "990013473ff6083c990e3126ac2d706e",
         "chartSize": 8.59,
         "chartTitle": "Rainy Night ~Dispelled~",
         "chartTitles": {
@@ -11336,9 +11336,9 @@
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 8,
-            "Normal": 6,
+            "Oni": 8.3,
+            "Hard": 7,
+            "Normal": 5,
             "Easy": 3
         },
         "chartMakers": {
@@ -11361,7 +11361,7 @@
             "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "7e51a614a346e5d5cf0317f84e42bdac",
+        "tjaMD5": "7770098fbeedb9d4aa812f3bc9491a9a",
         "chartSize": 8.9,
         "chartTitle": "Rainy Night ~Dream Fantasy~",
         "chartTitles": {
@@ -11372,8 +11372,8 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.0,
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.9,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 3
         },
@@ -11398,7 +11398,7 @@
             "E01 Rainy Memories\\RM04 - 095 - Rainy Night II\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "a1978241689bf62d6740976bf05ab2e7",
+        "tjaMD5": "db436c98e445a20c016d13d26a12e0c5",
         "chartSize": 13.23,
         "chartTitle": "Rainy Night II",
         "chartTitles": {
@@ -11407,7 +11407,7 @@
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.0,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2
@@ -11432,7 +11432,7 @@
             "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "925d3df77ba0cb2c5966099e75f06b89",
+        "tjaMD5": "b4314dc35476248190ffce4b96770b67",
         "chartSize": 10.91,
         "chartTitle": "Rainy Night II ~Forest of Lost Trust~",
         "chartTitles": {
@@ -11442,7 +11442,7 @@
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 8,
+            "Oni": 8.7,
             "Hard": 6,
             "Normal": 4,
             "Easy": 3
@@ -11467,7 +11467,7 @@
             "E01 Rainy Memories\\RM06 - 096 - Rainy Night II ~Condensation~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "36be1714eb0d76b47d6ac753e3e816d9",
+        "tjaMD5": "1966c92df1917bdbff5bc850ccc2737e",
         "chartSize": 9.94,
         "chartTitle": "Rainy Night II ~Condensation~",
         "chartTitles": {
@@ -11478,9 +11478,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.4,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 4
         },
         "chartMakers": {
             "Oni": "Taichenko",
@@ -11502,7 +11502,7 @@
             "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "49f2ce6ea00eb4d9bd8b05f0da1ac11d",
+        "tjaMD5": "4d2e48982061c8ead33424f9e67713ce",
         "chartSize": 12.98,
         "chartTitle": "Rainy Night III",
         "chartTitles": {
@@ -11512,9 +11512,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.8,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.5,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Taichenko",
@@ -11536,7 +11536,7 @@
             "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "63b6a1ce50819710d2e885eda2b4e509",
+        "tjaMD5": "a009e426f6626145b20d5996efe68fc2",
         "chartSize": 9.93,
         "chartTitle": "Rainy Night III ~Unreal Rainbow~",
         "chartTitles": {
@@ -11548,7 +11548,7 @@
         "chartDifficulties": {
             "Easy": 4,
             "Normal": 6,
-            "Hard": 8,
+            "Hard": 8.0,
             "Edit": 10.8,
             "Oni": 10.4
         },
@@ -11573,7 +11573,7 @@
             "E01 Rainy Memories\\RM09 - 098 - Rainy Night III ~Samsara~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "c22ba506c86eb085a848b08119f65377",
+        "tjaMD5": "6882ee4ab024b6ea3803c928b8aab1db",
         "chartSize": 10.29,
         "chartTitle": "Rainy Night III ~Samsara~",
         "chartTitles": {
@@ -11584,9 +11584,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 11.3,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 9.5,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Taichenko",
@@ -11641,7 +11641,7 @@
             "E02 OpenTaiko Headquarters\\HQ01 - 135 - Matsuri Jiken\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "64b505dfa659285313801f674f8559d9",
+        "tjaMD5": "5f00144d51649794b6e52fc3fee96501",
         "chartSize": 2.95,
         "chartTitle": "NEP0\uff1aMATSUR1\u30b8\u30b1\u30f3",
         "chartTitles": {},
@@ -11649,9 +11649,9 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.3,
-            "Oni": 9,
+            "Oni": 9.5,
             "Hard": 7,
-            "Normal": 7,
+            "Normal": 7.0,
             "Easy": 4
         },
         "chartMakers": {
@@ -11674,18 +11674,18 @@
             "E02 OpenTaiko Headquarters\\HQ02 - 132 - Frozen Rouka\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "78f389dc04ab45bc0ba3d552cd3472a5",
+        "tjaMD5": "69765330a76e288f0807c693b0b1db34",
         "chartSize": 2.61,
         "chartTitle": "NEP0\uff1aFR02EN\u30ed\u30a6\u30ab",
         "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0125",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 6,
             "Normal": 5,
             "Easy": 3,
-            "Edit": 8
+            "Edit": 8.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -11707,18 +11707,18 @@
             "E02 OpenTaiko Headquarters\\HQ03 - 163 - Nephthys Jiyu\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "1e7913e60a412fe8162060e7c0007632",
+        "tjaMD5": "24d043913a531851fa1af17fa1e3896e",
         "chartSize": 3.22,
         "chartTitle": "NEP0\uff1aN3PHTHYS\u30b8\u30e6",
         "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0125",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.4,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2,
-            "Edit": 9
+            "Edit": 9.6
         },
         "chartMakers": {
             "Oni": "H5",
@@ -11773,7 +11773,7 @@
             "E02 OpenTaiko Headquarters\\HQ05 - 271 - Mysterious Session\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "f5de457719ebd958b8e774086c5d1b11",
+        "tjaMD5": "ae9dc557acd36a0fff70f0889b90b795",
         "chartSize": 3.71,
         "chartTitle": "NEP0\uff1aMY5TERIOUS\u30bb\u30c3\u30b7\u30e7\u30f3",
         "chartTitles": {},
@@ -11781,7 +11781,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 10.5,
-            "Oni": 9,
+            "Oni": 9.2,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -11806,17 +11806,17 @@
             "E02 OpenTaiko Headquarters\\HQ06 - 210 - Dancing in the Cold Rain Heart Knot\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "25c639026ce90d36bd0720e0bb440fd6",
+        "tjaMD5": "5d6e1fb062d50f3b8ddad147ebfa5da6",
         "chartSize": 3.2,
         "chartTitle": "NEP0\uff1aDANCIN6INTHECOLDRAIN\u30cf\u30fc\u30c8\u30ce\u30c3\u30c8",
         "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL2514",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5,
+            "Oni": 9.2,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0,
             "Edit": 10.2
         },
         "chartMakers": {
@@ -11839,18 +11839,18 @@
             "E02 OpenTaiko Headquarters\\HQ07 - 212 - Inazuma Yokai Ranbu\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "90ab02dff41679613695720ee4bddbc7",
+        "tjaMD5": "26690aae5a93cbfb5753b85337386649",
         "chartSize": 2.77,
         "chartTitle": "NEP0\uff1aINA7UMA\u30e8\u30a6\u30ab\u30a4\u30e9\u30f3\u30d6",
         "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL4700",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.1,
             "Edit": 10.0,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
         },
         "chartMakers": {
             "Oni": "Komi",
@@ -11872,15 +11872,15 @@
             "E02 OpenTaiko Headquarters\\HQ08 - 273 - Boost the Boogie\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "e2ac392035d4aee738e095ddd2f7ffba",
+        "tjaMD5": "73241eb67115ee587efda9fdd5b00b79",
         "chartSize": 3.97,
         "chartTitle": "NEP0\uff1a8OOST\u30b6_\u30d6\u30ae\u30fc",
         "chartTitles": {},
         "chartSubtitle": "OPTK-HQ=CHANNEL0170 ft. Dashy,",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Edit": 8,
-            "Oni": 9,
+            "Edit": 8.5,
+            "Oni": 9.3,
             "Hard": 7,
             "Normal": 5,
             "Easy": 4
@@ -11972,14 +11972,14 @@
             "E03 Classical Arrangements\\272 - 4elise\\uniqueID.json"
         ],
         "tjaGenreFolder": "E03 Classical Arrangements",
-        "tjaMD5": "6b7fa206b9fb5b09b26709921d65f8a1",
+        "tjaMD5": "b756022387b42916c82e4c4109dfbbdd",
         "chartSize": 5.09,
         "chartTitle": "4elise",
         "chartTitles": {},
         "chartSubtitle": "Makotora",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
+            "Oni": 9.3,
             "Hard": 7,
             "Normal": 4,
             "Easy": 3
@@ -12003,15 +12003,15 @@
             "E03 Classical Arrangements\\324 - Mountain King\\uniqueID.json"
         ],
         "tjaGenreFolder": "E03 Classical Arrangements",
-        "tjaMD5": "2a80c8696eaeb9c3adfb7029f856c22d",
+        "tjaMD5": "f271e6998fa7c8062e9a93893f356c65",
         "chartSize": 3.29,
         "chartTitle": "Mountain King",
         "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Makotora\"",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Edit": 9,
-            "Oni": 8,
+            "Edit": 9.2,
+            "Oni": 8.1,
             "Hard": 5,
             "Normal": 4,
             "Easy": 3
@@ -12036,7 +12036,7 @@
             "E04 Rainy Diary\\RD01 - 325 - Revival of a Withered Tree\\uniqueID.json"
         ],
         "tjaGenreFolder": "E04 Rainy Diary",
-        "tjaMD5": "438196a438c22b328cf0aaf529aa78d5",
+        "tjaMD5": "bf6088ef094e380792c7750c5edbfd06",
         "chartSize": 4.57,
         "chartTitle": "Revival of a Withered Tree",
         "chartTitles": {
@@ -12046,8 +12046,8 @@
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.4,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 4
         },
@@ -12070,7 +12070,7 @@
             "E04 Rainy Diary\\RD02 - 326 - Galaxy Fall\\uniqueID.json"
         ],
         "tjaGenreFolder": "E04 Rainy Diary",
-        "tjaMD5": "92fca0b22729fa35cb1ee2c5632b3e87",
+        "tjaMD5": "b1d7dee4079dbe4a0516bca49ce8964b",
         "chartSize": 4.81,
         "chartTitle": "Galaxy Fall",
         "chartTitles": {
@@ -12080,8 +12080,8 @@
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
         "chartDifficulties": {
-            "Oni": 9,
-            "Hard": 8,
+            "Oni": 9.3,
+            "Hard": 8.0,
             "Normal": 5,
             "Easy": 4
         },
@@ -12105,7 +12105,7 @@
             "E04 Rainy Diary\\RD03 - 327 - Ripple\\uniqueID.json"
         ],
         "tjaGenreFolder": "E04 Rainy Diary",
-        "tjaMD5": "6b78f84124388a41049e13c76df6dab2",
+        "tjaMD5": "d536dbc6d17578930c10926ca545a6e7",
         "chartSize": 9.17,
         "chartTitle": "Ripple",
         "chartTitles": {
@@ -12116,7 +12116,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Oni": 10.6,
-            "Hard": 8,
+            "Hard": 8.0,
             "Normal": 6,
             "Easy": 5
         },

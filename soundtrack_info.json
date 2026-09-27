@@ -709,7 +709,7 @@
             "01 OpenTaiko Chapter I\\029 - Two Steppin Love\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "490bb323bc793635c42a73ad5dc57ebf",
+        "tjaMD5": "6d5c94559199804868d9a7337a2f9af8",
         "chartSize": 2.63,
         "chartTitle": "2-Steppin' Love",
         "chartTitles": {
@@ -717,7 +717,8 @@
         },
         "chartSubtitle": "FUNKYZUKIN ft. Hatsune Miku",
         "chartSubtitles": {
-            "JA": "FUNKYZUKIN ft. \u521d\u97f3\u30df\u30af"
+            "JA": "FUNKYZUKIN ft. \u521d\u97f3\u30df\u30af",
+            "ZH_TW": "FUNKYZUKIN ft. \u521d\u97f3\u672a\u4f86"
         },
         "chartDifficulties": {
             "Edit": 7,
@@ -747,11 +748,12 @@
             "01 OpenTaiko Chapter I\\030 - Yami\\YamiAlbum.jpg"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "d183ae82338b18d517c0c0b730c53546",
+        "tjaMD5": "b2cd3457529116d4021e52f237907a42",
         "chartSize": 8.49,
         "chartTitle": "Yami",
         "chartTitles": {
-            "JA": "\u95c7"
+            "JA": "\u95c7",
+            "ZH_TW": "\u95c7"
         },
         "chartSubtitle": "TFD500",
         "chartSubtitles": {},
@@ -1812,7 +1814,7 @@
             "02 OpenTaiko Chapter II\\067 - Liar Prison\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "932ebd9cd1fb04fa9662cd2763802401",
+        "tjaMD5": "f03ad2c5ccb49dc56a513ea281e438cf",
         "chartSize": 4.15,
         "chartTitle": "Liar Prison",
         "chartTitles": {
@@ -1820,7 +1822,8 @@
         },
         "chartSubtitle": "SiLiS ft. Karin Natsuki",
         "chartSubtitles": {
-            "JA": "SiLiS ft. \u590f\u8272\u82b1\u68a8"
+            "JA": "SiLiS ft. \u590f\u8272\u82b1\u68a8",
+            "ZH_TW": "SiLiS ft. \u590f\u8272\u82b1\u68a8"
         },
         "chartDifficulties": {
             "Edit": 10.0,
@@ -2146,11 +2149,12 @@
             "02 OpenTaiko Chapter II\\082 - Comma\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "d55b72befcb4cf9a878b91d3e3059e12",
+        "tjaMD5": "b84289f752cf1e95979e945444b68dee",
         "chartSize": 2.6,
         "chartTitle": "Comma, ~ Imi to Kouzou no Bunri",
         "chartTitles": {
-            "JA": "Comma, \uff5e \u610f\u5473\u30c8\u69cb\u9020\u30ce\u5206\u96e2"
+            "JA": "Comma, \uff5e \u610f\u5473\u30c8\u69cb\u9020\u30ce\u5206\u96e2",
+            "ZH_TW": "Comma, \uff5e \u610f\u7fa9\u8207\u69cb\u9020\u7684\u5206\u96e2"
         },
         "chartSubtitle": "Sparxe",
         "chartSubtitles": {
@@ -2183,11 +2187,12 @@
             "02 OpenTaiko Chapter II\\083 - Bracket\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "84ad83a512f395b13236b70ac7ab3128",
+        "tjaMD5": "f3a19e7dcd827a49037d5adbe8877a20",
         "chartSize": 1.85,
         "chartTitle": "<Bracket> \uff5eDuplicate of Chaos and Destruction\uff5e",
         "chartTitles": {
-            "JA": "<Bracket> \uff5e\u7834\u58ca\u30c8\u6df7\u6c8c\u30ce\u8907\u88fd\uff5e"
+            "JA": "<Bracket> \uff5e\u7834\u58ca\u30c8\u6df7\u6c8c\u30ce\u8907\u88fd\uff5e",
+            "ZH_TW": "<Bracket> \uff5e\u7834\u58de\u8207\u6df7\u6c8c\u7684\u8907\u88fd\uff5e"
         },
         "chartSubtitle": "TFD500",
         "chartSubtitles": {
@@ -2283,17 +2288,19 @@
             "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "0766ad6a13d553f65c80862d548fd455",
+        "tjaMD5": "1d3bfe07bc7ed3cc3c836367bcaab4dd",
         "chartSize": 6.38,
         "chartTitle": "Resentment ~The Whittling of Fragmented Dreams~",
         "chartTitles": {
             "JA": "\u6028\u5ff5~\u6f38\u6e1b\u6b8b\u5922~",
-            "ZH": "\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~"
+            "ZH": "\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~",
+            "ZH_TW": "\u6028\u5ff5~\u6f38\u6d88\u6b98\u5922~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {
             "JA": "Taichenko",
-            "ZH": "Taichenko"
+            "ZH": "Taichenko",
+            "ZH_TW": "Taichenko"
         },
         "chartDifficulties": {
             "Edit": 11.7,
@@ -2492,7 +2499,7 @@
             "03 OpenTaiko Chapter III\\101 - Ohayou\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "204d316496b8872212920ef0b8a97bcd",
+        "tjaMD5": "d84c9426e92466dd37bc97bbb2a2fdfc",
         "chartSize": 5.47,
         "chartTitle": "Ohayo",
         "chartTitles": {
@@ -2500,7 +2507,8 @@
         },
         "chartSubtitle": "Tanger ft. Hatsune Miku",
         "chartSubtitles": {
-            "JA": "Tanger ft. \u521d\u97f3\u30df\u30af"
+            "JA": "Tanger ft. \u521d\u97f3\u30df\u30af",
+            "ZH_TW": "Tanger ft. \u521d\u97f3\u672a\u4f86"
         },
         "chartDifficulties": {
             "Oni": 7,
@@ -2596,7 +2604,7 @@
             "03 OpenTaiko Chapter III\\104 - Eleven\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "153a60b82ec1dbd7ca90aa45f799c318",
+        "tjaMD5": "6760fc4fae87c0dab93972e5640e781f",
         "chartSize": 14.78,
         "chartTitle": "\u300811",
         "chartTitles": {
@@ -2604,7 +2612,8 @@
         },
         "chartSubtitle": "Tanger ft. Hatsune Miku",
         "chartSubtitles": {
-            "JA": "Tanger ft. \u521d\u97f3\u30df\u30af"
+            "JA": "Tanger ft. \u521d\u97f3\u30df\u30af",
+            "ZH_TW": "Tanger ft. \u521d\u97f3\u672a\u4f86"
         },
         "chartDifficulties": {
             "Easy": 2,
@@ -2866,7 +2875,7 @@
             "03 OpenTaiko Chapter III\\112 - POGO is ready\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "fac641c96e23d5fc7a7787dadea14b7f",
+        "tjaMD5": "88cd8f9b7bf38ffebb03344f991d3189",
         "chartSize": 48.61,
         "chartTitle": "POGO is ready!!",
         "chartTitles": {
@@ -2874,7 +2883,8 @@
         },
         "chartSubtitle": "TAK a.k.a. Tokky",
         "chartSubtitles": {
-            "JA": "\u6258 a.k.a. Tokky"
+            "JA": "\u6258 a.k.a. Tokky",
+            "ZH_TW": "\u6258 a.k.a. Tokky"
         },
         "chartDifficulties": {
             "Oni": 8.4,
@@ -2903,7 +2913,7 @@
             "03 OpenTaiko Chapter III\\113 - Souzoushikunaru\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "9dfb1d682e5417fd28072451df6a8010",
+        "tjaMD5": "3a627cf748c39676d114052353991c04",
         "chartSize": 6.24,
         "chartTitle": "Souzou shiku naru",
         "chartTitles": {
@@ -2911,7 +2921,8 @@
         },
         "chartSubtitle": "TAK a.k.a. Tokky",
         "chartSubtitles": {
-            "JA": "\u6258 a.k.a. Tokky"
+            "JA": "\u6258 a.k.a. Tokky",
+            "ZH_TW": "\u6258 a.k.a. Tokky"
         },
         "chartDifficulties": {
             "Oni": 7,
@@ -2977,11 +2988,12 @@
             "03 OpenTaiko Chapter III\\115 - Shoubu Biyori\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "1166b4c0e210413319bc0f073a680b56",
+        "tjaMD5": "0dbf5294065447b99b062363278f5a1e",
         "chartSize": 1.84,
         "chartTitle": "Shoubu Biyori",
         "chartTitles": {
-            "JA": "\u83d6\u84b2\u65e5\u548c"
+            "JA": "\u83d6\u84b2\u65e5\u548c",
+            "ZH_TW": "\u83d6\u84b2\u65e5\u548c"
         },
         "chartSubtitle": "Y.W",
         "chartSubtitles": {
@@ -3015,11 +3027,12 @@
             "03 OpenTaiko Chapter III\\116 - Sotsugyo 2000\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "bd1d9ab4ebabcdfad5fd16b0b96adb1a",
+        "tjaMD5": "45741e12b07faaede5cfeda2267c60c3",
         "chartSize": 1.95,
         "chartTitle": "Sotsugyou 2000",
         "chartTitles": {
-            "JA": "\u5352\u696d2000"
+            "JA": "\u5352\u696d2000",
+            "ZH_TW": "\u7562\u696d2000"
         },
         "chartSubtitle": "Y.W",
         "chartSubtitles": {
@@ -3386,7 +3399,7 @@
             "03 OpenTaiko Chapter III\\127 - A symphony of a million years\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "f4f7c2653423011551ef948fa9db78cc",
+        "tjaMD5": "d18334f61302a88c6022f31e96aabc56",
         "chartSize": 3.69,
         "chartTitle": "A symphony of a million years",
         "chartTitles": {
@@ -3394,7 +3407,8 @@
         },
         "chartSubtitle": "oxoplasmaP ft. Defoko",
         "chartSubtitles": {
-            "JA": "oxoplasmaP ft. \u5504\u97f3\u30a6\u30bf"
+            "JA": "oxoplasmaP ft. \u5504\u97f3\u30a6\u30bf",
+            "ZH_TW": "oxoplasmaP ft. \u5504\u97f3Uta"
         },
         "chartDifficulties": {
             "Oni": 8.3,
@@ -3552,11 +3566,12 @@
             "03 OpenTaiko Chapter III\\133 - Fungus Night Carnival ~ Rhythm of the war\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "042bce0c32c87bac59d9f5226d815353",
+        "tjaMD5": "effbec21773ad9b23289ead0b2d0929c",
         "chartSize": 5.88,
         "chartTitle": "Fungus Night Carnival ~ Rhythm of the war",
         "chartTitles": {
-            "ZH": "\u83cc\u5b62\u591c\u796d ~ \u6218\u594f"
+            "ZH": "\u83cc\u5b62\u591c\u796d ~ \u6218\u594f",
+            "ZH_TW": "\u83cc\u5b62\u591c\u796d ~ \u6230\u594f"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -4185,13 +4200,14 @@
             "04 OpenTaiko Chapter IV\\155 - Music for Life\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "ab818c22760be63419a1e4770a01b4d9",
+        "tjaMD5": "ea886b47c11879040ef14fbd02510cf2",
         "chartSize": 2.88,
         "chartTitle": "Music for Life",
         "chartTitles": {},
         "chartSubtitle": "FALL feat. elu_amaga",
         "chartSubtitles": {
-            "JA": "FALL feat. \u96e8\u6b4c\u30a8\u30eb"
+            "JA": "FALL feat. \u96e8\u6b4c\u30a8\u30eb",
+            "ZH_TW": "FALL feat. \u96e8\u6b4cEru"
         },
         "chartDifficulties": {
             "Oni": 7,
@@ -4221,7 +4237,7 @@
             "04 OpenTaiko Chapter IV\\158 - Goodbye My Phantasia\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "3bcc8acfeda60bcf8796099dec18b809",
+        "tjaMD5": "31dd88e41bfedd61ea2f107250c99486",
         "chartSize": 3.72,
         "chartTitle": "Goodbye My Phantasia",
         "chartTitles": {
@@ -4229,7 +4245,8 @@
         },
         "chartSubtitle": "FALL feat. yufu_sekka",
         "chartSubtitles": {
-            "JA": "FALL feat. \u96ea\u6b4c\u30e6\u30d5"
+            "JA": "FALL feat. \u96ea\u6b4c\u30e6\u30d5",
+            "ZH_TW": "FALL feat. \u96ea\u6b4cYufu"
         },
         "chartDifficulties": {
             "Oni": 11.3,
@@ -4652,7 +4669,7 @@
             "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "2ef9c2f8111eae999d8fe0c0dd5fe86c",
+        "tjaMD5": "5c4cde6650f7f010cc620fe8701bfd40",
         "chartSize": 60.76,
         "chartTitle": "Nostalgic Magic",
         "chartTitles": {
@@ -4660,7 +4677,8 @@
         },
         "chartSubtitle": "TAK aka. Tokky feat. Otome Ame",
         "chartSubtitles": {
-            "JA": "\u6258 aka. Tokky feat. \u4e59\u5973\u96e8"
+            "JA": "\u6258 aka. Tokky feat. \u4e59\u5973\u96e8",
+            "ZH_TW": "\u6258 aka. Tokky feat. \u4e59\u5973\u96e8"
         },
         "chartDifficulties": {
             "Oni": 8.1,
@@ -4785,7 +4803,7 @@
             "04 OpenTaiko Chapter IV\\179 - Authentic (Game Mix)\\uniqueID.json"
         ],
         "tjaGenreFolder": "04 OpenTaiko Chapter IV",
-        "tjaMD5": "038c457a29add0bb46e7463955f50df2",
+        "tjaMD5": "7d4a0e2f954baa587fb7783a6b43841d",
         "chartSize": 26.45,
         "chartTitle": "Authentic (Game Mix)",
         "chartTitles": {
@@ -4793,7 +4811,8 @@
         },
         "chartSubtitle": "dogthing ft. Teto Kasane",
         "chartSubtitles": {
-            "JA": "dogthing ft. \u91cd\u97f3\u30c6\u30c8"
+            "JA": "dogthing ft. \u91cd\u97f3\u30c6\u30c8",
+            "ZH_TW": "dogthing ft. \u91cd\u97f3Teto"
         },
         "chartDifficulties": {
             "Easy": 2,
@@ -4853,7 +4872,7 @@
             "05 OpenTaiko Chapter V\\181 - Nostalgic Magic (Magical Jazzy Chip-Dance Mix)\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "22038ba29abaa27589890843e9490670",
+        "tjaMD5": "f354227c6f45e4f2a8635fcbd656b965",
         "chartSize": 5.37,
         "chartTitle": "Nostalgic Magic (Magical Jazzy Chip-Dance Mix)",
         "chartTitles": {
@@ -4861,7 +4880,8 @@
         },
         "chartSubtitle": "Dashy, thanks to TAK aka. Tokky and Otome Ame",
         "chartSubtitles": {
-            "JA": "Dashy, \u6258 a.k.a. Tokky\u3068\u4e59\u5973\u96e8\u306e\u304a\u304b\u3052\u3067"
+            "JA": "Dashy, \u6258 a.k.a. Tokky\u3068\u4e59\u5973\u96e8\u306e\u304a\u304b\u3052\u3067",
+            "ZH_TW": "Dashy, \u611f\u8b1d \u6258 a.k.a. Tokky \u8207 \u4e59\u5973\u96e8"
         },
         "chartDifficulties": {
             "Oni": 9.4,
@@ -5084,7 +5104,7 @@
             "05 OpenTaiko Chapter V\\189 - Candy Girl\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "4dc56ab772a23b28aec2a861335ebd05",
+        "tjaMD5": "d45e11012b77a03831bdca8a96445ac9",
         "chartSize": 16.54,
         "chartTitle": "Candy Girl",
         "chartTitles": {
@@ -5092,7 +5112,8 @@
         },
         "chartSubtitle": "Otome Ame (Composition: kani)",
         "chartSubtitles": {
-            "JA": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1akani\uff09"
+            "JA": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1akani\uff09",
+            "ZH_TW": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1akani\uff09"
         },
         "chartDifficulties": {
             "Oni": 8.2,
@@ -5120,7 +5141,7 @@
             "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "584fef935e74d4963347603fa12c7fdd",
+        "tjaMD5": "304f27551c315d672c2408f4321f347b",
         "chartSize": 4.87,
         "chartTitle": "Niji wa Kirai",
         "chartTitles": {
@@ -5128,7 +5149,8 @@
         },
         "chartSubtitle": "Otome Ame (Composition: Shitsudo Kei)",
         "chartSubtitles": {
-            "JA": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1a\u6e7f\u5ea6\u30b1\u30a4\uff09"
+            "JA": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1a\u6e7f\u5ea6\u30b1\u30a4\uff09",
+            "ZH_TW": "\u4e59\u5973\u96e8\uff08\u4f5c\u7de8\u66f2\uff1aShitsudo Kei\uff09"
         },
         "chartDifficulties": {
             "Edit": 8.4,
@@ -5158,11 +5180,12 @@
             "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "735ff94c829f31830588d1d314df2ea1",
+        "tjaMD5": "125359bee24c93496cbdee8086f30bd9",
         "chartSize": 4.69,
         "chartTitle": "Purgatory of the OOTD",
         "chartTitles": {
-            "JA": "\u7149\u7344\u306eOOTD"
+            "JA": "\u7149\u7344\u306eOOTD",
+            "ZH_TW": "\u7149\u7344\u7684OOTD"
         },
         "chartSubtitle": "Masamune vs. H5",
         "chartSubtitles": {
@@ -5292,11 +5315,12 @@
             "05 OpenTaiko Chapter V\\195 - Labyrinth from Another World\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "6562b27bc7bcfd41de99d450e0a42b77",
+        "tjaMD5": "4a3f01042265bec74a6a27b2e1d7ca47",
         "chartSize": 3.87,
         "chartTitle": "Labyrinth from Another World",
         "chartTitles": {
-            "JA": "\u58fa\u4e2d\u306e\u8ff7\u8def"
+            "JA": "\u58fa\u4e2d\u306e\u8ff7\u8def",
+            "ZH_TW": "\u58fa\u4e2d\u7684\u8ff7\u5bab"
         },
         "chartSubtitle": "MoushiKomi",
         "chartSubtitles": {
@@ -5560,7 +5584,7 @@
             "05 OpenTaiko Chapter V\\203 - If Life Were a Loop\\uniqueID.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "4e356ab158b84fdd91abbb5efe174fe6",
+        "tjaMD5": "9a387179aa07a34cfea52fe4bf3bb604",
         "chartSize": 14.31,
         "chartTitle": "If Life Were a Loop",
         "chartTitles": {
@@ -5568,7 +5592,8 @@
         },
         "chartSubtitle": "dogthing ft. Hatsune Miku",
         "chartSubtitles": {
-            "JA": "dogthing ft. \u521d\u97f3\u30df\u30af"
+            "JA": "dogthing ft. \u521d\u97f3\u30df\u30af",
+            "ZH_TW": "dogthing ft. \u521d\u97f3\u672a\u4f86"
         },
         "chartDifficulties": {
             "Easy": 2,
@@ -6167,13 +6192,14 @@
             "06 OpenTaiko Chapter VI\\222 - glide through a sky\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "ed840f11945f5df4be2ebb17a2383672",
+        "tjaMD5": "83369f3a38e6484329821091709e8509",
         "chartSize": 4.25,
         "chartTitle": "glide through a sky",
         "chartTitles": {},
         "chartSubtitle": "Dashy, / OpenTaiko Gleaming Sky Theme Song",
         "chartSubtitles": {
-            "JA": "Dashy, \u300cOpenTaiko Gleaming Sky\u300d\u30c6\u30fc\u30de\u30bd\u30f3\u30b0"
+            "JA": "Dashy, \u300cOpenTaiko Gleaming Sky\u300d\u30c6\u30fc\u30de\u30bd\u30f3\u30b0",
+            "ZH_TW": "Dashy, \u300cOpenTaiko Gleaming Sky\u300d\u4e3b\u984c\u66f2"
         },
         "chartDifficulties": {
             "Oni": 8.2,
@@ -6630,15 +6656,17 @@
             "06 OpenTaiko Chapter VI\\236 - BUTCHER VANITY\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "a405b3ce4957899728c47a5d7c6d7398",
+        "tjaMD5": "c3e1432d5732d12c52194fa4cabffeaa",
         "chartSize": 66.47,
         "chartTitle": "BUTCHER VANITY",
         "chartTitles": {
-            "ZH": "\u865a\u8363\u5c60\u592b"
+            "ZH": "\u865a\u8363\u5c60\u592b",
+            "ZH_TW": "\u865b\u69ae\u5c60\u592b"
         },
         "chartSubtitle": "FLAVOR FOLEY ft. Yi Xi",
         "chartSubtitles": {
-            "ZH": "FLAVOR FOLEY ft. \u5955\u5915"
+            "ZH": "FLAVOR FOLEY ft. \u5955\u5915",
+            "ZH_TW": "FLAVOR FOLEY ft. \u5955\u5915"
         },
         "chartDifficulties": {
             "Easy": 2,
@@ -6808,11 +6836,12 @@
             "06 OpenTaiko Chapter VI\\244 - Kakurine no Midori\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "a06787f6ed4a5a1a92c359956d116572",
+        "tjaMD5": "edeafdccb2b73143a1d1b7a0ba43a8e5",
         "chartSize": 2.54,
         "chartTitle": "Kakurine no Midori",
         "chartTitles": {
-            "JA": "\u5e7d\u97f3\u306e\u7fe0"
+            "JA": "\u5e7d\u97f3\u306e\u7fe0",
+            "ZH_TW": "\u5e7d\u97f3\u4e4b\u7fe0"
         },
         "chartSubtitle": "Pinktoe feat. Haramori Yoshina",
         "chartSubtitles": {
@@ -6847,7 +6876,7 @@
             "06 OpenTaiko Chapter VI\\245 - Gray Canary\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "8259612eb3746ee6ea1e60c0384664fa",
+        "tjaMD5": "15a22d32b38e91c80aa1427c8985ccf8",
         "chartSize": 4.42,
         "chartTitle": "Gray Canary (So that I still keep flying)",
         "chartTitles": {
@@ -6855,7 +6884,8 @@
         },
         "chartSubtitle": "Nijiiro Karasu (ume & a-m)",
         "chartSubtitles": {
-            "JA": "\u8679\u8272\u9d09\uff08ume & a-m\uff09"
+            "JA": "\u8679\u8272\u9d09\uff08ume & a-m\uff09",
+            "ZH_TW": "\u8679\u8272\u9d09\uff08ume & a-m\uff09"
         },
         "chartDifficulties": {
             "Edit": 9.7,
@@ -6886,7 +6916,7 @@
             "06 OpenTaiko Chapter VI\\246 - ARIGATO!\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "247bc77f214c2cc5bdf1f072b1c0ddb5",
+        "tjaMD5": "62ead55a0daec8fdb74b2201101af9e1",
         "chartSize": 3.18,
         "chartTitle": "ARIGATO!",
         "chartTitles": {
@@ -6894,7 +6924,8 @@
         },
         "chartSubtitle": "LLRK feat. Miyamai Moka",
         "chartSubtitles": {
-            "JA": "LLRK feat. \u5bae\u821e\u30e2\u30ab"
+            "JA": "LLRK feat. \u5bae\u821e\u30e2\u30ab",
+            "ZH_TW": "LLRK feat. \u5bae\u821e\u8309\u6b4c"
         },
         "chartDifficulties": {
             "Oni": 7,
@@ -7293,11 +7324,12 @@
             "06 OpenTaiko Chapter VI\\259 - Mechanical Heart\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "4140ff54f4f3e35aa1076072a9d557cb",
+        "tjaMD5": "6cf08f24f87039e8feca129b25ca3b28",
         "chartSize": 7.17,
         "chartTitle": "Mechanical Heart",
         "chartTitles": {
-            "ZH": "\u673a\u68b0\u4e4b\u5fc3"
+            "ZH": "\u673a\u68b0\u4e4b\u5fc3",
+            "ZH_TW": "\u6a5f\u68b0\u4e4b\u5fc3"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -7397,11 +7429,12 @@
             "06 OpenTaiko Chapter VI\\262 - Iemonogatari\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "f9af2e51674d6ac18ea3aab276e8956a",
+        "tjaMD5": "eb98d8eca88f7bef7defc3a38b31d797",
         "chartSize": 3.07,
         "chartTitle": "Iemonogatari",
         "chartTitles": {
-            "JA": "\u5bb6\u7269\u8a9e"
+            "JA": "\u5bb6\u7269\u8a9e",
+            "ZH_TW": "\u5bb6\u7269\u8a9e"
         },
         "chartSubtitle": "K4Y5",
         "chartSubtitles": {},
@@ -7464,7 +7497,7 @@
             "06 OpenTaiko Chapter VI\\264 - Summer Eden\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "b8eab9ebcbff90fcb393bae578564b53",
+        "tjaMD5": "efdc657c76d62aff2e6df81cd0a3b6ce",
         "chartSize": 3.86,
         "chartTitle": "Ito hiku natsu no eden ni te.",
         "chartTitles": {
@@ -7472,7 +7505,8 @@
         },
         "chartSubtitle": "Setca. feat. Karin Natsuki",
         "chartSubtitles": {
-            "JA": "Setca. feat. \u590f\u8272\u82b1\u68a8"
+            "JA": "Setca. feat. \u590f\u8272\u82b1\u68a8",
+            "ZH_TW": "Setca. feat. \u590f\u8272\u82b1\u68a8"
         },
         "chartDifficulties": {
             "Oni": 8.6,
@@ -7637,13 +7671,14 @@
             "06 OpenTaiko Chapter VI\\269 - Jonetsu Daegu\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "402fc07821ed5d34fa99ceb3d3b57fdf",
+        "tjaMD5": "d08c7bb81c40677a8784d216e36bbd17",
         "chartSize": 3.09,
         "chartTitle": "Jonetsu Daegu",
         "chartTitles": {
             "JA": "\u60c5\u71b1\u5927\u90b1",
             "KO": "\u60c5\u71b1\u5927\u90b1",
-            "ZH": "\u60c5\u71b1\u5927\u90b1"
+            "ZH": "\u60c5\u71b1\u5927\u90b1",
+            "ZH_TW": "\u60c5\u71b1\u5927\u90b1"
         },
         "chartSubtitle": "Qyubey",
         "chartSubtitles": {},
@@ -8231,15 +8266,17 @@
             "07 OpenTaiko Chapter VII\\291 - Nijibana no Yaiba\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "986e641bddc7cf0ebb2cd2ec2a67fe80",
+        "tjaMD5": "4ab9daa6c16a88986cc044fdca2fe910",
         "chartSize": 4.43,
         "chartTitle": "Nijibana no Yaiba",
         "chartTitles": {
-            "JA": "\u8679\u83ef\u306e\u5203"
+            "JA": "\u8679\u83ef\u306e\u5203",
+            "ZH_TW": "\u8679\u83ef\u4e4b\u5203"
         },
         "chartSubtitle": "Yue",
         "chartSubtitles": {
-            "JA": "\u60a0\u6c5f"
+            "JA": "\u60a0\u6c5f",
+            "ZH_TW": "\u60a0\u6c5f"
         },
         "chartDifficulties": {
             "Edit": 10.3,
@@ -8501,7 +8538,7 @@
             "07 OpenTaiko Chapter VII\\299 - Mahou de Kaeru ni Natchattamitai\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "ea580c2d6a7eea952890792a3ef45461",
+        "tjaMD5": "a1f7ac3046f8c5b32d02008c632d1c92",
         "chartSize": 2.88,
         "chartTitle": "Mahou de Kaeru ni Natchattamitai!",
         "chartTitles": {
@@ -8509,7 +8546,8 @@
         },
         "chartSubtitle": "sharkyo ft. Kasane Teto",
         "chartSubtitles": {
-            "JA": "sharkyo ft. \u91cd\u97f3\u30c6\u30c8"
+            "JA": "sharkyo ft. \u91cd\u97f3\u30c6\u30c8",
+            "ZH_TW": "sharkyo ft. \u91cd\u97f3Teto"
         },
         "chartDifficulties": {
             "Oni": 8.1,
@@ -8634,15 +8672,17 @@
             "07 OpenTaiko Chapter VII\\303 - Yami Remix\\Yami2.tja"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "23425c0d0462fdf79ea1ceac1edf7400",
+        "tjaMD5": "5a0292e2475010321d93cd4165017e08",
         "chartSize": 4.04,
         "chartTitle": "Yami (Makotora Remix)",
         "chartTitles": {
-            "JA": "\u95c7 (Makotora Remix)"
+            "JA": "\u95c7 (Makotora Remix)",
+            "ZH_TW": "\u95c7 (Makotora Remix)"
         },
         "chartSubtitle": "TFD500 + Makotora (from TONE::FURY)",
         "chartSubtitles": {
-            "JA": "TFD500 + Makotora (TONE::FURY\u3088\u308a)"
+            "JA": "TFD500 + Makotora (TONE::FURY\u3088\u308a)",
+            "ZH_TW": "TFD500 + Makotora (\u4f86\u81ea TONE::FURY)"
         },
         "chartDifficulties": {
             "Edit": 10.6,
@@ -8707,7 +8747,7 @@
             "07 OpenTaiko Chapter VII\\305 - Heart of the Cards\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "04fac05c8b5e0bb5af74bef192a111a1",
+        "tjaMD5": "6afed0f8cbc765838d4d065da407bac9",
         "chartSize": 10.26,
         "chartTitle": "Heart of the Cards",
         "chartTitles": {
@@ -8715,7 +8755,8 @@
         },
         "chartSubtitle": "dogthing feat. Miku Hatsune",
         "chartSubtitles": {
-            "JA": "dogthing feat. \u521d\u97f3\u30df\u30af"
+            "JA": "dogthing feat. \u521d\u97f3\u30df\u30af",
+            "ZH_TW": "dogthing feat. \u521d\u97f3\u672a\u4f86"
         },
         "chartDifficulties": {
             "Easy": 3,
@@ -8914,13 +8955,14 @@
             "07 OpenTaiko Chapter VII\\311 - Lost Petal Wander\\uniqueID.json"
         ],
         "tjaGenreFolder": "07 OpenTaiko Chapter VII",
-        "tjaMD5": "93178acdd1880a29c4c722d8110da783",
+        "tjaMD5": "a5c91a0621af6f343a7f1c76cf05513f",
         "chartSize": 1.89,
         "chartTitle": "Lost Petal's Wander",
         "chartTitles": {},
         "chartSubtitle": "RB.H \u00d7 lixound \u00d7 Setsunan",
         "chartSubtitles": {
-            "ZH": "RB.H \u00d7 lixound \u00d7 \u859b\u5357"
+            "ZH": "RB.H \u00d7 lixound \u00d7 \u859b\u5357",
+            "ZH_TW": "RB.H \u00d7 lixound \u00d7 \u859b\u5357"
         },
         "chartDifficulties": {
             "Oni": 10.7,
@@ -9660,13 +9702,14 @@
             "08 OpenTaiko Chapter VIII\\343 - CONTINUING HEART\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "d42d3659ebc8b228404291103db08de5",
+        "tjaMD5": "b7ac3dce4fd80c8aa63a10888badb579",
         "chartSize": 5.35,
         "chartTitle": "CONTINUING HEART",
         "chartTitles": {},
         "chartSubtitle": "TONE feat. Hatsune Miku",
         "chartSubtitles": {
-            "JA": "TONE feat. \u521d\u97f3\u30df\u30af"
+            "JA": "TONE feat. \u521d\u97f3\u30df\u30af",
+            "ZH_TW": "TONE feat. \u521d\u97f3\u672a\u4f86"
         },
         "chartDifficulties": {
             "Oni": 8.2,
@@ -10079,7 +10122,7 @@
             "08 OpenTaiko Chapter VIII\\363 - CHANGE YOUR MIND\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "500db1c3e2ce50b384a7a3e8b01e0701",
+        "tjaMD5": "bf22c9c7e0ac2ae71a3180a31316aa92",
         "chartSize": 3.53,
         "chartTitle": "CHANGE YOUR MIND",
         "chartTitles": {
@@ -10087,7 +10130,8 @@
         },
         "chartSubtitle": "dogthing feat. Luka Megurine",
         "chartSubtitles": {
-            "JA": "dogthing feat. \u5de1\u97f3\u30eb\u30ab"
+            "JA": "dogthing feat. \u5de1\u97f3\u30eb\u30ab",
+            "ZH_TW": "dogthing feat. \u5de1\u97f3\u6d41\u6b4c"
         },
         "chartDifficulties": {
             "Easy": 3,
@@ -11192,11 +11236,12 @@
             "C12 Dashy's Secrets\\242 - Reverie XXIII\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "8dffa95457e2e2223c0e748ff7f2b02e",
+        "tjaMD5": "1abed1ee14a2fea94074493865620c36",
         "chartSize": 5.54,
         "chartTitle": "Reverie XXIII - Miracle of the 23rd",
         "chartTitles": {
-            "JA": "\u5922\u60f3XXIII - 2\u670823\u65e5\u306e\u5947\u8de1"
+            "JA": "\u5922\u60f3XXIII - 2\u670823\u65e5\u306e\u5947\u8de1",
+            "ZH_TW": "\u5922\u60f3XXIII - 2\u670823\u65e5\u7684\u5947\u8e5f"
         },
         "chartSubtitle": "Dashy,",
         "chartSubtitles": {},
@@ -11292,11 +11337,12 @@
             "E01 Rainy Memories\\RM01 - 093 - Rainy Night\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "172f471bdf1d81a15dbcae45e705d442",
+        "tjaMD5": "f5885ed809ae0c6688580976338831f7",
         "chartSize": 7.31,
         "chartTitle": "Rainy Night",
         "chartTitles": {
-            "ZH": "\u96e8\u591c"
+            "ZH": "\u96e8\u591c",
+            "ZH_TW": "\u96e8\u591c"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11326,12 +11372,13 @@
             "E01 Rainy Memories\\RM02 - 094 - Rainy Night ~Dispelled~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "990013473ff6083c990e3126ac2d706e",
+        "tjaMD5": "7c701ad435d2975d2d11d566ef9c922e",
         "chartSize": 8.59,
         "chartTitle": "Rainy Night ~Dispelled~",
         "chartTitles": {
             "JA": "Rainy Night ~\u96f2\u98db\u9727\u6563~",
-            "ZH": "\u96e8\u591c ~\u4e91\u98de\u96fe\u6563~"
+            "ZH": "\u96e8\u591c ~\u4e91\u98de\u96fe\u6563~",
+            "ZH_TW": "\u96e8\u591c ~\u96f2\u98db\u9727\u6563~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11361,12 +11408,13 @@
             "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "7770098fbeedb9d4aa812f3bc9491a9a",
+        "tjaMD5": "82c29a016e27e04927495458e836ad32",
         "chartSize": 8.9,
         "chartTitle": "Rainy Night ~Dream Fantasy~",
         "chartTitles": {
             "JA": "Rainy Night ~\u5922\u5e7b\u60f3~",
-            "ZH": "\u96e8\u591c ~\u68a6\u5883\u5e7b\u60f3~"
+            "ZH": "\u96e8\u591c ~\u68a6\u5883\u5e7b\u60f3~",
+            "ZH_TW": "\u96e8\u591c ~\u5922\u5883\u5e7b\u60f3~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11398,11 +11446,12 @@
             "E01 Rainy Memories\\RM04 - 095 - Rainy Night II\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "db436c98e445a20c016d13d26a12e0c5",
+        "tjaMD5": "00b419bec6d37367ce42c46e01eb2cd0",
         "chartSize": 13.23,
         "chartTitle": "Rainy Night II",
         "chartTitles": {
-            "ZH": "\u96e8\u591c II"
+            "ZH": "\u96e8\u591c II",
+            "ZH_TW": "\u96e8\u591c II"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11432,12 +11481,13 @@
             "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "b4314dc35476248190ffce4b96770b67",
+        "tjaMD5": "c863e6de43771143235a0a08ab597334",
         "chartSize": 10.91,
         "chartTitle": "Rainy Night II ~Forest of Lost Trust~",
         "chartTitles": {
             "JA": "Rainy Night II ~\u7121\u4fe1\u306e\u68ee~",
-            "ZH": "\u96e8\u591c II ~\u5931\u4fe1\u8005\u4e4b\u68ee~"
+            "ZH": "\u96e8\u591c II ~\u5931\u4fe1\u8005\u4e4b\u68ee~",
+            "ZH_TW": "\u96e8\u591c II ~\u5931\u4fe1\u8005\u4e4b\u68ee~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11467,12 +11517,13 @@
             "E01 Rainy Memories\\RM06 - 096 - Rainy Night II ~Condensation~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "1966c92df1917bdbff5bc850ccc2737e",
+        "tjaMD5": "358c03f2367181d0cea4c3ad2e9268f8",
         "chartSize": 9.94,
         "chartTitle": "Rainy Night II ~Condensation~",
         "chartTitles": {
             "JA": "Rainy Night II ~\u6c34\u51dd\u7d50~",
-            "ZH": "\u96e8\u591c II ~\u6c34\u51dd\u7ed3~"
+            "ZH": "\u96e8\u591c II ~\u6c34\u51dd\u7ed3~",
+            "ZH_TW": "\u96e8\u591c II ~\u6c34\u51dd\u7d50~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11502,11 +11553,12 @@
             "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "4d2e48982061c8ead33424f9e67713ce",
+        "tjaMD5": "97152eaf118511dcc2579f04a256efc6",
         "chartSize": 12.98,
         "chartTitle": "Rainy Night III",
         "chartTitles": {
-            "ZH": "\u96e8\u591c III"
+            "ZH": "\u96e8\u591c III",
+            "ZH_TW": "\u96e8\u591c III"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11536,12 +11588,13 @@
             "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "a009e426f6626145b20d5996efe68fc2",
+        "tjaMD5": "b6ea0f16db6c274c86605285a85d904b",
         "chartSize": 9.93,
         "chartTitle": "Rainy Night III ~Unreal Rainbow~",
         "chartTitles": {
             "JA": "Rainy Night III ~\u5e7b\u8679~",
-            "ZH": "\u96e8\u591c III ~\u865a\u8679\u5e7b\u5f69~"
+            "ZH": "\u96e8\u591c III ~\u865a\u8679\u5e7b\u5f69~",
+            "ZH_TW": "\u96e8\u591c III ~\u865b\u8679\u5e7b\u5f69~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11573,12 +11626,13 @@
             "E01 Rainy Memories\\RM09 - 098 - Rainy Night III ~Samsara~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "6882ee4ab024b6ea3803c928b8aab1db",
+        "tjaMD5": "1cc529d97f4f338b27aa5eaed8829c30",
         "chartSize": 10.29,
         "chartTitle": "Rainy Night III ~Samsara~",
         "chartTitles": {
             "JA": "Rainy Night III ~\u8f2a\u56de~",
-            "ZH": "\u96e8\u591c III ~\u8f6e\u56de~"
+            "ZH": "\u96e8\u591c III ~\u8f6e\u56de~",
+            "ZH_TW": "\u96e8\u591c III ~\u8f2a\u8ff4~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -11608,11 +11662,12 @@
             "E01 Rainy Memories\\RM10 - 157 - Rainy Tear\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "9ab3023411abc8653104c853f3e20fec",
+        "tjaMD5": "94aa0e8ca63d57fd6388ab67ae16dc43",
         "chartSize": 9.53,
         "chartTitle": "Rainy Tear",
         "chartTitles": {
-            "ZH": "\u96e8\u6cea"
+            "ZH": "\u96e8\u6cea",
+            "ZH_TW": "\u96e8\u6dda"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -12036,12 +12091,13 @@
             "E04 Rainy Diary\\RD01 - 325 - Revival of a Withered Tree\\uniqueID.json"
         ],
         "tjaGenreFolder": "E04 Rainy Diary",
-        "tjaMD5": "bf6088ef094e380792c7750c5edbfd06",
+        "tjaMD5": "e81084b0fb891308aa7d2b3c649efce1",
         "chartSize": 4.57,
         "chartTitle": "Revival of a Withered Tree",
         "chartTitles": {
             "EN": "Revival of a Withered Tree",
-            "ZH": "\u67af\u6728\u9022\u6625"
+            "ZH": "\u67af\u6728\u9022\u6625",
+            "ZH_TW": "\u67af\u6728\u9022\u6625"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -12070,12 +12126,13 @@
             "E04 Rainy Diary\\RD02 - 326 - Galaxy Fall\\uniqueID.json"
         ],
         "tjaGenreFolder": "E04 Rainy Diary",
-        "tjaMD5": "b1d7dee4079dbe4a0516bca49ce8964b",
+        "tjaMD5": "204131641599c923128ba5edaff71100",
         "chartSize": 4.81,
         "chartTitle": "Galaxy Fall",
         "chartTitles": {
             "EN": "Galaxy Fall",
-            "ZH": "\u94f6\u6cb3\u5012\u6cfb"
+            "ZH": "\u94f6\u6cb3\u5012\u6cfb",
+            "ZH_TW": "\u9280\u6cb3\u5012\u7009"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -12105,12 +12162,13 @@
             "E04 Rainy Diary\\RD03 - 327 - Ripple\\uniqueID.json"
         ],
         "tjaGenreFolder": "E04 Rainy Diary",
-        "tjaMD5": "4a888d6969871f2207f52da3b84da1e6",
+        "tjaMD5": "faaad2969310fa0c93af4140892e6a78",
         "chartSize": 9.17,
         "chartTitle": "Ripple",
         "chartTitles": {
             "EN": "Ripple",
-            "ZH": "\u6f9c"
+            "ZH": "\u6f9c",
+            "ZH_TW": "\u703e"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -12323,7 +12381,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T01 - Evil Gala\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "a879a0553aad376875c99b37084c0cad",
+        "tjaMD5": "52bfa489a9f192cc135ab15d023a96ef",
         "chartSize": 9.48,
         "chartTitle": "Evil Gala",
         "chartTitles": {
@@ -12332,7 +12390,8 @@
         "chartSubtitle": "Touhou Project Arrange / Moox",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000Moox",
-            "ZH": "\u4e1c\u65b9Project Arrange / Moox"
+            "ZH": "\u4e1c\u65b9Project Arrange / Moox",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Moox"
         },
         "chartDifficulties": {
             "Easy": 3,
@@ -12361,7 +12420,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T02 - Spread My Wings\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "d7463b99c416f1c73f29cac00d17312b",
+        "tjaMD5": "24fbd61d6ecbe499c9aa8bd65fd9d23c",
         "chartSize": 3.61,
         "chartTitle": "Spread My Wings",
         "chartTitles": {
@@ -12370,7 +12429,8 @@
         "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Slothington",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000DJ Timotei ft. Slothington",
-            "ZH": "\u4e1c\u65b9Project Arrange / DJ Timotei ft. Slothington"
+            "ZH": "\u4e1c\u65b9Project Arrange / DJ Timotei ft. Slothington",
+            "ZH_TW": "\u6771\u65b9Project Arrange / DJ Timotei ft. Slothington"
         },
         "chartDifficulties": {
             "Oni": 7,
@@ -12398,7 +12458,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T03 - The Scarlet Fog Machine Incident\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "6d8f2ede5ce5adc1c59f1f5a85cc0b15",
+        "tjaMD5": "60373be86791859a0e5dc54418612c5e",
         "chartSize": 3.4,
         "chartTitle": "Remilia, Watashi no Kage ~ The Scarlet Fog Machine Incident",
         "chartTitles": {
@@ -12407,7 +12467,8 @@
         "chartSubtitle": "Touhou Project Arrange / Jezebel Ciccone",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000Jezebel Ciccone",
-            "ZH": "\u4e1c\u65b9Project Arrange / Jezebel Ciccone"
+            "ZH": "\u4e1c\u65b9Project Arrange / Jezebel Ciccone",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Jezebel Ciccone"
         },
         "chartDifficulties": {
             "Oni": 7,
@@ -12436,7 +12497,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T04 - Confession\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "a9150bde8ba7aa3f7085f25822579d47",
+        "tjaMD5": "726381d7410a2310e07cc123ea8c86ea",
         "chartSize": 5.43,
         "chartTitle": "Confession",
         "chartTitles": {
@@ -12445,7 +12506,8 @@
         "chartSubtitle": "Touhou Project Arrange / TTL ft. Kanata",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000TTL ft. Kanata",
-            "ZH": "\u4e1c\u65b9Project Arrange / TTL ft. Kanata"
+            "ZH": "\u4e1c\u65b9Project Arrange / TTL ft. Kanata",
+            "ZH_TW": "\u6771\u65b9Project Arrange / TTL ft. Kanata"
         },
         "chartDifficulties": {
             "Oni": 8,
@@ -12474,7 +12536,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T05 - War Zone\\War Zone.vtt"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "9cb8d8666cc77571634997a76ee821aa",
+        "tjaMD5": "5411937450448e2e2cea8daed571871a",
         "chartSize": 3.07,
         "chartTitle": "War Zone",
         "chartTitles": {
@@ -12483,7 +12545,8 @@
         "chartSubtitle": "Touhou Project Arrange / WORLDWIDEWOLF feat. Timothy",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000WORLDWIDEWOLF feat. Timothy",
-            "ZH": "\u4e1c\u65b9Project Arrange / WORLDWIDEWOLF feat. Timothy"
+            "ZH": "\u4e1c\u65b9Project Arrange / WORLDWIDEWOLF feat. Timothy",
+            "ZH_TW": "\u6771\u65b9Project Arrange / WORLDWIDEWOLF feat. Timothy"
         },
         "chartDifficulties": {
             "Oni": 9,
@@ -12512,7 +12575,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T06 - Journey\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "fb6bbdf72fcbf95875264a19d46f74e6",
+        "tjaMD5": "8768b3cb233e31f36f0564a95962ea29",
         "chartSize": 5.48,
         "chartTitle": "Journey",
         "chartTitles": {
@@ -12521,7 +12584,8 @@
         "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Tsuu",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000DJ Timotei ft. \u3064\u3045",
-            "ZH": "\u4e1c\u65b9Project Arrange / DJ Timotei ft. Tsuu"
+            "ZH": "\u4e1c\u65b9Project Arrange / DJ Timotei ft. Tsuu",
+            "ZH_TW": "\u6771\u65b9Project Arrange / DJ Timotei ft. Tsuu"
         },
         "chartDifficulties": {
             "Oni": 9,
@@ -12549,7 +12613,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "844c5a37f9321929e63f0bda26ce50b3",
+        "tjaMD5": "89d3414615ddc0d3891d7465def0d9ab",
         "chartSize": 11.56,
         "chartTitle": "Abyss",
         "chartTitles": {
@@ -12558,7 +12622,8 @@
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
-            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Taichenko"
         },
         "chartDifficulties": {
             "Oni": 9,
@@ -12586,7 +12651,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T08 - Exterminate\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "82f399038fda6d1912cb5c1e8a6077c6",
+        "tjaMD5": "bdbeca61110d0d9c6d47773c99f9dd76",
         "chartSize": 11.07,
         "chartTitle": "Exterminate",
         "chartTitles": {
@@ -12595,7 +12660,8 @@
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
-            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Taichenko"
         },
         "chartDifficulties": {
             "Oni": 10.1,
@@ -12623,7 +12689,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T09 - Imperfect Cherry Blossom\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "969002c442de4c725aab67dbef33fc74",
+        "tjaMD5": "8d07544114a221f5987d868b86757ac8",
         "chartSize": 3.79,
         "chartTitle": "Imperfect Cherry Blossom",
         "chartTitles": {
@@ -12632,7 +12698,8 @@
         "chartSubtitle": "Touhou Project Arrange / Whitetail",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000Whitetail",
-            "ZH": "\u4e1c\u65b9Project Arrange / Whitetail"
+            "ZH": "\u4e1c\u65b9Project Arrange / Whitetail",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Whitetail"
         },
         "chartDifficulties": {
             "Edit": 10.4,
@@ -12662,17 +12729,19 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "e24e10ebdf41a6be38b6407dbcdef0ba",
+        "tjaMD5": "e5af9f657b0421b796b153f34ea96482",
         "chartSize": 11.99,
         "chartTitle": "Disintegrated Laevatein",
         "chartTitles": {
             "JA": "\u5d29\u58ca\u300c\u30ec\u30fc\u30f4\u30a1\u30c6\u30a4\u30f3\u300d",
-            "ZH": "\u5d29\u574f\u300c\u83b1\u74e6\u6c40\u300d"
+            "ZH": "\u5d29\u574f\u300c\u83b1\u74e6\u6c40\u300d",
+            "ZH_TW": "\u5d29\u58de\u300c\u840a\u74e6\u6c40\u300d"
         },
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
-            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Taichenko"
         },
         "chartDifficulties": {
             "Edit": 10.7,
@@ -12701,14 +12770,15 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T11 - Cirno in Quarantine\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "ab53a77527cc10e2c58111b7a1053f61",
+        "tjaMD5": "2e5d68eaba1b2936d8ba08e0c653de55",
         "chartSize": 1.57,
         "chartTitle": "Cirno in Quarantine",
         "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / H5",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000H5",
-            "ZH": "\u4e1c\u65b9Project Arrange / H5"
+            "ZH": "\u4e1c\u65b9Project Arrange / H5",
+            "ZH_TW": "\u6771\u65b9Project Arrange / H5"
         },
         "chartDifficulties": {
             "Oni": 10.5,
@@ -12737,7 +12807,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T12 - BLINDED CRITICISM\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "a52d3177772e242dc7702600acfbcf76",
+        "tjaMD5": "6130711a97aa01027947dcdb83a93467",
         "chartSize": 5.13,
         "chartTitle": "BLINDED CRITICISM (OpenTaiko Edit)",
         "chartTitles": {
@@ -12746,7 +12816,8 @@
         "chartSubtitle": "Touhou Project Arrange / DeBisco & Zovi",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u3000DeBisco & Zovi",
-            "ZH": "\u4e1c\u65b9Project Arrange / DeBisco & Zovi"
+            "ZH": "\u4e1c\u65b9Project Arrange / DeBisco & Zovi",
+            "ZH_TW": "\u6771\u65b9Project Arrange / DeBisco & Zovi"
         },
         "chartDifficulties": {
             "Oni": 9,
@@ -13241,14 +13312,15 @@
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T13 - Desire Drive\\uniqueID.json"
         ],
         "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
-        "tjaMD5": "97aedbf2fff43d10ce0531d777a9e1e0",
+        "tjaMD5": "afd842673de72b71911a9b354f0d31cf",
         "chartSize": 3.77,
         "chartTitle": "Desire Drive (H2GO Remix)",
         "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / TanChen",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 TanChen",
-            "ZH": "\u4e1c\u65b9Project Arrange / TanChen"
+            "ZH": "\u4e1c\u65b9Project Arrange / TanChen",
+            "ZH_TW": "\u6771\u65b9Project Arrange / TanChen"
         },
         "chartDifficulties": {
             "Oni": 9,
@@ -13275,14 +13347,15 @@
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T14 - Far East Requiem\\uniqueID.json"
         ],
         "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
-        "tjaMD5": "6154359e4c191bd2841deee1002c5e4e",
+        "tjaMD5": "8bba4243fdb89cd9910aa7f5d0c1cfa8",
         "chartSize": 3.71,
         "chartTitle": "Far East Requiem",
         "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / Masamune",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Masamune",
-            "ZH": "\u4e1c\u65b9Project Arrange / Masamune"
+            "ZH": "\u4e1c\u65b9Project Arrange / Masamune",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Masamune"
         },
         "chartDifficulties": {
             "Oni": 10.8,
@@ -13310,14 +13383,15 @@
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T15 - Elusiveyoukai\\uniqueID.json"
         ],
         "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
-        "tjaMD5": "42c76de4c93f18c03f55ace36799972f",
+        "tjaMD5": "365cb9f566d05b6782a89ec90e7a7ed1",
         "chartSize": 13.07,
         "chartTitle": "Elusiveyoukai",
         "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
-            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Taichenko"
         },
         "chartDifficulties": {
             "Oni": 10.6,
@@ -13345,14 +13419,15 @@
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T16 - Rainy Right\\uniqueID.json"
         ],
         "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
-        "tjaMD5": "00740d7dd3fe5ec2f2fc5c9e851483db",
+        "tjaMD5": "37a8c59c6f86c517967e98750d4933c6",
         "chartSize": 7.51,
         "chartTitle": "Rainy Right ? ~Fantasy Waterfall~",
         "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
-            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Taichenko"
         },
         "chartDifficulties": {
             "Oni": 8,
@@ -13380,14 +13455,15 @@
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T17 - Gap Moe\\uniqueID.json"
         ],
         "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
-        "tjaMD5": "97b5f870fe62e73d6a1361a03ff58e5b",
+        "tjaMD5": "d0c8f791f6b691a719b90e8e20fd68c8",
         "chartSize": 8.0,
         "chartTitle": "Gap Moe \u2606",
         "chartTitles": {},
         "chartSubtitle": "Touhou Project Arrange / gentu",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 gentu",
-            "ZH": "\u4e1c\u65b9Project Arrange / gentu"
+            "ZH": "\u4e1c\u65b9Project Arrange / gentu",
+            "ZH_TW": "\u6771\u65b9Project Arrange / gentu"
         },
         "chartDifficulties": {
             "Oni": 9,
@@ -13415,16 +13491,18 @@
             "L1 Collaborations\\C05 Touhou Arrangements Vol.2\\T18 - Seimei\\uniqueID.json"
         ],
         "tjaGenreFolder": "C05 Touhou Arrangements Vol.2",
-        "tjaMD5": "333501510694950eda5def2e7082c633",
+        "tjaMD5": "b0dbf1127aea162574b332be16969315",
         "chartSize": 9.18,
         "chartTitle": "Seimei no Nitouryuu",
         "chartTitles": {
-            "JA": "\u751f\u547d\u306e\u4e8c\u5200\u6d41"
+            "JA": "\u751f\u547d\u306e\u4e8c\u5200\u6d41",
+            "ZH_TW": "\u751f\u547d\u7684\u4e8c\u5200\u6d41"
         },
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
         "chartSubtitles": {
             "JA": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8 Taichenko",
-            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko"
+            "ZH": "\u4e1c\u65b9Project Arrange / Taichenko",
+            "ZH_TW": "\u6771\u65b9Project Arrange / Taichenko"
         },
         "chartDifficulties": {
             "Oni": 10.4,
@@ -14879,11 +14957,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
-        "tjaMD5": "0f44f309688be9f359bf2d19df6c8e1e",
+        "tjaMD5": "d221c100aa94226ae29bc5ece5a812b2",
         "chartSize": 13.28,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Dragon's OpenTaiko Favorites",
         "chartSubtitles": {
@@ -14910,11 +14989,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
-        "tjaMD5": "a6ef30fc20adbe41bc8dc9a89a4ab342",
+        "tjaMD5": "4e6dd4ae4d0459e1879d0d27d63da20f",
         "chartSize": 10.83,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Dashy's OpenTaiko Favorites",
         "chartSubtitles": {
@@ -14944,11 +15024,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\Vanaheimr.ogg"
         ],
         "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
-        "tjaMD5": "a429fc8d3b371020346aeadc6e8f5c72",
+        "tjaMD5": "13b34e9a0a298b56866e378dbe2b01f7",
         "chartSize": 16.01,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Komi's OpenTaiko Favorites",
         "chartSubtitles": {
@@ -14975,11 +15056,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
-        "tjaMD5": "9650b017276e26756712f944ba143ae0",
+        "tjaMD5": "d2d1da1e4b94a9d22867738c98ed9e12",
         "chartSize": 10.33,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Bol's OpenTaiko Favorites",
         "chartSubtitles": {
@@ -15006,11 +15088,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
-        "tjaMD5": "5292871819a97281848e1774904e2c45",
+        "tjaMD5": "e204cae5a8c86b87d5d10baa33fb984d",
         "chartSize": 8.55,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Takkkom's OpenTaiko Favorites",
         "chartSubtitles": {
@@ -15037,11 +15120,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
-        "tjaMD5": "962603acb4115fdeb8a0595b36035199",
+        "tjaMD5": "384e28550c77e07f6a4675701d23f1b1",
         "chartSize": 9.77,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "H5's OpenTaiko Favorites",
         "chartSubtitles": {
@@ -15068,11 +15152,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\uniqueID.json"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "903a7538e374d1d33f53e84f0e80c749",
+        "tjaMD5": "4abb3a575a0b127eb1f04e0342cd9149",
         "chartSize": 18.37,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "DeBisco's Mix",
         "chartSubtitles": {
@@ -15099,11 +15184,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\Yukianesa ~Azure of Ice~.ogg"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "b4cbd87853e44f20089e017b8c361f73",
+        "tjaMD5": "f70b446941c1f413bf161f66de684cd0",
         "chartSize": 10.76,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Sukima Altera's Mix",
         "chartSubtitles": {
@@ -15130,11 +15216,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\uniqueID.json"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "5c7073b02520d6c5c6ce877711a4f98a",
+        "tjaMD5": "c48acdd6f43330ab89524b35560d9599",
         "chartSize": 11.51,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Yonokid's Mix",
         "chartSubtitles": {
@@ -15161,11 +15248,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\uniqueID.json"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "bbf1cd25855ff83e0a7e746d091ba667",
+        "tjaMD5": "7b2ee590b1434c055959ed672c1e123f",
         "chartSize": 6.79,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Makotora's Mix",
         "chartSubtitles": {
@@ -15192,11 +15280,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\\u95c7.ogg"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "d842f2dcbd572acef5adfce623dab8fc",
+        "tjaMD5": "32841375739a844622a61ee4eb3323c8",
         "chartSize": 12.23,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "TFD500's Mix",
         "chartSubtitles": {
@@ -15223,11 +15312,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\uniqueID.json"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "637deb4346666a5d3b768eb56639d8ec",
+        "tjaMD5": "bb82404461635df7cba8f599f245c5e8",
         "chartSize": 11.34,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "H5's Mix",
         "chartSubtitles": {
@@ -15254,11 +15344,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\uniqueID.json"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "463daa5f6480b4f969da3a657bba8540",
+        "tjaMD5": "5b1c36c5f9873be9f7e8fab3575051b1",
         "chartSize": 16.97,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Taichenko's Mix",
         "chartSubtitles": {
@@ -15285,11 +15376,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\White Heart.ogg"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "9c64977a1b791fdf53eee6c7f3243e3c",
+        "tjaMD5": "47aeb4a8fa2241276c393d28f410bcaf",
         "chartSize": 7.08,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "Cusi's Mix",
         "chartSubtitles": {
@@ -15316,11 +15408,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\Vanaheimr.ogg"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "83390aadc0bc327e22a651355653dd5b",
+        "tjaMD5": "be40b1ba7fd6ae5fda81323e25e9900c",
         "chartSize": 5.87,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "SiLiS's Mix",
         "chartSubtitles": {
@@ -15352,15 +15445,17 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\when.ogg"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "1d7113864bee655860d76060c258b86a",
+        "tjaMD5": "5316b348dab138491b317f1e4c041c1f",
         "chartSize": 22.34,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "888 Medley Challenge \u3010Sweet\u3011",
         "chartSubtitles": {
-            "JA": "888\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u300e\u7518\u53e3\u300f"
+            "JA": "888\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u300e\u7518\u53e3\u300f",
+            "ZH_TW": "888 \u7d44\u66f2\u6311\u6230\u300e\u7518\u53e3\u300f"
         },
         "chartDifficulties": {
             "Dan": 4
@@ -15388,15 +15483,17 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\when.ogg"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "c3df496233f082d7d81b2735fe1b59dd",
+        "tjaMD5": "aeeacf8c396e67884890be4f4ae832b3",
         "chartSize": 24.11,
         "chartTitle": "\u5916\u4f1d",
         "chartTitles": {
-            "JA": "\u5916\u4f1d"
+            "JA": "\u5916\u4f1d",
+            "ZH_TW": "\u5916\u50b3"
         },
         "chartSubtitle": "888 Medley Challenge \u3010Spicy\u3011",
         "chartSubtitles": {
-            "JA": "888\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u300e\u8f9b\u53e3\u300f"
+            "JA": "888\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u300e\u8f9b\u53e3\u300f",
+            "ZH_TW": "888 \u7d44\u66f2\u6311\u6230\u300e\u8f9b\u53e3\u300f"
         },
         "chartDifficulties": {
             "Dan": 10
@@ -15878,10 +15975,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC03. Gaiden - DragonRatTiger No.1 - Neko Festival! (Sweet)\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. Gaiden Salad",
-        "tjaMD5": "2ea8283ac0f8086bd0210b9868c9cccd",
+        "tjaMD5": "12b977079718245040f9c5a1d26bcee4",
         "chartSize": 10.34,
         "chartTitle": "\u732b\u796d",
-        "chartTitles": {},
+        "chartTitles": {
+            "ZH_TW": "\u8c93\u796d"
+        },
         "chartSubtitle": "Neko Festival! (Sweet)",
         "chartSubtitles": {
             "JA": "\u732b\u796d\u308a\u3060\u306b\u3083\uff5e\uff01\uff08\u7518\u53e3\uff09"
@@ -15907,10 +16006,12 @@
             "S1 Dan-i Dojo\\OpenTaiko 2024 Gaidens\\GA. Gaiden Salad\\GC04. Gaiden - DragonRatTiger No.2 - Neko Festival! (Spicy)\\uniqueID.json"
         ],
         "tjaGenreFolder": "GA. Gaiden Salad",
-        "tjaMD5": "811f56592972ded049a549f46784f317",
+        "tjaMD5": "aebd542d76287f8f05f8569ecddac45a",
         "chartSize": 10.34,
         "chartTitle": "\u732b\u796d",
-        "chartTitles": {},
+        "chartTitles": {
+            "ZH_TW": "\u8c93\u796d"
+        },
         "chartSubtitle": "Neko Festival! (Spicy)",
         "chartSubtitles": {
             "JA": "\u732b\u796d\u308a\u3060\u306b\u3083\uff5e\uff01\uff08\u8f9b\u53e3\uff09"
@@ -16144,13 +16245,14 @@
             "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT01. Spectator of the Past\\uniqueID.json"
         ],
         "tjaGenreFolder": "DT. Dashy's Clockwork Trials",
-        "tjaMD5": "7a8329e777a5f0024aea1ccd4b2d6bd6",
+        "tjaMD5": "f94cb9a86c9342ac01da819160b0fe5c",
         "chartSize": 8.73,
         "chartTitle": "\u898b\u8005",
         "chartTitles": {},
         "chartSubtitle": "Spectator of the Past",
         "chartSubtitles": {
-            "JA": "\u904e\u53bb\u306e\u898b\u8005"
+            "JA": "\u904e\u53bb\u306e\u898b\u8005",
+            "ZH_TW": "\u904e\u53bb\u7684\u898b\u8005"
         },
         "chartDifficulties": {
             "Dan": 8
@@ -16173,13 +16275,16 @@
             "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT02. Warrior of the Future\\uniqueID.json"
         ],
         "tjaGenreFolder": "DT. Dashy's Clockwork Trials",
-        "tjaMD5": "a54d76ae19b342be8ad19bcac4388550",
+        "tjaMD5": "dbb09fd4d69a7f0ae77c310ee78bbc8f",
         "chartSize": 10.8,
         "chartTitle": "\u6226\u58eb",
-        "chartTitles": {},
+        "chartTitles": {
+            "ZH_TW": "\u6230\u58eb"
+        },
         "chartSubtitle": "Warrior of the Future",
         "chartSubtitles": {
-            "JA": "\u672a\u6765\u306e\u6226\u58eb"
+            "JA": "\u672a\u6765\u306e\u6226\u58eb",
+            "ZH_TW": "\u672a\u4f86\u7684\u6230\u58eb"
         },
         "chartDifficulties": {
             "Dan": 9
@@ -16202,13 +16307,14 @@
             "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\DT03. Oracle of the Eternity\\uniqueID.json"
         ],
         "tjaGenreFolder": "DT. Dashy's Clockwork Trials",
-        "tjaMD5": "83e9c51fd013c95824071f242016fa94",
+        "tjaMD5": "109650d43e3c77322858a130313eeea8",
         "chartSize": 11.85,
         "chartTitle": "\u795e\u8a17",
         "chartTitles": {},
         "chartSubtitle": "Oracle of the Eternity",
         "chartSubtitles": {
-            "JA": "\u6c38\u9060\u306e\u795e\u8a17"
+            "JA": "\u6c38\u9060\u306e\u795e\u8a17",
+            "ZH_TW": "\u6c38\u9060\u7684\u795e\u8a17"
         },
         "chartDifficulties": {
             "Dan": 10
@@ -16239,7 +16345,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE1. Memories of Time\\uniqueID.json"
         ],
         "tjaGenreFolder": "Endurance",
-        "tjaMD5": "a7ecd7afbf0e44f311c6002561068179",
+        "tjaMD5": "f76d3d34aa1756f16522170c2d656453",
         "chartSize": 89.39,
         "chartTitle": "\u8a18\u61b6",
         "chartTitles": {
@@ -16247,7 +16353,8 @@
         },
         "chartSubtitle": "Memories of Time - \"888.\" Endurance Medley 2025 \u3010Sweet\u3011",
         "chartSubtitles": {
-            "JA": "\u300c\u6642\u306e\u8a18\u61b6\u300d \u300e\u7518\u53e3\u300f"
+            "JA": "\u300c\u6642\u306e\u8a18\u61b6\u300d \u300e\u7518\u53e3\u300f",
+            "ZH_TW": "\u300c\u6642\u4e4b\u8a18\u61b6\u300d\"888.\" \u7d44\u66f2\u6311\u6230 - \uff12\uff10\uff12\uff15\u5e74\u300e\u7518\u53e3\u300f"
         },
         "chartDifficulties": {
             "Dan": 7
@@ -16278,7 +16385,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE2. Nebula of Time\\uniqueID.json"
         ],
         "tjaGenreFolder": "Endurance",
-        "tjaMD5": "0d72fdfd69917a9896f639c072b5d7dc",
+        "tjaMD5": "d089973b3b1022a719f0c7063ed39499",
         "chartSize": 92.23,
         "chartTitle": "\u9280\u6cb3",
         "chartTitles": {
@@ -16286,7 +16393,8 @@
         },
         "chartSubtitle": "Nebula of Time - \"888.\" Endurance Medley 2025 \u3010Spicy\u3011",
         "chartSubtitles": {
-            "JA": "\u300c\u6642\u306e\u9280\u6cb3\u300d\"888.\"\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8 - \uff12\uff10\uff12\uff15\u5e74\u300e\u8f9b\u53e3\u300f"
+            "JA": "\u300c\u6642\u306e\u9280\u6cb3\u300d\"888.\"\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8 - \uff12\uff10\uff12\uff15\u5e74\u300e\u8f9b\u53e3\u300f",
+            "ZH_TW": "\u300c\u6642\u4e4b\u9280\u6cb3\u300d\"888.\" \u7d44\u66f2\u6311\u6230 - \uff12\uff10\uff12\uff15\u5e74\u300e\u8f9b\u53e3\u300f"
         },
         "chartDifficulties": {
             "Dan": 8
@@ -16319,7 +16427,7 @@
             "S1 Dan-i Dojo\\OpenTaiko 2025 Gaidens\\DT. Dashy's Clockwork Trials\\Endurance\\DTE3. Phantom of Time\\uniqueID.json"
         ],
         "tjaGenreFolder": "Endurance",
-        "tjaMD5": "0c919cf74e21aa1d1d35364b1f75c08f",
+        "tjaMD5": "6514af3097e40dba4666dac71f4927ae",
         "chartSize": 98.29,
         "chartTitle": "\u5e7b\u5f71",
         "chartTitles": {
@@ -16327,7 +16435,8 @@
         },
         "chartSubtitle": "Phantom of Time - \"888.\" Endurance Medley 2025 \u3010Burning\u3011",
         "chartSubtitles": {
-            "JA": "\u300c\u6642\u306e\u5e7b\u5f71\u300d\"888.\"\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8 - \uff12\uff10\uff12\uff15\u5e74\u300e\u6fc0\u8f9b\u300f"
+            "JA": "\u300c\u6642\u306e\u5e7b\u5f71\u300d\"888.\"\u30e1\u30c9\u30ec\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8 - \uff12\uff10\uff12\uff15\u5e74\u300e\u6fc0\u8f9b\u300f",
+            "ZH_TW": "\u300c\u6642\u4e4b\u5e7b\u5f71\u300d\"888.\" \u7d44\u66f2\u6311\u6230 - \uff12\uff10\uff12\uff15\u5e74\u300e\u6fc0\u8f9b\u300f"
         },
         "chartDifficulties": {
             "Dan": 11.8
@@ -16647,11 +16756,12 @@
             "S2 Taiko Towers\\01 - Sweet\\TSW10 - Rainy Night III ~Samsara~\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 - Sweet",
-        "tjaMD5": "d597bc6a0ee4ff4836102116d91e8606",
+        "tjaMD5": "1ffc17285e5ea9b39ac94019dc1b7216",
         "chartSize": 10.28,
         "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
         "chartTitles": {
-            "EN": "Rainy Night III ~Samsara~"
+            "EN": "Rainy Night III ~Samsara~",
+            "ZH_TW": "Rainy Night III ~\u8f2a\u8ff4~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -17023,11 +17133,12 @@
             "S2 Taiko Towers\\02 - Spicy\\TSP10 - Rainy Night III ~Samsara~\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 - Spicy",
-        "tjaMD5": "08336f101993163cb4fd3325ca6f71a4",
+        "tjaMD5": "9d440f4b1c6dd70c8af21559db736661",
         "chartSize": 10.29,
         "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
         "chartTitles": {
-            "EN": "Rainy Night III ~Samsara~"
+            "EN": "Rainy Night III ~Samsara~",
+            "ZH_TW": "Rainy Night III ~\u8f2a\u8ff4~"
         },
         "chartSubtitle": "Taichenko",
         "chartSubtitles": {},
@@ -17157,7 +17268,7 @@
             "S2 Taiko Towers\\03 - Challenges\\TCH01 - Rhythm Challenge\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 - Challenges",
-        "tjaMD5": "d9099efb9141214b693b2d1e6a4726ee",
+        "tjaMD5": "d6d48e02a05b74320c4061c53b874513",
         "chartSize": 2.43,
         "chartTitle": "Rhythm Challenge Tower",
         "chartTitles": {
@@ -17165,7 +17276,8 @@
             "FR": "Tour du d\u00e9fi rythme",
             "JA": "\u6311\u6226! \u30ea\u30ba\u30e0\u611f\u899a\u30c6\u30b9\u30c8!",
             "RU": "\u0411\u0430\u0448\u043d\u044f \u0412\u044b\u0437\u043e\u0432\u0430 \u0420\u0438\u0442\u043c\u0443",
-            "ZH": "\u8282\u594f\u6311\u6218\u5854"
+            "ZH": "\u8282\u594f\u6311\u6218\u5854",
+            "ZH_TW": "\u6311\u6230\uff01\u7bc0\u594f\u611f\u7684\u8003\u9a57\uff01"
         },
         "chartSubtitle": "OPTK Sound Team \"Dashy\"",
         "chartSubtitles": {
@@ -17173,7 +17285,8 @@
             "FR": "OPTK Sound Team \u00ab Dashy \u00bb",
             "JA": "OPTK Sound Team \u300cDashy\u300d",
             "RU": "OPTK Sound Team \u00ab\u0414\u044d\u0448\u0438\u00bb",
-            "ZH": "OPTK Sound Team \u201cDashy\u201d"
+            "ZH": "OPTK Sound Team \u201cDashy\u201d",
+            "ZH_TW": "OPTK Sound Team \u300cDashy\u300d"
         },
         "chartDifficulties": {
             "Tower": 6

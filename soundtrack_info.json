@@ -9629,6 +9629,37 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "ReBOOtsiGnAlwtGM",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\339 - REBOOT SIGNAL",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\339 - REBOOT SIGNAL\\REBOOT SIGNAL.tja",
+            "08 OpenTaiko Chapter VIII\\339 - REBOOT SIGNAL\\REBOOT-SIGNAL.ogg",
+            "08 OpenTaiko Chapter VIII\\339 - REBOOT SIGNAL\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "1ef92029407df5d7c44dec96a14db7c2",
+        "chartSize": 2.05,
+        "chartTitle": "REBOOT SIGNAL",
+        "chartTitles": {},
+        "chartSubtitle": "WTGM",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8.0,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "\u305b\u304d\u3042\u304d",
+            "Hard": "\u305b\u304d\u3042\u304d",
+            "Normal": "\u305b\u304d\u3042\u304d",
+            "Easy": "\u305b\u304d\u3042\u304d"
+        },
+        "chartAudioFilePath": "preview\\ReBOOtsiGnAlwtGM.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "unendiNGFreeDomdashYs3PIEcEINFInitustatSUotOrEveRSedbYDAshy",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\340 - Unending Freedom Dashy",
         "tjaFilesPath": [

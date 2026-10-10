@@ -340,6 +340,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 336 - BERRY FEVER : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by Komi)
 337 - ELEDREAM : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by せきあき)
 
+339 - REBOOT SIGNAL : WTGM - https://youtube.com/@kumorarika_official?si=Kkzrj0IDOf_FQ7Jk (Chart by せきあき)
 340 - Unending Freedom ~Dashy's 3-Piece Infinitus~ : Tatsuoto reversed by Dashy, (Chart by DiamondN1nja)
 
 342 - To Feel Alive : Phantoskii ft. Adachi Rei - https://www.youtube.com/channel/UCf5X18JsK5n6pK-8GMftOzw (Chart by BeaniCraft)

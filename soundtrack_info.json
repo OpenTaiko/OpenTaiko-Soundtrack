@@ -10416,6 +10416,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "sERPHiUmyMPHONiXAuTezZVSMElodiCmavEn",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\372 - Seraphium",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\372 - Seraphium\\SERAPHIUM.jpg",
+            "08 OpenTaiko Chapter VIII\\372 - Seraphium\\SERAPHIUM.ogg",
+            "08 OpenTaiko Chapter VIII\\372 - Seraphium\\SERAPHIUM.tja",
+            "08 OpenTaiko Chapter VIII\\372 - Seraphium\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "e018be74cf7e852a757378ba4937170c",
+        "chartSize": 7.15,
+        "chartTitle": "SER\u03b1PHIUM \u03a3YMPHONIX",
+        "chartTitles": {},
+        "chartSubtitle": "Autezz vs. MelodicMaven",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Normal": 6,
+            "Easy": 4,
+            "Oni": 10.7,
+            "Hard": 8.5
+        },
+        "chartMakers": {
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\sERPHiUmyMPHONiXAuTezZVSMElodiCmavEn.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\372 - Seraphium\\SERAPHIUM.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "SUBwOOFercARNIVAllIMefRuit",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\375 - Subwoofer Carnival",
         "tjaFilesPath": [

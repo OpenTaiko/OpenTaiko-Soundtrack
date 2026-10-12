@@ -367,6 +367,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 369 - Xross Imperium : BlastiX & XorɅ - https://www.youtube.com/watch?v=H-b7YmPNBPo (Chart by Makotora)
 
 371 - Dayglass [lite.] : ferretdot - https://soundcloud.com/ferretdot/dayglass-lite (Chart by YSTAR-T)
+372 - SERαPHIUM ΣYMPHONIX : Autezz vs. MelodicMaven - https://youtube.com/@autezz https://youtube.com/@melodicmaven2025 (Chart by YSTAR-T and DiamondN1nja)
 
 375 - Subwoofer Carnival : Limefruit.ラィフル〜 - https://www.instagram.com/limefruit_1003s?stkn=dW04NXRzdWx0ejA1 https://youtube.com/@limefruit1234?si=4o62Y6sa7KW91fEP (Chart by bol)
 

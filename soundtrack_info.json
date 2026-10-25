@@ -9500,6 +9500,42 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "catandthebleepmachinecolinchartmeeeeoooowww",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\332 - cat and the bleep-machine",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\332 - cat and the bleep-machine\\cat and the bleep-machine.ogg",
+            "08 OpenTaiko Chapter VIII\\332 - cat and the bleep-machine\\cat and the bleep-machine.png",
+            "08 OpenTaiko Chapter VIII\\332 - cat and the bleep-machine\\cat and the bleep-machine.tja",
+            "08 OpenTaiko Chapter VIII\\332 - cat and the bleep-machine\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "83991188463dc6a34c2cc3368ef7bf58",
+        "chartSize": 1.62,
+        "chartTitle": "cat and the bleep-machine",
+        "chartTitles": {
+            "JA": "cat and the bleep-machine"
+        },
+        "chartSubtitle": "gentu",
+        "chartSubtitles": {
+            "JA": "gentu"
+        },
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 3,
+            "Hard": 5,
+            "Oni": 8.1
+        },
+        "chartMakers": {
+            "Easy": "Colin",
+            "Normal": "Colin",
+            "Hard": "Colin",
+            "Oni": "Colin"
+        },
+        "chartAudioFilePath": "preview\\catandthebleepmachinecolinchartmeeeeoooowww.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\332 - cat and the bleep-machine\\cat and the bleep-machine.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "mTGImpaCtAOPentAiKOsoUndteamMaKOtorA",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\333 - MTG IMPACTA",
         "tjaFilesPath": [
@@ -10445,6 +10481,38 @@
         },
         "chartAudioFilePath": "preview\\sERPHiUmyMPHONiXAuTezZVSMElodiCmavEn.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\372 - Seraphium\\SERAPHIUM.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "PatHEtiCmouSEtAtSuoto",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\374 - Pathetic Mouse",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\374 - Pathetic Mouse\\Pathetic Mouse.jpg",
+            "08 OpenTaiko Chapter VIII\\374 - Pathetic Mouse\\Pathetic Mouse.ogg",
+            "08 OpenTaiko Chapter VIII\\374 - Pathetic Mouse\\Pathetic Mouse.tja",
+            "08 OpenTaiko Chapter VIII\\374 - Pathetic Mouse\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "a8ee27c0b61518585c756e7ac4105030",
+        "chartSize": 2.99,
+        "chartTitle": "Pathetic Mouse",
+        "chartTitles": {},
+        "chartSubtitle": "Tatsuoto",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 8.5,
+            "Normal": 6,
+            "Easy": 5.5
+        },
+        "chartMakers": {
+            "Oni": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\PatHEtiCmouSEtAtSuoto.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\374 - Pathetic Mouse\\Pathetic Mouse.jpg",
         "chartHoFRanks": {}
     },
     {
@@ -12044,6 +12112,40 @@
             "Easy": "Komi"
         },
         "chartAudioFilePath": "preview\\optkhq09statesofdistortion.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkhq10disruptivebrocante",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\nep010.ogg",
+            "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\nep010.tja",
+            "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\nep010.vtt",
+            "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "1dd597ad7532d33d4c66c4263f5ad2a3",
+        "chartSize": 4.49,
+        "chartTitle": "NEP0\uff1a10RUPTIVE\u30d6\u30ed\u30ab\u30f3\u30c8",
+        "chartTitles": {},
+        "chartSubtitle": "OPTK-HQ=CHANNEL5187 respects to BeaniCraft",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 11.5,
+            "Oni": 9.6,
+            "Hard": 8.0,
+            "Normal": 6,
+            "Easy": 5.0
+        },
+        "chartMakers": {
+            "Edit": "Komi",
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "preview\\optkhq10disruptivebrocante.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },

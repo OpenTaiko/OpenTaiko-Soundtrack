@@ -333,7 +333,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 329 - Tara! : OfficialAz3 feat. Hodong (from VOX Factory) - https://youtube.com/@OfficialAz3 (Chart by YSTAR-T and Komi)
 330 - Sparkle On! : Discoholic feat. Vampires Love Sunny - https://www.youtube.com/channel/UCgIRXSFeLFYgpN9E6R2JC_w (Chart by Dashy)
 331 - pikopiko☆parade : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by DiamondN1nja)
-
+332 - cat and the bleep-machine : gentu - https://www.youtube.com/@gentu (Chart by Colin)
 333 - MTG IMPACTA : OpenTaiko Sound Team "Makotora" - https://kingmakotora.bandcamp.com (Chart by Makotora and Komi)
 
 335 - Midsummer Midnight : Bit Lie - https://www.youtube.com/@bit_lie_1024 (Chart by sadkay and YSTAR-T)
@@ -369,9 +369,12 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 371 - Dayglass [lite.] : ferretdot - https://soundcloud.com/ferretdot/dayglass-lite (Chart by YSTAR-T)
 372 - SERαPHIUM ΣYMPHONIX : Autezz vs. MelodicMaven - https://youtube.com/@autezz https://youtube.com/@melodicmaven2025 (Chart by YSTAR-T and DiamondN1nja)
 
+374 - Pathetic Mouse : Tatsuoto - https://soundcloud.com/panasonic-cat (Chart by YSTAR-T)
 375 - Subwoofer Carnival : Limefruit.ラィフル〜 - https://www.instagram.com/limefruit_1003s?stkn=dW04NXRzdWx0ejA1 https://youtube.com/@limefruit1234?si=4o62Y6sa7KW91fEP (Chart by bol)
 
 377 - 100 Carat Smoke Point : BilliumMoto - https://soundcloud.com/billiummoto (Chart by Komi and AsPho)
+
+381 - NEP0：10RUPTIVEブロカント : OPTK-HQ=CHANNEL5187 respects to BeaniCraft (Chart by OPTK-HQ)
 ```
 
 Tower-exclusive songs:
@@ -434,6 +437,7 @@ Some of the visuals (preimages and videos) are made by the composers themselves,
 301 - I'll bee damned : Minerva Rin and Len
 306 - Melpomene's Cry : Chegg/chocobogamer
 331 - pikopiko☆parade : poss4m
+332 - cat and the bleep-machine : zulimations (https://www.instagram.com/zulimations/)
 336 - BERRY FEVER : toofless
 337 - ELEDREAM : poss4m
 356 - re:iteration = NULL (Calm Version of "they remember her memory" World) : MONOHALLS

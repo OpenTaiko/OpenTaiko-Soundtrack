@@ -339,7 +339,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 335 - Midsummer Midnight : Bit Lie - https://www.youtube.com/@bit_lie_1024 (Chart by sadkay and YSTAR-T)
 336 - BERRY FEVER : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by Komi)
 337 - ELEDREAM : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by せきあき)
-
+338 - Cat's Rule : chilldive - https://soundcloud.com/chilldive (Chart by DiamondN1nja)
 339 - REBOOT SIGNAL : WTGM - https://youtube.com/@kumorarika_official?si=Kkzrj0IDOf_FQ7Jk (Chart by せきあき)
 340 - Unending Freedom ~Dashy's 3-Piece Infinitus~ : Tatsuoto reversed by Dashy, (Chart by DiamondN1nja)
 
@@ -347,6 +347,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 343 - CONTINUING HEART : TONE feat. Hatsune Miku - https://youtu.be/d5TlLbK8Fd0?si=Va0Vg0JX8jYRnbql https://open.spotify.com/track/4SX6Jr69psIHVYzFlcvWAJ (Chart by Dashy)
 344 - Adventurous Legend of Hilled Amethyst : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by IID)
 345 - Nightmares destroy you, The field of dreams forgotten, We shall help you sleep. - Dreamseeker Paku : Catonieca - https://www.youtube.com/@CatoniecaCH (Chart by YSTAR-T)
+
+350 - 雪色ワンダーランド : 31Komi (Chart by DiamondN1nja and Dashy)
 
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
 354 - Pat Metheny Remix : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by YSTAR-T)
@@ -365,7 +367,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 367 - «EnTeR-SaMaS-AsTeRaMaS» (Game Edit) : NaRouDaK - https://soundcloud.com/naroudak (Chart by sadkay and DiamondN1nja)
 368 - 夜明けのヴォヤージュコメット : てんてる - https://youtu.be/9Wq8SsOqWvU?si=_EUVSpLp0OGG5arv (Chart by Komi)
 369 - Xross Imperium : BlastiX & XorɅ - https://www.youtube.com/watch?v=H-b7YmPNBPo (Chart by Makotora)
-
+370 - Haunting the Voltmix (OpTk Edit) : NPChelsea - https://noisegrindprincesschelsea.bandcamp.com/ (Chart by DiamondN1nja and sadkay)
 371 - Dayglass [lite.] : ferretdot - https://soundcloud.com/ferretdot/dayglass-lite (Chart by YSTAR-T)
 372 - SERαPHIUM ΣYMPHONIX : Autezz vs. MelodicMaven - https://youtube.com/@autezz https://youtube.com/@melodicmaven2025 (Chart by YSTAR-T and DiamondN1nja)
 

@@ -9665,6 +9665,40 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "CAtsrulECHIlLDIvE",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\338 - Cat's Rule",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\338 - Cat's Rule\\Cat's rule.jpg",
+            "08 OpenTaiko Chapter VIII\\338 - Cat's Rule\\Cat's rule.ogg",
+            "08 OpenTaiko Chapter VIII\\338 - Cat's Rule\\Cat's rule.tja",
+            "08 OpenTaiko Chapter VIII\\338 - Cat's Rule\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "a52306732a32ca6935b3144568f76fdd",
+        "chartSize": 4.97,
+        "chartTitle": "Cat's rule",
+        "chartTitles": {},
+        "chartSubtitle": "chilldive",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 9.4,
+            "Easy": 3,
+            "Normal": 4,
+            "Hard": 5,
+            "Oni": 7
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Easy": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Oni": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "preview\\CAtsrulECHIlLDIvE.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\338 - Cat's Rule\\Cat's rule.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "ReBOOtsiGnAlwtGM",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\339 - REBOOT SIGNAL",
         "tjaFilesPath": [
@@ -9856,6 +9890,41 @@
         },
         "chartAudioFilePath": "preview\\NiGhTmARESdEstROyyOutHeFIeLdOFdREamsforgOtTeNWeSHallHelPYOuSleepdreaMseEKErpakUCatOnIEca.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\345 - Paku very long\\Dreamseeker.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "sNoWcoLoredWOnderLANd31koMi",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\350 - Snow-Colored Wonderland",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\350 - Snow-Colored Wonderland\\Snow-Colored Wonderland.tja",
+            "08 OpenTaiko Chapter VIII\\350 - Snow-Colored Wonderland\\uniqueID.json",
+            "08 OpenTaiko Chapter VIII\\350 - Snow-Colored Wonderland\\yukiiro.ogg"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "1deeafef68858b96c627fc1a5855e0a2",
+        "chartSize": 2.59,
+        "chartTitle": "Snow-Colored Wonderland",
+        "chartTitles": {
+            "JA": "\u96ea\u8272\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9"
+        },
+        "chartSubtitle": "31Komi",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Oni": 8.2,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3,
+            "Edit": 9.3
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja",
+            "Edit": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\sNoWcoLoredWOnderLANd31koMi.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
@@ -10415,6 +10484,37 @@
         },
         "chartAudioFilePath": "preview\\xrosSImpeRIUmBLAStIXXOR.ogg",
         "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\369 - Xross Imperium\\Xross Imperium.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "HAuNtIngTHevolTMIxOPtkEDitnpCHeLsea",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\370 - Haunting the Voltmix",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\370 - Haunting the Voltmix\\Haunting the Voltmix (OpTk edit).ogg",
+            "08 OpenTaiko Chapter VIII\\370 - Haunting the Voltmix\\Haunting the Voltmix (OpTk edit).tja",
+            "08 OpenTaiko Chapter VIII\\370 - Haunting the Voltmix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "cb1b5967595e19b530d00fdc63a64c10",
+        "chartSize": 4.3,
+        "chartTitle": "Haunting the Voltmix (OpTk edit)",
+        "chartTitles": {},
+        "chartSubtitle": "NPChelsea",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Oni": 8.5,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 5.0
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "preview\\HAuNtIngTHevolTMIxOPtkEDitnpCHeLsea.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {

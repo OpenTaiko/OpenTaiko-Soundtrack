@@ -1,0 +1,37 @@
+{
+	"title": "二級",
+	"subtitle": "OpenTaiko 2023 Second Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [239, 250, 122],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [95, 99]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [1775, 1887]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [75, 37]
+		}
+	],
+	"charts": [
+		{
+			"id": "endomancerZovi",
+			"difficulty": "hard"
+		},
+		{
+			"id": "athazaDerpikarp",
+			"difficulty": "hard"
+		},
+		{
+			"id": "ctwindDashy",
+			"difficulty": "hard"
+		}
+	]
+}

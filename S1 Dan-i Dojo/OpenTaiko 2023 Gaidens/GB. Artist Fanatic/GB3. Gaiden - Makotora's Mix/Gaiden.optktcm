@@ -1,0 +1,61 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Makotora's Mix",
+		"ja": "Makotoraさんの作曲ミックス"
+	},
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [96, 99]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [
+				[80, 85],
+				[80, 85],
+				[80, 85]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[33, 13],
+				[40, 16],
+				[45, 18]
+			]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[22, 24],
+				[21, 22],
+				[26, 33]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "citysMakotora",
+			"difficulty": "edit"
+		},
+		{
+			"id": "drQ0fzYwuDFE6voQG0q1ryc6DxMJsi36A3uBYF5PDFirjXnkpVLqveMM15kNSXTM",
+			"difficulty": "edit"
+		},
+		{
+			"id": "MjPb4KtZ4tmDKro9QuK35wNkqAZDaYW2EXaUbOuoyMBVVgTTscdAcK0OXBxH64r2",
+			"difficulty": "edit"
+		}
+	]
+}

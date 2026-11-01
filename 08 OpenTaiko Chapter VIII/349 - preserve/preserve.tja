@@ -1,0 +1,545 @@
+﻿// PeepoDrumKit 2026/08/24
+TITLE:preserve
+TITLEZH_CN:
+SUBTITLE:OpenTaiko Sound Team "Dashy"
+BPM:148
+WAVE:preserve.ogg
+OFFSET:0
+DEMOSTART:68.1081
+MAKER:OpenTaiko Chart Team "YSTAR-T"
+
+COURSE:Oni
+LEVEL:8.5
+BALLOON:28
+
+#START
+0000000020102210,
+3020121020120220,
+1020121022121022,
+1120121021022020,
+1020121022111022,
+1020121011110220,
+1020121022121022,
+1120121022220110,
+1020121050000080,
+300000200100200100222100,
+100000000100200000100000200000100000202020100000,
+100000200100200100222100,
+1021201020121022,
+100000000100200000100000200000100000202020100000,
+100000100100200000100000200000100000202020100000,
+100000000100200000100000200000100000202020100000,
+1021201122112011,
+1000
+#SCROLL 0.9
+5
+#SCROLL 1.1
+0
+#SCROLL 1.3
+0
+#SCROLL 1.5
+0
+#SCROLL 1.7
+0
+#SCROLL 1.9
+0
+#SCROLL 2.1
+0
+#SCROLL 2.3
+0
+#SCROLL 2.5
+8000,
+#SCROLL 1
+10
+#LYRIC Under a sky that always seems so pale lately
+11201010212020,
+1011202010201202,
+10
+#LYRIC A darkness brews and it towers over what you're aiding
+20201121201022,
+1011202010201112,
+1000201022102010,
+10
+#LYRIC A darkness brews and it towers over what you're aiding (their gaze just fading)
+01201020112010,
+1000201020
+#LYRIC ...or what they've been abandoning
+112011,
+1022101020112210,
+10
+#LYRIC And when you reach out your hand to someone nearby
+11201010212020,
+1011202010221202,
+10
+#LYRIC all they respond with is an attempted lullaby telling you...
+20201121201022,
+1011202011201122,
+10012010221020
+#LYRIC all they respond with is an attempted lullaby telling you...\n(telling you what's "right")
+10,
+1011201020112010,
+1001201020
+#LYRIC that you're only pretending.
+112012,
+1022101120221011,
+#LYRIC Scattered words drowning out those roars
+10210250,
+00802212,
+10120150,
+000080
+#LYRIC Now with a shining glow by your side
+2210201011,
+1001201021021020,
+100120102102
+#LYRIC You could finally break that divide
+1120,
+1011201010121010,
+4
+#LYRIC You could finally break that divide and
+4
+#LYRIC You could finally break that divide and  say
+4
+#LYRIC You could finally break that divide and  say !
+4,
+#GOGOSTART
+#LYRIC "Open your eyes!
+3001201011012220,
+10012010
+#LYRIC Soon you will see a demise
+10121022,
+1001201011012210,
+101120
+#LYRIC slowly unfolding into something far beyond
+1011112021,
+2002102010221202,
+1001201020
+#LYRIC a young boy's pleading cries!"
+112120,
+1110201210102210,
+500
+#LYRIC And if you fall
+8,
+1001201011112120,
+10112010
+#LYRIC Show them the truth of your call,
+21012210,
+1011201211102022,
+100120
+#LYRIC Keep standing tall,
+1012221210,
+20012010120210
+#LYRIC preserve a heart once more!
+20,
+1110201020102010,
+#GOGOEND
+9,
+000
+#LYRIC
+8,
+2002002000102000,
+1001001022112211,
+1001201111221210,
+1001201202112211,
+2011201122112110,
+4010401040104011,
+1010201112012020,
+1012102212102020,
+1020201122021120,
+1020112210212212,
+1012201212021120,
+1021201112221010,
+401010221222
+#SCROLL 2
+6000,
+,
+,
+8,
+,
+#END
+
+COURSE:Hard
+LEVEL:6
+BALLOON:20
+
+#START
+00002220,
+3000201010010010,
+0020110010010010,
+1020110010010010,
+0020110010010011,
+1020110020020020,
+0010220020020022,
+2010220020020020,
+0010220020010011,
+1000201010201110,
+1000201010201110,
+1000202010201110,
+11201220,
+2000102020102220,
+2000102020102220,
+2000101020102220,
+22102111,
+0508,
+#SCROLL 1
+1
+#LYRIC Under a sky that always seems so pale lately
+1201121,
+0010201000200200,
+1
+#LYRIC A darkness brews and it towers over what you're aiding
+1211121,
+0010202000201011,
+10215000,
+0
+#LYRIC A darkness brews and it towers over what you're aiding (their gaze just fading)
+0008020,
+10211
+#LYRIC ...or what they've been abandoning
+222,
+0020102030102220,
+1
+#LYRIC And when you reach out your hand to someone nearby
+1201221,
+0010202000100200,
+1
+#LYRIC all they respond with is an attempted lullaby telling you...
+1221121,
+0010202010201011,
+1022500
+#LYRIC all they respond with is an attempted lullaby telling you...\n(telling you what's "right")
+0,
+0082,
+10221
+#LYRIC that you're only pretending.
+121,
+0010201000102011,
+#LYRIC Scattered words drowning out those roars
+10210250,
+00008022,
+10210250,
+000080
+#LYRIC Now with a shining glow by your side
+0010102011,
+10121212,
+102121
+#LYRIC You could finally break that divide
+21,
+2002002010010010,
+4
+#LYRIC You could finally break that divide and
+4
+#LYRIC You could finally break that divide and  say
+4
+#LYRIC You could finally break that divide and  say !
+4,
+#GOGOSTART
+#LYRIC "Open your eyes!
+1000201011011020,
+10002020
+#LYRIC Soon you will see a demise
+10010010,
+1000202010111000,
+102
+#LYRIC slowly unfolding into something far beyond
+21122,
+1001101000200200,
+1001101000
+#LYRIC a young boy's pleading cries!"
+102020,
+10210210,
+500
+#LYRIC And if you fall
+8,
+1000201010011020,
+10002020
+#LYRIC Show them the truth of your call,
+10010010,
+10212120,
+100020
+#LYRIC Keep standing tall,
+2010200200,
+1022102
+#LYRIC preserve a heart once more!
+1,
+10221012,
+#GOGOEND
+9,
+000
+#LYRIC
+8,
+2002002000202000,
+1001001050000800,
+1001001011011010,
+1001001011102010,
+2002002022022020,
+3333,
+10210210,
+12102020,
+10210120,
+11201212,
+1011102000102000,
+12101020,
+1010102222206000,
+,
+,
+8,
+,
+#END
+
+COURSE:Normal
+LEVEL:5
+BALLOON:16
+
+#START
+0022,
+3000200010010000,
+0010100010010000,
+1000200010010000,
+1010100010010000,
+2000100020020000,
+0020200020020000,
+2000100020020000,
+2020200020020000,
+10011020,
+10011020,
+10011020,
+11102020,
+10011020,
+10011020,
+10011020,
+11102222,
+0508,
+#SCROLL 1
+1
+#LYRIC Under a sky that always seems so pale lately
+1102020,
+1010002000200200,
+1
+#LYRIC A darkness brews and it towers over what you're aiding
+1102020,
+11020202,
+5000080050000000,
+0
+#LYRIC A darkness brews and it towers over what you're aiding (their gaze just fading)
+0000080,
+10201
+#LYRIC ...or what they've been abandoning
+120,
+10223030,
+2
+#LYRIC And when you reach out your hand to someone nearby
+2201010,
+2020001000100100,
+2
+#LYRIC all they respond with is an attempted lullaby telling you...
+2201010,
+20220220,
+50000800500000
+#LYRIC all they respond with is an attempted lullaby telling you...\n(telling you what's "right")
+00,
+0008,
+10201
+#LYRIC that you're only pretending.
+120,
+10212020,
+#LYRIC Scattered words drowning out those roars
+10010050,
+08,
+20020050,
+000
+#LYRIC Now with a shining glow by your side
+08000,
+1212,
+121
+#LYRIC You could finally break that divide
+2,
+1001000020020000,
+3
+#LYRIC You could finally break that divide and
+3
+#LYRIC You could finally break that divide and  say
+3
+#LYRIC You could finally break that divide and  say !
+3,
+#GOGOSTART
+#LYRIC "Open your eyes!
+1001001000001000,
+10010010
+#LYRIC Soon you will see a demise
+10001000,
+10220220,
+102
+#LYRIC slowly unfolding into something far beyond
+01110,
+1001001000002000,
+2002002000
+#LYRIC a young boy's pleading cries!"
+101000,
+30030030,
+500
+#LYRIC And if you fall
+8,
+2002002000002000,
+20020020
+#LYRIC Show them the truth of your call,
+20002000,
+10220220,
+102
+#LYRIC Keep standing tall,
+01120,
+5000008
+#LYRIC preserve a heart once more!
+0,
+1111,
+#GOGOEND
+9,
+000
+#LYRIC
+8,
+2002002000000000,
+1001001050000800,
+1001000010001000,
+1001000010001000,
+2002000020002000,
+3333,
+10210250,
+08,
+20120150,
+08,
+10210250,
+08,
+40040060,
+,
+,
+8,
+,
+#END
+
+COURSE:Easy
+LEVEL:4
+BALLOON:13
+
+#START
+01,
+31,
+1,
+11,
+1,
+22,
+2,
+22,
+2,
+1011,
+1011,
+1011,
+5008,
+2022,
+2022,
+2022,
+5,
+8,
+#SCROLL 1
+1
+#LYRIC Under a sky that always seems so pale lately
+0001000,
+1011,
+1
+#LYRIC A darkness brews and it towers over what you're aiding
+0001000,
+1011,
+5,
+8
+#LYRIC A darkness brews and it towers over what you're aiding (their gaze just fading)
+0000000,
+50000
+#LYRIC ...or what they've been abandoning
+000,
+8022,
+2
+#LYRIC And when you reach out your hand to someone nearby
+0002000,
+2022,
+2
+#LYRIC all they respond with is an attempted lullaby telling you...
+0002000,
+2022,
+5000000
+#LYRIC all they respond with is an attempted lullaby telling you...\n(telling you what's "right")
+0,
+8022,
+50000
+#LYRIC that you're only pretending.
+000,
+82,
+#LYRIC Scattered words drowning out those roars
+10010050,
+08,
+20020050,
+000
+#LYRIC Now with a shining glow by your side
+08000,
+1110,
+111
+#LYRIC You could finally break that divide
+0,
+1111,
+4
+#LYRIC You could finally break that divide and
+4
+#LYRIC You could finally break that divide and  say
+4
+#LYRIC You could finally break that divide and  say !
+4,
+#GOGOSTART
+#LYRIC "Open your eyes!
+1001005000000000,
+00008000
+#LYRIC Soon you will see a demise
+20020000,
+10010010,
+100
+#LYRIC slowly unfolding into something far beyond
+02020,
+20020000,
+20020
+#LYRIC a young boy's pleading cries!"
+000,
+10010010,
+500
+#LYRIC And if you fall
+8,
+2002005000000000,
+08
+#LYRIC Show them the truth of your call,
+11,
+10010010,
+100
+#LYRIC Keep standing tall,
+02020,
+5000008
+#LYRIC preserve a heart once more!
+0,
+2222,
+#GOGOEND
+9,
+000
+#LYRIC
+8,
+10010000,
+10010000,
+2022,
+2022,
+2022,
+3333,
+10010050,
+08,
+20020050,
+0008,
+10010050,
+08,
+20020060,
+,
+,
+8,
+,
+#END

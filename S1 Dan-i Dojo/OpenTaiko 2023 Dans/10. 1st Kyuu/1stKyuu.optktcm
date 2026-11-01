@@ -1,0 +1,37 @@
+{
+	"title": "一級",
+	"subtitle": "OpenTaiko 2023 First Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [232, 250, 115],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [96, 99]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [1547, 1590]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [50, 25]
+		}
+	],
+	"charts": [
+		{
+			"id": "breakpointYonokid",
+			"difficulty": "hard"
+		},
+		{
+			"id": "drWxV66Sy701Xb5Bt1tU0Bu7K7zzVHgCJtofHu82DJ9xzdCODrrupFXdu9UatSsC",
+			"difficulty": "hard"
+		},
+		{
+			"id": "cc2VtAF92XbxZFLniPfGV414BNJAwSTNjlYRNQGoDx8opYWs0q09ySWvi9uPLsrp",
+			"difficulty": "hard"
+		}
+	]
+}

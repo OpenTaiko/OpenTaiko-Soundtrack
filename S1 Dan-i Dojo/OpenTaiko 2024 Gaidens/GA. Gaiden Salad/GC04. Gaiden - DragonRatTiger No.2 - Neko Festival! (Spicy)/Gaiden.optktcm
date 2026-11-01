@@ -1,0 +1,42 @@
+{
+	"title": {
+		"default": "猫祭",
+		"zh_tw": "貓祭"
+	},
+	"subtitle": {
+		"default": "Neko Festival! (Spicy)",
+		"ja": "猫祭りだにゃ～！（辛口）"
+	},
+	"dan_tick": 0,
+	"dan_tick_color": [89, 156, 42],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [
+				[22, 28],
+				[80, 92],
+				[98, 100]
+			]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [1222, 1500]
+		}
+	],
+	"charts": [
+		{
+			"id": "70vlxz919d1rglKaTc3gOt50seCF4iLnYvs9EI9daTGVSYT5nBHcCjuFbLs3HOAd",
+			"difficulty": "oni"
+		},
+		{
+			"id": "nfTuimAw5vQv6LuXYhChTIMuHnAQxYL0GqXoYeL7jcUBdjCw3fOJHl5JzgEod8pk",
+			"difficulty": "oni"
+		},
+		{
+			"id": "sR5rRUAUWt49NPMXqLHdPIWki09vHd84K1xSqfOGv3kkdYAYDF05DU406tyuLKk0",
+			"difficulty": "oni"
+		}
+	]
+}

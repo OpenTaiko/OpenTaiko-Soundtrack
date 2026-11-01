@@ -1,0 +1,42 @@
+{
+	"title": "初段",
+	"subtitle": "OpenTaiko 2024 1st Dan",
+	"dan_tick": 1,
+	"dan_tick_color": [254, 224, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [97, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [25, 15]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [84, 87]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [48, 58]
+		}
+	],
+	"charts": [
+		{
+			"id": "outfox01",
+			"difficulty": "oni"
+		},
+		{
+			"id": "70vlxz919d1rglKaTc3gOt50seCF4iLnYvs9EI9daTGVSYT5nBHcCjuFbLs3HOAd",
+			"difficulty": "oni"
+		},
+		{
+			"id": "eIidGlMj16o7ndkhroEQUze29Y2sOc0NI0EZOhYHjDkCcID8qzidILYJm7FCXMti",
+			"difficulty": "oni"
+		}
+	]
+}

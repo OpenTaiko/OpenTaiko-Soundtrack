@@ -1,0 +1,55 @@
+{
+	"title": "六段",
+	"subtitle": "OpenTaiko 2024 6th Dan",
+	"dan_tick": 2,
+	"dan_tick_color": [30, 89, 149],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [14, 9]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [92, 93]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[0, 0],
+				[241, 284],
+				[300, 353]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[6, 5],
+				[6, 5],
+				[9, 7]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "9Yatcy5jMd23ic9qMFMfsQxHXMyjnJb77Robh1rCz5AeHg3wF2O8fWYRhBs0SNGz",
+			"difficulty": "oni"
+		},
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzF",
+			"difficulty": "oni"
+		},
+		{
+			"id": "tdFhOltdQhI5JJiXxrDksRUQHsioekmFLTYO1nF4KiLDG9YmXnnTScVCFahAk7Ak",
+			"difficulty": "oni"
+		}
+	]
+}

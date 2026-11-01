@@ -1,0 +1,47 @@
+{
+	"title": "見者",
+	"subtitle": {
+		"default": "Spectator of the Past",
+		"ja": "過去の見者",
+		"zh_tw": "過去的見者"
+	},
+	"dan_tick": 1,
+	"dan_tick_color": [255, 255, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [98, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [1388, 1440]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [38, 25]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [58, 78]
+		}
+	],
+	"charts": [
+		{
+			"id": "dashySecrets88II",
+			"difficulty": "oni"
+		},
+		{
+			"id": "CONsTelLationtHeguIdINggIANTSjOurneymrHIKarUANDthEinfiNiTEgalaXYEnsEmBle",
+			"difficulty": "oni",
+			"title_show": true
+		},
+		{
+			"id": "optkhq02frozen",
+			"difficulty": "oni"
+		}
+	]
+}

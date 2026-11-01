@@ -1,0 +1,50 @@
+{
+	"title": "外伝",
+	"subtitle": "Makotora's Cityscape Challenge!",
+	"dan_tick": 0,
+	"dan_tick_color": [89, 156, 42],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [2850, 3210]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [75, 30]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [90, 120]
+		}
+	],
+	"charts": [
+		{
+			"id": "citysMakotora",
+			"difficulty": "edit"
+		},
+		{
+			"id": "nJjtvhOo24FzSUughDdENtNZbWVGpzQhdxsHBdE9zrwa6vQEg37a2UGuzB3NNOSf",
+			"difficulty": "edit"
+		},
+		{
+			"id": "drQ0fzYwuDFE6voQG0q1ryc6DxMJsi36A3uBYF5PDFirjXnkpVLqveMM15kNSXTM",
+			"difficulty": "edit"
+		},
+		{
+			"id": "MjPb4KtZ4tmDKro9QuK35wNkqAZDaYW2EXaUbOuoyMBVVgTTscdAcK0OXBxH64r2",
+			"difficulty": "edit"
+		},
+		{
+			"id": "cookAndBills",
+			"difficulty": "edit"
+		}
+	]
+}

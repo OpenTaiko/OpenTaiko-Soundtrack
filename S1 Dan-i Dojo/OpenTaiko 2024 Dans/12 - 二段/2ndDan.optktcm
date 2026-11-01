@@ -1,0 +1,42 @@
+{
+	"title": "二段",
+	"subtitle": "OpenTaiko 2024 2nd Dan",
+	"dan_tick": 1,
+	"dan_tick_color": [254, 224, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [98, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [20, 12]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [86, 88]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [157, 172]
+		}
+	],
+	"charts": [
+		{
+			"id": "sR5rRUAUWt49NPMXqLHdPIWki09vHd84K1xSqfOGv3kkdYAYDF05DU406tyuLKk0",
+			"difficulty": "oni"
+		},
+		{
+			"id": "outfox02",
+			"difficulty": "oni"
+		},
+		{
+			"id": "x3ll3nbenjigminotaur",
+			"difficulty": "oni"
+		}
+	]
+}

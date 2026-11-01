@@ -1,0 +1,42 @@
+{
+	"title": {
+		"default": "猫祭",
+		"zh_tw": "貓祭"
+	},
+	"subtitle": {
+		"default": "Neko Festival! (Sweet)",
+		"ja": "猫祭りだにゃ～！（甘口）"
+	},
+	"dan_tick": 0,
+	"dan_tick_color": [89, 156, 42],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [82, 88]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [
+				[222, 260],
+				[222, 361],
+				[222, 300]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "70vlxz919d1rglKaTc3gOt50seCF4iLnYvs9EI9daTGVSYT5nBHcCjuFbLs3HOAd",
+			"difficulty": "hard"
+		},
+		{
+			"id": "nfTuimAw5vQv6LuXYhChTIMuHnAQxYL0GqXoYeL7jcUBdjCw3fOJHl5JzgEod8pk",
+			"difficulty": "hard"
+		},
+		{
+			"id": "sR5rRUAUWt49NPMXqLHdPIWki09vHd84K1xSqfOGv3kkdYAYDF05DU406tyuLKk0",
+			"difficulty": "hard"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"title": "六級",
+	"subtitle": "OpenTaiko 2023 Sixth Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [250, 239, 152],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [90, 95]
+		}
+	],
+	"charts": [
+		{
+			"id": "twoopDashyRainfall",
+			"difficulty": "normal"
+		},
+		{
+			"id": "rnTaichenko",
+			"difficulty": "normal"
+		},
+		{
+			"id": "mIM3zf55TatXUIzE8tK3s6XFbPXEgbNKw0Kmmhu8vg3dcNRbplhAjA5P8UhTCeKK",
+			"difficulty": "normal"
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"title": "外伝",
+	"subtitle": "Komi's New Crazy Easy Gauntlet",
+	"dan_tick": 0,
+	"dan_tick_color": [89, 156, 42],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [95, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [92, 96]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [60, 30]
+		},
+		{
+			"type": "c",
+			"range": "more",
+			"value": [300, 600]
+		}
+	],
+	"charts": [
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU",
+			"difficulty": "easy"
+		},
+		{
+			"id": "frenzYfEveRmAKOTOrA",
+			"difficulty": "easy"
+		},
+		{
+			"id": "KJpnHoe2G9s5q6l3ChajeT3KyHmGrvBh7x45rYznQGdXPb6mW2AKtfEJ6QiGGBbg",
+			"difficulty": "easy"
+		},
+		{
+			"id": "halcyonAkako",
+			"difficulty": "easy"
+		},
+		{
+			"id": "qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh",
+			"difficulty": "easy"
+		},
+		{
+			"id": "h4HQFxFFIVo5F7SuBGf8eWfHeXsmZQDkg9JG7IOI79zutvCrIa6l2L0FfQlrgPpx",
+			"difficulty": "easy"
+		},
+		{
+			"id": "Wov6iflCWYNC8eiSjATxEzMQuvVwk3AyNcZbAHJdsjylweCb08WSSPc8DoJ1Fp2Z",
+			"difficulty": "easy"
+		},
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzO",
+			"difficulty": "easy"
+		},
+		{
+			"id": "2A4IMmyhJ7df3mbWKgrctA1uZJU0kWjRpZWYUEk49yQO3DEdlsie38wJ5kZC9Lqk",
+			"difficulty": "easy",
+			"title_show": true
+		}
+	]
+}

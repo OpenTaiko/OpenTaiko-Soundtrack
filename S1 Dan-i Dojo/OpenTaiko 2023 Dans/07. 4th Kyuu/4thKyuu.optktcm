@@ -1,0 +1,37 @@
+{
+	"title": "四級",
+	"subtitle": "OpenTaiko 2023 Fourth Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [250, 248, 137],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [93, 97]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [1394, 1486]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [84, 42]
+		}
+	],
+	"charts": [
+		{
+			"id": "nJjtvhOo24FzSUughDdENtNZbWVGpzQhdxsHBdE9zrwa6vQEg37a2UGuzB3NNOSf",
+			"difficulty": "hard"
+		},
+		{
+			"id": "corruptanTFD",
+			"difficulty": "hard"
+		},
+		{
+			"id": "4XnCmly8kpwE6X2GQYD47356lDCexuTzEJXdouwiNCIo4dVYlq5dm4TIySWm2IVD",
+			"difficulty": "hard"
+		}
+	]
+}

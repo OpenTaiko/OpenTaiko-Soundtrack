@@ -1,0 +1,27 @@
+{
+	"title": "八級",
+	"subtitle": "OpenTaiko 2023 Eighth Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [250, 232, 167],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [80, 85]
+		}
+	],
+	"charts": [
+		{
+			"id": "albdTaichenko",
+			"difficulty": "easy"
+		},
+		{
+			"id": "DiA0HPkMXWXS0EgYQvZ6Ll8yS7mRknwkQyBbF9JMOnRPa1MgLZjCWFFhumyfkS8z",
+			"difficulty": "easy"
+		},
+		{
+			"id": "recollapseh888",
+			"difficulty": "easy"
+		}
+	]
+}

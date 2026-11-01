@@ -1,0 +1,67 @@
+{
+	"title": "外伝",
+	"subtitle": "Komi's New Crazy Normal Gauntlet",
+	"dan_tick": 0,
+	"dan_tick_color": [89, 156, 42],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [96, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [94, 97]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [50, 25]
+		},
+		{
+			"type": "c",
+			"range": "more",
+			"value": [450, 900]
+		}
+	],
+	"charts": [
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU",
+			"difficulty": "normal"
+		},
+		{
+			"id": "wh9C",
+			"difficulty": "normal"
+		},
+		{
+			"id": "7TgDUfiEAVn0sV6HqfRVLV61HeshX8eJhEB7POVVIQmvpgu8W94Wryb8gEXj0KPh",
+			"difficulty": "normal"
+		},
+		{
+			"id": "BpeNYGTWmesmiavWRa5YI9awPs0e3cWOeAMEERlzksSI9bHk7npADQYMQT6igVZS",
+			"difficulty": "normal"
+		},
+		{
+			"id": "tsolYLN0",
+			"difficulty": "normal"
+		},
+		{
+			"id": "qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh",
+			"difficulty": "normal"
+		},
+		{
+			"id": "2A4IMmyhJ7df3mbWKgrctA1uZJU0kWjRpZWYUEk49yQO3DEdlsie38wJ5kZC9Lqk",
+			"difficulty": "normal"
+		},
+		{
+			"id": "recollapseh888",
+			"difficulty": "normal"
+		},
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzO",
+			"difficulty": "normal",
+			"title_show": true
+		}
+	]
+}

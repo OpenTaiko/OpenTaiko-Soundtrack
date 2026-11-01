@@ -1,0 +1,44 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "TFD500's Mix",
+		"ja": "TFD500さんの作曲ミックス"
+	},
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [500, 250]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [80, 40]
+		}
+	],
+	"charts": [
+		{
+			"id": "corruptanTFD",
+			"difficulty": "oni"
+		},
+		{
+			"id": "yamiTfd",
+			"difficulty": "oni"
+		},
+		{
+			"id": "dlbTFD",
+			"difficulty": "oni"
+		}
+	]
+}

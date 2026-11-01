@@ -1,0 +1,37 @@
+{
+	"title": "五級",
+	"subtitle": "OpenTaiko 2023 Fifth Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [250, 243, 145],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [92, 96]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [1101, 1201]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [75, 37]
+		}
+	],
+	"charts": [
+		{
+			"id": "2stlvFunkyzukin",
+			"difficulty": "normal"
+		},
+		{
+			"id": "stTaichenko",
+			"difficulty": "normal"
+		},
+		{
+			"id": "lostemDashy",
+			"difficulty": "normal"
+		}
+	]
+}

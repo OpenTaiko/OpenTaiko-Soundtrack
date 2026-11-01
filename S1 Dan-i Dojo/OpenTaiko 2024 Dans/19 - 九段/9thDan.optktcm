@@ -1,0 +1,55 @@
+{
+	"title": "九段",
+	"subtitle": "OpenTaiko 2024 9th Dan",
+	"dan_tick": 2,
+	"dan_tick_color": [63, 43, 104],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [10, 5]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [95, 97]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[61, 72],
+				[21, 24],
+				[24, 25]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[4, 3],
+				[5, 4],
+				[6, 4]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "Xc3xqD07If6ogJUguW4GcifYjQd7VNLeBmFJL7jD4Z6SLn2xSCothNrus5KmpABv",
+			"difficulty": "edit"
+		},
+		{
+			"id": "77iZCMhJ7gdC7R2Kw9MGMHffnRYuZ5gxTFBSB36UMGVeHw3Uazk6Do7fyusXVGnc",
+			"difficulty": "oni"
+		},
+		{
+			"id": "W4Qcu7pYjluWEy25n2DUiKaFumGoyCxy0viYRUvmOiPh5h3RKYfkBrTrKGRvs0ct",
+			"difficulty": "oni"
+		}
+	]
+}

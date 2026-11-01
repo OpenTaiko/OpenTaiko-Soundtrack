@@ -1,0 +1,48 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "SiLiS's Mix",
+		"ja": "SiLiSさんの作曲ミックス"
+	},
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [91, 96]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[23, 11],
+				[21, 11],
+				[38, 20]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "pLNusLZO3TFZHt1yUUxvm5pPg7cTeVRZSpkp1NBsKcfBcRQXbrbLdHuR0AvYtNCa",
+			"difficulty": "edit"
+		},
+		{
+			"id": "2A4IMmyhJ7df3mbWKgrctA1uZJU0kWjRpZWYUEk49yQO3DEdlsie38wJ5kZC9Lqk",
+			"difficulty": "oni"
+		},
+		{
+			"id": "BpeNYGTWmesmiavWRa5YI9awPs0e3cWOeAMEERlzksSI9bHk7npADQYMQT6igVZS",
+			"difficulty": "edit"
+		}
+	]
+}

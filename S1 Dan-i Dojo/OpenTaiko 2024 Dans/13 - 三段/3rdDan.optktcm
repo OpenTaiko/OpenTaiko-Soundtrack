@@ -1,0 +1,42 @@
+{
+	"title": "三段",
+	"subtitle": "OpenTaiko 2024 3rd Dan",
+	"dan_tick": 1,
+	"dan_tick_color": [255, 140, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [99, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [18, 11]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [87, 89]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [410, 504]
+		}
+	],
+	"charts": [
+		{
+			"id": "hRa6ukuLziowBJq65ulSiI8LMPtyZ6GbNgLkEXRcrzRTzmfgTkNhbkR9VsavWqjm",
+			"difficulty": "oni"
+		},
+		{
+			"id": "touhou02",
+			"difficulty": "oni"
+		},
+		{
+			"id": "qWtjFWrabNZ6BPoUtbssFu6F9l8znBapJLVUzNRqyT1OYGqf2ZOVbSevMsCsGorY",
+			"difficulty": "oni"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"title": "三段",
+	"subtitle": "OpenTaiko 2023 Third Dan",
+	"dan_tick": 1,
+	"dan_tick_color": [0, 255, 203],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [99, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [85, 87]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [33, 16]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[0, 0],
+				[0, 0],
+				[15, 20]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "fearlessAshElectric",
+			"difficulty": "oni"
+		},
+		{
+			"id": "nJjtvhOo24FzSUughDdENtNZbWVGpzQhdxsHBdE9zrwa6vQEg37a2UGuzB3NNOSf",
+			"difficulty": "oni"
+		},
+		{
+			"id": "VP4DGfDSKFQNHuMiqcf7FgWyfNEqQTRErnIroL52GvLwW2CHsU3uAoHYAmkamSBB",
+			"difficulty": "oni"
+		}
+	]
+}

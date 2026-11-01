@@ -1,0 +1,44 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Sukima Altera's Mix",
+		"ja": "Sukima Alteraさんの作曲ミックス"
+	},
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [94, 98]
+		},
+		{
+			"type": "s",
+			"range": "more",
+			"value": [2500000, 2700000]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [80, 40]
+		}
+	],
+	"charts": [
+		{
+			"id": "gewissSukima",
+			"difficulty": "normal"
+		},
+		{
+			"id": "mIM3zf55TatXUIzE8tK3s6XFbPXEgbNKw0Kmmhu8vg3dcNRbplhAjA5P8UhTCeKK",
+			"difficulty": "normal"
+		},
+		{
+			"id": "yp69YmRGMCRNO8svwbYb0PRiERMefe6ZFBrGlM99h8C579fGAKsWO2yGgyhz7Ryk",
+			"difficulty": "normal"
+		}
+	]
+}

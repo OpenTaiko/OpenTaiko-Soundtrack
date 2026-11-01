@@ -1,0 +1,42 @@
+{
+	"title": "四段",
+	"subtitle": "OpenTaiko 2024 4th Dan",
+	"dan_tick": 1,
+	"dan_tick_color": [255, 140, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [99, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [18, 11]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [88, 90]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [243, 286]
+		}
+	],
+	"charts": [
+		{
+			"id": "touhou04",
+			"difficulty": "oni"
+		},
+		{
+			"id": "touhou01",
+			"difficulty": "oni"
+		},
+		{
+			"id": "OfficialAz3HeatC",
+			"difficulty": "oni"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"title": "外伝",
+	"subtitle": "Ryuto's Birthday Bash",
+	"dan_tick": 0,
+	"dan_tick_color": [182, 232, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [90, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [1210, 4269]
+		}
+	],
+	"charts": [
+		{
+			"id": "cElesTSOulauRorawhiteTAil",
+			"difficulty": "oni"
+		},
+		{
+			"id": "albdTaichenko",
+			"difficulty": "edit"
+		},
+		{
+			"id": "SIUsjccJr1rOhcnKohVRRl8vLe3HO3LjTU8hyGdAXUbjwPOCRTl0TsUqJ2o3iBay",
+			"difficulty": "edit"
+		},
+		{
+			"id": "recollapseh888",
+			"difficulty": "edit"
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title": "七段",
+	"subtitle": "OpenTaiko 2024 7th Dan",
+	"dan_tick": 2,
+	"dan_tick_color": [40, 108, 83],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [13, 8]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [93, 94]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[0, 0],
+				[5, 6],
+				[64, 90]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[6, 5],
+				[5, 4],
+				[8, 6]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "uKe8MKuqagHChRlS2agWNZbXKgY5B0VHKDGmVtVMQ0j5npApLThz7JkGOlOrfz6y",
+			"difficulty": "oni"
+		},
+		{
+			"id": "optkhq02frozen",
+			"difficulty": "oni"
+		},
+		{
+			"id": "W1nN7TAwqj7Xoe9c8t0vfyRXoh96k6fdY0fBgIn56CNWls0pkdZlzxJunN2XPf5N",
+			"difficulty": "oni"
+		}
+	]
+}

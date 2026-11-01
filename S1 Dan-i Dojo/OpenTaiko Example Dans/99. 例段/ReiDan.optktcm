@@ -1,0 +1,55 @@
+{
+	"title": "例段",
+	"subtitle": "Example Dan",
+	"dan_tick": 5,
+	"dan_tick_color": [0, 170, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [92, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [35, 16]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [88, 94]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[18, 24],
+				[40, 62],
+				[16, 24]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[10, 5],
+				[15, 8],
+				[25, 15]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "citysMakotora",
+			"difficulty": "edit"
+		},
+		{
+			"id": "dtdH5",
+			"difficulty": "edit"
+		},
+		{
+			"id": "breakpointYonokid",
+			"difficulty": "edit"
+		}
+	]
+}

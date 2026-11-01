@@ -1,0 +1,46 @@
+{
+	"title": "歌練",
+	"subtitle": "Singing Practice with Aoi!",
+	"dan_tick": 0,
+	"dan_tick_color": [166, 242, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [98, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [1900, 2000]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [20, 10]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [
+				[610, 650],
+				[540, 570],
+				[750, 780]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "libeDeBisco",
+			"difficulty": "oni"
+		},
+		{
+			"id": "qWtjFWrabNZ6BPoUtbssFu6F9l8znBapJLVUzNRqyT1OYGqf2ZOVbSevMsCsGorY",
+			"difficulty": "oni"
+		},
+		{
+			"id": "DiA0HPkMXWXS0EgYQvZ6Ll8yS7mfrewkQyBbF9JMOnRPa1MgLZjCWFFhumyfkS8z",
+			"difficulty": "edit"
+		}
+	]
+}

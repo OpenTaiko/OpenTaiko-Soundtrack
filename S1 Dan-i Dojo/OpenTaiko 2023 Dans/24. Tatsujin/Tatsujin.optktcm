@@ -1,0 +1,61 @@
+{
+	"title": "達人",
+	"subtitle": "OpenTaiko 2023 Tatsujin",
+	"dan_tick": 4,
+	"dan_tick_color": [255, 0, 94],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [17, 1]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [6, 1]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[0, 0],
+				[0, 0],
+				[184, 228],
+				[87, 105],
+				[171, 223]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "DY9VMPUEg3M5EoNVgpSXvmKlJ9IciHx8o15hoUFcOJtDlp499vilAM6w24BDLOkR",
+			"difficulty": "edit",
+			"title_show": true
+		},
+		{
+			"id": "7TgDUfiEAVn0sV6HqfRVLV61HeshX8eJhEB7POVVIQmvpgu8W94Wryb8gEXj0KPh",
+			"difficulty": "oni",
+			"title_show": true
+		},
+		{
+			"id": "h4HQFxFFIVo5F7SuBGf8eWfHeXsmZQDkg9JG7IOI79zutvCrIa6l2L0FfQlrgPpx",
+			"difficulty": "edit",
+			"title_show": true
+		},
+		{
+			"id": "qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh",
+			"difficulty": "oni",
+			"title_show": true
+		},
+		{
+			"id": "Wov6iflCWYNC8eiSjATxEzMQuvVwk3AyNcZbAHJdsjylweCb08WSSPc8DoJ1Fp2Z",
+			"difficulty": "edit",
+			"title_show": true
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"title": "外伝",
+	"subtitle": "OpenTaiko Tenth Dan (sadkay Edition)",
+	"dan_tick": 0,
+	"dan_tick_color": [89, 156, 42],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [90, 50]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [9, 5]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[20, 28],
+				[30, 40],
+				[19, 20]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "incoherentAz3",
+			"difficulty": "oni"
+		},
+		{
+			"id": "cookAndBills",
+			"difficulty": "edit"
+		},
+		{
+			"id": "STaRlIGHTTRAVeLERgamEeDitSuKiMaaLTErA",
+			"difficulty": "oni"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"title": "初級",
+	"subtitle": "OpenTaiko 2023 Tenth Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [249, 228, 183],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [70, 80]
+		}
+	],
+	"charts": [
+		{
+			"id": "spRyuto",
+			"difficulty": "easy"
+		},
+		{
+			"id": "YpOS9Ixya6ROj8EU5fS15IvSMvlpmc27s2zZn6YLzlseUGT6I9fqlmBkr95cXjUu",
+			"difficulty": "easy"
+		},
+		{
+			"id": "yp69YmRGMCRNO8svwbYb0PRiERMefe6ZFBrGlM99h8C579fGAKsWO2yGgyhz7Ryk",
+			"difficulty": "easy"
+		}
+	]
+}

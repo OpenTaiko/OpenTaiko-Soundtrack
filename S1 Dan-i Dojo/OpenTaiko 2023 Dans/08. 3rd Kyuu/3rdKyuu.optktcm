@@ -1,0 +1,37 @@
+{
+	"title": "三級",
+	"subtitle": "OpenTaiko 2023 Third Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [246, 250, 130],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [94, 98]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [1701, 1791]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [86, 43]
+		}
+	],
+	"charts": [
+		{
+			"id": "libeDeBisco",
+			"difficulty": "hard"
+		},
+		{
+			"id": "7s59O9RzuRCGmDFowOFFPxrfiistfXF5EgfndB5QzgtPqIZ4AQiHsB9krfVwjX4w",
+			"difficulty": "hard"
+		},
+		{
+			"id": "dtdH5",
+			"difficulty": "hard"
+		}
+	]
+}

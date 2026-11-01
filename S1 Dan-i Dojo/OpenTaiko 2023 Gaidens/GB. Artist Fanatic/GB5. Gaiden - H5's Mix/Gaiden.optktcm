@@ -1,0 +1,44 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "H5's Mix",
+		"ja": "H5さんの作曲ミックス"
+	},
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [30, 15]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [5, 2]
+		}
+	],
+	"charts": [
+		{
+			"id": "deceiverH5",
+			"difficulty": "edit"
+		},
+		{
+			"id": "dtdH5",
+			"difficulty": "edit"
+		},
+		{
+			"id": "cc2VtAF92XbxZFLniPfGV414BNJAwSTNjlYRNQGoDx8opYWs0q09ySWvi9uPLsrp",
+			"difficulty": "oni"
+		}
+	]
+}

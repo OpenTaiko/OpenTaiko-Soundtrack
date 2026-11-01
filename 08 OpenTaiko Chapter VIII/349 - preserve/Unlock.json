@@ -1,0 +1,25 @@
+{
+	"hidden_index": 2,
+	"rarity": "Common",
+	"condition": "gc",
+	"type": "me",
+	"values": [
+		3
+	],
+	"references": [
+		"pagoda_plays"
+	],
+	"custom_unlock_text": {
+		"strings": {
+			"default": "Three climbs through the Pagoda of the Unknown,\nand its memory will be preserved",
+			"ja": "未知の塔に三度挑めば、\nその記憶は残される",
+			"fr": "Trois ascensions de la Pagode de l'Inconnu,\net son souvenir sera préservé",
+			"de": "Drei Aufstiege durch die Pagode des Unbekannten,\nund ihre Erinnerung bleibt bewahrt",
+			"es": "Tres ascensos por la Pagoda de lo Desconocido,\ny su recuerdo será preservado",
+			"nl": "Drie beklimmingen van de Pagode van het Onbekende,\nen haar herinnering blijft bewaard",
+			"ru": "Три восхождения в Пагоду Неизвестного,\nи её память будет сохранена",
+			"ko": "미지의 탑에 세 번 오르면,\n그 기억은 간직되리라",
+			"zh": "三度攀登未知之塔，\n其记忆将被留存"
+		}
+	}
+}

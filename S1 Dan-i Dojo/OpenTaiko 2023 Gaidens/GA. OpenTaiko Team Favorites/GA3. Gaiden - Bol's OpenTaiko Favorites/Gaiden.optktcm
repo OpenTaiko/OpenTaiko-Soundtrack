@@ -1,0 +1,47 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Bol's OpenTaiko Favorites",
+		"ja": "--Bolさんのお気に入りの曲"
+	},
+	"dan_tick": 1,
+	"dan_tick_color": [255, 255, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [1, 1]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [1, 1]
+		}
+	],
+	"charts": [
+		{
+			"id": "spRyuto",
+			"difficulty": "oni",
+			"title_show": true
+		},
+		{
+			"id": "4XnCmly8kpwE6X2GQYD47356lDCexuTzEJXdouwiNCIo4dVYlq5dm4TIySWm2IVD",
+			"difficulty": "oni",
+			"title_show": true
+		},
+		{
+			"id": "Wov6iflCWYNC8eiSjATxEzMQuvVwk3AyNcZbAHJdsjylweCb08WSSPc8DoJ1Fp2Z",
+			"difficulty": "oni",
+			"title_show": true
+		}
+	]
+}

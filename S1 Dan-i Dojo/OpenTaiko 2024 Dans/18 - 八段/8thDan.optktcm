@@ -1,0 +1,55 @@
+{
+	"title": "八段",
+	"subtitle": "OpenTaiko 2024 8th Dan",
+	"dan_tick": 2,
+	"dan_tick_color": [40, 108, 83],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [12, 7]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [94, 95]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[43, 46],
+				[35, 46],
+				[51, 60]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[4, 3],
+				[6, 5],
+				[7, 5]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "incoherentAz3",
+			"difficulty": "oni"
+		},
+		{
+			"id": "touhou10",
+			"difficulty": "oni"
+		},
+		{
+			"id": "rN0fIoR0ggXJRzhxaXZbBGQYqYuIrnsm8ruys29zdtb2bPXBZv40b15QxGpqpd0t",
+			"difficulty": "oni"
+		}
+	]
+}

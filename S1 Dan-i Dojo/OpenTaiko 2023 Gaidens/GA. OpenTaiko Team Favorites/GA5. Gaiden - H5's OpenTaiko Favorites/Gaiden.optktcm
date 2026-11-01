@@ -1,0 +1,61 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "H5's OpenTaiko Favorites",
+		"ja": "H5さんのお気に入りの曲"
+	},
+	"dan_tick": 1,
+	"dan_tick_color": [113, 52, 235],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[382, 446],
+				[21, 21],
+				[0, 0]
+			]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [
+				[100, 50],
+				[200, 100],
+				[1, 1]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[10, 5],
+				[20, 10],
+				[1, 1]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "kh9C",
+			"difficulty": "oni"
+		},
+		{
+			"id": "cc2VtAF92XbxZFLniPfGV414BNJAwSTNjlYRNQGoDx8opYWs0q09ySWvi9uPLsrp",
+			"difficulty": "oni"
+		},
+		{
+			"id": "DiA0HPkMXWXS0EgYQvZ6Ll8yS7mRknwkQyBbF9JMOnRPa1MgLZjCWFFhumyfkS8z",
+			"difficulty": "oni"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title": "超人",
+	"subtitle": "OpenTaiko 2023 Choujin",
+	"dan_tick": 3,
+	"dan_tick_color": [255, 0, 156],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [27, 11]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [6, 3]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[0, 0],
+				[186, 191],
+				[101, 105],
+				[58, 59]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "brokenMetDashy",
+			"difficulty": "edit"
+		},
+		{
+			"id": "bassbolInterChan",
+			"difficulty": "oni"
+		},
+		{
+			"id": "halcyonAkako",
+			"difficulty": "oni"
+		},
+		{
+			"id": "recollapseh888",
+			"difficulty": "edit",
+			"title_show": true
+		}
+	]
+}

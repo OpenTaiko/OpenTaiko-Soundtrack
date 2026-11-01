@@ -1,0 +1,61 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Takkkom's OpenTaiko Favorites",
+		"ja": "こめさらださんのお気に入りの曲"
+	},
+	"dan_tick": 1,
+	"dan_tick_color": [35, 235, 82],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [90, 96]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[5, 2],
+				[15, 7],
+				[35, 17]
+			]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [
+				[94, 97],
+				[90, 95],
+				[86, 93]
+			]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[44, 51],
+				[65, 72],
+				[113, 129]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "MjPb4KtZ4tmDKro9QuK35wNkqAZDaYW2EXaUbOuoyMBVVgTTscdAcK0OXBxH64r2",
+			"difficulty": "edit"
+		},
+		{
+			"id": "agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR",
+			"difficulty": "edit"
+		},
+		{
+			"id": "2A4IMmyhJ7df3mbWKgrctA1uZJU0kWjRpZWYUEk49yQO3DEdlsie38wJ5kZC9Lqk",
+			"difficulty": "edit"
+		}
+	]
+}

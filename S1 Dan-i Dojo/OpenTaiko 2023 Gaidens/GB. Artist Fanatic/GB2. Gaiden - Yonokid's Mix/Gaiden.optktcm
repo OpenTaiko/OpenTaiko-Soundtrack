@@ -1,0 +1,53 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Yonokid's Mix",
+		"ja": "ヨノキッドさんの作曲ミックス"
+	},
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [97, 99]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [82, 88]
+		},
+		{
+			"type": "c",
+			"range": "more",
+			"value": [290, 516]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[10, 6],
+				[14, 8],
+				[11, 6]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "15bBqzr87CiWas5HyA6i2KTe7BLGlWmo22gbDq9ukp8swCvSG1yYKzgXbjO9x7Ut",
+			"difficulty": "hard"
+		},
+		{
+			"id": "agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR",
+			"difficulty": "hard"
+		},
+		{
+			"id": "breakpointYonokid",
+			"difficulty": "hard"
+		}
+	]
+}

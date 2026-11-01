@@ -8,6 +8,52 @@ import chardet
 # Matches localized header tags such as TITLEJA / SUBTITLEZH, but not plain TITLE: / SUBTITLE:
 LOCALIZED_TAG = re.compile(r"^(TITLE|SUBTITLE)([A-Z]{2,3}(?:_[A-Z]{2,})*):(.*)$")
 
+# Chart files: .tja and .optktci hold charts; .optktcm (dan) and .optktct (tower) reference other songs by id
+CHART_FILES = (".tja", ".tci", ".optktci")
+REFERENCE_FILES = (".tcm", ".optktcm", ".tct", ".optktct")
+
+# Course names as the catalog writes them, by OpenTaiko's difficulty index
+COURSE_NAMES = ["Easy", "Normal", "Hard", "Oni", "Edit", "Tower", "Dan"]
+COURSE_INDEX = {"easy": 0, "normal": 1, "hard": 2, "oni": 3, "edit": 4, "ura": 4, "tower": 5, "dan": 6}
+
+
+def course_index(name):
+    name = str(name).strip().lower()
+    if name.isdigit():
+        return int(name)
+    return COURSE_INDEX.get(name, -1)
+
+
+def read_json(file_path):
+    with open(file_path, "r", encoding="utf-8-sig") as f:
+        return json.load(f)
+
+
+def localized(token):
+    # A JSON chart's title is a string or {lang: text}: the default text, and the other languages keyed
+    # like the .tja tags (JA, ZH_TW...)
+    if isinstance(token, dict):
+        default = token.get("default") or next(iter(token.values()), "")
+        return default, {k.upper(): v for k, v in token.items() if k != "default"}
+    return (token or ""), {}
+
+
+def as_text(token):
+    if isinstance(token, list):
+        return ", ".join(str(t) for t in token)
+    return token or ""
+
+
+def read_unique_id(folder, chart_file_path):
+    unique_id_file = os.path.join(folder, "uniqueID.json")
+    if not os.path.exists(unique_id_file):
+        return "Unknown"
+    try:
+        return read_json(unique_id_file).get("id", "")
+    except Exception as e:
+        print(f"Error reading uniqueId.json in {chart_file_path}: {e}")
+        return "Unknown"
+
 
 def create_audio_preview(file_path, name, start_sec):
     # Get original file extension
@@ -166,77 +212,189 @@ def parse_tja_file(tja_file_path, base_path):
         "chartDemoStart": chart_demostart
     }
 
-# Function to generate the JSON data for each .tja file
+# Function to parse .optktci files (JSON charts with osu! courses) and extract metadata
+def parse_tci_file(tci_file_path, base_path):
+    try:
+        tci = read_json(tci_file_path)
+    except Exception as e:
+        print(f"Error parsing {tci_file_path}: {e}")
+        tci = {}
+    title, titles = localized(tci.get("title"))
+    subtitle, subtitles = localized(tci.get("subtitle"))
+    maker = as_text(tci.get("creator"))
+    difficulties, makers = {}, {}
+    for course in tci.get("courses") or []:
+        index = course_index(course.get("difficulty", ""))
+        if 0 <= index < len(COURSE_NAMES):
+            level = course.get("level", 0)
+            difficulties[COURSE_NAMES[index]] = int(level) if float(level).is_integer() else level
+            makers[COURSE_NAMES[index]] = maker
+    folder = os.path.relpath(os.path.dirname(tci_file_path), base_path)
+    return {
+        "chartTitle": title,
+        "chartTitles": titles,
+        "chartSubtitle": subtitle,
+        "chartSubtitles": subtitles,
+        "chartDifficulties": difficulties,
+        "chartAudioFilePath": os.path.join(folder, tci["audio"]) if tci.get("audio") else None,
+        "chartJacketFilePath": os.path.join(folder, tci["albumart"]) if tci.get("albumart") else None,
+        "chartMakers": makers,
+        "chartDemoStart": tci.get("songpreview", 0)
+    }
+
+
+# The course of a referenced song as a catalog entry stores it: (level, maker), or None when missing
+def referenced_course(song, difficulty):
+    index = course_index(difficulty or "oni")
+    for name, level in song["chartDifficulties"].items():
+        if course_index(name) == index:
+            return level, song["chartMakers"].get(name, "")
+    return None
+
+
+# Function to build the metadata of an .optktcm (dan) or .optktct (tower) file from the songs it references;
+# songs = the parsed charts by unique id
+def parse_reference_file(file_path, base_path, songs):
+    data = read_json(file_path)
+    is_dan = file_path.lower().endswith((".tcm", ".optktcm"))
+    refs = (data.get("charts") or []) if is_dan else [data]
+    missing = [r.get("id") for r in refs if r.get("id") not in songs]
+    if missing or not refs:
+        print(f"Skipping {file_path}: references songs that are not in the soundtrack ({missing})")
+        return None
+    first = songs[refs[0]["id"]]
+    title, titles = localized(data.get("title")) if data.get("title") is not None else (first["chartTitle"], first["chartTitles"])
+    subtitle, subtitles = localized(data.get("subtitle")) if data.get("subtitle") is not None else (first["chartSubtitle"], first["chartSubtitles"])
+    makers = []
+    for r in refs:
+        course = referenced_course(songs[r["id"]], r.get("difficulty"))
+        if course is None:
+            print(f"Skipping {file_path}: song {r['id']} has no {r.get('difficulty')} course")
+            return None
+        if course[1] and course[1] not in makers:
+            makers.append(course[1])
+    if is_dan:
+        # an .optktcm holds no level; the game shows dans made of other songs at level 10
+        difficulties = {"Dan": 10}
+        maker_by_course = {"Dan": ", ".join(makers)}
+        jacket = os.path.join(os.path.relpath(os.path.dirname(file_path), base_path), data["albumart"]) if data.get("albumart") else None
+    else:
+        level = data.get("level")
+        if level is None:
+            level = referenced_course(first, data.get("difficulty"))[0]
+        difficulties = {"Tower": int(level) if float(level).is_integer() else level}
+        maker_by_course = {"Tower": makers[0] if makers else ""}
+        jacket = first["chartJacketFilePath"]
+    return {
+        "chartTitle": title,
+        "chartTitles": titles,
+        "chartSubtitle": subtitle,
+        "chartSubtitles": subtitles,
+        "chartDifficulties": difficulties,
+        # the preview is the first referenced song's own (the tower's song for a tower)
+        "previewPath": first["previewPath"],
+        "chartJacketFilePath": jacket,
+        "chartMakers": maker_by_course,
+        # the songs it plays, to download with it
+        "chartDependencies": list(dict.fromkeys(r["id"] for r in refs))
+    }
+
+
+# Function to generate the JSON data for each chart file (.tja, .optktci, then the .optktcm/.optktct
+# referencing them)
 def process_tja_files(base_path):
     data = []
+    songs = {}          # parsed .tja/.optktci metadata by unique id, for the files referencing them
+    references = []
 
     for root, _, files in os.walk(base_path):
         if "Replay" in root:
             continue  # Skip any directory path containing "Replay"
-        
+
         for file in files:
-            if file.endswith(".tja"):
-                tja_file_path = os.path.join(root, file)
-                tja_folder = os.path.basename(root)
-                sub_genre_folder = os.path.basename(os.path.dirname(root))
-                
-                # Find all files within the TjaFolder
-                tja_folder_files = find_files(root)
-                tja_files_paths = [os.path.relpath(file, base_path) for file in tja_folder_files]
-                
-                # Detect file encoding and compute MD5 checksum
-                try:
-                    encoding = detect_encoding(tja_file_path)
-                    tja_md5 = calculate_md5(tja_file_path, encoding)
-                except Exception as e:
-                    print(f"Skipping {tja_file_path} due to encoding detection failure: {e}")
-                    continue
-
-                if tja_md5 is None:
-                    print(f"Skipping {tja_file_path} due to MD5 calculation failure.")
-                    continue
-
-                # Calculate total size of all files in the TjaFolder
-                total_size_mb = calculate_total_size(tja_folder_files)
-
-                # Get uniqueId from uniqueId.json using utf-8-sig encoding to handle BOM
-                unique_id_file = os.path.join(root, "uniqueID.json")
-                if os.path.exists(unique_id_file):
-                    try:
-                        with open(unique_id_file, "r", encoding="utf-8-sig") as uid_file:
-                            unique_id_data = json.load(uid_file)
-                            unique_id = unique_id_data.get("id", "")
-                    except Exception as e:
-                        print(f"Error reading uniqueId.json in {tja_file_path}: {e}")
-                        unique_id = "Unknown"
+            if file.lower().endswith(REFERENCE_FILES):
+                references.append((root, file))
+            elif file.lower().endswith(CHART_FILES):
+                chart_file_path = os.path.join(root, file)
+                if file.lower().endswith(".tja"):
+                    metadata = parse_tja_file(chart_file_path, base_path)
                 else:
-                    unique_id = "Unknown"
-                
-                # Parse .tja file for metadata
-                tja_metadata = parse_tja_file(tja_file_path, base_path)
-                
-                # Create preview if does not exist
-                preview_path = create_audio_preview(tja_metadata.get("chartAudioFilePath"), unique_id, tja_metadata.get("chartDemoStart"))
+                    metadata = parse_tci_file(chart_file_path, base_path)
+                entry = make_entry(base_path, root, chart_file_path, metadata)
+                if entry is not None:
+                    data.append(entry)
+                    songs[entry["uniqueId"]] = dict(metadata, previewPath=entry["chartAudioFilePath"])
 
-                # Add the tja file data to the list
-                data.append({
-                    "uniqueId": unique_id,
-                    "tjaFolderPath": os.path.relpath(root, base_path),
-                    "tjaFilesPath": tja_files_paths,
-                    "tjaGenreFolder": sub_genre_folder,
-                    "tjaMD5": tja_md5,
-                    "chartSize": round(total_size_mb, 2),  # Size in MB, rounded to 2 decimal places
-                    "chartTitle": tja_metadata.get("chartTitle"),
-                    "chartTitles": tja_metadata.get("chartTitles"),
-                    "chartSubtitle": tja_metadata.get("chartSubtitle"),
-                    "chartSubtitles": tja_metadata.get("chartSubtitles"),
-                    "chartDifficulties": tja_metadata.get("chartDifficulties"),
-                    "chartMakers": tja_metadata.get("chartMakers"),
-                    "chartAudioFilePath": preview_path,
-                    "chartJacketFilePath": tja_metadata.get("chartJacketFilePath")
-                })
+    # dans and towers last: their metadata comes from the songs they reference
+    for root, file in references:
+        chart_file_path = os.path.join(root, file)
+        try:
+            metadata = parse_reference_file(chart_file_path, base_path, songs)
+        except Exception as e:
+            print(f"Error parsing {chart_file_path}: {e}")
+            continue
+        if metadata is not None:
+            entry = make_entry(base_path, root, chart_file_path, metadata)
+            if entry is not None:
+                data.append(entry)
 
     return data
+
+
+# One catalog entry for a chart file and its folder, None when the file can't be read
+def make_entry(base_path, root, chart_file_path, metadata):
+    sub_genre_folder = os.path.basename(os.path.dirname(root))
+
+    # Find all files within the chart's folder
+    folder_files = find_files(root)
+    files_paths = [os.path.relpath(file, base_path) for file in folder_files]
+
+    # Detect file encoding and compute MD5 checksum
+    try:
+        encoding = detect_encoding(chart_file_path)
+        chart_md5 = calculate_md5(chart_file_path, encoding)
+    except Exception as e:
+        print(f"Skipping {chart_file_path} due to encoding detection failure: {e}")
+        return None
+
+    if chart_md5 is None:
+        print(f"Skipping {chart_file_path} due to MD5 calculation failure.")
+        return None
+
+    # Calculate total size of all files in the chart's folder
+    total_size_mb = calculate_total_size(folder_files)
+
+    # Get uniqueId from uniqueId.json using utf-8-sig encoding to handle BOM
+    unique_id = read_unique_id(root, chart_file_path)
+
+    # Create preview if does not exist; a dan or tower uses the preview of the song it references
+    if metadata.get("previewPath"):
+        preview_path = metadata["previewPath"]
+    else:
+        preview_path = create_audio_preview(metadata.get("chartAudioFilePath"), unique_id, metadata.get("chartDemoStart"))
+
+    entry = {
+        "uniqueId": unique_id,
+        "tjaFolderPath": os.path.relpath(root, base_path),
+        "tjaFilesPath": files_paths,
+        "tjaGenreFolder": sub_genre_folder,
+        "tjaMD5": chart_md5,
+        # Size in MB, rounded to 3 decimal places; a folder of a few bytes (a dan or tower referencing other
+        # songs) still shows 0.001, never 0
+        "chartSize": max(round(total_size_mb, 3), 0.001) if total_size_mb > 0 else 0.0,
+        "chartTitle": metadata.get("chartTitle"),
+        "chartTitles": metadata.get("chartTitles"),
+        "chartSubtitle": metadata.get("chartSubtitle"),
+        "chartSubtitles": metadata.get("chartSubtitles"),
+        "chartDifficulties": metadata.get("chartDifficulties"),
+        "chartMakers": metadata.get("chartMakers"),
+        "chartAudioFilePath": preview_path,
+        "chartJacketFilePath": metadata.get("chartJacketFilePath")
+    }
+    # an extra after the usual fields: dans and towers list the songs they play
+    if metadata.get("chartDependencies"):
+        entry["chartDependencies"] = metadata["chartDependencies"]
+    return entry
 
 # Main function to create the JSON output
 def create_tja_json(base_path, output_file):

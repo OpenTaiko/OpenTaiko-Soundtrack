@@ -1,0 +1,27 @@
+{
+	"title": "九級",
+	"subtitle": "OpenTaiko 2023 Ninth Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [250, 230, 175],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [75, 80]
+		}
+	],
+	"charts": [
+		{
+			"id": "citysMakotora",
+			"difficulty": "easy"
+		},
+		{
+			"id": "ssDeBisco",
+			"difficulty": "easy"
+		},
+		{
+			"id": "soAkako",
+			"difficulty": "easy"
+		}
+	]
+}

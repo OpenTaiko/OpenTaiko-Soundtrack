@@ -1,0 +1,27 @@
+{
+	"title": "七級",
+	"subtitle": "OpenTaiko 2023 Seventh Kyuu",
+	"dan_tick": 0,
+	"dan_tick_color": [250, 235, 160],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [85, 90]
+		}
+	],
+	"charts": [
+		{
+			"id": "fearlessAshElectric",
+			"difficulty": "normal"
+		},
+		{
+			"id": "deceiverH5",
+			"difficulty": "normal"
+		},
+		{
+			"id": "agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR",
+			"difficulty": "normal"
+		}
+	]
+}

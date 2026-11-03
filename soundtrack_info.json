@@ -6395,8 +6395,8 @@
             "06 OpenTaiko Chapter VI\\228 - Hi Voltage\\uniqueID.json"
         ],
         "tjaGenreFolder": "06 OpenTaiko Chapter VI",
-        "tjaMD5": "f81f6f31650fcc92688e925e61b72b8e",
-        "chartSize": 4.058,
+        "tjaMD5": "86836e440c006ce11122926ed2fc6609",
+        "chartSize": 3.882,
         "chartTitle": "Hi Voltage",
         "chartTitles": {},
         "chartSubtitle": "3Kado_ feat. Clozzo",
@@ -9896,18 +9896,17 @@
         "uniqueId": "prESeRvEOpentAIkOsoUnDtEaMdashy",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\349 - preserve",
         "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\349 - preserve\\preserve.jpg",
             "08 OpenTaiko Chapter VIII\\349 - preserve\\preserve.ogg",
             "08 OpenTaiko Chapter VIII\\349 - preserve\\preserve.tja",
             "08 OpenTaiko Chapter VIII\\349 - preserve\\uniqueID.json",
             "08 OpenTaiko Chapter VIII\\349 - preserve\\Unlock.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "c52eac4cd2149c27858251d2c22d56a2",
-        "chartSize": 2.812,
+        "tjaMD5": "149f0c7bdd3b014faebbd66aaab7ece6",
+        "chartSize": 2.949,
         "chartTitle": "preserve",
-        "chartTitles": {
-            "ZH_CN": ""
-        },
+        "chartTitles": {},
         "chartSubtitle": "OpenTaiko Sound Team \"Dashy\"",
         "chartSubtitles": {},
         "chartDifficulties": {
@@ -9917,13 +9916,13 @@
             "Easy": 4
         },
         "chartMakers": {
-            "Oni": "OpenTaiko Chart Team \"YSTAR-T\"",
-            "Hard": "OpenTaiko Chart Team \"YSTAR-T\"",
-            "Normal": "OpenTaiko Chart Team \"YSTAR-T\"",
-            "Easy": "OpenTaiko Chart Team \"YSTAR-T\""
+            "Oni": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
         },
         "chartAudioFilePath": "preview\\prESeRvEOpentAIkOsoUnDtEaMdashy.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\349 - preserve\\preserve.jpg",
         "chartHoFRanks": {}
     },
     {

@@ -1,6 +1,7 @@
 {
 	"title": "八級",
 	"subtitle": "OpenTaiko 2023 Eighth Kyuu",
+	"level": 2,
 	"dan_tick": 0,
 	"dan_tick_color": [250, 232, 167],
 	"exams": [

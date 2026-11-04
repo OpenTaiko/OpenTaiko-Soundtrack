@@ -1,0 +1,47 @@
+{
+	"title": "六段",
+	"subtitle": "OpenTaiko 2023 Sixth Dan",
+	"level": 9,
+	"dan_tick": 2,
+	"dan_tick_color": [0, 105, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [1960, 2032]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [24, 11]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[93, 97],
+				[231, 294],
+				[120, 144]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "YpOS9Ixya6ROj8EU5fS15IvSMvlpmc27s2zZn6YLzlseUGT6I9fqlmBkr95cXjUu",
+			"difficulty": "edit"
+		},
+		{
+			"id": "DiA0HPkMXWXS0EgYQvZ6Ll8yS7mRknwkQyBbF9JMOnRPa1MgLZjCWFFhumyfkS8z",
+			"difficulty": "oni"
+		},
+		{
+			"id": "agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR",
+			"difficulty": "oni"
+		}
+	]
+}

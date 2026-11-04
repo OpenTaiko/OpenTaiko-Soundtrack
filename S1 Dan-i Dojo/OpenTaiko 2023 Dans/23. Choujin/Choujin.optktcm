@@ -1,6 +1,7 @@
 {
 	"title": "超人",
 	"subtitle": "OpenTaiko 2023 Choujin",
+	"level": 11,
 	"dan_tick": 3,
 	"dan_tick_color": [255, 0, 156],
 	"exams": [

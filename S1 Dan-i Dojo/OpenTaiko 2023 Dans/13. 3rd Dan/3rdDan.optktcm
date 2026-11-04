@@ -1,6 +1,7 @@
 {
 	"title": "三段",
 	"subtitle": "OpenTaiko 2023 Third Dan",
+	"level": 8,
 	"dan_tick": 1,
 	"dan_tick_color": [0, 255, 203],
 	"exams": [

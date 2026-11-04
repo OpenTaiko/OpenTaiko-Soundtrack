@@ -1,0 +1,57 @@
+{
+	"title": "十段",
+	"subtitle": "OpenTaiko 2023 Tenth Dan",
+	"level": 10,
+	"dan_tick": 2,
+	"dan_tick_color": [166, 0, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [94, 50]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [9, 4]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[15, 15],
+				[22, 22],
+				[0, 0]
+			]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [
+				[27, 14],
+				[31, 16],
+				[45, 23]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "rnTaichenko",
+			"difficulty": "oni"
+		},
+		{
+			"id": "ctwindDashy",
+			"difficulty": "edit"
+		},
+		{
+			"id": "yp69YmRGMCRNO8svwbYb0PRiERMefe6ZFBrGlM99h8C579fGAKsWO2yGgyhz7Ryk",
+			"difficulty": "edit",
+			"title_show": true
+		}
+	]
+}

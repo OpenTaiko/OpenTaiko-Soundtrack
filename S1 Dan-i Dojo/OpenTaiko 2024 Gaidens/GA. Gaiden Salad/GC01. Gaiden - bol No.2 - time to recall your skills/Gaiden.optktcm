@@ -1,0 +1,36 @@
+{
+	"title": "外伝",
+	"subtitle": "bol：time to recall your skills",
+	"level": 12,
+	"dan_tick": 4,
+	"dan_tick_color": [255, 255, 143],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [90, 95]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [5750, 6000]
+		}
+	],
+	"charts": [
+		{
+			"id": "qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh",
+			"difficulty": "oni",
+			"title_show": true
+		},
+		{
+			"id": "rN0fIoR0ggXJRzhxaXZbBGQYqYuIrnsm8ruys29zdtb2bPXBZv40b15QxGpqpd0t",
+			"difficulty": "edit",
+			"title_show": true
+		},
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzO",
+			"difficulty": "edit",
+			"title_show": true
+		}
+	]
+}

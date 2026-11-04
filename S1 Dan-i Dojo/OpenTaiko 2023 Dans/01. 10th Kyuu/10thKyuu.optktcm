@@ -1,6 +1,7 @@
 {
 	"title": "初級",
 	"subtitle": "OpenTaiko 2023 Tenth Kyuu",
+	"level": 1,
 	"dan_tick": 0,
 	"dan_tick_color": [249, 228, 183],
 	"exams": [

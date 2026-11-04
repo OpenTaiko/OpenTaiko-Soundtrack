@@ -8,6 +8,7 @@
 		"default": "Sukima Altera's Mix",
 		"ja": "Sukima Alteraさんの作曲ミックス"
 	},
+	"level": 3,
 	"dan_tick": 2,
 	"dan_tick_color": [140, 4, 224],
 	"exams": [

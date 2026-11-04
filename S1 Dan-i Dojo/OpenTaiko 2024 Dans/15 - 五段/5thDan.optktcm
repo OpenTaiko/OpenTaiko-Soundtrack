@@ -1,0 +1,43 @@
+{
+	"title": "五段",
+	"subtitle": "OpenTaiko 2024 5th Dan",
+	"level": 9,
+	"dan_tick": 1,
+	"dan_tick_color": [30, 89, 149],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [99, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [15, 10]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [90, 92]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [164, 186]
+		}
+	],
+	"charts": [
+		{
+			"id": "7Lstfr408z2EOnuhF37D1dI1xLq56XGtLyvbF1VhZzFtFnge0LY4wPJaxEukaPSQ",
+			"difficulty": "oni"
+		},
+		{
+			"id": "dashySecrets88II",
+			"difficulty": "oni"
+		},
+		{
+			"id": "4XnCmly8kpwE6X2GQYD47356lDCexuTzEJXdouwiNCIo4dVYlq5dm4TIySWm2IVD",
+			"difficulty": "edit"
+		}
+	]
+}

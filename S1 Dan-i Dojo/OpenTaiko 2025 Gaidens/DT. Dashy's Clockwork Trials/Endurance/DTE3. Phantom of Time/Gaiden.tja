@@ -502,7 +502,7 @@ F,
 ,
 
 
-#NEXTSONG glide through a sky,The creation of a memory elsewhere，in a different timeline...,OpenTaiko Chapter VI,03.ogg,3230,0,8,3,true
+#NEXTSONG glide through a sky,The creation of a memory elsewhere，in a different timeline...,OpenTaiko Chapter VI,03.ogg,3230,0,8.2,3,true
 
 #BARLINEON
 #BPMCHANGE 170
@@ -663,7 +663,7 @@ A00A0006,
 8,
 ,
 
-#NEXTSONG FANTASY*,The creation of a memory elsewhere，in a different timeline...,OpenTaiko Chapter V,04.ogg,3230,0,9,3,true
+#NEXTSONG FANTASY*,The creation of a memory elsewhere，in a different timeline...,OpenTaiko Chapter V,04.ogg,3230,0,9.1,3,true
 
 #SCROLL 1
 #BPMCHANGE 84
@@ -1739,7 +1739,7 @@ F
 ,
 #JPOSSCROLL 2.0 978i 1
 ,
-#NEXTSONG Puzzle of "The End.",The recreation of April 13th，2023.,Dashy's Depictions,05.ogg,3230,0,10,4,true
+#NEXTSONG Puzzle of "The End.",The recreation of April 13th，2023.,Dashy's Depictions,05.ogg,3230,0,10.1,4,true
 
 #BARLINEON
 #BPMCHANGE 188
@@ -2223,7 +2223,7 @@ F000
 00000000000,
 0008,
 
-#NEXTSONG Dash and the Revolt of the Beasts,The recreation of a usual phenomenon.,Dashy's Depictions,06.ogg,3230,0,10,3,true
+#NEXTSONG Dash and the Revolt of the Beasts,The recreation of a usual phenomenon.,Dashy's Depictions,06.ogg,3230,0,10.3,3,true
 
 #BARLINEON
 #BPMCHANGE 208
@@ -2631,7 +2631,7 @@ GG,
 ,
 
 
-#NEXTSONG Constellation ~The Guiding Giant's Journey~,The creation of a memory elsewhere，in a different timeline...,OpenTaiko Chapter V,07.ogg,3230,0,10,3,true
+#NEXTSONG Constellation ~The Guiding Giant's Journey~,The creation of a memory elsewhere，in a different timeline...,OpenTaiko Chapter V,07.ogg,3230,0,10.4,3,true
 
 #BPMCHANGE 139
 #NMSCROLL

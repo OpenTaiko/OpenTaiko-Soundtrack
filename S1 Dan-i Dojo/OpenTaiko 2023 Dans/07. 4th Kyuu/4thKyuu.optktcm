@@ -1,6 +1,7 @@
 {
 	"title": "四級",
 	"subtitle": "OpenTaiko 2023 Fourth Kyuu",
+	"level": 4,
 	"dan_tick": 0,
 	"dan_tick_color": [250, 248, 137],
 	"exams": [

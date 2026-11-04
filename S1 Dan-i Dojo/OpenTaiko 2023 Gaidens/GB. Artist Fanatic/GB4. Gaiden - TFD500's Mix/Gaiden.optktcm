@@ -8,6 +8,7 @@
 		"default": "TFD500's Mix",
 		"ja": "TFD500さんの作曲ミックス"
 	},
+	"level": 10,
 	"dan_tick": 2,
 	"dan_tick_color": [140, 4, 224],
 	"exams": [

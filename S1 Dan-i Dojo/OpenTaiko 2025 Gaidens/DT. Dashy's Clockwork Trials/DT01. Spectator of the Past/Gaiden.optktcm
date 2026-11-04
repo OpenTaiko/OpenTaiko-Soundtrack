@@ -5,6 +5,7 @@
 		"ja": "過去の見者",
 		"zh_tw": "過去的見者"
 	},
+	"level": 8,
 	"dan_tick": 1,
 	"dan_tick_color": [255, 255, 255],
 	"exams": [

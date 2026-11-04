@@ -8,6 +8,7 @@
 		"default": "Yonokid's Mix",
 		"ja": "ヨノキッドさんの作曲ミックス"
 	},
+	"level": 5,
 	"dan_tick": 2,
 	"dan_tick_color": [140, 4, 224],
 	"exams": [

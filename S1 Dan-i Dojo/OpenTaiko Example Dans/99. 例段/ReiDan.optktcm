@@ -1,6 +1,7 @@
 {
 	"title": "例段",
 	"subtitle": "Example Dan",
+	"level": 10,
 	"dan_tick": 5,
 	"dan_tick_color": [0, 170, 255],
 	"exams": [

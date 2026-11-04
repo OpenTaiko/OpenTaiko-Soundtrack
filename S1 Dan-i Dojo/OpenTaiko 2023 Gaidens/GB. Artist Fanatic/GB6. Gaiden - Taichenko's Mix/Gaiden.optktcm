@@ -1,0 +1,50 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Taichenko's Mix",
+		"ja": "Taichenkoさんの作曲ミックス"
+	},
+	"level": 10,
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [2250, 2750]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [2400, 2700]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [2550, 2650]
+		}
+	],
+	"charts": [
+		{
+			"id": "albdTaichenko",
+			"difficulty": "oni"
+		},
+		{
+			"id": "DY9VMPUEg3M5EoNVgpSXvmKlJ9IciHx8o15hoUFcOJtDlp499vilAM6w24BDLOkR",
+			"difficulty": "oni"
+		},
+		{
+			"id": "stTaichenko",
+			"difficulty": "oni"
+		}
+	]
+}

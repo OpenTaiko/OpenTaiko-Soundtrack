@@ -1,0 +1,80 @@
+{
+	"title": "例2",
+	"subtitle": "Example Dan 2",
+	"level": 10,
+	"dan_tick": 5,
+	"dan_tick_color": [0, 34, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [96, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [53, 27]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [91, 96]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[0, 0],
+				[6, 8],
+				[150, 235],
+				[0, 0],
+				[100, 130],
+				[47, 60],
+				[28, 41]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[4, 2],
+				[6, 3],
+				[7, 4],
+				[12, 6],
+				[14, 7],
+				[24, 12],
+				[30, 15]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "fearlessAshElectric",
+			"difficulty": "oni"
+		},
+		{
+			"id": "6qvRnWGz9RWSI0hMa6A9fnQBlmReBPRnwtPVNE3XqJyaeXe7VaQa488Zep5Zt63S",
+			"difficulty": "oni"
+		},
+		{
+			"id": "kh9C",
+			"difficulty": "oni"
+		},
+		{
+			"id": "wttcSukima",
+			"difficulty": "oni"
+		},
+		{
+			"id": "nusaVoPrmOPvombnYp3mVkjv7FU5mYc5xyPo1TUx6OabcdYBofg3U9R2hWflsw6H",
+			"difficulty": "edit"
+		},
+		{
+			"id": "agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR",
+			"difficulty": "edit"
+		},
+		{
+			"id": "recollapseh888",
+			"difficulty": "oni"
+		}
+	]
+}

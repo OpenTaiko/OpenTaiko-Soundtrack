@@ -1,0 +1,47 @@
+{
+	"title": "八段",
+	"subtitle": "OpenTaiko 2023 Eighth Dan",
+	"level": 9,
+	"dan_tick": 2,
+	"dan_tick_color": [20, 0, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [307, 224]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [16, 8]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[125, 141],
+				[35, 49],
+				[40, 60]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "nusaVoPrmOPvombnYp3mVkjv7FU5mYc5xyPo1TUx6OabcdYBofg3U9R2hWflsw6H",
+			"difficulty": "oni"
+		},
+		{
+			"id": "SIUsjccJr1rOhcnKohVRRl8vLe3HO3LjTU8hyGdAXUbjwPOCRTl0TsUqJ2o3iBay",
+			"difficulty": "oni"
+		},
+		{
+			"id": "dtdH5",
+			"difficulty": "edit"
+		}
+	]
+}

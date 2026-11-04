@@ -1,0 +1,47 @@
+{
+	"title": "九段",
+	"subtitle": "OpenTaiko 2023 Ninth Dan",
+	"level": 10,
+	"dan_tick": 2,
+	"dan_tick_color": [103, 0, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [203, 130]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [13, 7]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[4, 6],
+				[120, 160],
+				[7, 7]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "soAkako",
+			"difficulty": "oni"
+		},
+		{
+			"id": "wh9C",
+			"difficulty": "oni"
+		},
+		{
+			"id": "albdTaichenko",
+			"difficulty": "edit"
+		}
+	]
+}

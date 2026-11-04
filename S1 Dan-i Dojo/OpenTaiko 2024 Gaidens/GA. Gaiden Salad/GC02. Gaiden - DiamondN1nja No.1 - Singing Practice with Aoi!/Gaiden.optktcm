@@ -1,6 +1,7 @@
 {
 	"title": "歌練",
 	"subtitle": "Singing Practice with Aoi!",
+	"level": 8,
 	"dan_tick": 0,
 	"dan_tick_color": [166, 242, 255],
 	"exams": [

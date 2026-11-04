@@ -1,6 +1,7 @@
 {
 	"title": "外伝",
 	"subtitle": "Komi's New Crazy Easy Gauntlet",
+	"level": 6,
 	"dan_tick": 0,
 	"dan_tick_color": [89, 156, 42],
 	"exams": [

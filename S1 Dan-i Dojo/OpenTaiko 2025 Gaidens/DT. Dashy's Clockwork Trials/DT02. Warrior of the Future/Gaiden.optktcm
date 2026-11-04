@@ -1,0 +1,57 @@
+{
+	"title": {
+		"default": "戦士",
+		"zh_tw": "戰士"
+	},
+	"subtitle": {
+		"default": "Warrior of the Future",
+		"ja": "未来の戦士",
+		"zh_tw": "未來的戰士"
+	},
+	"level": 9,
+	"dan_tick": 1,
+	"dan_tick_color": [137, 137, 137],
+	"scene_preset": "Fall",
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [2788, 2888]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [20, 10]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[70, 90],
+				[10, 20],
+				[30, 40]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "fantAsYdrIftERRfeAtDAsHY",
+			"difficulty": "oni",
+			"title_show": true
+		},
+		{
+			"id": "cLlapsEoFtheSurfACeoPentAiKOsOuNdteaMDAsHy",
+			"difficulty": "oni"
+		},
+		{
+			"id": "dashySecrets136TrappedPassion",
+			"difficulty": "edit",
+			"title_show": true
+		}
+	]
+}

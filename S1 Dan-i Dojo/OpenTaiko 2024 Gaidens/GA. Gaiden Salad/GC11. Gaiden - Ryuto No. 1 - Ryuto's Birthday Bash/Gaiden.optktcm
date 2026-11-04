@@ -1,6 +1,7 @@
 {
 	"title": "外伝",
 	"subtitle": "Ryuto's Birthday Bash",
+	"level": 10,
 	"dan_tick": 0,
 	"dan_tick_color": [182, 232, 255],
 	"exams": [

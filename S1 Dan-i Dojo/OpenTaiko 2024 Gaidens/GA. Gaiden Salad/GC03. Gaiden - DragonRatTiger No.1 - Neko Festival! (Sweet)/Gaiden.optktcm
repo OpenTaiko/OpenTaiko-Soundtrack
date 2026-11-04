@@ -7,6 +7,7 @@
 		"default": "Neko Festival! (Sweet)",
 		"ja": "猫祭りだにゃ～！（甘口）"
 	},
+	"level": 4,
 	"dan_tick": 0,
 	"dan_tick_color": [89, 156, 42],
 	"exams": [

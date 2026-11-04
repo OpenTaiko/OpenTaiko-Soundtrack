@@ -1,0 +1,39 @@
+{
+	"title": "外伝",
+	"subtitle": "bol：this is only the beginning",
+	"level": 10,
+	"dan_tick": 3,
+	"dan_tick_color": [48, 213, 200],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [4000, 4444]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [150, 75]
+		}
+	],
+	"charts": [
+		{
+			"id": "qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh",
+			"difficulty": "hard"
+		},
+		{
+			"id": "rN0fIoR0ggXJRzhxaXZbBGQYqYuIrnsm8ruys29zdtb2bPXBZv40b15QxGpqpd0t",
+			"difficulty": "oni"
+		},
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzO",
+			"difficulty": "oni",
+			"title_show": true
+		}
+	]
+}

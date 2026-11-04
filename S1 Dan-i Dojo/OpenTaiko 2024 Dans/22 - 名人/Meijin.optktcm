@@ -1,0 +1,47 @@
+{
+	"title": "<c.#d3d3d3>名人</c>",
+	"subtitle": "OpenTaiko 2024 Meijin",
+	"level": 11.0,
+	"dan_tick": 3,
+	"dan_tick_color": [0, 0, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [5, 2]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [98, 99]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[74, 81],
+				[33, 36],
+				[40, 41]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "outfox03",
+			"difficulty": "edit"
+		},
+		{
+			"id": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU",
+			"difficulty": "oni"
+		},
+		{
+			"id": "mIM3zf55TatXUIzE8tK3s6XFbPXEgbNKw0Kmmhu8vg3dcNRbplhAjA5P8UhTCeKK",
+			"difficulty": "edit"
+		}
+	]
+}

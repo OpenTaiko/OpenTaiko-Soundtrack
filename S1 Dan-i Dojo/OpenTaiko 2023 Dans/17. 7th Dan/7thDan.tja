@@ -16,7 +16,7 @@ EXAM3:jb,16,8,l
 DANTICK:2
 DANTICKCOLOR:#0032ff
 #START
-#NEXTSONG PYRΔMiD,TFD500,,PYRAMID.ogg,350,80,9,3
+#NEXTSONG PYRΔMiD,TFD500,,PYRAMID.ogg,350,80,9.2,3
 #BPMCHANGE 200
 #MEASURE 4/4
 #SCROLL 1.0
@@ -165,7 +165,7 @@ EXAM4:r,28,30,m
 7,
 8,
 ,
-#NEXTSONG Katharsis,9C,,khatarsis.ogg,350,80,8,3
+#NEXTSONG Katharsis,9C,,khatarsis.ogg,350,80,8.7,3
 #BPMCHANGE 100
 #MEASURE 4/4
 #SCROLL 1.0
@@ -279,7 +279,7 @@ EXAM4:r,210,280,m
 0,
 8,
 ,
-#NEXTSONG Stories of your negative past,DashyDesu,,story.ogg,350,80,9,3
+#NEXTSONG Stories of your negative past,DashyDesu,,story.ogg,350,80,9.3,3
 #BPMCHANGE 188
 #MEASURE 4/4
 #SCROLL 1.0

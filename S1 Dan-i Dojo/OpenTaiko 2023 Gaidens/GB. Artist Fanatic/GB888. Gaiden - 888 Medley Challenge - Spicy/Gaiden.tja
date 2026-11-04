@@ -22,7 +22,7 @@ DANTICKCOLOR:#c20000
 #START
 
 
-#NEXTSONG Chasing The Wind,DashyDesu,Dashy's Secrets,Chasing The Wind.ogg,1130,0,9,3
+#NEXTSONG Chasing The Wind,DashyDesu,Dashy's Secrets,Chasing The Wind.ogg,1130,0,9.5,3
 
 
 #DELAY 0.894
@@ -140,7 +140,7 @@ DANTICKCOLOR:#c20000
 ,
 
 
-#NEXTSONG Stories of your negative past,DashyDesu,Dashy's Secrets,story.ogg,1270,0,9,3
+#NEXTSONG Stories of your negative past,DashyDesu,Dashy's Secrets,story.ogg,1270,0,9.3,3
 
 
 #BPMCHANGE 188
@@ -253,7 +253,7 @@ DANTICKCOLOR:#c20000
 ,
 
 
-#NEXTSONG Dear Stars,DashyDesu,Dashy's Secrets,stars.ogg,1120,0,9,4
+#NEXTSONG Dear Stars,DashyDesu,Dashy's Secrets,stars.ogg,1120,0,9.6,4
 
 
 #BPMCHANGE 82
@@ -409,7 +409,7 @@ DANTICKCOLOR:#c20000
 22,
 
 
-#NEXTSONG Broken Metronome,DashyDesu,Dashy's Secrets,br.ogg,1130,0,10,3
+#NEXTSONG Broken Metronome,DashyDesu,Dashy's Secrets,br.ogg,1130,0,10.4,3
 
 
 #BPMCHANGE 90
@@ -545,7 +545,7 @@ DANTICKCOLOR:#c20000
 ,
 
 
-#NEXTSONG Lost Emotion.,DashyDesu,Dashy's Secrets,lostem.ogg,920,0,10,3
+#NEXTSONG Lost Emotion.,DashyDesu,Dashy's Secrets,lostem.ogg,920,0,10.6,3
 
 
 #BPMCHANGE 188
@@ -709,7 +709,7 @@ DANTICKCOLOR:#c20000
 #GOGOEND
 
 
-#NEXTSONG When will the end arrive、I wonder?,DashyDesu,Dashy's Secrets,when.ogg,820,0,10,4
+#NEXTSONG When will the end arrive、I wonder?,DashyDesu,Dashy's Secrets,when.ogg,820,0,10.4,4
 
 
 #BPMCHANGE 198
@@ -912,7 +912,7 @@ DANTICKCOLOR:#c20000
 3,
 
 
-#NEXTSONG Forever Fading Away,DashyDesu,Dashy's Secrets,Forever Fading Away.ogg,560,0,10,4
+#NEXTSONG Forever Fading Away,DashyDesu,Dashy's Secrets,Forever Fading Away.ogg,560,0,10.7,4
 
 
 #BPMCHANGE 200

@@ -17,7 +17,7 @@ DANTICK:3
 DANTICKCOLOR:#000000
 
 #START
-#NEXTSONG Before it Ends,BilliumMoto,,1.ogg,350,80,10,4
+#NEXTSONG Before it Ends,BilliumMoto,,1.ogg,350,80,10.9,4
 #BPMCHANGE 148
 #MEASURE 4/4
 #SCROLL 1.0
@@ -321,7 +321,7 @@ G
 #SCROLL 1
 0,
 #NMSCROLL
-#NEXTSONG MajETCMAT,OfficialAz3,,2.ogg,350,80,11,4
+#NEXTSONG MajETCMAT,OfficialAz3,,2.ogg,350,80,11.1,4
 #BPMCHANGE 250
 #MEASURE 4/4
 #SCROLL 1.0
@@ -728,7 +728,7 @@ G,
 ,
 8,
 ,
-#NEXTSONG Miracle☆Castle,ぴれんどらー & roər,,3.ogg,350,80,11,4
+#NEXTSONG Miracle☆Castle,ぴれんどらー & roər,,3.ogg,350,80,11.1,4
 #BPMCHANGE 196.98
 #MEASURE 4/4
 #SCROLL 1.0

@@ -1,0 +1,67 @@
+{
+	"title": "ππ",
+	"subtitle": "Oops, all pipie!",
+	"level": 11,
+	"dan_tick": 0,
+	"dan_tick_color": [89, 156, 42],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [3, 14]
+		},
+		{
+			"type": "s",
+			"range": "more",
+			"value": [314159, 3141592]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [
+				[314, 415],
+				[314, 415],
+				[314, 415],
+				[314, 415]
+			]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [
+				[3, 14],
+				[31, 41],
+				[314, 415],
+				[314, 592]
+			]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[314, 159],
+				[314, 159],
+				[314, 159],
+				[314, 159]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "dIoFTbrjyB3SB4LOBBHFVWh48zMWujgzriflF3wYql0zUEZfH7O96NTc3Sq8cBaC",
+			"difficulty": "easy"
+		},
+		{
+			"id": "dIoFTbrjyB3SB4LOBBHFVWh48zMWujgzriflF3wYql0zUEZfH7O96NTc3Sq8cBaC",
+			"difficulty": "normal"
+		},
+		{
+			"id": "dIoFTbrjyB3SB4LOBBHFVWh48zMWujgzriflF3wYql0zUEZfH7O96NTc3Sq8cBaC",
+			"difficulty": "hard"
+		},
+		{
+			"id": "dIoFTbrjyB3SB4LOBBHFVWh48zMWujgzriflF3wYql0zUEZfH7O96NTc3Sq8cBaC",
+			"difficulty": "oni"
+		}
+	]
+}

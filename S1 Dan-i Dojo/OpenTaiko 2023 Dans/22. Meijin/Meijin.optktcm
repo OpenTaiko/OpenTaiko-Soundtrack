@@ -1,0 +1,53 @@
+{
+	"title": "名人",
+	"subtitle": "OpenTaiko 2023 Meijin",
+	"level": 10,
+	"dan_tick": 3,
+	"dan_tick_color": [255, 0, 205],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [41, 21]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [6, 2]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[67, 75],
+				[0, 0],
+				[26, 32],
+				[86, 95]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "sofAden",
+			"difficulty": "oni"
+		},
+		{
+			"id": "ssDeBisco",
+			"difficulty": "oni"
+		},
+		{
+			"id": "15bBqzr87CiWas5HyA6i2KTe7BLGlWmo22gbDq9ukp8swCvSG1yYKzgXbjO9x7Ut",
+			"difficulty": "oni"
+		},
+		{
+			"id": "dlbTFD",
+			"difficulty": "oni",
+			"title_show": true
+		}
+	]
+}

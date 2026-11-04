@@ -1,0 +1,47 @@
+{
+	"title": "<c.#b9f2ff>達人</c>",
+	"subtitle": "OpenTaiko 2024 Tatsujin",
+	"level": 12.2,
+	"dan_tick": 4,
+	"dan_tick_color": [0, 0, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [3, 1]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [99, 100]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[10, 11],
+				[30, 33],
+				[72, 84]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "ZtPIqdYGeZOkWIn26wUfSWDxwB6PsILjmYQGW3CPHSANm2J4SwiFYEe0qZt4PVTQ",
+			"difficulty": "edit"
+		},
+		{
+			"id": "GOOdbYemyPhANtaSIaFaLLFeAtYUfuSEKka",
+			"difficulty": "edit"
+		},
+		{
+			"id": "CLlAPsEoFTHeSULH888h5dAsHYDeSU",
+			"difficulty": "edit"
+		}
+	]
+}

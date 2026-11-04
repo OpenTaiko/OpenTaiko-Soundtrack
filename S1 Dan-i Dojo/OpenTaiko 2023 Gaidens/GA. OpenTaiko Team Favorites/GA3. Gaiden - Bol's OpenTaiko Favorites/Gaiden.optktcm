@@ -8,6 +8,7 @@
 		"default": "Bol's OpenTaiko Favorites",
 		"ja": "--Bolさんのお気に入りの曲"
 	},
+	"level": 10,
 	"dan_tick": 1,
 	"dan_tick_color": [255, 255, 255],
 	"exams": [

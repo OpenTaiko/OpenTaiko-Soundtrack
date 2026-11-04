@@ -19,7 +19,7 @@ SCENEPRESET:Winter
 
 
 #START
-#NEXTSONG Dash and the Revolt of the Beasts,Dashy，,,1.ogg,350,80,10,NaN
+#NEXTSONG Dash and the Revolt of the Beasts,Dashy，,,1.ogg,350,80,10.3,NaN
 EXAM4:r,0,0,m
 #BPMCHANGE 208
 #MEASURE 4/4
@@ -427,7 +427,7 @@ F010201110102010,
 #SCROLL 2
 GG,
 ,
-#NEXTSONG Constellation ~The Guiding Giant's Journey~,Mr. Hikaru and the Infinite Galaxy Ensemble,,2.ogg,350,80,10,NaN,true
+#NEXTSONG Constellation ~The Guiding Giant's Journey~,Mr. Hikaru and the Infinite Galaxy Ensemble,,2.ogg,350,80,10.4,NaN,true
 EXAM4:r,8,12,m
 #BPMCHANGE 139
 #MEASURE 4/4

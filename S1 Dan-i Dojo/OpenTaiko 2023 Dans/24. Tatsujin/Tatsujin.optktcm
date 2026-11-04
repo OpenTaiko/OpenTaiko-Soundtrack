@@ -1,6 +1,7 @@
 {
 	"title": "達人",
 	"subtitle": "OpenTaiko 2023 Tatsujin",
+	"level": 12,
 	"dan_tick": 4,
 	"dan_tick_color": [255, 0, 94],
 	"exams": [

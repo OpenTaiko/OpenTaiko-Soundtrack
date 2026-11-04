@@ -1,0 +1,47 @@
+{
+	"title": "<c.#cd7f32>玄人</c>",
+	"subtitle": "OpenTaiko 2024 Kurouto",
+	"level": 10.6,
+	"dan_tick": 3,
+	"dan_tick_color": [0, 0, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [6, 3]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [98, 99]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[1, 1],
+				[21, 25],
+				[150, 182]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "optkhq01matsuri",
+			"difficulty": "edit"
+		},
+		{
+			"id": "iLlbetHeREraCheltyPEx",
+			"difficulty": "oni"
+		},
+		{
+			"id": "millionyearsoxoplasmaP",
+			"difficulty": "edit"
+		}
+	]
+}

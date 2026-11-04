@@ -1,0 +1,58 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Cusi's Mix",
+		"ja": "9Cさんの作曲ミックス"
+	},
+	"level": 10,
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "h",
+			"range": "more",
+			"value": [2805, 2946]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [
+				[90, 95],
+				[87, 92],
+				[85, 90]
+			]
+		},
+		{
+			"type": "c",
+			"range": "more",
+			"value": [
+				[341, 426],
+				[359, 466],
+				[451, 548]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "kh9C",
+			"difficulty": "oni"
+		},
+		{
+			"id": "wh9C",
+			"difficulty": "oni"
+		},
+		{
+			"id": "qrUWiAJZhmf5rDImhpw07ohxRhCHp9qhZHhODJsLlt7IPogXNVwHgmrSD06zFOAh",
+			"difficulty": "oni"
+		}
+	]
+}

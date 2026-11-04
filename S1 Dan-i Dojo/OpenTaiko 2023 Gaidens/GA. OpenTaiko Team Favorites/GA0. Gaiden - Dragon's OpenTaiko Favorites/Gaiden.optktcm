@@ -1,0 +1,53 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Dragon's OpenTaiko Favorites",
+		"ja": "リュウコさんのお気に入りの曲"
+	},
+	"level": 8,
+	"dan_tick": 1,
+	"dan_tick_color": [58, 161, 252],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [81, 81]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [
+				[18, 12],
+				[20, 14],
+				[37, 26]
+			]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[0, 0],
+				[46, 58],
+				[124, 141]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "pLNusLZO3TFZHt1yUUxvm5pPg7cTeVRZSpkp1NBsKcfBcRQXbrbLdHuR0AvYtNCa",
+			"difficulty": "oni"
+		},
+		{
+			"id": "YpOS9Ixya6ROj8EU5fS15IvSMvlpmc27s2zZn6YLzlseUGT6I9fqlmBkr95cXjUu",
+			"difficulty": "oni"
+		},
+		{
+			"id": "nusaVoPrmOPvombnYp3mVkjv7FU5mYc5xyPo1TUx6OabcdYBofg3U9R2hWflsw6H",
+			"difficulty": "oni"
+		}
+	]
+}

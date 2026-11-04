@@ -1,0 +1,47 @@
+{
+	"title": "二段",
+	"subtitle": "OpenTaiko 2023 Second Dan",
+	"level": 7,
+	"dan_tick": 1,
+	"dan_tick_color": [0, 255, 147],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [98, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [83, 85]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [28, 15]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[20, 24],
+				[18, 24],
+				[25, 34]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "citysMakotora",
+			"difficulty": "oni"
+		},
+		{
+			"id": "2stlvFunkyzukin",
+			"difficulty": "oni"
+		},
+		{
+			"id": "deceiverH5",
+			"difficulty": "oni"
+		}
+	]
+}

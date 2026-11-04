@@ -915,7 +915,7 @@ G,
 ,
 
 
-#NEXTSONG <Bracket> ～Duplicate of Chaos and Destruction～,TFD500,OpenTaiko Chapter II,3.ogg,0,0,8,2
+#NEXTSONG <Bracket> ～Duplicate of Chaos and Destruction～,TFD500,OpenTaiko Chapter II,3.ogg,0,0,8.5,2
 
 
 #BPMCHANGE 150
@@ -1033,7 +1033,7 @@ G,
 ,
 
 
-#NEXTSONG 2024 BPM IS NOT ENOUGH,Underscore,OpenTaiko Chapter III,4.ogg,0,0,8,2
+#NEXTSONG 2024 BPM IS NOT ENOUGH,Underscore,OpenTaiko Chapter III,4.ogg,0,0,8.5,2
 
 
 #BPMCHANGE 253
@@ -1669,7 +1669,7 @@ G,
 0,
 
 
-#NEXTSONG Emily (Expert Branch),H5,Deceiver's Defiances,5.ogg,0,0,9,2
+#NEXTSONG Emily (Expert Branch),H5,Deceiver's Defiances,5.ogg,0,0,9.5,2
 
 
 #BPMCHANGE 310
@@ -1988,7 +1988,7 @@ G,
 3,
 
 
-#NEXTSONG Rainy Night III ~輪回~,Taichenko,Rainy Memories,7.ogg,0,0,9,2
+#NEXTSONG Rainy Night III ~輪回~,Taichenko,Rainy Memories,7.ogg,0,0,9.5,2
 
 
 #BPMCHANGE 180

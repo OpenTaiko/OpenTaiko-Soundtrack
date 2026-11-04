@@ -1,0 +1,39 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "DeBisco's Mix",
+		"ja": "DeBiscoさんの作曲ミックス"
+	},
+	"level": 2,
+	"dan_tick": 2,
+	"dan_tick_color": [140, 4, 224],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [
+				[20, 25],
+				[69, 76],
+				[94, 98]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "YpOS9Ixya6ROj8EU5fS15IvSMvlpmc27s2zZn6YLzlseUGT6I9fqlmBkr95cXjUu",
+			"difficulty": "easy"
+		},
+		{
+			"id": "libeDeBisco",
+			"difficulty": "easy"
+		},
+		{
+			"id": "ssDeBisco",
+			"difficulty": "easy"
+		}
+	]
+}

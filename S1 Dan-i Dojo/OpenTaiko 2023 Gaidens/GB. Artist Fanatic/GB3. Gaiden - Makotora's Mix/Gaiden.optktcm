@@ -8,6 +8,7 @@
 		"default": "Makotora's Mix",
 		"ja": "Makotoraさんの作曲ミックス"
 	},
+	"level": 9,
 	"dan_tick": 2,
 	"dan_tick_color": [140, 4, 224],
 	"exams": [

@@ -1,0 +1,45 @@
+{
+	"title": {
+		"default": "外伝",
+		"ja": "外伝",
+		"zh_tw": "外傳"
+	},
+	"subtitle": {
+		"default": "Dashy's OpenTaiko Favorites",
+		"ja": "ダッシーさんのお気に入りの曲"
+	},
+	"level": 10,
+	"dan_tick": 1,
+	"dan_tick_color": [194, 0, 0],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [88, 88]
+		},
+		{
+			"type": "jp",
+			"range": "more",
+			"value": [1888, 2888]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [288, 388]
+		}
+	],
+	"charts": [
+		{
+			"id": "sofAden",
+			"difficulty": "oni"
+		},
+		{
+			"id": "halcyonAkako",
+			"difficulty": "oni"
+		},
+		{
+			"id": "bassbolInterChan",
+			"difficulty": "oni"
+		}
+	]
+}

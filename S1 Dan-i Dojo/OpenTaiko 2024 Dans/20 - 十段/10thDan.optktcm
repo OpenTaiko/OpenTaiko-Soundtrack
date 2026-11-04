@@ -1,6 +1,7 @@
 {
 	"title": "十段",
 	"subtitle": "OpenTaiko 2024 10th Dan",
+	"level": 10.6,
 	"dan_tick": 2,
 	"dan_tick_color": [111, 54, 35],
 	"exams": [

@@ -1,6 +1,7 @@
 {
 	"title": "三級",
 	"subtitle": "OpenTaiko 2023 Third Kyuu",
+	"level": 5,
 	"dan_tick": 0,
 	"dan_tick_color": [246, 250, 130],
 	"exams": [

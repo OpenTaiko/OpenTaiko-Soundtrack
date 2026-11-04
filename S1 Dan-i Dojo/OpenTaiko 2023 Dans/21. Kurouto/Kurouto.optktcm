@@ -1,0 +1,53 @@
+{
+	"title": "玄人",
+	"subtitle": "OpenTaiko 2023 Kurouto",
+	"level": 10,
+	"dan_tick": 3,
+	"dan_tick_color": [249, 0, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [100, 100]
+		},
+		{
+			"type": "jg",
+			"range": "less",
+			"value": [91, 45]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [9, 6]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[23, 31],
+				[14, 19],
+				[56, 67],
+				[0, 0]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "stTaichenko",
+			"difficulty": "oni"
+		},
+		{
+			"id": "breakpointYonokid",
+			"difficulty": "edit"
+		},
+		{
+			"id": "mischiefmadnessMakotora",
+			"difficulty": "oni"
+		},
+		{
+			"id": "lostemDashy",
+			"difficulty": "oni",
+			"title_show": true
+		}
+	]
+}

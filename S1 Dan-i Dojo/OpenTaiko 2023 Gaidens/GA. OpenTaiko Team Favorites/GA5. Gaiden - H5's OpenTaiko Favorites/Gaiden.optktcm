@@ -8,6 +8,7 @@
 		"default": "H5's OpenTaiko Favorites",
 		"ja": "H5さんのお気に入りの曲"
 	},
+	"level": 10,
 	"dan_tick": 1,
 	"dan_tick_color": [113, 52, 235],
 	"exams": [

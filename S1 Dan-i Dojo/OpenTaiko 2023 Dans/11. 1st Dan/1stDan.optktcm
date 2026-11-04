@@ -1,0 +1,47 @@
+{
+	"title": "初段",
+	"subtitle": "OpenTaiko 2023 First Dan",
+	"level": 6,
+	"dan_tick": 1,
+	"dan_tick_color": [0, 255, 119],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [97, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [81, 83]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [26, 13]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[50, 74],
+				[211, 268],
+				[5, 8]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "spRyuto",
+			"difficulty": "oni"
+		},
+		{
+			"id": "4XnCmly8kpwE6X2GQYD47356lDCexuTzEJXdouwiNCIo4dVYlq5dm4TIySWm2IVD",
+			"difficulty": "oni"
+		},
+		{
+			"id": "gCHwx2DNcitHmY9DRSlAHwG7iaiD1FPNDjDWNpirtCsu6RsuNu1vIIm2wIhxCTln",
+			"difficulty": "oni"
+		}
+	]
+}

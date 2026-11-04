@@ -8,6 +8,7 @@
 		"default": "SiLiS's Mix",
 		"ja": "SiLiSさんの作曲ミックス"
 	},
+	"level": 11,
 	"dan_tick": 2,
 	"dan_tick_color": [140, 4, 224],
 	"exams": [

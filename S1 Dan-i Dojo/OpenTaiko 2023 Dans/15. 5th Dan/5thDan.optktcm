@@ -1,0 +1,47 @@
+{
+	"title": "五段",
+	"subtitle": "OpenTaiko 2023 Fifth Dan",
+	"level": 8,
+	"dan_tick": 1,
+	"dan_tick_color": [0, 175, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [99, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [89, 91]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [30, 14]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[173, 210],
+				[0, 0],
+				[12, 18]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "twoopDashyRainfall",
+			"difficulty": "oni"
+		},
+		{
+			"id": "corruptanTFD",
+			"difficulty": "oni"
+		},
+		{
+			"id": "athazaDerpikarp",
+			"difficulty": "oni"
+		}
+	]
+}

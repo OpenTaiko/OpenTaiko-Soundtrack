@@ -274,8 +274,11 @@ def parse_reference_file(file_path, base_path, songs):
         if course[1] and course[1] not in makers:
             makers.append(course[1])
     if is_dan:
-        # an .optktcm holds no level; the game shows dans made of other songs at level 10
-        difficulties = {"Dan": 10}
+        # an .optktcm may set the dan's own level; without one (and in a plain .tcm) the game shows level 10
+        level = data.get("level") if file_path.lower().endswith(".optktcm") else None
+        if level is None or float(level) < 0:
+            level = 10
+        difficulties = {"Dan": int(level) if float(level).is_integer() else level}
         maker_by_course = {"Dan": ", ".join(makers)}
         jacket = os.path.join(os.path.relpath(os.path.dirname(file_path), base_path), data["albumart"]) if data.get("albumart") else None
     else:

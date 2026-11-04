@@ -8,6 +8,7 @@
 		"default": "Takkkom's OpenTaiko Favorites",
 		"ja": "こめさらださんのお気に入りの曲"
 	},
+	"level": 11,
 	"dan_tick": 1,
 	"dan_tick_color": [35, 235, 82],
 	"exams": [

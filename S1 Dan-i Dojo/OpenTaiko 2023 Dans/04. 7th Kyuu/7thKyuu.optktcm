@@ -1,6 +1,7 @@
 {
 	"title": "七級",
 	"subtitle": "OpenTaiko 2023 Seventh Kyuu",
+	"level": 3,
 	"dan_tick": 0,
 	"dan_tick_color": [250, 235, 160],
 	"exams": [

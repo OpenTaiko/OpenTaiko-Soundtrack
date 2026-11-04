@@ -776,7 +776,7 @@ EXAM6:jb,12,6,l
 ,
 ,
 ,
-#NEXTSONG Vanaheimr,SiLiS,,Vanaheimr.ogg,350,80,10,2
+#NEXTSONG Vanaheimr (Old Chart),SiLiS,,Vanaheimr.ogg,350,80,10,2
 #BPMCHANGE 169
 #MEASURE 4/4
 #SCROLL 1.0
@@ -1002,7 +1002,7 @@ EXAM6:jb,18,9,l
 8,
 ,
 ,
-#NEXTSONG Emily,H5,,Emily.ogg,350,80,10,2
+#NEXTSONG Emily (Master Branch),H5,,Emily.ogg,350,80,10,2
 #BPMCHANGE 310
 #MEASURE 4/4
 #SCROLL 1.0

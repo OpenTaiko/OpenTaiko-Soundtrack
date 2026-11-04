@@ -1,0 +1,47 @@
+{
+	"title": "四段",
+	"subtitle": "OpenTaiko 2023 Fourth Dan",
+	"level": 8,
+	"dan_tick": 1,
+	"dan_tick_color": [0, 238, 255],
+	"exams": [
+		{
+			"type": "g",
+			"range": "more",
+			"value": [99, 100]
+		},
+		{
+			"type": "a",
+			"range": "more",
+			"value": [87, 89]
+		},
+		{
+			"type": "jb",
+			"range": "less",
+			"value": [27, 13]
+		},
+		{
+			"type": "r",
+			"range": "more",
+			"value": [
+				[35, 42],
+				[0, 0],
+				[115, 122]
+			]
+		}
+	],
+	"charts": [
+		{
+			"id": "libeDeBisco",
+			"difficulty": "oni"
+		},
+		{
+			"id": "wtfMooX",
+			"difficulty": "oni"
+		},
+		{
+			"id": "endomancerZovi",
+			"difficulty": "oni"
+		}
+	]
+}

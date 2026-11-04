@@ -1,6 +1,7 @@
 {
 	"title": "三段",
 	"subtitle": "OpenTaiko 2024 3rd Dan",
+	"level": 8,
 	"dan_tick": 1,
 	"dan_tick_color": [255, 140, 0],
 	"exams": [

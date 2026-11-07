@@ -15577,6 +15577,59 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "vault011",
+        "tjaFolderPath": "S3 Secret Vault\\X011 - Telephone Call of Heartbreak",
+        "tjaFilesPath": [
+            "S3 Secret Vault\\X011 - Telephone Call of Heartbreak\\tele.ogg",
+            "S3 Secret Vault\\X011 - Telephone Call of Heartbreak\\tele.png",
+            "S3 Secret Vault\\X011 - Telephone Call of Heartbreak\\telephone.tja",
+            "S3 Secret Vault\\X011 - Telephone Call of Heartbreak\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "S3 Secret Vault",
+        "tjaMD5": "edd6e0bc072dc2788f295957922a8c28",
+        "chartSize": 5.177,
+        "chartTitle": "Telephone Call of Heartbreak",
+        "chartTitles": {},
+        "chartSubtitle": "DashyDesu",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 0
+        },
+        "chartMakers": {
+            "Edit": "Dashy"
+        },
+        "chartAudioFilePath": "preview\\vault011.ogg",
+        "chartJacketFilePath": "S3 Secret Vault\\X011 - Telephone Call of Heartbreak\\tele.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "vault012",
+        "tjaFolderPath": "S3 Secret Vault\\X012 - Athazagoraphobia",
+        "tjaFilesPath": [
+            "S3 Secret Vault\\X012 - Athazagoraphobia\\Athazagoraphobia.ogg",
+            "S3 Secret Vault\\X012 - Athazagoraphobia\\Athazagoraphobia.tja",
+            "S3 Secret Vault\\X012 - Athazagoraphobia\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "S3 Secret Vault",
+        "tjaMD5": "11e4f3e478324b0c48c5bdbe0247375f",
+        "chartSize": 3.095,
+        "chartTitle": "Athazagoraphobia",
+        "chartTitles": {},
+        "chartSubtitle": "Derpikarp",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 0.5,
+            "Oni": 0
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "Colin,Komi"
+        },
+        "chartAudioFilePath": "preview\\vault012.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu",
         "tjaFilesPath": [

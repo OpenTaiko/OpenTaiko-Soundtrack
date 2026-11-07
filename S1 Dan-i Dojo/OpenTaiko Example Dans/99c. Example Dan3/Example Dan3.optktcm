@@ -1,0 +1,47 @@
+{
+  "title": "例3",
+  "subtitle": {"default": "Example Dan 3", "jp": "段位 例3"},
+  "dan_tick": 5,
+  "dan_tick_color": [255, 128, 128],
+
+  "charts": [
+    {
+      "id": "NiJiHaKIRaiotomEAMEComPOsITioNShiTSUDOkEi",
+      "difficulty": "edit",
+      "title_show": true
+    },
+    {
+      "id": "CONTINuINgHEarTTOnefEAThaTsUnemIku",
+      "difficulty": "oni",
+      "title_show": true
+    },
+    {
+      "id": "ctwindDashy",
+      "difficulty": "oni",
+      "title_show": true
+    }
+  ],
+
+  "exams": [
+    {
+      "type": "gauge",
+      "range": "more",
+      "value": [90, 95]
+    },
+    {
+      "type": "accuracy",
+      "range": "more",
+      "value": [92, 95]
+    },
+    {
+      "type": "judgebad",
+      "range": "less",
+      "value": [15, 4]
+    },
+    {
+      "type": "judgebad",
+      "range": "less",
+      "value": [[6, 1], [6, 1], [7, 2]]
+    }
+  ]
+}

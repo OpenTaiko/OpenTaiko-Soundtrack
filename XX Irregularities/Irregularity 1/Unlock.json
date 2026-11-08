@@ -1,0 +1,12 @@
+{
+	"hidden_index": 3,
+	"rarity": "Mythical",
+	"condition": "gc",
+	"type": "me",
+	"values": [
+		3
+	],
+	"references": [
+		".vault_gris_song_state"
+	]
+}

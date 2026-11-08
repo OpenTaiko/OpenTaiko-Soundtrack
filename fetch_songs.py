@@ -16,6 +16,9 @@ REFERENCE_FILES = (".tcm", ".optktcm", ".tct", ".optktct")
 COURSE_NAMES = ["Easy", "Normal", "Hard", "Oni", "Edit", "Tower", "Dan"]
 COURSE_INDEX = {"easy": 0, "normal": 1, "hard": 2, "oni": 3, "edit": 4, "ura": 4, "tower": 5, "dan": 6}
 
+# Songs in this genre folder are listed under their own folder's name ("Irregularity 1"), with no subtitle
+IRREGULARITIES = "XX Irregularities"
+
 
 def course_index(name):
     name = str(name).strip().lower()
@@ -125,6 +128,9 @@ def parse_tja_file(tja_file_path, base_path):
     chart_subtitle = ""
     chart_titles = {}
     chart_subtitles = {}
+    # .ALTERNATIVETITLE / .ALTERNATIVESUBTITLE: the name menus show, while TITLE / SUBTITLE stay what the play shows
+    alt_title = ""
+    alt_subtitle = ""
     chart_audio_file = ""
     chart_jacket_file = ""
     chart_maker = ""
@@ -157,6 +163,10 @@ def parse_tja_file(tja_file_path, base_path):
                         chart_subtitles[lang] = value
                     else:
                         chart_titles[lang] = value
+                elif line.startswith(".ALTERNATIVETITLE:") and current_course is None:
+                    alt_title = line.split(":", 1)[1].strip()
+                elif line.startswith(".ALTERNATIVESUBTITLE:") and current_course is None:
+                    alt_subtitle = line.split(":", 1)[1].strip()
                 elif line.startswith("WAVE:"):
                     chart_audio_file = line.split("WAVE:", 1)[1].strip()
                 elif line.startswith("PREIMAGE:"):
@@ -199,6 +209,11 @@ def parse_tja_file(tja_file_path, base_path):
     for key in chart_difficulties:
         if key not in chart_notesdesigner:
             chart_notesdesigner[key] = chart_maker
+
+    if alt_title:
+        chart_title = alt_title
+    if alt_subtitle:
+        chart_subtitle = alt_subtitle
 
     return {
         "chartTitle": chart_title,
@@ -376,6 +391,12 @@ def make_entry(base_path, root, chart_file_path, metadata):
     else:
         preview_path = create_audio_preview(metadata.get("chartAudioFilePath"), unique_id, metadata.get("chartDemoStart"))
 
+    title, titles = metadata.get("chartTitle"), metadata.get("chartTitles")
+    subtitle, subtitles = metadata.get("chartSubtitle"), metadata.get("chartSubtitles")
+    if sub_genre_folder == IRREGULARITIES:
+        title, titles = os.path.basename(root), {}
+        subtitle, subtitles = "", {}
+
     entry = {
         "uniqueId": unique_id,
         "tjaFolderPath": os.path.relpath(root, base_path),
@@ -385,10 +406,10 @@ def make_entry(base_path, root, chart_file_path, metadata):
         # Size in MB, rounded to 3 decimal places; a folder of a few bytes (a dan or tower referencing other
         # songs) still shows 0.001, never 0
         "chartSize": max(round(total_size_mb, 3), 0.001) if total_size_mb > 0 else 0.0,
-        "chartTitle": metadata.get("chartTitle"),
-        "chartTitles": metadata.get("chartTitles"),
-        "chartSubtitle": metadata.get("chartSubtitle"),
-        "chartSubtitles": metadata.get("chartSubtitles"),
+        "chartTitle": title,
+        "chartTitles": titles,
+        "chartSubtitle": subtitle,
+        "chartSubtitles": subtitles,
         "chartDifficulties": metadata.get("chartDifficulties"),
         "chartMakers": metadata.get("chartMakers"),
         "chartAudioFilePath": preview_path,

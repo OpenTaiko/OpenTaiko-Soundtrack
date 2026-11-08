@@ -15630,6 +15630,39 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "irregularity01",
+        "tjaFolderPath": "XX Irregularities\\Irregularity 1",
+        "tjaFilesPath": [
+            "XX Irregularities\\Irregularity 1\\3.mp4",
+            "XX Irregularities\\Irregularity 1\\3.ogg",
+            "XX Irregularities\\Irregularity 1\\3.tja",
+            "XX Irregularities\\Irregularity 1\\uniqueID.json",
+            "XX Irregularities\\Irregularity 1\\Unlock.json"
+        ],
+        "tjaGenreFolder": "XX Irregularities",
+        "tjaMD5": "55fea99ea1844f323ee731b06560e3b8",
+        "chartSize": 42.696,
+        "chartTitle": "Irregularity 1",
+        "chartTitles": {},
+        "chartSubtitle": "",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 10.8,
+            "Hard": 8.0,
+            "Normal": 7.0,
+            "Easy": 5.0
+        },
+        "chartMakers": {
+            "Edit": "Dashy,Taichenko",
+            "Hard": "Dashy,Taichenko",
+            "Normal": "Dashy,Taichenko",
+            "Easy": "Dashy,Taichenko"
+        },
+        "chartAudioFilePath": "preview\\irregularity01.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",
         "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu",
         "tjaFilesPath": [

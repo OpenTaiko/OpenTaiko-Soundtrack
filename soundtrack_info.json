@@ -9893,6 +9893,72 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "LIesoFmmouSHikoMi",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\346 - Lies of M",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\346 - Lies of M\\Lies of M.tja",
+            "08 OpenTaiko Chapter VIII\\346 - Lies of M\\liesofM.jpg",
+            "08 OpenTaiko Chapter VIII\\346 - Lies of M\\liesofM.ogg",
+            "08 OpenTaiko Chapter VIII\\346 - Lies of M\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "9e5da7cc555d243793251d5d2fbf3676",
+        "chartSize": 3.401,
+        "chartTitle": "Lies of M",
+        "chartTitles": {},
+        "chartSubtitle": "MoushiKomi",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Oni": 9.5,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "preview\\LIesoFmmouSHikoMi.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\346 - Lies of M\\liesofM.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "iNDISTinCTmagiCFRaTeLOz",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\347 - INDISTINCTMAGIC",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\347 - INDISTINCTMAGIC\\INDISTINCTMAGIC.jpg",
+            "08 OpenTaiko Chapter VIII\\347 - INDISTINCTMAGIC\\INDISTINCTMAGIC.ogg",
+            "08 OpenTaiko Chapter VIII\\347 - INDISTINCTMAGIC\\INDISTINCTMAGIC.tja",
+            "08 OpenTaiko Chapter VIII\\347 - INDISTINCTMAGIC\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "0de98953fa58723128a4ebc61b361435",
+        "chartSize": 5.147,
+        "chartTitle": "INDISTINCTMAGIC",
+        "chartTitles": {},
+        "chartSubtitle": "Frateloz",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Oni": 8.5,
+            "Edit": 10.2,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 5.0
+        },
+        "chartMakers": {
+            "Oni": "YSTAR-T",
+            "Edit": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\iNDISTinCTmagiCFRaTeLOz.ogg",
+        "chartJacketFilePath": "08 OpenTaiko Chapter VIII\\347 - INDISTINCTMAGIC\\INDISTINCTMAGIC.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "prESeRvEOpentAIkOsoUnDtEaMdashy",
         "tjaFolderPath": "08 OpenTaiko Chapter VIII\\349 - preserve",
         "tjaFilesPath": [
@@ -9957,6 +10023,37 @@
             "Edit": "Dashy"
         },
         "chartAudioFilePath": "preview\\sNoWcoLoredWOnderLANd31koMi.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "BLeSsiNgFromaGODdESSfrAnKlEAnKlEsfTdaShy",
+        "tjaFolderPath": "08 OpenTaiko Chapter VIII\\352 - Blessing from a Godess",
+        "tjaFilesPath": [
+            "08 OpenTaiko Chapter VIII\\352 - Blessing from a Godess\\Blessing from a Goddess.ogg",
+            "08 OpenTaiko Chapter VIII\\352 - Blessing from a Godess\\Blessing from a Goddess.tja",
+            "08 OpenTaiko Chapter VIII\\352 - Blessing from a Godess\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
+        "tjaMD5": "fae3c3b8185c5c35f8fa93007f4ee1c8",
+        "chartSize": 5.7,
+        "chartTitle": "Blessing from a Goddess",
+        "chartTitles": {},
+        "chartSubtitle": "FrankleAnkles ft. Dashy,",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 4,
+            "Normal": 5,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "YSTAR-T",
+            "Hard": "YSTAR-T",
+            "Normal": "YSTAR-T",
+            "Easy": "YSTAR-T"
+        },
+        "chartAudioFilePath": "preview\\BLeSsiNgFromaGODdESSfrAnKlEAnKlEsfTdaShy.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },

@@ -329,7 +329,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 325 - 枯木逢春 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 326 - 银河倒泻 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
 327 - 澜 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko)
-328 - Apeiroscopy : Dashy, - https://www.youtube.com/c/DashyDesu  (Chart by bol)
+328 - Apeiroscopy : Dashy, - https://www.youtube.com/c/DashyDesu (Chart by bol)
 329 - Tara! : OfficialAz3 feat. Hodong (from VOX Factory) - https://youtube.com/@OfficialAz3 (Chart by YSTAR-T and Komi)
 330 - Sparkle On! : Discoholic feat. Vampires Love Sunny - https://www.youtube.com/channel/UCgIRXSFeLFYgpN9E6R2JC_w (Chart by Dashy)
 331 - pikopiko☆parade : tony feat. Hatsune Miku - https://www.youtube.com/@tonytonychopper999 (Chart by DiamondN1nja)
@@ -347,9 +347,12 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 343 - CONTINUING HEART : TONE feat. Hatsune Miku - https://youtu.be/d5TlLbK8Fd0?si=Va0Vg0JX8jYRnbql https://open.spotify.com/track/4SX6Jr69psIHVYzFlcvWAJ (Chart by Dashy)
 344 - Adventurous Legend of Hilled Amethyst : OfficialAz3 - https://youtube.com/@OfficialAz3 (Chart by IID)
 345 - Nightmares destroy you, The field of dreams forgotten, We shall help you sleep. - Dreamseeker Paku : Catonieca - https://www.youtube.com/@CatoniecaCH (Chart by YSTAR-T)
+346 - Lies of M : MoushiKomi (Chart by Makotora)
+347 - INDISTINCTMAGIC : Frateloz - https://youtube.com/@frateloz0 (Chart by YSTAR-T)
 
 350 - 雪色ワンダーランド : 31Komi (Chart by DiamondN1nja and Dashy)
 
+352 - Blessing from a Goddess : FrankleAnkles ft. Dashy, - https://www.youtube.com/c/DashyDesu https://www.youtube.com/@FrankleAnkles (Chart by YSTAR-T)
 353 - blowfish snorkeling : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by DiamondN1nja)
 354 - Pat Metheny Remix : phonon & Israel Strom - https://www.youtube.com/@ijandphonon/videos (Chart by YSTAR-T)
 355 - carousel horse : phonon feat. benjamin francis - https://www.youtube.com/@ijandphonon/videos (Chart by bol)

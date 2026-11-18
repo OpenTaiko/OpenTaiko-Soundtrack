@@ -629,13 +629,22 @@ Apollyon's Embrace (Super-Ultra-Hyper-Over-OVER-Cute Remix) - Marilette and Mr N
 
 ## Charts
 
-All charts (.tja files) are licensed under the CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) license.
+Usage of OpenTaiko Charts (.tja) is allowed with credit (to both the charter and OpenTaiko) with the following exceptions:
+
+- Converting OpenTaiko charts for another format (or other derivative works) is for personal use only, redistribution of the charts in any form requires the permission of the charter or the OpenTaiko team (one of both is enough)
+- Usage of OpenTaiko Charts for AI training is forbidden with the following exceptions:
+-> Difficulty evaluation algorithms (non-commercial only)
+Other usages must be discussed with the OpenTaiko team beforehand for which its allowance or not will be judged depending on the community impact and feedback.
+
+Note that those license terms are for the charts (.tja, .(optk)tcm, .(optk)tci, .(optk)tct files) only, check the soundtrack license terms for songs.
+
 The charter name being displayed in the song select screen, it is considered enough for OpenTaiko videos, streams, etc...
-While stated in the CC-BY 4.0 license, stating chart modifications is mandatory only if the chart was modified.
+If playing the charts on videos, streams, etc... using another TJA player, OpenTaiko must be mentionned in the title or description additionally to the charter name.
 
 ## Reuploading
 
 Permission from the following actors is mandatory for reuploading OpenTaiko charts alongside their song file/media:
+- The charter or the OpenTaiko Team (At least one of both)
 - The song artist(s) (Except if its license states otherwise)
 - The jacket/BGA artist(s) (Except if its license states otherwise)
 - In the case of a collaboration, the related game's staff

@@ -10035,19 +10035,21 @@
             "08 OpenTaiko Chapter VIII\\352 - Blessing from a Godess\\uniqueID.json"
         ],
         "tjaGenreFolder": "08 OpenTaiko Chapter VIII",
-        "tjaMD5": "fae3c3b8185c5c35f8fa93007f4ee1c8",
-        "chartSize": 5.7,
+        "tjaMD5": "ac761713541fd084464a53ee67dd09e9",
+        "chartSize": 5.709,
         "chartTitle": "Blessing from a Goddess",
         "chartTitles": {},
         "chartSubtitle": "FrankleAnkles ft. Dashy,",
         "chartSubtitles": {},
         "chartDifficulties": {
+            "Edit": 8.4,
             "Oni": 7,
             "Hard": 4,
-            "Normal": 5,
+            "Normal": 4,
             "Easy": 2
         },
         "chartMakers": {
+            "Edit": "YSTAR-T",
             "Oni": "YSTAR-T",
             "Hard": "YSTAR-T",
             "Normal": "YSTAR-T",
@@ -12352,10 +12354,11 @@
             "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\nep010.ogg",
             "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\nep010.tja",
             "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\nep010.vtt",
-            "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\uniqueID.json"
+            "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\uniqueID.json",
+            "E02 OpenTaiko Headquarters\\HQ10 - 381 - Disruptive Brocante\\Unlock.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "1dd597ad7532d33d4c66c4263f5ad2a3",
+        "tjaMD5": "256f63787985cd2a72aff1f6562b1c33",
         "chartSize": 4.491,
         "chartTitle": "NEP0\uff1a10RUPTIVE\u30d6\u30ed\u30ab\u30f3\u30c8",
         "chartTitles": {},
@@ -12385,10 +12388,11 @@
         "tjaFilesPath": [
             "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\nep012.ogg",
             "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\nep012.tja",
-            "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\uniqueID.json"
+            "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\uniqueID.json",
+            "E02 OpenTaiko Headquarters\\HQ12 - 323 - Anubis's Roulette\\Unlock.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "25636238a233bc54488ca8e4811911a5",
+        "tjaMD5": "940208e4a19a4843b1587c90997a82ec",
         "chartSize": 5.486,
         "chartTitle": "NEP0\uff1aANUB12_S\u30eb\u30fc\u30ec\u30c3\u30c8",
         "chartTitles": {},
@@ -12409,6 +12413,40 @@
             "Easy": "DiamondN1nja"
         },
         "chartAudioFilePath": "preview\\optkhq12anubisroulette.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optkhq14terminaldialartemis",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters\\HQ14 - 382 - Terminal Dial Artemis",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters\\HQ14 - 382 - Terminal Dial Artemis\\nep014.ogg",
+            "E02 OpenTaiko Headquarters\\HQ14 - 382 - Terminal Dial Artemis\\nep014.tja",
+            "E02 OpenTaiko Headquarters\\HQ14 - 382 - Terminal Dial Artemis\\uniqueID.json",
+            "E02 OpenTaiko Headquarters\\HQ14 - 382 - Terminal Dial Artemis\\Unlock.json"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "c73ef3643b357923d3a15571fb1ba7af",
+        "chartSize": 3.626,
+        "chartTitle": "NEP0\uff1aTERMINALD14L\u30a2\u30eb\u30c6\u30df\u30b9",
+        "chartTitles": {},
+        "chartSubtitle": "OPTK-HQ=CHANNEL0117",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 11.7,
+            "Oni": 10.6,
+            "Hard": 8.5,
+            "Normal": 7.5,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Edit": "rip,bol",
+            "Oni": "bol",
+            "Hard": "wot,bol,dis not a 1?",
+            "Normal": "wot,bol,dis not a 1?",
+            "Easy": "wot,bol,dis not a 1?"
+        },
+        "chartAudioFilePath": "preview\\optkhq14terminaldialartemis.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },

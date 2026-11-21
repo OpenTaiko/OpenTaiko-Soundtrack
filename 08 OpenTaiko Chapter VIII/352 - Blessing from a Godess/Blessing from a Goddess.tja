@@ -5,11 +5,268 @@ BPM:130
 WAVE:Blessing from a Goddess.ogg
 OFFSET:0
 DEMOSTART:168.462
-MAKER:The Dragon's Prayer
+MAKER:T-aTAStRoph-Y
+
+COURSE:Edit
+LEVEL:8.4
+BALLOON:44
+NOTESDESIGNER4:YSTAR-T
+
+#START
+#MEASURE 3/4
+000000001011,
+101120101020,
+101122101020,
+100000100100200000100000100000200020,
+101120121022,
+101120101022,
+101120112210,
+5,
+,
+80
+#LYRIC A bright, enchanted light co-vers the sky.
+0,
+#SCROLL 0.75
+121011,
+121022,
+121012,
+100100200222100
+#LYRIC A voice that can be heard whis-per-ing from a-bove.
+100,
+212011,
+212012,
+212012,
+102010102010202
+#LYRIC "Has fate ta-ken you to me or was it your own soul?"
+020,
+#SCROLL 1
+102010222020,
+102010111020,
+201020221020,
+100000100000200000202020100000
+#LYRIC "A warrior that har-nes-ses light not un-like me."
+100100,
+102010221020,
+201020112010,
+101120201210,
+222111
+#LYRIC She smiled
+200,
+102211,
+2010
+#LYRIC She smiled....She sang a hymn of cou-rage
+22,
+102211,
+20508
+#LYRIC "When darkness comes to the land,"
+0,
+#GOGOSTART
+100120112020,
+101120102220,
+100120201120,
+#LYRIC "You'll be the one to clear up the blight, your final stand."
+102020102020100200,
+100210201021,
+100000200200100000200000100100101010,
+200121121,
+212212
+#LYRIC "Raising up your sword, bringing the hope to the people."
+112,
+100120101120,
+200210202210,
+101120101120,
+2022101022
+#LYRIC "I'll watch you t'il the end. Until death do us part."
+10,
+#GOGOEND
+100110,
+102,
+200220,
+258,
+101210,
+100120102010,
+100120201120,
+10102012
+#LYRIC "Our wish will be-come true."
+1020,
+101210,
+100120102010,
+100120201120,
+10102012
+#LYRIC "Your soul re-sides in my good hands."
+1220,
+202120,
+200210201020,
+200210102210,
+202010212011,
+200210102021,
+202210102011,
+202120201120,
+112240,
+#SCROLL 0.6688
+1,
+,
+1,
+,
+1,
+1,
+1,
+1,
+#SCROLL 1
+10
+#LYRIC Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~
+0111,
+100222,
+200111,
+200222,
+100121,
+200212,
+100122,
+100020102022,
+102112,
+102212,
+102212,
+101120201000,
+202212,
+102112,
+102212,
+101120201000,
+100122102020,
+101122102020,
+100211201020,
+102211201020,
+101120101120,
+202210201022,
+101120121020,
+202210222210,
+300020111020,
+100020121020,
+100022111020,
+100022121020,
+101020121020,
+101020221020,
+101022121020,
+1120
+#LYRIC As the light goes down, a dark mist grows stronger and denser.
+11221020,
+#GOGOSTART
+300020101120,
+100020101022,
+100020111020,
+10102012
+#LYRIC Covering the king-dom in it's path.
+1020,
+111020101210,
+111020102210,
+121020101210,
+10112010
+#LYRIC Your Prophecy has come. Your path. Your fear.
+2110,
+200010202210,
+200010202011,
+200010222010,
+202010212010,
+22201020
+#LYRIC It's time for you to face it, or meet, your de-mise.
+2120,
+222010201120,
+212010202120,
+222210221220,
+#GOGOEND
+3,
+101,
+100011,
+1000
+#LYRIC "When dark-ness comes to the land,"
+22,
+#GOGOSTART
+101120102210,
+202210201120,
+101120101210,
+#LYRIC "You'll be the one to end where it stands."
+102020102120102020,
+101120201210,
+202210202120,
+100000100100200000200000100200101010,
+20112020
+#LYRIC "A sacrifice wor-thy to please those high above."
+1022,
+100120102120,
+100122102010,
+200210221020,
+10021122
+#LYRIC "Did you think? Borrowing power had zero cost?"
+1010,
+200120102220,
+102210102000,
+200120102120,
+10104010
+#LYRIC "You had sealed your fate that day."
+4011,
+101120102211,
+202210201122,
+101120101210,
+#LYRIC "Fate had revealed you'd end that way."
+102210112020,
+101120221210,
+202210212120,
+101120211210,
+20112120
+#LYRIC "You pleaded, they ig-nored it."
+1022,
+100120112120,
+10012211
+#LYRIC "Your soul grasps on and on and lets go."
+2010,
+200210221020,
+100211221210,
+#GOGOEND
+5,
+008,
+#GOGOSTART
+#LYRIC "The dark-ness leaves once more."
+333,
+102010201110,
+#GOGOEND
+7,
+,
+,
+008,
+101020101120,
+200000200000100000200000200200101010,
+200222121,
+202120102010212120,
+100121102010,
+100122102010,
+200212201022,
+100122112010,
+4,
+#SCROLL 0.9
+4,
+#SCROLL 0.8
+4,
+#SCROLL 0.6688
+422,
+100120,
+100220,
+200120,
+200220,
+#BARLINEOFF
+#SCROLL 1
+3,
+,
+,
+,
+,
+,
+,
+,
+,
+#END
 
 COURSE:Oni
 LEVEL:7
-BALLOON:8,88,8,8,8
+BALLOON:8,48,8,8,8
 NOTESDESIGNER3:YSTAR-T
 
 #START
@@ -23,40 +280,59 @@ NOTESDESIGNER3:YSTAR-T
 201212,
 5,
 8,
-302,
+30
+#LYRIC A bright, enchanted light co-vers the sky.
+2,
 200022,
 100122,
 5,
-800020221010,
+8000202210
+#LYRIC A voice that can be heard whis-per-ing from a-bove.
+10,
 200122,
 100121,
 225080,
-122122122,
+102020102020102
+#LYRIC "Has fate ta-ken you to me or was it your own soul?"
+020,
 100122,
 112,
 508222,
-100020222020,
+1000202220
+#LYRIC "A warrior that har-nes-ses light not un-like me."
+20,
 100122,
 121,
 508222,
-100222222,
+100222
+#LYRIC She smiled
+222,
 102211,
-201122,
+2011
+#LYRIC She smiled....She sang a hymn of cou-rage
+22,
 102212,
-101022,
+10102
+#LYRIC "When darkness comes to the land,"
+2,
 #GOGOSTART
 101120,
 102212,
 101121,
+#LYRIC "You'll be the one to clear up the blight, your final stand."
 102020102020100200,
 102210,
 200010102011,
 100222111,
-201020102010200200,
+201020102010
+#LYRIC "Raising up your sword, bringing the hope to the people."
+200200,
 101022,
 101021,
 201022,
-121,
+10201
+#LYRIC "I'll watch you t'il the end. Until death do us part."
+0,
 #GOGOEND
 202,
 202,
@@ -65,11 +341,15 @@ NOTESDESIGNER3:YSTAR-T
 100010112020,
 100020221020,
 100010112020,
-101120201120,
+10112020
+#LYRIC "Our wish will be-come true."
+1120,
 100020221020,
 100010112010,
 200020221020,
-102210102021,
+10221010
+#LYRIC "Your soul re-sides in my good hands."
+2021,
 200020221010,
 200010112010,
 200020211010,
@@ -86,7 +366,9 @@ NOTESDESIGNER3:YSTAR-T
 200022,
 202,
 202,
-101022,
+10
+#LYRIC Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~
+1022,
 100122,
 101022,
 100122,
@@ -117,21 +399,29 @@ NOTESDESIGNER3:YSTAR-T
 200010111010,
 111120102010,
 200020221020,
-112120102020,
+1121
+#LYRIC As the light goes down, a dark mist grows stronger and denser.
+20102020,
 #GOGOSTART
 100010112010,
 200020112010,
 200020221020,
-100011102022,
+10001110
+#LYRIC Covering the king-dom in it's path.
+2022,
 100010112010,
 200020211020,
 100020111020,
-100020112010,
+10002011
+#LYRIC Your Prophecy has come. Your path. Your fear.
+2010,
 100020102220,
 101120102220,
 100020102210,
 201120102120,
-100010112020,
+10001011
+#LYRIC It's time for you to face it, or meet, your de-mise.
+2020,
 100020221010,
 200010212010,
 202120,
@@ -139,40 +429,55 @@ NOTESDESIGNER3:YSTAR-T
 5,
 ,
 ,
-800000001011,
+80000000
+#LYRIC "When dark-ness comes to the land,"
+1011,
 #GOGOSTART
 101120102020,
 101120102010,
 101120102020,
+#LYRIC "You'll be the one to end where it stands."
 100121121,
 100010112010,
 100020221020,
 200010112022,
-101020112022,
+10102011
+#LYRIC "A sacrifice wor-thy to please those high above."
+2022,
 100020102210,
 200010201011,
 100020102022,
-111020112010,
+11102011
+#LYRIC "Did you think? Borrowing power had zero cost?"
+2010,
 100020112010,
 200022102010,
 508,
-708,
+70
+#LYRIC "You had sealed your fate that day."
+8,
 200010112010,
 200010112020,
 100020102210,
+#LYRIC "Fate had revealed you'd end that way."
 100020112020,
 100020102210,
 100010201022,
 101221,
-111020102000,
+11102010
+#LYRIC "You pleaded, they ig-nored it."
+2000,
 100020201120,
-200010102120,
+20001010
+#LYRIC "Your soul grasps on and on and lets go."
+2120,
 100020201120,
 101020112211,
 #GOGOEND
 22,
 2,
 #GOGOSTART
+#LYRIC "The dark-ness leaves once more."
 100020102022,
 101120121210,
 #GOGOEND
@@ -226,40 +531,59 @@ NOTESDESIGNER2:YSTAR-T
 202,
 5,
 ,
-8,
+80
+#LYRIC A bright, enchanted light co-vers the sky.
+0,
 110,
 220,
 110,
-,
+00000
+#LYRIC A voice that can be heard whis-per-ing from a-bove.
+0,
 110,
 220,
 110,
-4,
+40000
+#LYRIC "Has fate ta-ken you to me or was it your own soul?"
+0,
 112,
 101,
 112,
-100022,
+10002
+#LYRIC "A warrior that har-nes-ses light not un-like me."
+2,
 212,
 101,
 112,
-112,
-1,
-1,
+11
+#LYRIC She smiled
 2,
-202,
+1,
+10
+#LYRIC She smiled....She sang a hymn of cou-rage
+0,
+2,
+20002
+#LYRIC "When darkness comes to the land,"
+0,
 #GOGOSTART
 112,
 101022,
 212,
+#LYRIC "You'll be the one to clear up the blight, your final stand."
 508,
 221,
 202011,
 122,
-508,
+50
+#LYRIC "Raising up your sword, bringing the hope to the people."
+8,
 112,
 101011,
 112,
-102220,
+10222
+#LYRIC "I'll watch you t'il the end. Until death do us part."
+0,
 #GOGOEND
 3,
 2,
@@ -268,11 +592,15 @@ NOTESDESIGNER2:YSTAR-T
 101,
 102,
 5,
-800011,
+8000
+#LYRIC "Our wish will be-come true."
+11,
 101,
 202,
 5,
-800021,
+8000
+#LYRIC "Your soul re-sides in my good hands."
+21,
 201,
 202,
 5,
@@ -289,7 +617,9 @@ NOTESDESIGNER2:YSTAR-T
 ,
 2,
 ,
-2,
+2
+#LYRIC Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~
+00,
 202,
 2,
 202,
@@ -320,21 +650,29 @@ NOTESDESIGNER2:YSTAR-T
 1,
 101,
 1,
-1,
+1
+#LYRIC As the light goes down, a dark mist grows stronger and denser.
+00,
 #GOGOSTART
 101022,
 201022,
 201022,
-201110,
+2011
+#LYRIC Covering the king-dom in it's path.
+10,
 101022,
 201022,
 201022,
-508,
+50
+#LYRIC Your Prophecy has come. Your path. Your fear.
+8,
 202011,
 102011,
 102011,
 102211,
-201022,
+2010
+#LYRIC It's time for you to face it, or meet, your de-mise.
+22,
 202011,
 101022,
 201110,
@@ -342,40 +680,55 @@ NOTESDESIGNER2:YSTAR-T
 508,
 2,
 2,
-2,
+20
+#LYRIC "When dark-ness comes to the land,"
+0,
 #GOGOSTART
 101110,
 101022,
 508,
+#LYRIC "You'll be the one to end where it stands."
 101110,
 202220,
 101110,
 5,
-8,
+80
+#LYRIC "A sacrifice wor-thy to please those high above."
+0,
 101022,
 212,
 101022,
-201022,
+2010
+#LYRIC "Did you think? Borrowing power had zero cost?"
+22,
 201011,
 112,
 508,
-508,
+50
+#LYRIC "You had sealed your fate that day."
+8,
 202011,
 202011,
 102022,
+#LYRIC "Fate had revealed you'd end that way."
 101122,
 102220,
 201022,
 5,
-801,
+80
+#LYRIC "You pleaded, they ig-nored it."
+1,
 102210,
-101022,
+1010
+#LYRIC "Your soul grasps on and on and lets go."
+22,
 212,
 102222,
 #GOGOEND
 5,
 8,
 #GOGOSTART
+#LYRIC "The dark-ness leaves once more."
 112,
 111110,
 #GOGOEND
@@ -413,7 +766,7 @@ NOTESDESIGNER2:YSTAR-T
 #END
 
 COURSE:Normal
-LEVEL:5
+LEVEL:4
 BALLOON:8,8,8
 NOTESDESIGNER1:YSTAR-T
 
@@ -430,40 +783,59 @@ NOTESDESIGNER1:YSTAR-T
 202,
 5,
 ,
-8,
+80
+#LYRIC A bright, enchanted light co-vers the sky.
+0,
 220,
 220,
 220,
-,
+00000
+#LYRIC A voice that can be heard whis-per-ing from a-bove.
+0,
 110,
 110,
 110,
-2,
+20000
+#LYRIC "Has fate ta-ken you to me or was it your own soul?"
+0,
 111,
 222,
 111,
-222020,
+22202
+#LYRIC "A warrior that har-nes-ses light not un-like me."
+0,
 111,
 222,
 111,
-202220,
+2022
+#LYRIC She smiled
+20,
 5,
-8,
+80
+#LYRIC She smiled....She sang a hymn of cou-rage
+0,
 5,
-8,
+80000
+#LYRIC "When darkness comes to the land,"
+0,
 #GOGOSTART
 101,
 101,
 508,
+#LYRIC "You'll be the one to clear up the blight, your final stand."
 222,
 102,
 222,
 111010,
-222020,
+2220
+#LYRIC "Raising up your sword, bringing the hope to the people."
+20,
 101,
 101,
 102,
-222,
+20202
+#LYRIC "I'll watch you t'il the end. Until death do us part."
+0,
 #GOGOEND
 5,
 8,
@@ -472,11 +844,15 @@ NOTESDESIGNER1:YSTAR-T
 101,
 101,
 5,
-8,
+80
+#LYRIC "Our wish will be-come true."
+0,
 202,
 202,
 5,
-8,
+80
+#LYRIC "Your soul re-sides in my good hands."
+0,
 101,
 201,
 5,
@@ -493,7 +869,9 @@ NOTESDESIGNER1:YSTAR-T
 ,
 2,
 ,
-101,
+1
+#LYRIC Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~
+01,
 100110,
 101,
 100110,
@@ -524,21 +902,29 @@ NOTESDESIGNER1:YSTAR-T
 102,
 202002,
 222,
-102220,
+10
+#LYRIC As the light goes down, a dark mist grows stronger and denser.
+2220,
 #GOGOSTART
 112,
 101110,
 100220,
-112,
+11
+#LYRIC Covering the king-dom in it's path.
+2,
 102,
 102220,
 101,
-201110,
+2011
+#LYRIC Your Prophecy has come. Your path. Your fear.
+10,
 102,
 102011,
 101,
 201022,
-200011,
+2000
+#LYRIC It's time for you to face it, or meet, your de-mise.
+11,
 122,
 100110,
 508,
@@ -546,51 +932,66 @@ NOTESDESIGNER1:YSTAR-T
 2,
 2,
 2,
-201,
+20
+#LYRIC "When dark-ness comes to the land,"
+1,
 #GOGOSTART
 101,
 101110,
 508,
+#LYRIC "You'll be the one to end where it stands."
 222,
 100011,
 102022,
 5,
-802220,
+8022
+#LYRIC "A sacrifice wor-thy to please those high above."
+20,
 101022,
 212,
 101022,
-201011,
+2010
+#LYRIC "Did you think? Borrowing power had zero cost?"
+11,
 122,
 122,
 508,
-102220,
-101122,
-101120,
+1022
+#LYRIC "You had sealed your fate that day."
+20,
+112,
+101110,
 508,
-202220,
-101210,
+#LYRIC "Fate had revealed you'd end that way."
+222,
+112,
 102022,
 508,
-202220,
-101122,
-102211,
-201212,
-102121,
+2022
+#LYRIC "You pleaded, they ig-nored it."
+20,
+101110,
+2022
+#LYRIC "Your soul grasps on and on and lets go."
+20,
+101210,
+202120,
 #GOGOEND
 5,
 8,
 #GOGOSTART
+#LYRIC "The dark-ness leaves once more."
 222,
-111110,
+333,
 #GOGOEND
+5,
+,
+,
+8,
 101,
 102022,
-201,
-222020,
-101,
-102022,
-102211,
-212120,
+102220,
+102220,
 121,
 201022,
 102021,
@@ -633,40 +1034,59 @@ NOTESDESIGNER0:YSTAR-T
 1,
 5,
 ,
-8,
+80
+#LYRIC A bright, enchanted light co-vers the sky.
+0,
 1,
 1,
+1,
+00000
+#LYRIC A voice that can be heard whis-per-ing from a-bove.
+0,
+1,
+1,
+1,
+00000
+#LYRIC "Has fate ta-ken you to me or was it your own soul?"
+0,
+1,
+1,
+1,
+10000
+#LYRIC "A warrior that har-nes-ses light not un-like me."
+0,
 1,
 ,
 1,
-1,
-1,
-,
-1,
-1,
-1,
-1,
-1,
-,
-1,
-1,
+10
+#LYRIC She smiled
+0,
 5,
-8,
+80
+#LYRIC She smiled....She sang a hymn of cou-rage
+0,
 5,
-8,
+80000
+#LYRIC "When darkness comes to the land,"
+0,
 #GOGOSTART
 1,
 1,
 5,
+#LYRIC "You'll be the one to clear up the blight, your final stand."
 8,
 2,
 2,
 5,
-008,
+00
+#LYRIC "Raising up your sword, bringing the hope to the people."
+8,
 1,
 1,
 5,
-8,
+80000
+#LYRIC "I'll watch you t'il the end. Until death do us part."
+0,
 #GOGOEND
 2,
 ,
@@ -675,11 +1095,15 @@ NOTESDESIGNER0:YSTAR-T
 3,
 ,
 1,
-,
+00
+#LYRIC "Our wish will be-come true."
+0,
 1,
 1,
 1,
-,
+00
+#LYRIC "Your soul re-sides in my good hands."
+0,
 2,
 ,
 2,
@@ -698,7 +1122,9 @@ NOTESDESIGNER0:YSTAR-T
 ,
 ,
 #BARLINEOFF
-2,
+2
+#LYRIC Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~ Ha~
+00,
 ,
 2,
 ,
@@ -730,21 +1156,29 @@ NOTESDESIGNER0:YSTAR-T
 2,
 ,
 2,
-,
+0
+#LYRIC As the light goes down, a dark mist grows stronger and denser.
+00,
 #GOGOSTART
 1,
 ,
 1,
+10
+#LYRIC Covering the king-dom in it's path.
+0,
 1,
+,
+1,
+10
+#LYRIC Your Prophecy has come. Your path. Your fear.
+0,
 1,
 ,
 1,
 1,
-1,
-,
-1,
-1,
-1,
+10
+#LYRIC It's time for you to face it, or meet, your de-mise.
+0,
 1,
 5,
 080,
@@ -753,41 +1187,56 @@ NOTESDESIGNER0:YSTAR-T
 2,
 ,
 ,
-,
+00
+#LYRIC "When dark-ness comes to the land,"
+0,
 #GOGOSTART
 #BARLINEOFF
 1,
 1,
 5,
+#LYRIC "You'll be the one to end where it stands."
 8,
 1,
 1,
 5,
-8,
+80
+#LYRIC "A sacrifice wor-thy to please those high above."
+0,
 101,
 1,
 202,
-2,
+20
+#LYRIC "Did you think? Borrowing power had zero cost?"
+0,
 101,
 1,
 2,
-2,
+20
+#LYRIC "You had sealed your fate that day."
+0,
 1,
 1,
 5,
+#LYRIC "Fate had revealed you'd end that way."
 8,
 1,
 1,
 5,
-8,
+80
+#LYRIC "You pleaded, they ig-nored it."
+0,
 101,
-1,
+10
+#LYRIC "Your soul grasps on and on and lets go."
+0,
 202,
 2,
 #GOGOEND
 7,
 8,
 #GOGOSTART
+#LYRIC "The dark-ness leaves once more."
 110,
 110,
 #GOGOEND

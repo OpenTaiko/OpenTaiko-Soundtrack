@@ -380,6 +380,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 377 - 100 Carat Smoke Point : BilliumMoto - https://soundcloud.com/billiummoto (Chart by Komi and AsPho)
 
 381 - NEP0：10RUPTIVEブロカント : OPTK-HQ=CHANNEL5187 respects to BeaniCraft (Chart by OPTK-HQ)
+382 - NEP0：TERMINALD14Lアルテミス : OPTK-HQ=CHANNEL0117 (Chart by OPTK-HQ)
 ```
 
 Tower-exclusive songs:

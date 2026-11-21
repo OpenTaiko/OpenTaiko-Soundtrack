@@ -1,0 +1,11 @@
+{
+	"hidden_index": 2,
+	"rarity": "Rare",
+	"condition": "andcomb",
+	"type": "me",
+	"values": [],
+	"references": [
+		"{\"condition\":\"sp\",\"type\":\"me\",\"values\":[-1,3],\"references\":[\"optkhq04feral\"]}",
+		"{\"condition\":\"sc\",\"type\":\"me\",\"values\":[24,3,14,3],\"references\":[\"Komi\",\"bol\"]}"
+	]
+}

@@ -15765,6 +15765,34 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "vault013",
+        "tjaFolderPath": "S3 Secret Vault\\X013 - Feral",
+        "tjaFilesPath": [
+            "S3 Secret Vault\\X013 - Feral\\Feral.ogg",
+            "S3 Secret Vault\\X013 - Feral\\Feral.png",
+            "S3 Secret Vault\\X013 - Feral\\Feral.tja",
+            "S3 Secret Vault\\X013 - Feral\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "S3 Secret Vault",
+        "tjaMD5": "e9ff04fb71b9f63c7fe6d4d77fe3440a",
+        "chartSize": 4.485,
+        "chartTitle": "Feral",
+        "chartTitles": {},
+        "chartSubtitle": "Txmtrinity ALTERA",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 4,
+            "Oni": 0
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Oni": "bol"
+        },
+        "chartAudioFilePath": "preview\\vault013.ogg",
+        "chartJacketFilePath": "S3 Secret Vault\\X013 - Feral\\Feral.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "irregularity01",
         "tjaFolderPath": "XX Irregularities\\Irregularity 1",
         "tjaFilesPath": [

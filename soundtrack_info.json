@@ -15774,7 +15774,7 @@
             "S3 Secret Vault\\X013 - Feral\\uniqueID.json"
         ],
         "tjaGenreFolder": "S3 Secret Vault",
-        "tjaMD5": "e9ff04fb71b9f63c7fe6d4d77fe3440a",
+        "tjaMD5": "98f7021845961fe879563d2c5a9213ea",
         "chartSize": 4.485,
         "chartTitle": "Feral",
         "chartTitles": {},
@@ -15782,7 +15782,7 @@
         "chartSubtitles": {},
         "chartDifficulties": {
             "Edit": 4,
-            "Oni": 0
+            "Oni": 0.5
         },
         "chartMakers": {
             "Edit": "bol",
@@ -15790,6 +15790,31 @@
         },
         "chartAudioFilePath": "preview\\vault013.ogg",
         "chartJacketFilePath": "S3 Secret Vault\\X013 - Feral\\Feral.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "vault014",
+        "tjaFolderPath": "S3 Secret Vault\\X014 - carousel horse",
+        "tjaFilesPath": [
+            "S3 Secret Vault\\X014 - carousel horse\\carousel horse.ogg",
+            "S3 Secret Vault\\X014 - carousel horse\\the real horse.tja",
+            "S3 Secret Vault\\X014 - carousel horse\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "S3 Secret Vault",
+        "tjaMD5": "821c7353e441cd040167004d143c2bda",
+        "chartSize": 3.463,
+        "chartTitle": "carousel horse",
+        "chartTitles": {},
+        "chartSubtitle": "phonon feat. benjamin francis",
+        "chartSubtitles": {},
+        "chartDifficulties": {
+            "Edit": 2
+        },
+        "chartMakers": {
+            "Edit": "bol"
+        },
+        "chartAudioFilePath": "preview\\vault014.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
